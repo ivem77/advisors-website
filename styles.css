@@ -49,6 +49,10 @@ html, body {
   overflow-x: hidden;
   /* Ensure proper stacking context for sticky elements */
   position: relative;
+  /* Add smooth scrolling behavior */
+  scroll-behavior: smooth;
+  /* Add scroll padding to account for fixed navbar */
+  scroll-padding-top: 100px;
 }
 /* Container for max-width layout */
 .container {
@@ -833,7 +837,7 @@ html, body {
 
 .footer__social {
   display: flex;
-  gap: 12px;
+  gap: 24px;
   align-items: center;
 }
 

@@ -6,6 +6,72 @@ navbarToggle.addEventListener('click', () => {
   navbarMenu.classList.toggle('active');
 });
 
+// Smooth scrolling for navigation links
+document.addEventListener('DOMContentLoaded', function() {
+  // Get all navigation links that start with #
+  const navLinks = document.querySelectorAll('a[href^="#"]');
+  
+  navLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      const href = this.getAttribute('href');
+      
+      // Skip if it's just a # or if target doesn't exist
+      if (href === '#' || href === '#signup') {
+        return; // Let default behavior handle these
+      }
+      
+      const targetId = href.substring(1);
+      const targetElement = document.getElementById(targetId);
+      
+      if (targetElement) {
+        e.preventDefault();
+        
+        // Calculate the navbar height for offset
+        const navbar = document.querySelector('.navbar');
+        const navbarHeight = navbar ? navbar.offsetHeight : 80;
+        
+        // Calculate target position with offset
+        const targetPosition = targetElement.offsetTop - navbarHeight - 20;
+        
+        // Smooth scroll with custom easing
+        smoothScrollTo(targetPosition, 600);
+        
+        // Close mobile menu if open
+        if (navbarMenu.classList.contains('active')) {
+          navbarMenu.classList.remove('active');
+        }
+      }
+    });
+  });
+});
+
+// Custom smooth scroll function with easing
+function smoothScrollTo(targetPosition, duration) {
+  const startPosition = window.pageYOffset;
+  const distance = targetPosition - startPosition;
+  let startTime = null;
+  
+  // Updated easing function - starts faster, more responsive
+  function easeOutQuart(t) {
+    return 1 - (--t) * t * t * t;
+  }
+  
+  function animation(currentTime) {
+    if (startTime === null) startTime = currentTime;
+    const timeElapsed = currentTime - startTime;
+    const progress = Math.min(timeElapsed / duration, 1);
+    
+    const ease = easeOutQuart(progress);
+    window.scrollTo(0, startPosition + distance * ease);
+    
+    if (timeElapsed < duration) {
+      requestAnimationFrame(animation);
+    }
+  }
+  
+  requestAnimationFrame(animation);
+}
+
 // Enhanced Calculator Logic
 let myChart;
 
