@@ -42,11 +42,13 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: var(--font-main);
-  background: var(--color-bg);
+  background: var(--color-white);
   color: var(--color-black);
   font-size: 16px;
   line-height: 1.5;
   overflow-x: hidden;
+  /* Ensure proper stacking context for sticky elements */
+  position: relative;
 }
 /* Container for max-width layout */
 .container {
@@ -66,9 +68,19 @@ html, body {
   padding: 20px 32px;
   background: var(--color-white);
   border-bottom: 1px solid rgba(6,5,15,0.1);
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 100;
+  width: 100%;
+  box-sizing: border-box;
+  /* Ensure the navbar is always on top */
+  transform: translateZ(0); /* Force hardware acceleration */
+  -webkit-transform: translateZ(0);
+  /* Add backdrop filter for better visual separation */
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 .navbar__logo {
   flex-shrink: 0;
@@ -188,7 +200,7 @@ html, body {
 /* Hero */
 .hero {
   background: var(--color-white);
-  padding: 120px 32px 100px;
+  padding: 200px 32px 100px; /* 120px + 80px for navbar */
   text-align: center;
 }
 .hero__content {
@@ -706,28 +718,43 @@ html, body {
   flex-shrink: 0;
 }
 
-/* Footer */
-.footer {
+/* Signup Section */
+.signup {
   background: var(--color-footer-bg);
   color: var(--color-footer-text);
-  padding: 64px 32px 32px;
+  padding: 64px 32px;
 }
-.footer__main {
+
+.signup__content {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 16px;
-  margin-bottom: 32px;
-}
-.footer__logo img {
-  height: 40px;
-}
-.footer__desc {
-  font-size: 20px;
-  font-weight: 700;
+  max-width: var(--container-width);
+  margin: 0 auto;
   text-align: center;
 }
-.footer__bottom {
+
+.signup__logo img {
+  height: 40px;
+}
+
+.signup__text {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  margin: 8px 0;
+}
+
+/* Footer */
+.footer {
+  background: var(--color-white);
+  color: var(--color-text);
+  padding: 32px;
+  border-top: 1px solid rgba(6,5,15,0.1);
+}
+
+.footer__content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -735,26 +762,39 @@ html, body {
   gap: 16px;
   max-width: var(--container-width);
   margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
 }
+
 .footer__copyright {
   font-size: 14px;
+  color: var(--color-text-muted);
 }
+
 .footer__links a {
-  color: var(--color-footer-text);
+  color: var(--color-text-muted);
   text-decoration: underline;
   margin-right: 16px;
-  font-size: 16px;
+  font-size: 14px;
 }
+
 .footer__links a:hover,
 .footer__links a:focus {
-  color: var(--color-gold);
+  color: var(--color-primary);
 }
+
 .footer__social a {
-  color: var(--color-footer-text);
+  color: var(--color-text-muted);
   font-size: 20px;
   margin-right: 12px;
   text-decoration: none;
 }
+
+.footer__social a:hover,
+.footer__social a:focus {
+  color: var(--color-primary);
+}
+
 .footer__icon {
   display: inline-block;
   width: 24px;
@@ -766,6 +806,9 @@ html, body {
 @media (max-width: 1024px) {
   .navbar {
     padding: 16px 24px;
+  }
+  .hero {
+    padding: 192px 32px 100px; /* 120px + 72px for navbar */
   }
   .navbar__cta {
     display: none;
@@ -824,7 +867,7 @@ html, body {
     flex-direction: column;
     align-items: left;
   }
-  .footer__bottom {
+  .footer__content {
     flex-direction: column;
     align-items: center;
   }
@@ -841,12 +884,18 @@ html, body {
     grid-template-columns: 1fr;
     max-width: 500px;
   }
+  .signup__text {
+    font-size: 20px;
+  }
   .stats__cards, .stats__bars, .landscape__cards, .landscape__insights, .calculator__form, .calculator__results, .locations__list {
     flex-direction: column;
     align-items: center;
   }
   .advisors, .guidance, .calculator, .landscape, .locations {
     padding: 64px 16px;
+  }
+  .signup {
+    padding: 48px 16px;
   }
   .footer {
     padding: 32px 16px;
@@ -880,7 +929,7 @@ html, body {
     padding: 20px 20px 28px 20px;
   }
   .hero {
-    padding: 64px 8px 48px;
+    padding: 128px 8px 48px; /* 64px + 64px for navbar */
   }
   .hero__actions {
     max-width: 300px;
@@ -896,6 +945,9 @@ html, body {
     min-width: 160px;
   }
   .stats, .landscape, .advisors, .guidance, .calculator, .locations {
+    padding: 32px 8px;
+  }
+  .signup {
     padding: 32px 8px;
   }
   .footer {
@@ -918,8 +970,8 @@ html, body {
 .guidance > .container,
 .calculator > .container,
 .locations > .container,
-.footer__main,
-.footer__bottom {
+.signup__content,
+.footer__content {
   width: 100%;
   max-width: 1240px;
   margin: 0 auto;
