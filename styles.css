@@ -8,6 +8,15 @@
   font-display: swap;
 }
 
+/* Preload critical font for better performance */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('assets/fonts/Satoshi-Variable.woff2') format('woff2-variations');
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+
 :root {
   --color-primary: #843DFF;
   --color-primary-light: #8961FA;
@@ -34,8 +43,15 @@
   --shadow-card: 5px 4px 10px 0px var(--color-card-shadow);
   --font-main: 'Satoshi', 'Inter', Arial, sans-serif;
   --transition: 0.2s cubic-bezier(.4,0,.2,1);
+  --transition-fast: 0.1s cubic-bezier(.4,0,.2,1);
+  --transition-slow: 0.3s cubic-bezier(.4,0,.2,1);
   --container-width: 1200px;
   --container-padding: 32px;
+  
+  /* Animation and performance variables */
+  --blur-backdrop: 8px;
+  --transform-hover: translateY(-2px);
+  --scale-hover: 1.02;
 }
 
 html, body {
@@ -54,6 +70,12 @@ html, body {
   /* Add scroll padding to account for fixed navbar */
   scroll-padding-top: 100px;
 }
+
+/* Performance optimization for scrolling */
+* {
+  box-sizing: border-box;
+}
+
 /* Container for max-width layout */
 .container {
   max-width: 1240px;
@@ -83,20 +105,27 @@ html, body {
   transform: translateZ(0); /* Force hardware acceleration */
   -webkit-transform: translateZ(0);
   /* Add backdrop filter for better visual separation */
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(var(--blur-backdrop));
+  -webkit-backdrop-filter: blur(var(--blur-backdrop));
+  /* Performance optimization for backdrop filter */
+  will-change: backdrop-filter;
 }
+
+/* Optimize navbar components for better performance */
 .navbar__logo {
   flex-shrink: 0;
   display: flex;
   align-items: center;
   width: 100px;
   justify-content: flex-start;
+  will-change: transform;
 }
+
 .navbar__logo img {
   height: 40px;
   display: block;
 }
+
 .navbar__menu {
   display: flex;
   align-items: center;
@@ -104,6 +133,7 @@ html, body {
   flex: 1;
   gap: 0;
 }
+
 .navbar__links {
   display: flex;
   gap: 24px;
@@ -113,6 +143,7 @@ html, body {
   align-items: center;
   justify-content: center;
 }
+
 .navbar__links a {
   color: var(--color-black);
   text-decoration: none;
@@ -123,11 +154,15 @@ html, body {
   line-height: 1;
   display: flex;
   align-items: center;
+  /* Performance optimization for hover effects */
+  will-change: color;
 }
+
 .navbar__links a:hover,
 .navbar__links a:focus {
   color: var(--color-primary);
 }
+
 .navbar__cta {
   flex-shrink: 0;
   display: flex;
@@ -135,9 +170,11 @@ html, body {
   width: 100px;
   justify-content: flex-end;
 }
+
 .navbar__cta-mobile {
   display: none;
 }
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -153,40 +190,50 @@ html, body {
   border: 1px solid var(--color-primary);
   white-space: nowrap;
   line-height: 1;
+  /* Performance optimization for button animations */
+  will-change: background-color, color, border-color;
 }
+
 .btn--primary {
   background: var(--color-primary);
   color: var(--color-white);
 }
+
 .btn--primary:hover,
 .btn--primary:focus {
   background: var(--color-primary-light);
 }
+
 .btn--outline {
   background: transparent;
   color: var(--color-primary);
   border: 1px solid var(--color-primary);
 }
+
 .btn--outline:hover,
 .btn--outline:focus {
   background: var(--color-primary);
   color: var(--color-white);
 }
+
 .btn--black {
   background: var(--color-black);
   color: var(--color-white);
   border: 1px solid var(--color-black);
 }
+
 .btn--black:hover,
 .btn--black:focus {
   background: var(--color-dark);
   border: 1px solid var(--color-dark);
 }
+
 .btn--large {
   padding: 18px 36px;
   font-size: 18px;
   min-width: 200px;
 }
+
 .navbar__toggle {
   display: none;
   flex-direction: column;
@@ -198,10 +245,10 @@ html, body {
   cursor: pointer;
   margin-left: 16px;
   padding: 8px;
-  flex-shrink: 0;
-  height: 40px;
-  width: 40px;
+  /* Performance optimization for mobile menu toggle */
+  will-change: transform;
 }
+
 .navbar__toggle span {
   width: 24px;
   height: 3px;

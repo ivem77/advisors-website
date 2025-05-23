@@ -6,6 +6,19 @@ navbarToggle.addEventListener('click', () => {
   navbarMenu.classList.toggle('active');
 });
 
+// Utility function for debouncing input events
+function debounce(func, wait) {
+  let timeout;
+  return function executedFunction(...args) {
+    const later = () => {
+      clearTimeout(timeout);
+      func(...args);
+    };
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+  };
+}
+
 // Smooth scrolling for navigation links
 document.addEventListener('DOMContentLoaded', function() {
   // Get all navigation links that start with #
@@ -75,23 +88,28 @@ function smoothScrollTo(targetPosition, duration) {
 // Enhanced Calculator Logic
 let myChart;
 
+// Cache number formatters for better performance
+const dollarFormatter = new Intl.NumberFormat("en-US", {
+  style: "currency",
+  currency: "USD",
+  minimumFractionDigits: 0,
+  maximumFractionDigits: 0,
+});
+
+const scientificDollarFormatter = new Intl.NumberFormat("en-US", {
+  style: "currency",
+  currency: "USD",
+  notation: "scientific",
+  maximumFractionDigits: 2
+});
+
 function formatDollar(amount, scientific = false) {
   if (scientific && Math.abs(amount) >= 1e8) {
-    const formatted = new Intl.NumberFormat("en-US", {
-      style: "currency",
-      currency: "USD",
-      notation: "scientific",
-      maximumFractionDigits: 2
-    }).format(amount);
+    const formatted = scientificDollarFormatter.format(amount);
     // Replace uppercase 'E' with lowercase 'e'
     return formatted.replace('E', 'e+');
   }
-  return new Intl.NumberFormat("en-US", {
-    style: "currency",
-    currency: "USD",
-    minimumFractionDigits: 0,
-    maximumFractionDigits: 0,
-  }).format(amount);
+  return dollarFormatter.format(amount);
 }
 
 function parseDollar(value) {
@@ -165,12 +183,26 @@ function handlePercentInputClick(event) {
   }
 }
 
+// Cache calculation results to avoid unnecessary recalculation
+let lastCalculationParams = null;
+let lastCalculationResult = null;
+
 function calculate() {
   const years = parseInt(document.getElementById("years").value);
   const currentValue = parseDollar(document.getElementById("currentValue").value);
   const annualContribution = parseDollar(document.getElementById("annualContribution").value);
   const returnRate = parseFloat(document.getElementById("return").value) / 100;
   const feeRate = parseFloat(document.getElementById("fee").value) / 100;
+
+  // Create a hash of current parameters for caching
+  const currentParams = `${years}-${currentValue}-${annualContribution}-${returnRate}-${feeRate}`;
+  
+  // Use cached result if parameters haven't changed
+  if (lastCalculationParams === currentParams && lastCalculationResult) {
+    updateResult(lastCalculationResult);
+    updateChart(years, lastCalculationResult.withoutFeesY, lastCalculationResult.withFeesY);
+    return;
+  }
 
   let withoutFees = currentValue;
   let withFees = currentValue;
@@ -187,33 +219,50 @@ function calculate() {
   const moneyLost = withoutFees - withFees;
   const hourlyRate = moneyLost / years / 3;
 
-  document.getElementById("result").innerHTML = `
+  const result = {
+    withoutFees,
+    withFees,
+    moneyLost,
+    hourlyRate,
+    withoutFeesY,
+    withFeesY
+  };
+
+  // Cache the result
+  lastCalculationParams = currentParams;
+  lastCalculationResult = result;
+
+  updateResult(result);
+  updateChart(years, withoutFeesY, withFeesY);
+}
+
+function updateResult(result) {
+  const resultElement = document.getElementById("result");
+  resultElement.innerHTML = `
     <div class="result-row">
       <div class="result-label">
         <div class="result-circle" style="background-color: #8961FA;"></div>
         Portfolio value without fees
       </div>
-      <div class="result-value">${formatDollar(withoutFees, true)}</div>
+      <div class="result-value">${formatDollar(result.withoutFees, true)}</div>
     </div>
     <div class="result-row">
       <div class="result-label">
         <div class="result-circle" style="background-color: #FF4684;"></div>
         Portfolio value with current asset manager
       </div>
-      <div class="result-value">${formatDollar(withFees, true)}</div>
+      <div class="result-value">${formatDollar(result.withFees, true)}</div>
     </div>
     <div class="divider"></div>
     <div class="result-row">
       <div class="result-label-bold">Wealth lost in AUM fees:</div>
-      <div class="result-value result-highlight">${formatDollar(moneyLost, true)}</div>
+      <div class="result-value result-highlight">${formatDollar(result.moneyLost, true)}</div>
     </div>
     <div class="result-row last-row">
       <div class="result-label">Your advisor's effective rate:</div>
-      <div class="result-value">${formatDollar(hourlyRate, true)}/hour</div>
+      <div class="result-value">${formatDollar(result.hourlyRate, true)}/hour</div>
     </div>
   `;
-
-  updateChart(years, withoutFeesY, withFeesY);
 }
 
 function updateChart(years, withoutFeesY, withFeesY) {
@@ -336,6 +385,41 @@ function updateChart(years, withoutFeesY, withFeesY) {
   });
 }
 
+// Create debounced version of calculate function
+const debouncedCalculate = debounce(calculate, 150);
+
+// Error handling wrapper for calculations
+function safeCalculate() {
+  try {
+    calculate();
+  } catch (error) {
+    console.error('Calculation error:', error);
+    // Fallback to basic calculation if something goes wrong
+    const resultElement = document.getElementById("result");
+    if (resultElement) {
+      resultElement.innerHTML = '<div class="result-row"><div class="result-label-bold">Please check your input values</div></div>';
+    }
+  }
+}
+
+// Validate input values
+function validateInputs() {
+  const years = parseInt(document.getElementById("years")?.value || 0);
+  const currentValue = parseDollar(document.getElementById("currentValue")?.value || "0");
+  const annualContribution = parseDollar(document.getElementById("annualContribution")?.value || "0");
+  const returnRate = parseFloat(document.getElementById("return")?.value || 0);
+  const feeRate = parseFloat(document.getElementById("fee")?.value || 0);
+
+  // Validate ranges
+  if (years < 1 || years > 100) return false;
+  if (currentValue < 0 || currentValue > 1e12) return false;
+  if (annualContribution < 0 || annualContribution > 1e9) return false;
+  if (returnRate < 0 || returnRate > 50) return false;
+  if (feeRate < 0 || feeRate > 20) return false;
+
+  return true;
+}
+
 // Initialize calculator when page loads
 document.addEventListener('DOMContentLoaded', function() {
   // Format initial dollar inputs
@@ -343,10 +427,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const input = document.getElementById(id);
     if (input) {
       formatDollarInputAsYouType(input);
+      // Add ARIA labels for accessibility
+      input.setAttribute('aria-describedby', `${id}-help`);
+      input.setAttribute('role', 'textbox');
     }
   });
 
-  // Add event listeners for inputs
+  // Add event listeners for inputs with debouncing for better performance
   ["years", "currentValue", "annualContribution"].forEach((id) => {
     const input = document.getElementById(id);
     if (input) {
@@ -354,7 +441,31 @@ document.addEventListener('DOMContentLoaded', function() {
         if (id === "currentValue" || id === "annualContribution") {
           formatDollarInputAsYouType(this);
         }
-        calculate();
+        if (validateInputs()) {
+          debouncedCalculate();
+        }
+      });
+      
+      // Add keyboard accessibility
+      input.addEventListener("keydown", function(e) {
+        // Allow: backspace, delete, tab, escape, enter
+        if ([46, 8, 9, 27, 13].indexOf(e.keyCode) !== -1 ||
+            // Allow: Ctrl+A, Command+A
+            (e.keyCode === 65 && (e.ctrlKey === true || e.metaKey === true)) ||
+            // Allow: Ctrl+C, Command+C
+            (e.keyCode === 67 && (e.ctrlKey === true || e.metaKey === true)) ||
+            // Allow: Ctrl+V, Command+V
+            (e.keyCode === 86 && (e.ctrlKey === true || e.metaKey === true)) ||
+            // Allow: Ctrl+X, Command+X
+            (e.keyCode === 88 && (e.ctrlKey === true || e.metaKey === true)) ||
+            // Allow: home, end, left, right, down, up
+            (e.keyCode >= 35 && e.keyCode <= 40)) {
+          return;
+        }
+        // Ensure that it is a number for numeric inputs
+        if (id === "years" && (e.shiftKey || (e.keyCode < 48 || e.keyCode > 57) && (e.keyCode < 96 || e.keyCode > 105))) {
+          e.preventDefault();
+        }
       });
     }
   });
@@ -368,11 +479,18 @@ document.addEventListener('DOMContentLoaded', function() {
       input.addEventListener("click", handlePercentInputClick);
       input.addEventListener("input", function () {
         formatPercentInputAsYouType(this);
-        calculate();
+        if (validateInputs()) {
+          debouncedCalculate();
+        }
       });
+      // Add ARIA labels for accessibility
+      input.setAttribute('aria-describedby', `${id}-help`);
+      input.setAttribute('role', 'textbox');
     }
   });
 
-  // Run initial calculation
-  calculate();
+  // Run initial calculation with error handling
+  if (validateInputs()) {
+    safeCalculate();
+  }
 }); 
