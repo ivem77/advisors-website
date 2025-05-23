@@ -1,0 +1,121 @@
+{
+  "cityName": "Houston",
+  "state": "Texas",
+  "slug": "houston-tx",
+  "pageTitle": "Best Financial Advisors in Houston",
+  "metaDescription": "Find top-rated financial advisors in Houston. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "heroDescription": "Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.",
+  "registeredAdvisors": "4,800+",
+  "averagePortfolio": "$1.2M",
+  "averageAumFee": "0.95%",
+  "averageRating": "4.7/5.0",
+  "landscapeDescription": "Houston is the fourth largest city in the U.S. and a global energy hub, home to many Fortune 500 companies. The city's diverse economy includes strong healthcare, aerospace, and technology sectors. Houston's financial advisors frequently help clients manage oil & gas royalties, navigate complex tax situations, and plan for multi-generational wealth.",
+  "majorIndustries": "Energy, Healthcare, Aerospace, Technology",
+  "population": "2.3 million (metro: 7+ million)",
+  "medianIncome": "$56,019",
+  "uniqueNeeds": "Oil & gas wealth management, international clients, business succession",
+  "citySpecificRiskAdvice": "Given Houston's exposure to natural disasters like hurricanes and flooding, ensure your advisor addresses property protection and insurance considerations in your financial plan.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Energy Sector Influence",
+          "description": "Houston ranks 17th globally for millionaire residents, with many wealth advisors specializing in oil and gas industry compensation packages and volatility management."
+        },
+        {
+          "title": "Fee Structures",
+          "description": "Most local advisors charge between 0.75% to 1.5% of assets under management, with lower rates typically available for larger portfolios."
+        },
+        {
+          "title": "Specializations",
+          "description": "Many Houston advisors offer expertise in concentrated stock positions and equity compensation strategies common in the energy and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "Houston's cost of living is 20.8% below the national average for housing, creating unique retirement planning opportunities compared to other major metros."
+        },
+        {
+          "title": "Real Estate",
+          "description": "Local advisors frequently offer expertise in real estate investment strategies in Houston's moderately-priced market (median home price: $335,000)."
+        },
+        {
+          "title": "Business Focus",
+          "description": "Strong emphasis on business succession planning for Houston's diverse small business community and specialized strategies for energy sector executives."
+        }
+      ]
+    }
+  ],
+  "advisors": [
+    {
+      "name": "Arturo Karakowsky",
+      "firm": "Morgan Stanley Wealth Management",
+      "rating": "4.9",
+      "specializations": [
+        "Retirement",
+        "Tax Planning",
+        "Estate Planning"
+      ],
+      "bio": "With over 25 years of experience, Arturo specializes in wealth management for high net worth individuals. Recognized in Forbes and Barron's rankings."
+    },
+    {
+      "name": "Stephen Bauer",
+      "firm": "United Capital Financial Advisors",
+      "rating": "4.8",
+      "specializations": [
+        "Wealth Management",
+        "Retirement",
+        "Investment Strategies"
+      ],
+      "bio": "Named as a 2025 Forbes Best-In-State Wealth Advisor, Stephen offers comprehensive wealth management for executives and business owners."
+    },
+    {
+      "name": "Matthew T. Leyden",
+      "firm": "Morgan Stanley",
+      "rating": "4.7",
+      "specializations": [
+        "Estate Planning",
+        "Wealth Transfer",
+        "Investment Management"
+      ],
+      "bio": "With over 36 years of experience, Matthew specializes in estate planning and wealth transfer strategies for affluent families in Houston."
+    },
+    {
+      "name": "Jennifer Kaminsky",
+      "firm": "Segment Wealth Management",
+      "rating": "4.8",
+      "specializations": [
+        "Energy Sector",
+        "Executive Compensation",
+        "Tax Planning"
+      ],
+      "bio": "With 18 years of experience, Jennifer specializes in financial strategies for energy sector executives, with expertise in stock options and complex compensation packages."
+    },
+    {
+      "name": "Carlos Rodriguez",
+      "firm": "Avalon Advisors",
+      "rating": "4.9",
+      "specializations": [
+        "International Clients",
+        "Business Succession",
+        "Asset Protection"
+      ],
+      "bio": "With 22 years of experience, Carlos specializes in cross-border wealth management for international clients and business owners with ties to Houston's international business community."
+    }
+  ],
+  "nearbyLocations": [
+    "Dallas",
+    "San Antonio",
+    "Austin",
+    "Fort Worth",
+    "El Paso",
+    "Arlington",
+    "Corpus Christi",
+    "Plano"
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Houston",
+    "state": "Texas",
+    "slug": "houston-tx",
+    "population": 2300000,
+    "priority": 1
+  },
+  {
+    "name": "Dallas",
+    "state": "Texas", 
+    "slug": "dallas-tx",
+    "population": 1300000,
+    "priority": 1
+  },
+  {
+    "name": "Austin",
+    "state": "Texas",
+    "slug": "austin-tx", 
+    "population": 950000,
+    "priority": 1
+  }
+] 

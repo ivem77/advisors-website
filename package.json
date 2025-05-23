@@ -1,0 +1,45 @@
+{
+  "name": "financial-advisors-generator",
+  "version": "1.0.0",
+  "description": "Static site generator for financial advisor city pages with AI-generated content",
+  "main": "scripts/build-sites.js",
+  "scripts": {
+    "generate": "node scripts/generate-data.js",
+    "generate:demo": "node scripts/demo-generate.js",
+    "build": "node scripts/build-sites.js",
+    "dev": "npm run build && npx http-server build -p 3000",
+    "test:template": "node scripts/test-template.js",
+    "test:validate": "node scripts/validate-output.js",
+    "test": "npm run test:template && npm run test:validate",
+    "clean": "rm -rf build data/generated test-output",
+    "demo": "npm run generate:demo && npm run build && npm run dev",
+    "deploy": "npm run build && echo 'Upload build/ directory to your hosting provider'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivem77/advisors-website.git"
+  },
+  "keywords": [
+    "financial-advisors",
+    "static-site-generator",
+    "ai-content",
+    "mustache",
+    "openai"
+  ],
+  "author": "Financial Advisors Generator",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ivem77/advisors-website/issues"
+  },
+  "homepage": "https://github.com/ivem77/advisors-website#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "fs-extra": "^11.2.0",
+    "mustache": "^4.2.0",
+    "openai": "^4.20.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

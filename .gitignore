@@ -14,17 +14,16 @@ Thumbs.db
 *.swo
 *~
 
-# Node.js (in case you add it later)
+# Node.js
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Build files
-dist/
+# Build files (temporarily built sites)
 build/
 
-# Environment variables
+# Environment variables (IMPORTANT: Keep .env secret!)
 .env
 .env.local
 .env.development.local
@@ -45,3 +44,15 @@ pids
 
 # Optional eslint cache
 .eslintcache 
+
+# Cursor files
+.cursor/
+
+# Test output (temporary test files)
+test-output/
+
+# Generated data (these contain AI content - include in repo)
+# data/generated/ - commented out to include in repo
+
+# OS generated files
+**/.DS_Store
