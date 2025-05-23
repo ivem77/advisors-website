@@ -1,11 +1,9 @@
 // Navbar mobile toggle
 const navbarToggle = document.querySelector('.navbar__toggle');
-const navbarLinks = document.querySelector('.navbar__links');
-const navbarCta = document.querySelector('.navbar__cta');
+const navbarMenu = document.querySelector('.navbar__menu');
 
 navbarToggle.addEventListener('click', () => {
-  navbarLinks.classList.toggle('active');
-  navbarCta.classList.toggle('active');
+  navbarMenu.classList.toggle('active');
 });
 
 // Enhanced Calculator Logic
