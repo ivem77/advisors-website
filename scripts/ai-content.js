@@ -6,28 +6,39 @@ const openai = new OpenAI({
 });
 
 async function generateAdvisors(cityName, state, count = 5) {
-  console.log(`🤖 Generating ${count} advisor profiles for ${cityName}, ${state}...`);
+  console.log(`🤖 Generating ${count} realistic advisor profiles for ${cityName}, ${state}...`);
   
-  const prompt = `Generate ${count} realistic financial advisor profiles for ${cityName}, ${state}. 
+  const prompt = `Create ${count} realistic financial advisor profiles for ${cityName}, ${state}. 
 
-Requirements:
-- Realistic names (mix of ethnicities appropriate for the city)
-- Real financial advisory firms (Morgan Stanley, Edward Jones, Charles Schwab, Fidelity, Wells Fargo Advisors, Raymond James, etc.)
-- Ratings between 4.7-4.9 (no decimals beyond tenths)
-- 2-3 specializations each from: Retirement Planning, Tax Planning, Estate Planning, Wealth Management, Investment Strategies, Portfolio Management, Financial Planning, Risk Management, etc.
-- Professional 40-80 word bio mentioning years of experience (15-35 years) and key expertise
-- Make them sound like real, credible professionals
+IMPORTANT: Since I don't have access to real-time advisor data, create realistic fictional profiles based on typical advisors in this market.
 
-Return as valid JSON array with exactly this structure:
+For each advisor, provide:
+- Realistic names (not obviously fictional)
+- Major firm names (Morgan Stanley, Edward Jones, Charles Schwab, Fidelity, Wells Fargo Advisors, Raymond James, UBS, Merrill Lynch, or legitimate regional firms)
+- Use placeholder website URLs in this format: "https://example-firm-name.com/advisor-profile" 
+- Use placeholder photo URLs: "https://via.placeholder.com/150/4A90E2/FFFFFF?text=FA"
+- Realistic ratings between 4.6-4.9
+- 2-3 specializations from: Retirement Planning, Tax Planning, Estate Planning, Wealth Management, Investment Strategies, Portfolio Management, Financial Planning, Risk Management
+- Professional bio mentioning years of experience (15-35 years) and expertise
+
+CRITICAL: Use clear placeholder URLs so users know this is sample data:
+- Website: "https://example-[firmname].com/advisors/[lastname]"
+- Photo: "https://via.placeholder.com/150/4A90E2/FFFFFF?text=[Initials]"
+
+Return as valid JSON array:
 [
   {
     "name": "First Last",
-    "firm": "Firm Name",
+    "firm": "Major Firm Name", 
     "rating": "4.8",
+    "website": "https://example-morganstanley.com/advisors/last",
+    "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=FL",
     "specializations": ["Specialty1", "Specialty2", "Specialty3"],
     "bio": "Professional bio here..."
   }
-]`;
+]
+
+Make the profiles realistic for ${cityName}, ${state} market but use clear placeholder URLs.`;
 
   try {
     const response = await openai.chat.completions.create({
@@ -55,70 +66,22 @@ Return as valid JSON array with exactly this structure:
   }
 }
 
-async function generateCityStats(cityName, state, population) {
-  console.log(`📊 Generating stats for ${cityName}, ${state}...`);
-  
-  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} (population: ${population}).
-
-Based on the city size and market, generate realistic numbers for:
-- registeredAdvisors: Format like "2,100+" or "850+" (scale with population)
-- averagePortfolio: Format like "$1.2M" or "$890K" (typical range $800K-$2M)
-- averageAumFee: Format like "0.95%" (typical range 0.85%-1.25%)
-- averageRating: Format like "4.6/5.0" (range 4.5-4.8)
-
-Consider city characteristics:
-- Larger cities = more advisors, higher portfolios
-- Wealthy areas = higher averages
-- Financial centers = more competitive fees
-
-Return as valid JSON object:
-{
-  "registeredAdvisors": "number+",
-  "averagePortfolio": "$amount",
-  "averageAumFee": "percentage%",
-  "averageRating": "rating/5.0"
-}`;
-
-  try {
-    const response = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [{ role: "user", content: prompt }],
-      temperature: 0.7,
-      max_tokens: 500
-    });
-
-    const content = response.choices[0].message.content.trim();
-    let jsonStr = content;
-    if (content.includes('```')) {
-      const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
-      if (jsonMatch) {
-        jsonStr = jsonMatch[1];
-      }
-    }
-
-    return JSON.parse(jsonStr);
-  } catch (error) {
-    console.error(`❌ Error generating stats for ${cityName}:`, error.message);
-    throw error;
-  }
-}
-
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
-  const prompt = `Generate financial landscape information for ${cityName}, ${state} (population: ${population}).
+  const prompt = `Generate factual financial landscape information for ${cityName}, ${state} (population: ${population}).
 
-Research the actual economic characteristics of this city and provide:
+Research the actual economic characteristics of this city and provide realistic information:
 
-1. landscapeDescription: 2-3 sentences about the city's economy, major employers, and financial advisory landscape. Be factual and specific to this city.
+1. landscapeDescription: 2-3 sentences about the city's economy, major employers, and financial advisory landscape. Be factual and specific to this city's known characteristics.
 
-2. majorIndustries: 3-4 main industries (comma separated) - research the actual top industries for this city
+2. majorIndustries: 3-4 main industries (comma separated) - use the actual top industries for this city (e.g., for Austin: Technology, Healthcare, Government, Education)
 
-3. population: Current population with metro area (research actual numbers, format like "850,000 (metro: 1.2M)")
+3. population: Use realistic population data with metro area (format like "850,000 (metro: 1.2M)")
 
-4. medianIncome: Realistic median household income (research actual data, format like "$67,500")
+4. medianIncome: Use realistic median household income based on known data for this city (format like "$67,500")
 
-5. uniqueNeeds: 2-3 financial planning needs specific to this city's economy and demographics
+5. uniqueNeeds: 2-3 financial planning needs specific to this city's economy and demographics (e.g., stock options for tech workers, government benefits planning)
 
 6. citySpecificRiskAdvice: One sentence about financial risks specific to this city (natural disasters, economic factors, etc.)
 
@@ -221,7 +184,6 @@ Return as valid JSON:
 
 module.exports = {
   generateAdvisors,
-  generateCityStats,
   generateLandscapeData,
   generateMarketInsights
 }; 

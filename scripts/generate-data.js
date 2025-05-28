@@ -2,7 +2,7 @@
 require('dotenv').config();
 
 const fs = require('fs-extra');
-const { generateAdvisors, generateCityStats, generateLandscapeData, generateMarketInsights } = require('./ai-content');
+const { generateAdvisors, generateLandscapeData, generateMarketInsights } = require('./ai-content');
 
 function getNearbyLocations(cityName, state) {
   // Logic to determine nearby cities based on geography
@@ -69,9 +69,8 @@ async function generateCityData(city) {
   try {
     // Generate all AI content in parallel for speed
     console.log('🚀 Starting AI content generation...');
-    const [advisors, stats, landscape, insights] = await Promise.all([
+    const [advisors, landscape, insights] = await Promise.all([
       generateAdvisors(city.name, city.state),
-      generateCityStats(city.name, city.state, city.population),
       generateLandscapeData(city.name, city.state, city.population),
       generateMarketInsights(city.name, city.state)
     ]);
@@ -88,9 +87,6 @@ async function generateCityData(city) {
       
       // Hero
       heroDescription: `Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.`,
-      
-      // Stats (from AI)
-      ...stats,
       
       // Landscape (from AI)
       ...landscape,
@@ -110,8 +106,8 @@ async function generateCityData(city) {
     await fs.writeJson(`./data/generated/${city.slug}.json`, cityData, { spaces: 2 });
     
     console.log(`✅ Generated data for ${city.name}`);
-    console.log(`📊 Stats: ${stats.registeredAdvisors} advisors, ${stats.averagePortfolio} avg portfolio`);
     console.log(`👥 Advisors: ${advisors.length} profiles created`);
+    console.log(`🏙️ Landscape: ${landscape.majorIndustries}`);
     console.log(`💾 Saved to: data/generated/${city.slug}.json`);
     
     return cityData;

@@ -56,3 +56,5 @@ test-output/
 
 # OS generated files
 **/.DS_Store
+# Local Netlify folder
+.netlify

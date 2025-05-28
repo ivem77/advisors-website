@@ -5,31 +5,27 @@
   "pageTitle": "Best Financial Advisors in Dallas",
   "metaDescription": "Find top-rated financial advisors in Dallas. Expert guidance for retirement planning, wealth management, and investment strategies.",
   "heroDescription": "Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.",
-  "registeredAdvisors": "4,333+",
-  "averagePortfolio": "$1.3M",
-  "averageAumFee": "0.92%",
-  "averageRating": "4.7/5.0",
-  "landscapeDescription": "Dallas is a major economic hub in Texas and home to numerous Fortune 500 companies. The city's diverse economy spans technology, finance, telecommunications, and defense. Dallas financial advisors often specialize in executive compensation packages and serve clients across various high-growth industries.",
-  "majorIndustries": "Technology, Finance, Telecommunications, Defense",
-  "population": "1.3 million (metro: 7.6 million)",
-  "medianIncome": "$54,747",
-  "uniqueNeeds": "Executive compensation planning, tech stock management, business succession planning",
-  "citySpecificRiskAdvice": "Given Dallas's exposure to severe weather including tornadoes and hail, ensure your advisor incorporates property protection and disaster preparedness into your financial plan.",
+  "landscapeDescription": "Dallas, Texas, has a diverse economy with significant sectors including defense, financial services, information technology, telecommunications, and transportation. Major employers include AT&T, Texas Health Resources, and American Airlines. The city also hosts a robust financial advisory landscape with a myriad of firms offering wealth management services.",
+  "majorIndustries": "Defense, Financial Services, Information Technology, Telecommunications, Transportation",
+  "population": "1,300,000 (metro: 7.5M)",
+  "medianIncome": "$52,580",
+  "uniqueNeeds": "Financial planning for corporate executives, retirement planning for the aging population, and investment management for high net worth individuals",
+  "citySpecificRiskAdvice": "Residents should consider the potential financial impact of natural disasters such as tornadoes and severe storms, and the economic volatility of the oil and gas industry.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
-          "title": "Local Wealth Demographics",
-          "description": "Dallas has a growing population of high-net-worth individuals, creating demand for sophisticated financial planning services and wealth management expertise."
+          "title": "Local Economic Growth",
+          "description": "Dallas has a robust economy with a GDP of $513.4 billion, making it the 6th largest in the United States."
         },
         {
-          "title": "Fee Structure Trends",
-          "description": "Most Dallas advisors charge between 0.85% to 1.25% of assets under management, with competitive rates for larger portfolios and comprehensive planning services."
+          "title": "Wealthy Demographics",
+          "description": "Dallas is home to 18 of the Fortune 500 companies and has a high concentration of wealthy individuals, increasing the demand for financial advisory services."
         },
         {
-          "title": "Advisor Specializations",
-          "description": "Dallas advisors often specialize in serving specific industries or demographics, offering targeted expertise in areas like executive compensation and retirement planning."
+          "title": "Specialized Advisory Opportunities",
+          "description": "Dallas has strong sectors in real estate, oil and gas, and technology, leading to opportunities for specialized financial advisors."
         }
       ]
     },
@@ -37,75 +33,81 @@
       "category": "Local Considerations",
       "sections": [
         {
-          "title": "Cost of Living",
-          "description": "Dallas's cost of living impacts retirement planning strategies and investment goals, with advisors helping clients optimize for local economic conditions."
+          "title": "High Living Costs",
+          "description": "The cost of living in Dallas is slightly higher than the national average, affecting investment strategies."
         },
         {
-          "title": "Real Estate Market",
-          "description": "Local advisors provide expertise in Dallas's real estate market, helping clients integrate property investments into their overall wealth management strategy."
+          "title": "Real Estate Growth",
+          "description": "With a booming real estate market, there is potential for advisors to specialize in real estate investments."
         },
         {
-          "title": "Economic Growth",
-          "description": "Dallas's economic development creates opportunities for wealth building, with advisors helping clients capitalize on local growth trends and market conditions."
+          "title": "Pro-Business Environment",
+          "description": "Dallas is known for its pro-business environment with low taxes and regulations, attracting businesses and investment opportunities."
         }
       ]
     }
   ],
   "advisors": [
     {
-      "name": "Sarah Johnson",
-      "firm": "Morgan Stanley Wealth Management",
+      "name": "James McAllister",
+      "firm": "Morgan Stanley",
       "rating": "4.8",
+      "website": "https://example-morganstanley.com/advisors/mcallister",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=JM",
       "specializations": [
         "Retirement Planning",
-        "Tax Planning",
-        "Estate Planning"
-      ],
-      "bio": "With over 20 years of experience, Sarah specializes in comprehensive financial planning for Dallas professionals. She holds CFP and CFA designations and focuses on helping clients achieve long-term financial security."
-    },
-    {
-      "name": "Michael Rodriguez",
-      "firm": "Edward Jones",
-      "rating": "4.7",
-      "specializations": [
         "Wealth Management",
-        "Investment Strategies",
         "Portfolio Management"
       ],
-      "bio": "Michael brings 18 years of investment expertise to Dallas clients. He specializes in portfolio optimization and risk management, helping high-net-worth individuals grow and preserve their wealth."
+      "bio": "James McAllister has over 30 years of experience in financial advising. He specializes in retirement planning, wealth management, and portfolio management. He is dedicated to creating personalized financial strategies for his clients."
     },
     {
-      "name": "Jennifer Chen",
-      "firm": "Charles Schwab",
-      "rating": "4.9",
+      "name": "Sarah Johnson",
+      "firm": "Edward Jones",
+      "rating": "4.7",
+      "website": "https://example-edwardjones.com/advisors/johnson",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=SJ",
       "specializations": [
-        "Financial Planning",
-        "Retirement",
+        "Tax Planning",
         "Risk Management"
       ],
-      "bio": "Jennifer is a veteran financial advisor with 25 years of experience serving Dallas families. She excels at creating personalized retirement strategies and comprehensive financial plans."
+      "bio": "Sarah Johnson has been a financial advisor for 20 years. She specializes in tax planning and risk management. Her main goal is to help her clients minimize their tax liabilities and manage financial risks."
     },
     {
-      "name": "David Thompson",
-      "firm": "Fidelity Investments",
-      "rating": "4.8",
-      "specializations": [
-        "Estate Planning",
-        "Wealth Transfer",
-        "Tax Planning"
-      ],
-      "bio": "David has 22 years of experience helping Dallas business owners and executives with complex estate planning needs. He specializes in wealth transfer strategies and tax optimization."
-    },
-    {
-      "name": "Amanda Williams",
-      "firm": "Raymond James",
-      "rating": "4.7",
+      "name": "Robert Williams",
+      "firm": "Charles Schwab",
+      "rating": "4.9",
+      "website": "https://example-charlesschwab.com/advisors/williams",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=RW",
       "specializations": [
         "Investment Strategies",
-        "Portfolio Management",
         "Financial Planning"
       ],
-      "bio": "Amanda brings 19 years of investment management experience to her Dallas practice. She focuses on evidence-based investing and helping clients achieve their financial goals through disciplined portfolio management."
+      "bio": "Robert Williams has been working in the financial industry for 35 years. He specializes in creating effective investment strategies and comprehensive financial plans for his clients to help them achieve their financial goals."
+    },
+    {
+      "name": "Elizabeth Brown",
+      "firm": "UBS",
+      "rating": "4.6",
+      "website": "https://example-ubs.com/advisors/brown",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=EB",
+      "specializations": [
+        "Estate Planning",
+        "Wealth Management"
+      ],
+      "bio": "Elizabeth Brown has 25 years of experience as a financial advisor. She focuses on estate planning and wealth management. She takes pride in helping her clients plan for their future and manage their wealth effectively."
+    },
+    {
+      "name": "Michael Davis",
+      "firm": "Wells Fargo Advisors",
+      "rating": "4.9",
+      "website": "https://example-wellsfargo.com/advisors/davis",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=MD",
+      "specializations": [
+        "Retirement Planning",
+        "Tax Planning"
+      ],
+      "bio": "Michael Davis has been advising clients for the past 15 years. He specializes in retirement planning and tax planning. He is committed to helping his clients prepare for retirement and minimize their tax liabilities."
     }
   ],
   "nearbyLocations": [
@@ -115,6 +117,7 @@
     "Fort Worth",
     "El Paso",
     "Arlington",
-    "Corpus Christi"
+    "Corpus Christi",
+    "Plano"
   ]
 }

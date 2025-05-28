@@ -289,91 +289,6 @@ html, body {
   margin: 0 auto;
 }
 
-/* Stats */
-.stats {
-  padding: 0 32px 120px;
-  background: var(--color-white);
-}
-.stats__cards {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 24px;
-  justify-items: stretch;
-  align-items: stretch;
-  margin-bottom: 64px;
-}
-@media (max-width: 1024px) {
-  .stats__cards {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-@media (max-width: 600px) {
-  .stats__cards {
-    grid-template-columns: 1fr;
-  }
-}
-.stats__card {
-  width: 100%;
-  box-sizing: border-box;
-  background: var(--color-card);
-  border: 1px solid var(--color-card-border);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-card);
-  padding: 24px;
-  text-align: center;
-}
-.stats__value {
-  font-size: 40px;
-  font-weight: 700;
-  color: var(--color-primary);
-}
-.stats__label {
-  font-size: 18px;
-  font-weight: 500;
-  color: var(--color-black);
-}
-.stats__bars {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 32px;
-  justify-items: stretch;
-  align-items: stretch;
-  margin-bottom: 0;
-}
-@media (max-width: 900px) {
-  .stats__bars {
-    grid-template-columns: 1fr;
-  }
-}
-.stats__bar {
-  width: 100%;
-  box-sizing: border-box;
-  margin-bottom: 0;
-}
-.stats__bar-label {
-  font-size: 24px;
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-.stats__bar-track {
-  background: rgba(6,5,15,0.1);
-  border-radius: var(--radius-xs);
-  height: 8px;
-  width: 100%;
-  margin-bottom: 8px;
-  overflow: hidden;
-}
-.stats__bar-fill {
-  background: var(--color-primary);
-  height: 100%;
-  border-radius: var(--radius-xs);
-  transition: width var(--transition);
-}
-.stats__bar-desc {
-  font-size: 18px;
-  color: var(--color-black);
-}
-
 /* Landscape */
 .landscape {
   background: var(--color-bg);
@@ -406,6 +321,9 @@ html, body {
     margin-bottom: 16px;
     margin-right: 24px;
   }
+}
+.landscape__cards, .landscape__insights, .calculator__form, .calculator__results {
+  gap: 16px;
 }
 .landscape__cards {
   display: flex;
@@ -516,14 +434,50 @@ html, body {
   box-shadow: var(--shadow-card);
   padding: 32px;
   width: auto;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
 }
+
+.advisor-card--clickable:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border-color: var(--color-primary);
+}
+
+.advisor-card--clickable {
+  cursor: pointer;
+}
+
 .advisor-card__portrait {
   width: 80px;
   height: 80px;
   border-radius: 50%;
   background: var(--color-grey);
   flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
 }
+
+.advisor-card__photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.advisor-card__fallback {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+.advisor-card__portrait--fallback .advisor-card__fallback {
+  display: block;
+}
+
 .advisor-card__info {
   flex: 1;
   display: flex;
@@ -966,7 +920,7 @@ html, body {
   .navbar__toggle {
     display: flex;
   }
-  .stats__cards, .stats__bars, .landscape__cards, .landscape__insights, .calculator__form, .calculator__results {
+  .landscape__cards, .landscape__insights, .calculator__form, .calculator__results {
     flex-direction: column;
     align-items: center;
   }
@@ -994,7 +948,7 @@ html, body {
   .signup__text {
     font-size: 20px;
   }
-  .stats__cards, .stats__bars, .landscape__cards, .landscape__insights, .calculator__form, .calculator__results, .locations__list {
+  .landscape__cards, .landscape__insights, .calculator__form, .calculator__results, .locations__list {
     flex-direction: column;
     align-items: center;
   }
@@ -1070,7 +1024,7 @@ html, body {
     font-size: 16px;
     min-width: 160px;
   }
-  .stats, .landscape, .advisors, .guidance, .calculator, .locations {
+  .landscape, .advisors, .guidance, .calculator, .locations {
     padding: 32px 8px;
   }
   .signup {
@@ -1109,7 +1063,6 @@ html, body {
 
 /* Update section layouts to use .container */
 .hero > .hero__content,
-.stats > .container,
 .landscape > .container,
 .advisors > .container,
 .guidance > .container,
@@ -1126,7 +1079,6 @@ html, body {
 
 /* Remove direct section padding, move to .container */
 .hero,
-.stats,
 .landscape,
 .advisors,
 .guidance,

@@ -73,47 +73,6 @@
     </div>
   </header>
 
-  <!-- Stats Section -->
-  <section class="stats">
-    <div class="container">
-      <div class="stats__cards">
-        <div class="stats__card">
-          <div class="stats__value">{{registeredAdvisors}}</div>
-          <div class="stats__label">Registered Advisors</div>
-        </div>
-        <div class="stats__card">
-          <div class="stats__value">{{averagePortfolio}}</div>
-          <div class="stats__label">Average Portfolio</div>
-        </div>
-        <div class="stats__card">
-          <div class="stats__value">{{averageAumFee}}</div>
-          <div class="stats__label">Average AUM Fee</div>
-        </div>
-        <div class="stats__card">
-          <div class="stats__value">{{averageRating}}</div>
-          <div class="stats__label">Average Rating</div>
-        </div>
-      </div>
-      <div class="stats__bars">
-        <div class="stats__bar">
-          <div class="stats__bar-label">Industry experience</div>
-          <div class="stats__bar-track"><div class="stats__bar-fill" style="width:72%"></div></div>
-          <div class="stats__bar-desc">72% of {{cityName}} advisors have 10+ years of experience</div>
-        </div>
-        <div class="stats__bar">
-          <div class="stats__bar-label">Client Satisfaction</div>
-          <div class="stats__bar-track"><div class="stats__bar-fill" style="width:80%"></div></div>
-          <div class="stats__bar-desc">80% of {{cityName}} advisors have 10+ years of experience</div>
-        </div>
-        <div class="stats__bar">
-          <div class="stats__bar-label">Fee Transparency</div>
-          <div class="stats__bar-track"><div class="stats__bar-fill" style="width:70%"></div></div>
-          <div class="stats__bar-desc">70% provide full fee transparency</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- Financial Landscape Section -->
   <section class="landscape" id="landscape">
     <div class="container">
@@ -161,8 +120,16 @@
       <h2>Top 5 Financial Advisors in {{cityName}}</h2>
       <div class="advisors__list">
         {{#advisors}}
-        <div class="advisor-card">
-          <div class="advisor-card__portrait"></div>
+        <a href="{{website}}" target="_blank" rel="noopener noreferrer" class="advisor-card advisor-card--clickable" aria-label="Visit {{name}}'s profile at {{firm}}">
+          <div class="advisor-card__portrait">
+            <img src="{{photoUrl}}" alt="{{name}} - Financial Advisor" class="advisor-card__photo" onerror="this.style.display='none'; this.parentElement.classList.add('advisor-card__portrait--fallback')">
+            <div class="advisor-card__fallback">
+              <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 12C14.7614 12 17 9.76142 17 7C17 4.23858 14.7614 2 12 2C9.23858 2 7 4.23858 7 7C7 9.76142 9.23858 12 12 12Z" fill="#666"/>
+                <path d="M12 14C7.58172 14 4 17.5817 4 22H20C20 17.5817 16.4183 14 12 14Z" fill="#666"/>
+              </svg>
+            </div>
+          </div>
           <div class="advisor-card__info">
             <div class="advisor-card__header">
               <div class="advisor-card__name">{{name}}</div>
@@ -181,7 +148,7 @@
               <div class="advisor-card__bio">{{bio}}</div>
             </div>
           </div>
-        </div>
+        </a>
         {{/advisors}}
         <!-- Mezzi Banner -->
         <div class="advisor-card mezzi-banner">

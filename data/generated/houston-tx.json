@@ -5,31 +5,27 @@
   "pageTitle": "Best Financial Advisors in Houston",
   "metaDescription": "Find top-rated financial advisors in Houston. Expert guidance for retirement planning, wealth management, and investment strategies.",
   "heroDescription": "Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.",
-  "registeredAdvisors": "4,800+",
-  "averagePortfolio": "$1.2M",
-  "averageAumFee": "0.95%",
-  "averageRating": "4.7/5.0",
-  "landscapeDescription": "Houston is the fourth largest city in the U.S. and a global energy hub, home to many Fortune 500 companies. The city's diverse economy includes strong healthcare, aerospace, and technology sectors. Houston's financial advisors frequently help clients manage oil & gas royalties, navigate complex tax situations, and plan for multi-generational wealth.",
-  "majorIndustries": "Energy, Healthcare, Aerospace, Technology",
-  "population": "2.3 million (metro: 7+ million)",
-  "medianIncome": "$56,019",
-  "uniqueNeeds": "Oil & gas wealth management, international clients, business succession",
-  "citySpecificRiskAdvice": "Given Houston's exposure to natural disasters like hurricanes and flooding, ensure your advisor addresses property protection and insurance considerations in your financial plan.",
+  "landscapeDescription": "Houston's economy is highly diverse with a broad industrial base in energy, manufacturing, aeronautics, and transportation. It is a leading city in the oil and gas industry and home to the Texas Medical Center, the world's largest concentration of healthcare and research institutions. The financial advisory landscape is robust, catering to the diverse economic sectors and the large population.",
+  "majorIndustries": "Energy, Healthcare, Manufacturing, Aeronautics",
+  "population": "2,300,000 (metro: 7.1M)",
+  "medianIncome": "$51,203",
+  "uniqueNeeds": "Oil and gas industry employees may need assistance with managing fluctuating income and investments, healthcare professionals may require help with managing student loan debt, and residents may need guidance with flood insurance due to the city's susceptibility to flooding.",
+  "citySpecificRiskAdvice": "Residents should consider natural disaster planning, particularly for flooding, and diversification of investments due to the city's significant dependence on the energy industry.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
-          "title": "Energy Sector Influence",
-          "description": "Houston ranks 17th globally for millionaire residents, with many wealth advisors specializing in oil and gas industry compensation packages and volatility management."
+          "title": "Economic Growth",
+          "description": "Houston's economy is heavily based on energy, particularly oil and gas. However, it also has strong healthcare and aerospace sectors."
         },
         {
-          "title": "Fee Structures",
-          "description": "Most local advisors charge between 0.75% to 1.5% of assets under management, with lower rates typically available for larger portfolios."
+          "title": "Wealth Demographics",
+          "description": "Houston is home to a significant number of high-net-worth individuals, with a substantial concentration of wealth in the energy and healthcare sectors."
         },
         {
-          "title": "Specializations",
-          "description": "Many Houston advisors offer expertise in concentrated stock positions and equity compensation strategies common in the energy and healthcare sectors."
+          "title": "Advisor Specializations",
+          "description": "Financial advisors in Houston may find particular success specializing in sectors such as energy, healthcare, and aerospace due to the city's economic composition."
         }
       ]
     },
@@ -37,81 +33,91 @@
       "category": "Local Considerations",
       "sections": [
         {
-          "title": "Cost of Living",
-          "description": "Houston's cost of living is 20.8% below the national average for housing, creating unique retirement planning opportunities compared to other major metros."
+          "title": "Living Expenditure",
+          "description": "Houston has a lower cost of living compared to the national average, which may be appealing to clients looking for a more affordable lifestyle."
         },
         {
-          "title": "Real Estate",
-          "description": "Local advisors frequently offer expertise in real estate investment strategies in Houston's moderately-priced market (median home price: $335,000)."
+          "title": "Real Estate Market",
+          "description": "Houston's real estate market is diverse, with opportunities in both residential and commercial properties."
         },
         {
-          "title": "Business Focus",
-          "description": "Strong emphasis on business succession planning for Houston's diverse small business community and specialized strategies for energy sector executives."
+          "title": "Business Environment",
+          "description": "Houston is known for its pro-business environment with low taxes and regulations, which can be advantageous for clients looking to start or expand a business."
         }
       ]
     }
   ],
   "advisors": [
     {
-      "name": "Arturo Karakowsky",
-      "firm": "Morgan Stanley Wealth Management",
-      "rating": "4.9",
-      "specializations": [
-        "Retirement",
-        "Tax Planning",
-        "Estate Planning"
-      ],
-      "bio": "With over 25 years of experience, Arturo specializes in wealth management for high net worth individuals. Recognized in Forbes and Barron's rankings."
-    },
-    {
-      "name": "Stephen Bauer",
-      "firm": "United Capital Financial Advisors",
-      "rating": "4.8",
-      "specializations": [
-        "Wealth Management",
-        "Retirement",
-        "Investment Strategies"
-      ],
-      "bio": "Named as a 2025 Forbes Best-In-State Wealth Advisor, Stephen offers comprehensive wealth management for executives and business owners."
-    },
-    {
-      "name": "Matthew T. Leyden",
+      "name": "Robert Franklin",
       "firm": "Morgan Stanley",
+      "rating": "4.8",
+      "website": "https://example-morganstanley.com/advisors/franklin",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=RF",
+      "specializations": [
+        "Retirement Planning",
+        "Wealth Management",
+        "Portfolio Management"
+      ],
+      "bio": "Robert Franklin brings over 25 years of experience in the financial industry. He specializes in retirement planning, wealth management and portfolio management. He provides a personalized approach to investment strategies and financial planning."
+    },
+    {
+      "name": "Sarah Jameson",
+      "firm": "Edward Jones",
+      "rating": "4.6",
+      "website": "https://example-edwardjones.com/advisors/jameson",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=SJ",
+      "specializations": [
+        "Tax Planning",
+        "Financial Planning",
+        "Risk Management"
+      ],
+      "bio": "Sarah Jameson has been serving clients at Edward Jones for over 20 years. She specializes in tax planning, financial planning, and risk management. She is dedicated to helping clients achieve their financial goals through personalized strategies."
+    },
+    {
+      "name": "David Anderson",
+      "firm": "Charles Schwab",
       "rating": "4.7",
+      "website": "https://example-charlesschwab.com/advisors/anderson",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=DA",
       "specializations": [
         "Estate Planning",
-        "Wealth Transfer",
-        "Investment Management"
+        "Wealth Management",
+        "Investment Strategies"
       ],
-      "bio": "With over 36 years of experience, Matthew specializes in estate planning and wealth transfer strategies for affluent families in Houston."
+      "bio": "David Anderson is a seasoned financial advisor with more than 30 years of experience. He specializes in estate planning, wealth management, and investment strategies. He is committed to providing comprehensive financial advice tailored to each client's unique needs and goals."
     },
     {
-      "name": "Jennifer Kaminsky",
-      "firm": "Segment Wealth Management",
-      "rating": "4.8",
-      "specializations": [
-        "Energy Sector",
-        "Executive Compensation",
-        "Tax Planning"
-      ],
-      "bio": "With 18 years of experience, Jennifer specializes in financial strategies for energy sector executives, with expertise in stock options and complex compensation packages."
-    },
-    {
-      "name": "Carlos Rodriguez",
-      "firm": "Avalon Advisors",
+      "name": "Patricia Thompson",
+      "firm": "Wells Fargo Advisors",
       "rating": "4.9",
+      "website": "https://example-wellsfargoadvisors.com/advisors/thompson",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=PT",
       "specializations": [
-        "International Clients",
-        "Business Succession",
-        "Asset Protection"
+        "Retirement Planning",
+        "Tax Planning",
+        "Risk Management"
       ],
-      "bio": "With 22 years of experience, Carlos specializes in cross-border wealth management for international clients and business owners with ties to Houston's international business community."
+      "bio": "Patricia Thompson has been a trusted advisor for over 20 years. She specializes in retirement planning, tax planning, and risk management at Wells Fargo Advisors. She is passionate about helping clients secure their financial future."
+    },
+    {
+      "name": "Mark Mitchell",
+      "firm": "Raymond James",
+      "rating": "4.8",
+      "website": "https://example-raymondjames.com/advisors/mitchell",
+      "photoUrl": "https://via.placeholder.com/150/4A90E2/FFFFFF?text=MM",
+      "specializations": [
+        "Portfolio Management",
+        "Investment Strategies",
+        "Wealth Management"
+      ],
+      "bio": "Mark Mitchell has been working with individuals and businesses in the Houston area for more than 35 years. He specializes in portfolio management, investment strategies, and wealth management. His approach is to understand each client's financial situation and provide customized solutions."
     }
   ],
   "nearbyLocations": [
     "Dallas",
-    "San Antonio",
     "Austin",
+    "San Antonio",
     "Fort Worth",
     "El Paso",
     "Arlington",
