@@ -56,50 +56,46 @@ Return as valid JSON array with exactly this structure:
 }
 
 async function generateCityStats(cityName, state, population) {
-  console.log(`📊 Generating stats for ${cityName}, ${state}...`);
+  console.log(`📊 Generating city statistics for ${cityName}, ${state}...`);
   
   const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} (population: ${population}).
 
-Based on the city size and market, generate realistic numbers for:
-- registeredAdvisors: Format like "2,100+" or "850+" (scale with population)
-- averagePortfolio: Format like "$1.2M" or "$890K" (typical range $800K-$2M)
-- averageAumFee: Format like "0.95%" (typical range 0.85%-1.25%)
-- averageRating: Format like "4.6/5.0" (range 4.5-4.8)
+Base these on real industry averages and make them appropriate for a city of this size:
 
-Consider city characteristics:
-- Larger cities = more advisors, higher portfolios
-- Wealthy areas = higher averages
-- Financial centers = more competitive fees
+1. registeredAdvisors: Format like "2,100+" or "850+" (scale with population - larger cities have more advisors)
+2. averagePortfolio: Format like "$1.2M" or "$890K" (typical range $800K-$2M, adjust slightly by city wealth)
+3. averageAumFee: Format like "0.95%" (typical range 0.85%-1.25%)
+4. averageRating: Format like "4.6/5.0" (range 4.3-4.8)
 
-Return as valid JSON object:
+Use realistic numbers that would be appropriate for ${cityName}'s market size and demographics.
+
+Return only valid JSON:
 {
-  "registeredAdvisors": "number+",
-  "averagePortfolio": "$amount",
-  "averageAumFee": "percentage%",
-  "averageRating": "rating/5.0"
+  "registeredAdvisors": "string",
+  "averagePortfolio": "string", 
+  "averageAumFee": "string",
+  "averageRating": "string"
 }`;
 
   try {
     const response = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [{ role: "user", content: prompt }],
+      model: 'gpt-4',
+      messages: [{ role: 'user', content: prompt }],
       temperature: 0.7,
-      max_tokens: 500
     });
 
-    const content = response.choices[0].message.content.trim();
-    let jsonStr = content;
-    if (content.includes('```')) {
-      const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
-      if (jsonMatch) {
-        jsonStr = jsonMatch[1];
-      }
-    }
-
-    return JSON.parse(jsonStr);
+    const statsData = JSON.parse(response.choices[0].message.content);
+    console.log(`✅ Generated city statistics for ${cityName}`);
+    return statsData;
   } catch (error) {
-    console.error(`❌ Error generating stats for ${cityName}:`, error.message);
-    throw error;
+    console.error(`❌ Error generating city statistics:`, error);
+    // Fallback with reasonable defaults
+    return {
+      registeredAdvisors: "1,200+",
+      averagePortfolio: "$1.1M",
+      averageAumFee: "0.95%",
+      averageRating: "4.5/5.0"
+    };
   }
 }
 

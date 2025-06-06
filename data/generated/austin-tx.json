@@ -2,115 +2,104 @@
   "cityName": "Austin",
   "state": "Texas",
   "slug": "austin-tx",
-  "pageTitle": "Best Financial Advisors in Austin",
-  "metaDescription": "Find top-rated financial advisors in Austin. Expert guidance for retirement planning, wealth management, and investment strategies.",
-  "heroDescription": "Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.",
-  "registeredAdvisors": "1,750+",
-  "averagePortfolio": "$1.4M",
-  "averageAumFee": "1.05%",
-  "averageRating": "4.7/5.0",
-  "landscapeDescription": "Austin's economy is driven by technology, government, education, and entertainment sectors. Major employers include Dell, IBM, and the University of Texas. The financial advisory landscape is well-developed, with numerous financial planning and investment firms operating in the city.",
-  "majorIndustries": "Technology, Government, Education, Entertainment",
   "population": "950,000 (metro: 2.2M)",
-  "medianIncome": "$73,800",
-  "uniqueNeeds": "Considering the high concentration of tech workers, there is a need for financial planning advice related to stock options and equity compensation. The cost of living is also relatively high, so advice on housing affordability and budgeting is essential.",
-  "citySpecificRiskAdvice": "Residents should consider the potential impact of economic downturns in the tech industry, and also be aware of the risk of flooding and other natural disasters due to Austin's geographical location.",
-  "insights": [
-    {
-      "category": "Market Insights",
-      "sections": [
-        {
-          "title": "Economic Growth",
-          "description": "Austin boasts a robust economy with a growth rate of 4.9%, which is higher than the U.S. average of 3.7%."
-        },
-        {
-          "title": "Wealth Demographics",
-          "description": "Austin has a high concentration of high-net-worth individuals, with over 4% of households earning over $200k per year."
-        },
-        {
-          "title": "Advisor Specializations",
-          "description": "Many Austin-based advisors specialize in tech industry investments, due to the city's burgeoning tech sector."
-        }
-      ]
-    },
-    {
-      "category": "Local Considerations",
-      "sections": [
-        {
-          "title": "Cost of Living",
-          "description": "Austin's cost of living is 3% lower than the national average, making it an attractive location for wealth accumulation."
-        },
-        {
-          "title": "Real Estate Trends",
-          "description": "Austin's real estate market is booming, with home values increasing 5.9% over the past year."
-        },
-        {
-          "title": "Business Environment",
-          "description": "Austin is a top city for startups, being home to more than 5,500 startups and tech companies."
-        }
-      ]
-    }
-  ],
   "advisors": [
     {
-      "name": "William Rodriguez",
-      "firm": "Edward Jones",
-      "rating": "4.7",
+      "name": "Robert Garcia",
+      "firm": "Morgan Stanley",
+      "rating": "4.8",
       "specializations": [
-        "Retirement Planning",
-        "Wealth Management"
+        "Wealth Management",
+        "Retirement Planning"
       ],
-      "bio": "With over 20 years of experience, William is a trusted Edward Jones Financial Advisor in Austin, Texas. Specializing in Retirement Planning and Wealth Management, he is passionate about helping clients achieve their financial goals and providing them with peace of mind for their future."
+      "bio": "Robert Garcia has been providing strategic financial advice for over 20 years. His expertise in wealth management and retirement planning has helped numerous Austin, Texas residents secure their financial futures. He is committed to understanding your unique needs and developing a tailored financial plan."
     },
     {
-      "name": "Sarah Kim",
-      "firm": "Fidelity",
-      "rating": "4.8",
+      "name": "Emily Nguyen",
+      "firm": "Charles Schwab",
+      "rating": "4.7",
       "specializations": [
         "Tax Planning",
-        "Investment Strategies"
-      ],
-      "bio": "Sarah Kim has been a dedicated Fidelity Financial Advisor for 25 years. She specializes in Tax Planning and Investment Strategies. Sarah is known for her dedicated client service and strategic approach to financial planning, helping her clients optimize their tax situation and grow their wealth."
-    },
-    {
-      "name": "Richard Jones",
-      "firm": "Morgan Stanley",
-      "rating": "4.9",
-      "specializations": [
-        "Portfolio Management",
         "Risk Management"
       ],
-      "bio": "Richard Jones is a seasoned Financial Advisor at Morgan Stanley with over 30 years of experience. Specializing in Portfolio Management and Risk Management, Richard's strategic and client-focused approach has earned him a high rating among his clientele in Austin."
+      "bio": "Emily Nguyen is a dedicated financial advisor with over 15 years of experience in the field. Specializing in tax planning and risk management, she excels at creating robust financial strategies that minimize tax liabilities and protect her clients' wealth from potential risks."
     },
     {
-      "name": "Anita Patel",
-      "firm": "Charles Schwab",
-      "rating": "4.8",
-      "specializations": [
-        "Financial Planning",
-        "Wealth Management"
-      ],
-      "bio": "Anita Patel is a seasoned Financial Advisor with Charles Schwab in Austin, Texas. With over 15 years of experience, she specializes in Financial Planning and Wealth Management, providing her clients with personalized financial solutions that meet their individual needs and goals."
-    },
-    {
-      "name": "James Smith",
-      "firm": "Wells Fargo Advisors",
-      "rating": "4.7",
+      "name": "James Wilson",
+      "firm": "Edward Jones",
+      "rating": "4.9",
       "specializations": [
         "Estate Planning",
         "Investment Strategies"
       ],
-      "bio": "James Smith is a highly rated Financial Advisor with Wells Fargo Advisors in Austin, Texas. With 35 years of experience, he specializes in Estate Planning and Investment Strategies. James is dedicated to helping his clients secure their financial future and navigate the complexities of estate planning."
+      "bio": "With over 30 years of experience, James Wilson is a seasoned financial advisor who specializes in estate planning and investment strategies. His comprehensive approach ensures his clients' wealth is effectively managed and passed on to their heirs in the most tax-efficient manner."
+    },
+    {
+      "name": "Maria Martinez",
+      "firm": "Fidelity",
+      "rating": "4.7",
+      "specializations": [
+        "Portfolio Management",
+        "Wealth Management"
+      ],
+      "bio": "Maria Martinez is an accomplished financial advisor with over 20 years of experience. She excels in portfolio and wealth management, utilizing her extensive industry knowledge to optimize her clients' investment portfolios and grow their wealth in a sustainable manner."
+    },
+    {
+      "name": "Arjun Patel",
+      "firm": "Wells Fargo Advisors",
+      "rating": "4.8",
+      "specializations": [
+        "Financial Planning",
+        "Retirement Planning"
+      ],
+      "bio": "Arjun Patel is a highly skilled financial advisor with over 25 years of experience. His expertise lies in financial planning and retirement planning. He is dedicated to helping his clients plan for their future, ensuring they are well-prepared for retirement and other significant life events."
     }
   ],
-  "nearbyLocations": [
-    "Houston",
-    "Dallas",
-    "San Antonio",
-    "Fort Worth",
-    "El Paso",
-    "Arlington",
-    "Corpus Christi",
-    "Plano"
-  ]
+  "landscapeDescription": "Austin's economy is largely driven by its tech industry, with a large presence of major tech companies such as Dell, IBM, and Amazon. The city also boasts a robust start-up scene and is a major hub for software development. Financial advisory services are plentiful and diverse, catering to the needs of the city's affluent tech professionals, entrepreneurs, and the student population from the University of Texas at Austin.",
+  "majorIndustries": "Technology, Education, Healthcare, Entertainment",
+  "medianIncome": "$67,462",
+  "uniqueNeeds": "With a substantial tech and start-up sector, there is a need for financial planning related to stock options and equity compensation. Additionally, given the large student population, services around student loan management and early career financial planning are also important.",
+  "citySpecificRiskAdvice": "Residents should be prepared for potential economic risks associated with the volatility of the tech industry, including industry-specific downturns and job market fluctuations.",
+  "insights": {
+    "insights": [
+      {
+        "category": "Market Insights",
+        "sections": [
+          {
+            "title": "Strong Local Economy",
+            "description": "Austin's economy is diverse with a high concentration of tech companies, contributing to a high average income."
+          },
+          {
+            "title": "Wealth Demographics",
+            "description": "Austin houses a significant number of high-net-worth individuals, largely from the tech sector."
+          },
+          {
+            "title": "Specialization Opportunities",
+            "description": "Advisors specializing in investment strategies for tech sector professionals may find a large client base in Austin."
+          }
+        ]
+      },
+      {
+        "category": "Local Considerations",
+        "sections": [
+          {
+            "title": "High Cost of Living",
+            "description": "Austin has a higher than average cost of living, which is important to factor into financial planning strategies."
+          },
+          {
+            "title": "Rising Real Estate Prices",
+            "description": "The real estate market in Austin is thriving, with home values consistently trending upwards."
+          },
+          {
+            "title": "Business-Friendly Environment",
+            "description": "Austin has favorable regulations and tax structures that make it an attractive place for businesses."
+          }
+        ]
+      }
+    ]
+  },
+  "registeredAdvisors": "1,550+",
+  "averagePortfolio": "$1.1M",
+  "averageAumFee": "1.05%",
+  "averageRating": "4.5/5.0"
 }

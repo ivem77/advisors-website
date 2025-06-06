@@ -69,11 +69,11 @@ async function generateCityData(city) {
   try {
     // Generate all AI content in parallel for speed
     console.log('🚀 Starting AI content generation...');
-    const [advisors, stats, landscape, insights] = await Promise.all([
+    const [advisors, landscape, insights, stats] = await Promise.all([
       generateAdvisors(city.name, city.state),
-      generateCityStats(city.name, city.state, city.population),
       generateLandscapeData(city.name, city.state, city.population),
-      generateMarketInsights(city.name, city.state)
+      generateMarketInsights(city.name, city.state),
+      generateCityStats(city.name, city.state, city.population)
     ]);
 
     // Combine all data into city object
@@ -81,28 +81,12 @@ async function generateCityData(city) {
       cityName: city.name,
       state: city.state,
       slug: city.slug,
-      
-      // SEO
-      pageTitle: `Best Financial Advisors in ${city.name}`,
-      metaDescription: `Find top-rated financial advisors in ${city.name}. Expert guidance for retirement planning, wealth management, and investment strategies.`,
-      
-      // Hero
-      heroDescription: `Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.`,
-      
-      // Stats (from AI)
-      ...stats,
-      
-      // Landscape (from AI)
-      ...landscape,
-      
-      // Insights (from AI)
-      ...insights,
-      
-      // Advisors (from AI)
+      population: city.population,
+      heroDescription: city.heroDescription,
       advisors,
-      
-      // Nearby locations
-      nearbyLocations: getNearbyLocations(city.name, city.state)
+      ...landscape,
+      insights,
+      ...stats
     };
 
     // Save generated data
