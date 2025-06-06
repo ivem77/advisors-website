@@ -84,7 +84,7 @@ async function generateCityData(city) {
       population: city.population,
       advisors,
       ...landscape,
-      insights,
+      insights: insights.insights || insights,
       ...stats
     };
 

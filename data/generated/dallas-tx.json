@@ -5,101 +5,100 @@
   "population": "1,300,000 (metro: 7.5M)",
   "advisors": [
     {
-      "name": "Michael Rodriguez",
+      "name": "Jeffrey Rodriguez",
       "firm": "Morgan Stanley",
       "rating": "4.8",
       "specializations": [
-        "Wealth Management",
-        "Investment Strategies"
-      ],
-      "bio": "With over 25 years of experience in the financial services industry, Michael Rodriguez has a comprehensive understanding of the complexities that come with managing wealth. His expertise lies in creating strategic investment plans tailored to individual client needs, helping them achieve their financial goals."
-    },
-    {
-      "name": "Rachel Williams",
-      "firm": "Edward Jones",
-      "rating": "4.7",
-      "specializations": [
         "Retirement Planning",
-        "Portfolio Management"
+        "Wealth Management"
       ],
-      "bio": "Rachel Williams is a seasoned financial advisor with over 20 years of experience. She is dedicated to helping her clients plan for retirement, utilizing her expert knowledge in portfolio management to ensure they are well-prepared for their golden years."
+      "bio": "Jeffrey Rodriguez has over 30 years of experience in the field of financial advising, specializing in retirement planning and wealth management. His commitment to his clients and his vast knowledge of finance have earned him a high reputation within the Dallas community."
     },
     {
-      "name": "Daniel Kim",
+      "name": "Patricia Nguyen",
       "firm": "Charles Schwab",
-      "rating": "4.9",
-      "specializations": [
-        "Risk Management",
-        "Financial Planning"
-      ],
-      "bio": "Daniel Kim, with 30 years of experience, is well-versed in all areas of financial planning and risk management. He is committed to guiding his clients through the world of finance and helping them navigate any potential risks that may arise."
-    },
-    {
-      "name": "Alicia Johnson",
-      "firm": "Fidelity",
       "rating": "4.7",
       "specializations": [
         "Tax Planning",
         "Estate Planning"
       ],
-      "bio": "Alicia Johnson, with 15 years of experience, specializes in estate and tax planning. Her expertise lies in helping her clients minimize the tax burden and efficiently transfer wealth to the next generation. Her thorough and strategic approach ensures her clients' financial security."
+      "bio": "Patricia Nguyen is a seasoned financial advisor with over 20 years of experience. Her expertise lies in tax planning and estate planning, helping clients navigate complex financial decisions. She is committed to providing personalized service and achieving her clients' financial goals."
     },
     {
-      "name": "James Smith",
-      "firm": "Wells Fargo Advisors",
+      "name": "Michael Davis",
+      "firm": "Edward Jones",
+      "rating": "4.9",
+      "specializations": [
+        "Investment Strategies",
+        "Portfolio Management"
+      ],
+      "bio": "Michael Davis is a highly regarded financial advisor with 25 years of experience. He specializes in investment strategies and portfolio management, guiding his clients towards financial success. Michael’s dedication to his clients' needs has earned him a stellar rating."
+    },
+    {
+      "name": "Kavita Patel",
+      "firm": "Fidelity",
       "rating": "4.8",
       "specializations": [
-        "Wealth Management",
-        "Retirement Planning"
+        "Financial Planning",
+        "Risk Management"
       ],
-      "bio": "James Smith has been a financial advisor for over 35 years. He specializes in wealth management and retirement planning, providing his clients with the strategies they need to grow their wealth and plan for a comfortable retirement."
+      "bio": "Kavita Patel has been a trusted financial advisor for over 15 years. She specializes in financial planning and risk management, providing her clients with strategies designed to secure their financial future. Kavita's commitment and professionalism have made her a highly-rated advisor in Dallas."
+    },
+    {
+      "name": "Robert Garcia",
+      "firm": "Wells Fargo Advisors",
+      "rating": "4.7",
+      "specializations": [
+        "Wealth Management",
+        "Investment Strategies",
+        "Financial Planning"
+      ],
+      "bio": "Robert Garcia, with 30 years of experience, specializes in wealth management, investment strategies, and financial planning. His comprehensive approach to financial advising has gained him a loyal client base and a high rating. Robert’s expertise gives his clients confidence in their financial futures."
     }
   ],
-  "heroDescription": "Find top-rated local financial advisors in Dallas, Texas, committed to helping you achieve your financial goals and navigate the city's dynamic economy.",
-  "landscapeDescription": "Dallas's economy is primarily driven by sectors such as banking, commerce, telecommunications, technology, energy, healthcare, and medical research. Major employers include AT&T, Bank of America, Texas Health Resources, and American Airlines. The financial advisory landscape in Dallas is robust, with numerous firms offering a variety of services.",
-  "majorIndustries": "Banking, Telecommunications, Technology, Energy, Healthcare",
+  "heroDescription": "Find top-rated local advisors in Dallas, Texas to help you reach your financial goals. These professionals are equipped with the knowledge and expertise to navigate the city's unique economic landscape.",
+  "landscapeDescription": "Dallas, Texas is a major hub for the South's economy, with a strong presence in sectors such as technology, finance, and healthcare. Major employers include AT&T, Texas Health Resources, and American Airlines. The city also boasts a robust financial advisory landscape, with numerous firms offering a range of services to residents and businesses alike.",
+  "majorIndustries": "Telecommunications, Healthcare, Aviation, Finance",
   "medianIncome": "$52,580",
-  "uniqueNeeds": "Given the city's diverse economy, residents of Dallas often require financial planning assistance in areas such as investment management, retirement planning, and wealth preservation. The city's strong healthcare sector also creates a need for specialized advice on medical insurance and benefits planning.",
-  "insights": {
-    "insights": [
-      {
-        "category": "Market Insights",
-        "sections": [
-          {
-            "title": "Growing Economy",
-            "description": "Dallas has a robust economy with a GDP of $579 billion, marking it as an economic hub for Texas."
-          },
-          {
-            "title": "Wealth Demographics",
-            "description": "Dallas is home to 20 billionaires, with a high concentration of wealth, creating a substantial market for wealth management services."
-          },
-          {
-            "title": "Advisor Specializations",
-            "description": "Financial advisors in Dallas often specialize in retirement planning, investment management, and wealth management, reflecting the needs of the local market."
-          }
-        ]
-      },
-      {
-        "category": "Local Considerations",
-        "sections": [
-          {
-            "title": "Cost of Living",
-            "description": "The cost of living in Dallas is slightly lower than the national average, which may affect investment and savings strategies."
-          },
-          {
-            "title": "Real Estate Market",
-            "description": "The Dallas real estate market is dynamic and growing, offering opportunities for real estate investments."
-          },
-          {
-            "title": "Business Environment",
-            "description": "Dallas is home to many Fortune 500 companies, creating a favorable environment for business-focused financial advising."
-          }
-        ]
-      }
-    ]
-  },
-  "registeredAdvisors": "1,950+",
-  "averagePortfolio": "$1.4M",
+  "uniqueNeeds": "With a diverse economy and a large population, Dallas residents have unique financial planning needs. These include managing investments in the city's major industries, planning for healthcare costs, and navigating the city's real estate market. Additionally, the city's large number of high-net-worth individuals may require specialized wealth management services.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "Dallas is a major economic hub with a GDP of roughly $579.7 billion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "Dallas ranks 9th in the U.S. for the number of high-net-worth individuals."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Financial advisors in Dallas often specialize in wealth management and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "Dallas has a cost of living index of 101.6, slightly higher than the U.S. average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "The Dallas real estate market is competitive, with a median home value of $255,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "Dallas is home to 9 fortune 500 companies, making it a fertile ground for business and professional networking."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "2,800+",
+  "averagePortfolio": "$1.3M",
   "averageAumFee": "1.05%",
   "averageRating": "4.7/5.0"
 }
