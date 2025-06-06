@@ -102,30 +102,30 @@ Return only valid JSON:
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
-  const prompt = `Generate financial landscape information for ${cityName}, ${state} (population: ${population}).
+  const prompt = `Generate factual financial landscape information for ${cityName}, ${state} (population: ${population}).
 
-Research the actual economic characteristics of this city and provide:
+Research the actual economic characteristics of this city and provide realistic information:
 
-1. landscapeDescription: 2-3 sentences about the city's economy, major employers, and financial advisory landscape. Be factual and specific to this city.
+1. heroDescription: 1-2 sentences that would appear under "Best Financial Advisors in ${cityName}" - describe finding top-rated local advisors for financial goals (keep it general and professional)
 
-2. majorIndustries: 3-4 main industries (comma separated) - research the actual top industries for this city
+2. landscapeDescription: 2-3 sentences about the city's economy, major employers, and financial advisory landscape. Be factual and specific to this city's known characteristics.
 
-3. population: Current population with metro area (research actual numbers, format like "850,000 (metro: 1.2M)")
+3. majorIndustries: 3-4 main industries (comma separated) - use the actual top industries for this city (e.g., for Austin: Technology, Healthcare, Government, Education)
 
-4. medianIncome: Realistic median household income (research actual data, format like "$67,500")
+4. population: Use realistic population data with metro area if appropriate (format: "950,000 (metro: 2.2M)")
 
-5. uniqueNeeds: 2-3 financial planning needs specific to this city's economy and demographics
+5. medianIncome: Use realistic median household income data (format: "$67,462")
 
-6. citySpecificRiskAdvice: One sentence about financial risks specific to this city (natural disasters, economic factors, etc.)
+6. uniqueNeeds: 2-3 sentences about specific financial planning needs for this city's demographics and economy
 
-Return as valid JSON:
+Return only valid JSON:
 {
-  "landscapeDescription": "...",
-  "majorIndustries": "Industry1, Industry2, Industry3, Industry4",
-  "population": "...",
-  "medianIncome": "$...",
-  "uniqueNeeds": "...",
-  "citySpecificRiskAdvice": "..."
+  "heroDescription": "string",
+  "landscapeDescription": "string",
+  "majorIndustries": "string",
+  "population": "string", 
+  "medianIncome": "string",
+  "uniqueNeeds": "string"
 }`;
 
   try {

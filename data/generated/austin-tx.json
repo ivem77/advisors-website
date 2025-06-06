@@ -5,77 +5,79 @@
   "population": "950,000 (metro: 2.2M)",
   "advisors": [
     {
-      "name": "Robert Garcia",
+      "name": "James Rodriguez",
       "firm": "Morgan Stanley",
-      "rating": "4.8",
-      "specializations": [
-        "Wealth Management",
-        "Retirement Planning"
-      ],
-      "bio": "Robert Garcia has been providing strategic financial advice for over 20 years. His expertise in wealth management and retirement planning has helped numerous Austin, Texas residents secure their financial futures. He is committed to understanding your unique needs and developing a tailored financial plan."
-    },
-    {
-      "name": "Emily Nguyen",
-      "firm": "Charles Schwab",
       "rating": "4.7",
       "specializations": [
-        "Tax Planning",
+        "Retirement Planning",
+        "Wealth Management",
         "Risk Management"
       ],
-      "bio": "Emily Nguyen is a dedicated financial advisor with over 15 years of experience in the field. Specializing in tax planning and risk management, she excels at creating robust financial strategies that minimize tax liabilities and protect her clients' wealth from potential risks."
+      "bio": "James Rodriguez is a 20-year veteran at Morgan Stanley specializing in Retirement Planning, Wealth Management, and Risk Management. He leverages his extensive experience and market knowledge to help clients maximize their retirement assets and manage their wealth effectively."
     },
     {
-      "name": "James Wilson",
-      "firm": "Edward Jones",
-      "rating": "4.9",
-      "specializations": [
-        "Estate Planning",
-        "Investment Strategies"
-      ],
-      "bio": "With over 30 years of experience, James Wilson is a seasoned financial advisor who specializes in estate planning and investment strategies. His comprehensive approach ensures his clients' wealth is effectively managed and passed on to their heirs in the most tax-efficient manner."
-    },
-    {
-      "name": "Maria Martinez",
-      "firm": "Fidelity",
-      "rating": "4.7",
-      "specializations": [
-        "Portfolio Management",
-        "Wealth Management"
-      ],
-      "bio": "Maria Martinez is an accomplished financial advisor with over 20 years of experience. She excels in portfolio and wealth management, utilizing her extensive industry knowledge to optimize her clients' investment portfolios and grow their wealth in a sustainable manner."
-    },
-    {
-      "name": "Arjun Patel",
-      "firm": "Wells Fargo Advisors",
+      "name": "Lisa Nguyen",
+      "firm": "Raymond James",
       "rating": "4.8",
       "specializations": [
         "Financial Planning",
-        "Retirement Planning"
+        "Investment Strategies",
+        "Portfolio Management"
       ],
-      "bio": "Arjun Patel is a highly skilled financial advisor with over 25 years of experience. His expertise lies in financial planning and retirement planning. He is dedicated to helping his clients plan for their future, ensuring they are well-prepared for retirement and other significant life events."
+      "bio": "With over 25 years of experience in Financial Planning and Investment Strategies, Lisa Nguyen at Raymond James has a proven track record of helping clients achieve their financial goals. Her approach combines personalized investment strategies with a disciplined portfolio management process."
+    },
+    {
+      "name": "Richard Patel",
+      "firm": "Fidelity",
+      "rating": "4.9",
+      "specializations": [
+        "Estate Planning",
+        "Tax Planning"
+      ],
+      "bio": "Richard Patel is an accomplished financial advisor at Fidelity with 30 years of experience in Estate Planning and Tax Planning. He is dedicated to providing sound financial advice and creating effective strategies that minimize tax liabilities and protect clients' estates."
+    },
+    {
+      "name": "Mary Smith",
+      "firm": "Edward Jones",
+      "rating": "4.8",
+      "specializations": [
+        "Wealth Management",
+        "Risk Management"
+      ],
+      "bio": "Mary Smith is a seasoned financial advisor at Edward Jones with over 15 years of experience. Specializing in Wealth Management and Risk Management, she is committed to guiding clients through market complexities and building solid investment portfolios that align with their financial objectives."
+    },
+    {
+      "name": "Carlos Garcia",
+      "firm": "Wells Fargo Advisors",
+      "rating": "4.7",
+      "specializations": [
+        "Retirement Planning",
+        "Financial Planning"
+      ],
+      "bio": "Carlos Garcia is a trusted advisor at Wells Fargo with 35 years of experience in financial services. His areas of expertise include Retirement Planning and Financial Planning. Carlos works tirelessly to ensure his clients have a clear and attainable path towards their retirement and financial goals."
     }
   ],
-  "landscapeDescription": "Austin's economy is largely driven by its tech industry, with a large presence of major tech companies such as Dell, IBM, and Amazon. The city also boasts a robust start-up scene and is a major hub for software development. Financial advisory services are plentiful and diverse, catering to the needs of the city's affluent tech professionals, entrepreneurs, and the student population from the University of Texas at Austin.",
-  "majorIndustries": "Technology, Education, Healthcare, Entertainment",
-  "medianIncome": "$67,462",
-  "uniqueNeeds": "With a substantial tech and start-up sector, there is a need for financial planning related to stock options and equity compensation. Additionally, given the large student population, services around student loan management and early career financial planning are also important.",
-  "citySpecificRiskAdvice": "Residents should be prepared for potential economic risks associated with the volatility of the tech industry, including industry-specific downturns and job market fluctuations.",
+  "heroDescription": "Discover top-rated local financial advisors in Austin, ready to assist you in achieving your financial goals by providing expert advice and personalized plans.",
+  "landscapeDescription": "Austin is known for its vibrant economy, which is largely driven by the technology, healthcare, government, and education sectors. Major employers include Dell, IBM, the University of Texas at Austin, and the City of Austin. The financial advisory landscape is diverse, catering to the varying needs of the city's residents, tech entrepreneurs, and government employees.",
+  "majorIndustries": "Technology, Healthcare, Government, Education",
+  "medianIncome": "$73,800",
+  "uniqueNeeds": "With a significant portion of its population involved in the tech industry, Austin has a unique need for advisors who understand stock options, RSUs, and tech IPOs. The city's growing retiree population also requires expertise in retirement planning and wealth management. Additionally, the presence of large government and educational institutions necessitates financial planning for public sector employees.",
   "insights": {
     "insights": [
       {
         "category": "Market Insights",
         "sections": [
           {
-            "title": "Strong Local Economy",
-            "description": "Austin's economy is diverse with a high concentration of tech companies, contributing to a high average income."
+            "title": "Austin's Economic Growth",
+            "description": "Austin's economy is one of the fastest growing in the U.S., with a GDP growth rate of 4.9% in 2019."
           },
           {
             "title": "Wealth Demographics",
-            "description": "Austin houses a significant number of high-net-worth individuals, largely from the tech sector."
+            "description": "The median household income in Austin was $71,543 in 2020, with a wealthier population concentrated in the West Austin area."
           },
           {
-            "title": "Specialization Opportunities",
-            "description": "Advisors specializing in investment strategies for tech sector professionals may find a large client base in Austin."
+            "title": "Advisor Specializations",
+            "description": "Financial advisors in Austin tend to specialize in wealth management, retirement planning, and tax planning."
           }
         ]
       },
@@ -84,22 +86,22 @@
         "sections": [
           {
             "title": "High Cost of Living",
-            "description": "Austin has a higher than average cost of living, which is important to factor into financial planning strategies."
+            "description": "Austin's cost of living is 19.2% higher than the U.S. average, largely due to housing costs."
           },
           {
-            "title": "Rising Real Estate Prices",
-            "description": "The real estate market in Austin is thriving, with home values consistently trending upwards."
+            "title": "Thriving Real Estate",
+            "description": "Austin's real estate market has been booming, with home values rising 29.4% in 2021."
           },
           {
             "title": "Business-Friendly Environment",
-            "description": "Austin has favorable regulations and tax structures that make it an attractive place for businesses."
+            "description": "Austin is known for its business-friendly environment, with a large number of startups and tech companies."
           }
         ]
       }
     ]
   },
-  "registeredAdvisors": "1,550+",
-  "averagePortfolio": "$1.1M",
+  "registeredAdvisors": "1,560+",
+  "averagePortfolio": "$1.4M",
   "averageAumFee": "1.05%",
-  "averageRating": "4.5/5.0"
+  "averageRating": "4.6/5.0"
 }

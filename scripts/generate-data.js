@@ -82,7 +82,6 @@ async function generateCityData(city) {
       state: city.state,
       slug: city.slug,
       population: city.population,
-      heroDescription: city.heroDescription,
       advisors,
       ...landscape,
       insights,
