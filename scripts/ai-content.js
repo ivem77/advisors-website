@@ -123,7 +123,7 @@ IMPORTANT: Use actual, real data that can be fact-checked. Do not make up number
 
 4. population: Use real population data for ${cityName} with actual metro area numbers (format: "950,000 (metro: 2.2M)")
 
-5. medianIncome: Use actual median household income data for ${cityName} from recent census or economic data (format: "$67,462")
+5. medianIncome: Use the EXACT SAME actual median household income data for ${cityName} from the most recent U.S. Census Bureau American Community Survey (format: "$67,462"). This number MUST match exactly in all other sections.
 
 6. uniqueNeeds: 2-3 sentences about specific financial planning needs based on ${cityName}'s actual economic characteristics and demographics
 
@@ -163,18 +163,20 @@ Return only valid JSON:
   }
 }
 
-async function generateMarketInsights(cityName, state) {
+async function generateMarketInsights(cityName, state, medianIncome) {
   console.log(`💡 Generating market insights for ${cityName}, ${state}...`);
   
   const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state}. Use only verifiable data and statistics.
 
 CRITICAL: Use actual, real data that can be fact-checked. Do not fabricate numbers or statistics.
 
+IMPORTANT: The median household income for ${cityName} is ${medianIncome}. If you reference median income anywhere, use EXACTLY this number and year.
+
 Create insights in this structure with REAL data for ${cityName}:
 
 Market Insights:
 - Economic Growth: Real GDP data, economic growth rates, or major economic developments for ${cityName}
-- Wealth Demographics: Actual data about high-net-worth individuals, median household income ranking, or wealth concentration
+- Wealth Demographics: Actual data about high-net-worth individuals, median household income (use ${medianIncome} if mentioned), or wealth concentration  
 - Advisor Specializations: Real information about what financial advisors in ${cityName} actually specialize in based on the local economy
 
 Local Considerations:
@@ -182,7 +184,7 @@ Local Considerations:
 - Real Estate Market: Real data about ${cityName}'s housing market, home values, market trends
 - Business Environment: Factual information about major employers, business growth, startup activity in ${cityName}
 
-Research and use verifiable data sources. Be specific to ${cityName}, ${state}.
+Research and use verifiable data sources. Be specific to ${cityName}, ${state}. Ensure ALL numbers are consistent and factual.
 
 Return as valid JSON:
 {
@@ -191,7 +193,7 @@ Return as valid JSON:
       "category": "Market Insights",
       "sections": [
         {"title": "Economic Growth", "description": "Real economic data"},
-        {"title": "Wealth Demographics", "description": "Actual demographic data"},
+        {"title": "Wealth Demographics", "description": "Actual demographic data - if mentioning median income, use exactly ${medianIncome}"},
         {"title": "Advisor Specializations", "description": "Real advisor specialization info"}
       ]
     },

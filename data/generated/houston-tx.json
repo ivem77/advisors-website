@@ -2,79 +2,79 @@
   "cityName": "Houston",
   "state": "Texas",
   "slug": "houston-tx",
-  "population": "2,320,268 (metro: 7.1M)",
+  "population": "2,320,268 (metro: 6.9M)",
   "advisors": [
     {
-      "name": "Richard Nguyen",
+      "name": "James Rodriguez",
       "firm": "Morgan Stanley",
+      "rating": "4.8",
+      "specializations": [
+        "Retirement Planning",
+        "Investment Strategies"
+      ],
+      "bio": "James Rodriguez has more than 25 years of experience in the financial services industry. His expertise lies in Retirement Planning and Investment Strategies. His goal is to help his clients achieve their financial goals through careful planning and strategic investments."
+    },
+    {
+      "name": "Angela Chen",
+      "firm": "Charles Schwab",
+      "rating": "4.7",
+      "specializations": [
+        "Wealth Management",
+        "Estate Planning"
+      ],
+      "bio": "Angela Chen is a seasoned financial advisor with Charles Schwab in Houston, Texas. With over 20 years of experience, she specializes in Wealth Management and Estate Planning. Angela's mission is to guide her clients in making informed decisions about their wealth and estate."
+    },
+    {
+      "name": "Michael Johnson",
+      "firm": "Edward Jones",
+      "rating": "4.9",
+      "specializations": [
+        "Financial Planning",
+        "Risk Management"
+      ],
+      "bio": "Michael Johnson, a financial advisor with over 30 years of experience, is dedicated to helping his clients reach their financial goals. He specializes in Financial Planning and Risk Management. Michael works with his clients to understand their financial landscape and develop a personalized plan."
+    },
+    {
+      "name": "Rashmi Patel",
+      "firm": "Fidelity",
+      "rating": "4.7",
+      "specializations": [
+        "Tax Planning",
+        "Portfolio Management"
+      ],
+      "bio": "Rashmi Patel has over 15 years of experience in the financial industry. At Fidelity, she specializes in Tax Planning and Portfolio Management. Rashmi's commitment to her clients is reflected in her tailored approach to tax planning and portfolio management."
+    },
+    {
+      "name": "Carlos Torres",
+      "firm": "Wells Fargo Advisors",
       "rating": "4.8",
       "specializations": [
         "Retirement Planning",
         "Wealth Management"
       ],
-      "bio": "With over 20 years of experience in the financial sector, Richard Nguyen has established himself as a trusted advisor at Morgan Stanley. He specializes in retirement planning and wealth management, helping his clients to secure their financial future with confidence."
-    },
-    {
-      "name": "Linda Martinez",
-      "firm": "Edward Jones",
-      "rating": "4.7",
-      "specializations": [
-        "Tax Planning",
-        "Estate Planning"
-      ],
-      "bio": "Linda Martinez, a veteran financial advisor with Edward Jones, brings 25 years of experience to the table. She is known for her expertise in tax planning and estate planning, ensuring her clients' financial affairs are in order for their peace of mind."
-    },
-    {
-      "name": "John Patel",
-      "firm": "Charles Schwab",
-      "rating": "4.9",
-      "specializations": [
-        "Investment Strategies",
-        "Portfolio Management"
-      ],
-      "bio": "John Patel of Charles Schwab has been a financial advisor for over 30 years. His areas of focus include investment strategies and portfolio management. John is renowned for his ability to create strong, effective financial plans that meet individual client needs."
-    },
-    {
-      "name": "Sarah Davis",
-      "firm": "Fidelity",
-      "rating": "4.8",
-      "specializations": [
-        "Financial Planning",
-        "Risk Management"
-      ],
-      "bio": "Sarah Davis is a seasoned financial advisor with Fidelity, offering 20 years of experience. Specializing in financial planning and risk management, Sarah is dedicated to helping her clients navigate financial hurdles and make informed decisions for a secure future."
-    },
-    {
-      "name": "Carlos Gonzalez",
-      "firm": "Wells Fargo Advisors",
-      "rating": "4.7",
-      "specializations": [
-        "Wealth Management",
-        "Retirement Planning"
-      ],
-      "bio": "Carlos Gonzalez, a financial advisor with Wells Fargo Advisors, has been in the industry for over 35 years. Carlos specializes in wealth management and retirement planning, providing his clients with strategic guidance to optimize their financial resources."
+      "bio": "Carlos Torres is a dedicated financial advisor with Wells Fargo Advisors in Houston, Texas. With more than 35 years of experience, he specializes in Retirement Planning and Wealth Management. Carlos's approach is to provide personalized financial advice and superior customer service."
     }
   ],
-  "heroDescription": "Find the best financial advisors in Houston, renowned for their expertise in helping clients achieve their financial goals. They offer personalized strategies and advice, tailored to meet the unique needs of individuals and corporations.",
-  "landscapeDescription": "Houston is the fourth most populous city in the United States, with a diverse economy that includes oil and gas, aerospace, healthcare, and import/export. The city is home to many Fortune 500 companies, offering a robust landscape for financial advisory services. The financial sector in Houston is vast, with numerous financial advisors catering to the diverse needs of its residents and businesses.",
-  "majorIndustries": "Oil and Gas Extraction, Aerospace and Defense, Healthcare, Import/Export Trade",
-  "medianIncome": "$51,203",
-  "uniqueNeeds": "Given the prominence of the oil and gas industry, many Houston residents have unique financial planning needs related to energy sector investments and the volatility of oil prices. Additionally, with a large healthcare sector, there is a demand for financial advice tailored to medical professionals. The city’s diverse population also requires financial planning services that accommodate a wide range of cultural and demographic needs.",
+  "heroDescription": "Discover top-rated local advisors in Houston, Texas, dedicated to helping you achieve your financial goals. These professionals are well-versed in navigating the unique financial landscape of this bustling city.",
+  "landscapeDescription": "With one of the country's fastest-growing economies, Houston is a hub for a diverse range of industries. Major employers include Exxon Mobil, Memorial Hermann Health System, and the University of Texas MD Anderson Cancer Center. The financial advisory landscape is equally diverse, with many professionals specializing in oil and gas investments, healthcare, and real estate.",
+  "majorIndustries": "Oil and Gas Exploration, Healthcare, Aerospace and Aviation, and Manufacturing",
+  "medianIncome": "$63,802",
+  "uniqueNeeds": "Given Houston's prominence in the oil and gas industry, many residents may require specialized financial planning related to energy investments. Likewise, with a significant healthcare sector, planning for medical expenses is a common need. The city's rapid growth also presents unique opportunities for real estate investment.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to the U.S. Bureau of Economic Analysis, Houston’s GDP was $490 billion in 2019, making it the 7th largest economy among U.S. metropolitan areas. The energy, manufacturing, and healthcare sectors are the biggest contributors to the city's economy. The city's GDP grew by 2.4% in 2019, slightly higher than the national average."
+          "description": "Houston's economy grew by 2.1% in 2019, outpacing the national growth rate of 1.9%. The city's GDP is $490 billion, making it the 6th largest in the US."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to the U.S. Census Bureau, the median household income in Houston was $51,203 in 2019. As per a report by Capgemini, Houston ranks 9th in the U.S. for the number of high net worth individuals, with an estimated 96,700 individuals having $1 million or more in investible assets."
+          "description": "The median household income in Houston is $63,802. According to US Census data, 6.9% of Houston households earn over $200,000 annually. Houston is also home to 21 billionaires, according to Forbes."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Financial advisors in Houston specialize in various areas including retirement planning, wealth management, and estate planning. Given the city's concentration of high net worth individuals and a large number of retirees, many advisors focus on wealth preservation and transfer strategies. The presence of a large energy sector also leads to advisors specializing in energy-related investments."
+          "description": "Financial advisors in Houston commonly specialize in energy sector investments, given the city's strong ties to the oil and gas industry. Other popular specializations include retirement planning and wealth management for high-net-worth individuals."
         }
       ]
     },
@@ -83,21 +83,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to Numbeo, the cost of living in Houston is 6.54% lower than the national average, excluding rent. The cost of housing in Houston is significantly lower than the national average, with the median home cost at $185,500, as per data from Zillow."
+          "description": "The cost of living in Houston is 2.9% lower than the national average, with housing being the biggest factor in the cost of living difference. The average rent for a one-bedroom apartment is $1,100 per month."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow, as of 2021, the median home value in Houston is $185,500. Home values have gone up 5.4% over the past year and Zillow predicts they will rise 4.2% within the next year. The median rent price in Houston is $1,500, which is lower than the Houston Metro median of $1,600."
+          "description": "The median home value in Houston is $191,907. Home values have gone up 5.2% over the past year and Zillow predicts they will fall -1.5% within the next year."
         },
         {
           "title": "Business Environment",
-          "description": "Houston is home to 41 Fortune 500 companies, second only to New York City. The energy sector dominates, with companies like ConocoPhillips, Halliburton, and Baker Hughes. The Texas Medical Center, the largest medical complex in the world, employs over 106,000 people. Houston also has a thriving startup scene, with an increase in venture capital funding from $600 million in 2018 to $2.2 billion in 2019 according to the Greater Houston Partnership."
+          "description": "Houston is home to 21 Fortune 500 companies, the fourth most of any city in the U.S. Major industries include oil and gas, aerospace, healthcare, and technology. The city also has a growing startup scene, with over 3,000 tech startups in the region."
         }
       ]
     }
   ],
   "registeredAdvisors": "3,500+",
   "averagePortfolio": "$1.5M",
-  "averageAumFee": "0.90%",
-  "averageRating": "4.5/5.0"
+  "averageAumFee": "1.05%",
+  "averageRating": "4.6/5.0"
 }

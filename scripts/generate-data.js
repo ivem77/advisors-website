@@ -67,12 +67,14 @@ async function generateCityData(city) {
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   
   try {
-    // Generate all AI content in parallel for speed
+    // Generate landscape data first to get consistent median income
     console.log('🚀 Starting AI content generation...');
-    const [advisors, landscape, insights, stats] = await Promise.all([
+    const landscape = await generateLandscapeData(city.name, city.state, city.population);
+    
+    // Generate other content in parallel, passing median income to ensure consistency
+    const [advisors, insights, stats] = await Promise.all([
       generateAdvisors(city.name, city.state),
-      generateLandscapeData(city.name, city.state, city.population),
-      generateMarketInsights(city.name, city.state),
+      generateMarketInsights(city.name, city.state, landscape.medianIncome),
       generateCityStats(city.name, city.state, city.population)
     ]);
 

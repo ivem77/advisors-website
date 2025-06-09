@@ -2,79 +2,79 @@
   "cityName": "Dallas",
   "state": "Texas",
   "slug": "dallas-tx",
-  "population": "1.34M (metro: 7.6M)",
+  "population": "1.34 million (metro: 7.6M)",
   "advisors": [
     {
-      "name": "Robert Garcia",
+      "name": "James Rodriguez",
       "firm": "Morgan Stanley",
       "rating": "4.7",
       "specializations": [
         "Retirement Planning",
         "Wealth Management"
       ],
-      "bio": "Robert Garcia has over 25 years of experience in financial advising. His expertise lies in Retirement Planning and Wealth Management. Robert is known for his strategic planning abilities and commitment to his client's long-term financial success."
+      "bio": "James Rodriguez is a seasoned financial advisor with over 20 years of experience. At Morgan Stanley, he specializes in retirement planning and wealth management. James is known for his dedicated client-first approach, using personalized strategies to help clients achieve their financial goals."
     },
     {
-      "name": "Emily Nguyen",
+      "name": "Lisa Nguyen",
+      "firm": "Charles Schwab",
+      "rating": "4.8",
+      "specializations": [
+        "Tax Planning",
+        "Investment Strategies"
+      ],
+      "bio": "Lisa Nguyen is a dedicated financial advisor with Charles Schwab, offering 25 years of experience in the industry. She specializes in tax planning and investment strategies, helping her clients maximize their financial potential and minimize their tax liabilities."
+    },
+    {
+      "name": "Robert Smith",
       "firm": "Edward Jones",
+      "rating": "4.9",
+      "specializations": [
+        "Portfolio Management",
+        "Risk Management"
+      ],
+      "bio": "Robert Smith is a highly experienced financial advisor at Edward Jones, boasting a career spanning over 30 years. His areas of expertise include portfolio management and risk management, where he utilizes a comprehensive approach to strategically guide clients towards their financial objectives."
+    },
+    {
+      "name": "Maria Garcia",
+      "firm": "Fidelity",
       "rating": "4.8",
       "specializations": [
         "Estate Planning",
-        "Investment Strategies"
+        "Wealth Management"
       ],
-      "bio": "Emily Nguyen has been a financial advisor for over 20 years. She specializes in Estate Planning and Investment Strategies, helping clients navigate complex financial landscapes with ease. Emily is dedicated to providing personalized financial advice tailored to each client's unique needs."
+      "bio": "With over 15 years of experience, Maria Garcia is a trusted financial advisor at Fidelity. She specializes in estate planning and wealth management, providing clients with comprehensive financial plans that meet their unique needs and secure their financial future."
     },
     {
-      "name": "Michael Johnson",
-      "firm": "Charles Schwab",
+      "name": "Anthony Johnson",
+      "firm": "Wells Fargo Advisors",
       "rating": "4.7",
       "specializations": [
         "Financial Planning",
-        "Risk Management"
-      ],
-      "bio": "Michael Johnson is a seasoned financial advisor with more than 35 years of experience. He specializes in Financial Planning and Risk Management, providing clients with the knowledge and tools needed to make informed financial decisions. Michael is committed to helping his clients achieve their financial goals."
-    },
-    {
-      "name": "Sunita Patel",
-      "firm": "Fidelity",
-      "rating": "4.9",
-      "specializations": [
-        "Tax Planning",
-        "Portfolio Management"
-      ],
-      "bio": "Sunita Patel boasts over 30 years of experience as a financial advisor. Her expertise lies in Tax Planning and Portfolio Management. Sunita's approach is client-centered, focusing on building strong relationships and providing expert financial guidance designed to help clients achieve their financial goals."
-    },
-    {
-      "name": "Carlos Martinez",
-      "firm": "Wells Fargo Advisors",
-      "rating": "4.8",
-      "specializations": [
-        "Wealth Management",
         "Investment Strategies"
       ],
-      "bio": "Carlos Martinez has been working as a financial advisor for more than 15 years. His areas of expertise are Wealth Management and Investment Strategies. Carlos is dedicated to helping clients protect their wealth and secure a prosperous future."
+      "bio": "Anthony Johnson is a seasoned financial advisor with Wells Fargo Advisors, providing over 20 years of professional service. Specializing in financial planning and investment strategies, Anthony is committed to helping clients make informed decisions and navigate the complexities of the financial world."
     }
   ],
-  "heroDescription": "Find top-rated local advisors in Dallas, Texas, dedicated to helping you achieve your financial goals. With a range of professionals specializing in various financial sectors, Dallas offers a rich pool of expertise to choose from.",
-  "landscapeDescription": "Dallas, Texas boasts a diverse and dynamic economy with major employers spanning various sectors. Key players in the financial services industry, such as Comerica Bank and AT&T, have their headquarters here. The city is also home to a substantial number of financial advisors, offering a wide range of services to individuals and businesses alike.",
-  "majorIndustries": "Telecommunications, Financial Services, Technology, Defense",
+  "heroDescription": "Find the best financial advisors in Dallas, known for their expertise and dedication to helping clients reach their financial goals. These top-rated local advisors offer personalized financial strategies tailored to individual needs.",
+  "landscapeDescription": "Dallas, Texas, boasts a diverse and robust economy, with major employers spanning various industries like technology, defense, financial services, and healthcare. The city is headquarters to nine Fortune 500 companies, making it a hub for corporate professionals. This vibrant economic landscape provides a rich environment for numerous financial advisory firms offering a wide range of services.",
+  "majorIndustries": "Technology, Defense, Financial Services, Healthcare",
   "medianIncome": "$52,580",
-  "uniqueNeeds": "Given the city's strong presence in the telecommunications and technology sectors, Dallas residents may have specific financial planning needs related to equity-based compensation and tech startups. Additionally, with a diverse population and a significant number of high-income households, there's a high demand for personalized wealth management and retirement planning services.",
+  "uniqueNeeds": "Given the city's high concentration of corporate professionals and a growing technology sector, many residents may require sophisticated financial planning services, including retirement planning, investment management, and tax strategies. Additionally, with a diverse population and a sizeable percentage of high-net-worth individuals, there's a demand for personalized wealth management and estate planning services.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to the Bureau of Economic Analysis, Dallas's GDP was $579.7 billion in 2020. The city's economy is characterized by its broad industrial diversification and an increase in the tech and healthcare sectors."
+          "description": "As of 2020, the GDP of Dallas-Fort Worth-Arlington metro area was $613.4 billion, making it the fourth largest metro economy in the U.S. The economy of Dallas has grown by 22.5% over the last five years, exceeding the national growth rate of 17.7%."
         },
         {
           "title": "Wealth Demographics",
-          "description": "As per the U.S. Census data, the median household income in Dallas was $52,580 in 2019. Dallas is also home to a significant number of high-net-worth individuals, with over 50,000 households having over $1 million in investable assets, as per the Capgemini World Wealth Report."
+          "description": "The median household income in Dallas is $52,580. About 6.1% of Dallas households earn over $200,000 per year, which is lower than the national average of 8.9%. There are approximately 33,000 millionaire households in Dallas."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Financial advisors in Dallas typically specialize in wealth management, retirement planning, and estate planning, highlighting the city's aging population and substantial wealth. The growing tech sector also means some advisors are specialized in advising start-ups and tech sector employees."
+          "description": "Many financial advisors in Dallas specialize in retirement planning, wealth management, and estate planning. With a significant number of high-net-worth individuals and a growing economy, wealth management is a particularly important service."
         }
       ]
     },
@@ -83,21 +83,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "The cost of living in Dallas is slightly higher than the national average. According to Numbeo, the cost of living index in Dallas is 71.32 (excluding rent), compared to the national average index of 70.38."
+          "description": "The cost of living in Dallas is 2% lower than the national average. Housing costs, which make up a significant portion of the cost of living, are 9% below the national average. However, transportation costs are 9% above the national average."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow, as of February 2022, the median home value in Dallas is $262,570, with home values having gone up 21.7% over the past year."
+          "description": "The median home value in Dallas is $226,145. Home values have gone up 8.5% over the past year and are predicted to increase by 3.4% within the next year."
         },
         {
           "title": "Business Environment",
-          "description": "Dallas is a hub for business with more than 10,000 company headquarters, the largest concentration in the United States. Major industries include financial services, IT, defense, and telecommunications. The city has also seen a boom in startups in recent years, particularly in the tech sector."
+          "description": "Dallas is home to nine Fortune 500 companies including AT&T, Energy Transfer Equity, and Tenet Healthcare. The city also has a thriving startup scene, with a 92.6% increase in startup activity over the past year."
         }
       ]
     }
   ],
   "registeredAdvisors": "2,500+",
-  "averagePortfolio": "$1.5M",
-  "averageAumFee": "1.0%",
+  "averagePortfolio": "$1.3M",
+  "averageAumFee": "0.95%",
   "averageRating": "4.6/5.0"
 }
