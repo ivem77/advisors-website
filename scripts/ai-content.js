@@ -319,6 +319,10 @@ Generate data using this EXACT structure:
 6. uniqueNeeds: 1-2 concise sentences (STRICTLY MAX 200 characters - count characters carefully) based on most recent economic data
    CRITICAL: Must be under 200 characters including punctuation and spaces. Be very concise.
 
+7. citySpecificRiskAdvice: 1-2 sentences (MAX 150 characters) about risk management considerations specific to ${cityName} residents
+   Examples: "Given ${cityName}'s real estate volatility, diversify beyond property investments and maintain emergency funds."
+   Focus on: local economic factors, industry concentrations, cost of living, regional risks
+
 Use THE MOST RECENT DATA AVAILABLE for ${cityName}, ${state}. Prioritize 2023-2024 data when available, fall back to 2022 for older sources.
 
 Return ONLY valid JSON:
@@ -328,7 +332,8 @@ Return ONLY valid JSON:
   "majorIndustries": "string",
   "population": "string",
   "medianIncome": "string",
-  "uniqueNeeds": "string"
+  "uniqueNeeds": "string",
+  "citySpecificRiskAdvice": "string"
 }`;
 
   while (attempt <= maxAttempts) {
@@ -351,11 +356,11 @@ Return ONLY valid JSON:
 
       const landscapeData = JSON.parse(jsonStr);
       
-      // Validate structure
-      const requiredFields = ['heroDescription', 'landscapeDescription', 'majorIndustries', 'population', 'medianIncome', 'uniqueNeeds'];
-      if (!validateDataStructure(landscapeData, requiredFields)) {
-        throw new Error('Landscape data validation failed - missing required fields');
-      }
+          // Validate structure
+    const requiredFields = ['heroDescription', 'landscapeDescription', 'majorIndustries', 'population', 'medianIncome', 'uniqueNeeds', 'citySpecificRiskAdvice'];
+    if (!validateDataStructure(landscapeData, requiredFields)) {
+      throw new Error('Landscape data validation failed - missing required fields');
+    }
       
       // Validate character limits - reject if too long instead of truncating
       if (landscapeData.uniqueNeeds.length > 200) {
@@ -369,10 +374,23 @@ Return ONLY valid JSON:
         }
       }
       
+      if (landscapeData.citySpecificRiskAdvice.length > 150) {
+        if (attempt < maxAttempts) {
+          console.warn(`⚠️ Attempt ${attempt}: City-specific risk advice too long (${landscapeData.citySpecificRiskAdvice.length} chars), retrying...`);
+          attempt++;
+          continue;
+        } else {
+          console.error(`❌ City-specific risk advice still too long after ${maxAttempts} attempts (${landscapeData.citySpecificRiskAdvice.length} chars): "${landscapeData.citySpecificRiskAdvice}"`);
+          throw new Error(`City-specific risk advice exceeds 150 characters after ${maxAttempts} attempts. Manual intervention required.`);
+        }
+      }
+      
       console.log(`✅ Landscape data validation passed for ${cityName} (attempt ${attempt})`);
       return landscapeData;
     } catch (error) {
-      if (error.message.includes('Unique needs text exceeds 200 characters') && attempt < maxAttempts) {
+      if ((error.message.includes('Unique needs text exceeds 200 characters') || 
+           error.message.includes('City-specific risk advice exceeds 150 characters')) && 
+          attempt < maxAttempts) {
         attempt++;
         continue;
       }
