@@ -203,6 +203,9 @@ Return ONLY valid JSON:
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
+  let attempt = 1;
+  const maxAttempts = 3;
+  
   const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state} using ONLY the most recent available data from specified sources.
 
 REQUIRED SOURCES (use ONLY the newest data available):
@@ -234,7 +237,8 @@ Generate data using this EXACT structure:
 
 5. medianIncome: Most recent ACS data 2022-2023 (format: "$67,462") - THIS NUMBER MUST BE USED CONSISTENTLY IN ALL SECTIONS
 
-6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) based on most recent economic data
+6. uniqueNeeds: 1-2 concise sentences (STRICTLY MAX 200 characters - count characters carefully) based on most recent economic data
+   CRITICAL: Must be under 200 characters including punctuation and spaces. Be very concise.
 
 Use THE MOST RECENT DATA AVAILABLE for ${cityName}, ${state}. Prioritize 2023-2024 data when available, fall back to 2022 for older sources.
 
@@ -248,42 +252,54 @@ Return ONLY valid JSON:
   "uniqueNeeds": "string"
 }`;
 
-  try {
-    const response = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [{ role: "user", content: prompt }],
-      temperature: 0.3,
-      max_tokens: 800
-    });
+  while (attempt <= maxAttempts) {
+    try {
+      const response = await openai.chat.completions.create({
+        model: "gpt-4",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0.3,
+        max_tokens: 800
+      });
 
-    const content = response.choices[0].message.content.trim();
-    let jsonStr = content;
-    if (content.includes('```')) {
-      const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
-      if (jsonMatch) {
-        jsonStr = jsonMatch[1];
+      const content = response.choices[0].message.content.trim();
+      let jsonStr = content;
+      if (content.includes('```')) {
+        const jsonMatch = content.match(/```(?:json)?\s*([\s\S]*?)\s*```/);
+        if (jsonMatch) {
+          jsonStr = jsonMatch[1];
+        }
       }
-    }
 
-    const landscapeData = JSON.parse(jsonStr);
-    
-    // Validate structure
-    const requiredFields = ['heroDescription', 'landscapeDescription', 'majorIndustries', 'population', 'medianIncome', 'uniqueNeeds'];
-    if (!validateDataStructure(landscapeData, requiredFields)) {
-      throw new Error('Landscape data validation failed - missing required fields');
+      const landscapeData = JSON.parse(jsonStr);
+      
+      // Validate structure
+      const requiredFields = ['heroDescription', 'landscapeDescription', 'majorIndustries', 'population', 'medianIncome', 'uniqueNeeds'];
+      if (!validateDataStructure(landscapeData, requiredFields)) {
+        throw new Error('Landscape data validation failed - missing required fields');
+      }
+      
+      // Validate character limits - reject if too long instead of truncating
+      if (landscapeData.uniqueNeeds.length > 200) {
+        if (attempt < maxAttempts) {
+          console.warn(`⚠️ Attempt ${attempt}: Unique needs too long (${landscapeData.uniqueNeeds.length} chars), retrying...`);
+          attempt++;
+          continue;
+        } else {
+          console.error(`❌ Unique needs still too long after ${maxAttempts} attempts (${landscapeData.uniqueNeeds.length} chars): "${landscapeData.uniqueNeeds}"`);
+          throw new Error(`Unique needs text exceeds 200 characters after ${maxAttempts} attempts. Manual intervention required.`);
+        }
+      }
+      
+      console.log(`✅ Landscape data validation passed for ${cityName} (attempt ${attempt})`);
+      return landscapeData;
+    } catch (error) {
+      if (error.message.includes('Unique needs text exceeds 200 characters') && attempt < maxAttempts) {
+        attempt++;
+        continue;
+      }
+      console.error(`❌ Error generating landscape data for ${cityName}:`, error.message);
+      throw error;
     }
-    
-    // Validate character limits
-    if (landscapeData.uniqueNeeds.length > 200) {
-      console.warn(`⚠️ Unique needs too long (${landscapeData.uniqueNeeds.length} chars), truncating to 200`);
-      landscapeData.uniqueNeeds = landscapeData.uniqueNeeds.substring(0, 197) + '...';
-    }
-    
-    console.log(`✅ Landscape data validation passed for ${cityName}`);
-    return landscapeData;
-  } catch (error) {
-    console.error(`❌ Error generating landscape data for ${cityName}:`, error.message);
-    throw error;
   }
 }
 

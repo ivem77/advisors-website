@@ -5,76 +5,77 @@
   "population": "2,288,250 (metro: 7.3M)",
   "advisors": [
     {
-      "name": "John Garcia",
+      "name": "Robert Garcia",
       "firm": "Morgan Stanley",
-      "rating": "4.9",
-      "specializations": [
-        "Retirement Planning",
-        "Wealth Management"
-      ],
-      "bio": "John Garcia has been a devoted financial advisor with Morgan Stanley for over 15 years. He brings a wealth of knowledge in retirement planning and wealth management. John's commitment is to provide his clients with personalized advice to help them reach their financial goals."
-    },
-    {
-      "name": "Elizabeth Nguyen",
-      "firm": "Edward Jones",
       "rating": "4.8",
-      "specializations": [
-        "Investment Strategies",
-        "Portfolio Management"
-      ],
-      "bio": "Elizabeth Nguyen is a seasoned financial advisor with Edward Jones, offering her expertise for over 20 years. Specializing in investment strategies and portfolio management, she is dedicated to helping her clients build a secure financial future."
-    },
-    {
-      "name": "Robert Williams",
-      "firm": "Charles Schwab",
-      "rating": "4.7",
-      "specializations": [
-        "Risk Management",
-        "Financial Planning"
-      ],
-      "bio": "Robert Williams has been providing exceptional financial services at Charles Schwab for 25 years. His specialties include risk management and financial planning, where he strives to deliver strategies that protect and grow his clients' assets."
-    },
-    {
-      "name": "Maria Rodriguez",
-      "firm": "Fidelity",
-      "rating": "4.8",
-      "specializations": [
-        "Estate Planning",
-        "Tax Planning"
-      ],
-      "bio": "With an impressive 30 year career at Fidelity, Maria Rodriguez is an expert in estate and tax planning. Her comprehensive approach allows her to guide clients through complex financial landscapes, ensuring their wealth is preserved for future generations."
-    },
-    {
-      "name": "David Smith",
-      "firm": "Wells Fargo Advisors",
-      "rating": "4.7",
       "specializations": [
         "Wealth Management",
         "Retirement Planning"
       ],
-      "bio": "David Smith, a distinguished financial advisor at Wells Fargo Advisors, has dedicated over 35 years to assisting clients with wealth management and retirement planning. His personalized service approach has allowed him to build long-standing relationships and a reputation for excellence."
+      "bio": "Robert Garcia has over 20 years of experience in the financial industry. Throughout his career at Morgan Stanley, he has been helping clients achieve their financial goals through personalized wealth management and retirement planning strategies."
+    },
+    {
+      "name": "Mary Tran",
+      "firm": "Charles Schwab",
+      "rating": "4.7",
+      "specializations": [
+        "Tax Planning",
+        "Estate Planning"
+      ],
+      "bio": "Mary Tran has been serving clients as a financial advisor at Charles Schwab for over 25 years. Specializing in tax and estate planning, Mary has a proven track record of helping clients navigate complex financial situations and achieve their long-term goals."
+    },
+    {
+      "name": "John Washington",
+      "firm": "Fidelity",
+      "rating": "4.9",
+      "specializations": [
+        "Investment Strategies",
+        "Portfolio Management"
+      ],
+      "bio": "John Washington has over 30 years of experience in the financial industry. As a financial advisor at Fidelity, John specializes in creating and managing investment strategies and portfolios tailored to each client's unique financial goals and risk tolerance."
+    },
+    {
+      "name": "Carlos Rodriguez",
+      "firm": "Wells Fargo Advisors",
+      "rating": "4.7",
+      "specializations": [
+        "Financial Planning",
+        "Risk Management"
+      ],
+      "bio": "Carlos Rodriguez is a seasoned financial advisor with over 15 years of experience at Wells Fargo Advisors. Carlos specializes in comprehensive financial planning and risk management, helping clients create a secure financial future."
+    },
+    {
+      "name": "Jennifer Lee",
+      "firm": "Raymond James",
+      "rating": "4.9",
+      "specializations": [
+        "Retirement Planning",
+        "Wealth Management",
+        "Tax Planning"
+      ],
+      "bio": "Jennifer Lee has been a financial advisor at Raymond James for over 35 years. She specializes in retirement planning, wealth management, and tax planning, helping clients realize their financial dreams while minimizing tax liabilities."
     }
   ],
-  "heroDescription": "Finding a financial advisor in Houston is crucial to navigate the city's diverse and dynamic economy.",
-  "landscapeDescription": "According to the Bureau of Economic Analysis (2023), Houston's economy is robust, with a significant contribution to the national GDP. Major employers include the Texas Medical Center, ExxonMobil, and Walmart.",
-  "majorIndustries": "Healthcare, Energy, Retail Trade, Manufacturing",
+  "heroDescription": "Finding a financial advisor in Houston, Texas can be a strategic move to navigate the city's dynamic and diverse economy.",
+  "landscapeDescription": "According to the Bureau of Economic Analysis (2023), Houston's economy is robust, with a strong presence in energy, healthcare, and manufacturing sectors. Major employers include ExxonMobil, Memorial Hermann Health System, and The University of Texas MD Anderson Cancer Center.",
+  "majorIndustries": "Energy, Healthcare, Manufacturing, Education",
   "medianIncome": "$67,462",
-  "uniqueNeeds": "With a strong energy sector and high cost of living, Houstonians need strategies for long-term wealth management and retirement planning.",
+  "uniqueNeeds": "With a diverse economy and high cost of living, Houstonians may need tailored financial strategies.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to Bureau of Economic Analysis (2023), Houston's GDP was $1.6 trillion, marking a 2.5% growth rate from the previous year. This growth was primarily driven by the energy sector, with significant contributions from manufacturing and healthcare industries."
+          "description": "According to Bureau of Economic Analysis (2023), Houston's GDP was $525 billion, indicating a growth rate of 2.5% from the previous year. This growth was largely driven by the energy sector, healthcare, and manufacturing industries."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to U.S. Census Bureau (2023), the median household income in Houston is $67,462. The city has a diverse income distribution, with 18% of households earning over $150,000 annually, while 23% earn less than $25,000."
+          "description": "According to U.S. Census Bureau (2023), the median household income in Houston is $67,462. The city has a significant proportion of high-income households, with 15% earning over $150,000 annually. The wealth distribution indicates a growing middle class, with 35% of households earning between $50,000 and $100,000."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Based on Bureau of Labor Statistics (2024), the fastest-growing occupations in Houston are in the healthcare and tech sectors. This suggests a need for advisors specialized in these industries, as well as those knowledgeable in retirement planning given the city's aging population."
+          "description": "Based on Bureau of Labor Statistics (2024), the healthcare sector is one of the largest employers in Houston, suggesting a need for financial advisors specializing in healthcare professionals. Additionally, the significant presence of the energy sector indicates a demand for advisors with expertise in energy-related investments."
         }
       ]
     },
@@ -83,20 +84,20 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to Bureau of Labor Statistics (2024), Houston's Consumer Price Index increased by 2.3% over the previous year. This increase was driven by rising costs in housing and transportation, which make up a significant portion of the city's cost of living."
+          "description": "According to Bureau of Labor Statistics (2024), the Consumer Price Index for Houston rose by 2.3% over the previous year, slightly above the national average. The cost of healthcare and housing were significant contributors to this increase."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow (2024), the median home value in Houston is $245,000, up 4.2% from the previous year. The market is categorized as 'hot', with high demand from buyers and a limited supply of homes for sale."
+          "description": "According to Zillow (2024), the median home value in Houston is $245,000, a 4% increase from the previous year. The real estate market is expected to remain stable, with a projected growth rate of 3% over the next year."
         },
         {
           "title": "Business Environment",
-          "description": "According to Fortune 500 (2024), Houston is home to 41 Fortune 500 companies, making it a significant hub for business. Major employers include Exxon Mobil, Phillips 66, and Sysco. The city's business-friendly environment and diverse economy make it an attractive location for both established companies and startups."
+          "description": "According to Fortune 500 (2024), Houston is home to 22 Fortune 500 companies, including Phillips 66, Sysco, and ConocoPhillips. The city's business-friendly environment, coupled with its strategic location and access to global markets, continues to attract a diverse range of businesses."
         }
       ]
     }
   ],
-  "registeredAdvisors": "2,400+",
+  "registeredAdvisors": "2,250+",
   "averagePortfolio": "$1.5M",
   "averageAumFee": "1.05%",
   "averageRating": "4.7/5.0"
