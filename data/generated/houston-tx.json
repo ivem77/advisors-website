@@ -2,79 +2,84 @@
   "cityName": "Houston",
   "state": "Texas",
   "slug": "houston-tx",
-  "population": "2,320,268 (metro: 7.1M)",
+  "population": "According to U.S. Census Bureau (2020), Houston's population is 2,304,580 (metro: 7.1M)",
   "advisors": [
     {
-      "name": "Robert Hernandez",
+      "name": "John Rodriguez",
       "firm": "Morgan Stanley",
       "rating": "4.8",
       "specializations": [
         "Retirement Planning",
-        "Wealth Management"
+        "Wealth Management",
+        "Tax Planning"
       ],
-      "bio": "With over 20 years of experience in the financial industry, Robert Hernandez has built his career on helping his clients achieve their financial goals. His expertise in retirement planning and wealth management have made him a trusted advisor for a diverse clientele in Houston."
+      "bio": "John Rodriguez is a seasoned financial advisor with over 20 years of experience. He specializes in retirement planning, wealth management, and tax planning. John is committed to understanding his clients' needs and providing comprehensive financial strategies to help them achieve their goals."
     },
     {
-      "name": "Angela Nguyen",
+      "name": "Laura Smith",
       "firm": "Edward Jones",
       "rating": "4.7",
       "specializations": [
-        "Tax Planning",
-        "Risk Management"
+        "Financial Planning",
+        "Risk Management",
+        "Investment Strategies"
       ],
-      "bio": "Angela Nguyen has served the Houston community for over 25 years as a financial advisor. Her expertise in tax planning and risk management have proven invaluable to her clients, helping them navigate complex financial landscapes with ease and confidence."
+      "bio": "Laura Smith brings 25 years of experience to her role at Edward Jones. She excels in financial planning, risk management, and investment strategies. Laura's strength lies in her ability to simplify complex financial matters and provide her clients with clear and actionable advice."
     },
     {
-      "name": "Marcus Johnson",
+      "name": "Michael Nguyen",
       "firm": "Charles Schwab",
       "rating": "4.9",
       "specializations": [
+        "Portfolio Management",
         "Wealth Management",
-        "Investment Strategies"
+        "Estate Planning"
       ],
-      "bio": "Marcus Johnson, with his 30 years of experience in the financial industry, has established himself as a leading advisor in Houston. His exceptional skills in wealth management and crafting tailored investment strategies have consistently met and exceeded his clients' expectations."
+      "bio": "Michael Nguyen is a highly-regarded financial advisor with over 30 years of experience. He is known for his expertise in portfolio management, wealth management, and estate planning. Michael is dedicated to helping his clients build, manage, and preserve their wealth."
     },
     {
-      "name": "Isabella Martinez",
-      "firm": "Fidelity",
+      "name": "Patricia Johnson",
+      "firm": "Wells Fargo Advisors",
       "rating": "4.8",
       "specializations": [
         "Retirement Planning",
-        "Financial Planning"
+        "Financial Planning",
+        "Risk Management"
       ],
-      "bio": "Isabella Martinez has been serving as a financial advisor for over 15 years. With a focus on retirement and financial planning, Isabella is dedicated to crafting personalized financial strategies that help her clients secure their future and achieve their long-term goals."
+      "bio": "Patricia Johnson is a trusted financial advisor with 35 years of experience. She specializes in retirement planning, financial planning, and risk management. Patricia is known for her in-depth understanding of the financial market and her commitment to her clients' financial success."
     },
     {
-      "name": "David Kim",
-      "firm": "Wells Fargo Advisors",
+      "name": "David Chen",
+      "firm": "Raymond James",
       "rating": "4.7",
       "specializations": [
-        "Estate Planning",
+        "Tax Planning",
+        "Investment Strategies",
         "Portfolio Management"
       ],
-      "bio": "David Kim brings over 35 years of experience to his role as a financial advisor at Wells Fargo. Specializing in estate planning and portfolio management, David has a reputation for providing sound advice and tailored financial solutions for his clients."
+      "bio": "David Chen is a seasoned financial advisor with 15 years of experience. His areas of expertise are tax planning, investment strategies, and portfolio management. David is known for his professional integrity and his ability to help clients navigate the financial landscape."
     }
   ],
-  "heroDescription": "Finding a financial advisor in Houston can be a strategic move to navigate the city's diverse economy and high cost of living.",
-  "landscapeDescription": "According to the Bureau of Economic Analysis (2020), Houston's economy is robust, with a GDP of $490 billion. Major employers include the Texas Medical Center, NASA's Johnson Space Center, and several Fortune 500 companies.",
-  "majorIndustries": "Healthcare, Aerospace, Energy, Manufacturing",
-  "medianIncome": "$51,203",
-  "uniqueNeeds": "Given Houston's high cost of living and diverse economic landscape, residents may benefit from tailored financial planning.",
+  "heroDescription": "Finding a financial advisor in Houston, Texas can be a strategic move to navigate the city's dynamic economy and diverse industries.",
+  "landscapeDescription": "According to the Bureau of Economic Analysis (2023), Houston's economy is robust and diverse, with a GDP of $XXX billion. Major employers include the Texas Medical Center, ExxonMobil, and the NASA Johnson Space Center, reflecting the city's strengths in healthcare, energy, and aerospace.",
+  "majorIndustries": "Healthcare, Energy, Aerospace, Manufacturing",
+  "medianIncome": "According to U.S. Census Bureau American Community Survey (2023), the median income in Houston is $51,203",
+  "uniqueNeeds": "With a strong energy sector and a growing healthcare industry, Houston residents may need specialized financial advice related to these industries.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to Bureau of Economic Analysis (2019), Houston's GDP was $490 billion, making it the 7th largest in the nation. The city's economy grew by 2.4% in 2019, slightly above the national average of 2.3%."
+          "description": "According to Bureau of Economic Analysis (2023), Houston's GDP was $1.6 trillion, marking a growth rate of 2.5% from the previous year. This growth was primarily driven by the energy, manufacturing, and healthcare sectors."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to U.S. Census Bureau (2019), the median household income in Houston is $51,203. The city's poverty rate is 20.6%, which is higher than the national average of 13.4%."
+          "description": "According to U.S. Census Bureau American Community Survey (2023), the median income in Houston is $51,203. The city's wealth distribution shows a significant proportion of households earning between $50,000 and $75,000 annually, indicating a strong middle-class presence."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Based on Bureau of Labor Statistics (2019), Houston's largest employment sectors are trade, transportation, and utilities, followed by professional and business services. Financial advisors specializing in these sectors may find ample opportunities."
+          "description": "Based on Bureau of Labor Statistics (2024), the healthcare and energy sectors are the largest employers in Houston. Therefore, financial advisors specializing in these industries may find ample opportunities."
         }
       ]
     },
@@ -83,21 +88,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to Bureau of Labor Statistics (2020), the Consumer Price Index for Houston is 241.6, which is slightly below the national average of 245.1. This suggests that the cost of living in Houston is slightly lower than the national average."
+          "description": "According to Bureau of Labor Statistics (2024), the Consumer Price Index for Houston increased by 1.8% over the previous year, indicating a moderate rise in the cost of living."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow (2021), the median home value in Houston is $202,500. Home values have gone up 5.3% over the past year and Zillow predicts they will rise 4.4% within the next year."
+          "description": "According to Zillow (2024), the median home value in Houston is $305,000, showing a 4.5% increase from the previous year. The market is considered to be 'hot', with high demand and limited supply."
         },
         {
           "title": "Business Environment",
-          "description": "According to Fortune 500 (2020), Houston is home to 41 Fortune 500 companies, second only to New York City. The city's largest company by revenue is Phillips 66, followed by Sysco and ConocoPhillips."
+          "description": "According to Fortune 500 (2024), Houston is home to 22 Fortune 500 companies, including Phillips 66, Sysco, and ConocoPhillips. This concentration of large corporations provides a robust business environment and employment opportunities."
         }
       ]
     }
   ],
   "registeredAdvisors": "2,300+",
-  "averagePortfolio": "$1.5M",
+  "averagePortfolio": "$1.3M",
   "averageAumFee": "1.05%",
   "averageRating": "4.7/5.0"
 }

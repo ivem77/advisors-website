@@ -144,31 +144,31 @@ Return as valid JSON array with exactly this structure:
 async function generateCityStats(cityName, state, population) {
   console.log(`📊 Generating city statistics for ${cityName}, ${state}...`);
   
-  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} using industry standards and verified sources.
+  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} using current industry standards and most recent verified sources.
 
 REQUIRED APPROACH:
-- Use actual market characteristics and city size for scaling
-- Base estimates on verified industry reports and market analysis
-- Ensure numbers are realistic and proportional to ${cityName}'s economic profile
+- Use most recent market characteristics and city size for scaling (2023-2024 data when available)
+- Base estimates on verified recent industry reports and market analysis
+- Ensure numbers are realistic and proportional to ${cityName}'s current economic profile
 
-SCALING GUIDELINES based on ${cityName}'s verified market size:
-1. registeredAdvisors: Scale based on population and wealth demographics
-   - Research actual advisor density in similar markets
+SCALING GUIDELINES based on ${cityName}'s verified recent market size:
+1. registeredAdvisors: Scale based on most recent population and wealth demographics
+   - Research actual advisor density in similar markets from recent data
    - Format: "2,100+" or "1,850+"
 
-2. averagePortfolio: Base on actual median income and wealth data for ${cityName}
-   - Use realistic ranges based on verified demographic data
+2. averagePortfolio: Base on most recent median income and wealth data for ${cityName}
+   - Use realistic ranges based on verified recent demographic data
    - Format: "$1.2M" (typical range: $800K-$2.5M)
 
-3. averageAumFee: Use standard industry rates from verified sources
-   - Reference actual market competition levels in ${cityName}
+3. averageAumFee: Use standard current industry rates from verified recent sources
+   - Reference actual current market competition levels in ${cityName}
    - Format: "0.95%" (typical range: 0.75%-1.25%)
 
-4. averageRating: Use realistic advisor rating distributions
-   - Base on actual review platform data patterns
+4. averageRating: Use realistic advisor rating distributions from recent platforms
+   - Base on actual recent review platform data patterns
    - Format: "4.6/5.0" (typical range: 4.3-4.8/5.0)
 
-Research ${cityName}'s actual market characteristics, competition levels, and wealth demographics to provide realistic estimates.
+Research ${cityName}'s most recent market characteristics, current competition levels, and recent wealth demographics to provide realistic 2023-2024 estimates.
 
 Return ONLY valid JSON:
 {
@@ -203,35 +203,35 @@ Return ONLY valid JSON:
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
-  const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state} using ONLY the specified sources below.
+  const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state} using ONLY the most recent available data from specified sources.
 
-REQUIRED SOURCES (use ONLY these):
-- Population: U.S. Census Bureau 2020 estimates
-- Median Income: U.S. Census Bureau American Community Survey (most recent available year)
-- GDP/Economic: Bureau of Economic Analysis (BEA) most recent data
-- Industries: Bureau of Labor Statistics (BLS) employment data
-- Cost of Living: Bureau of Labor Statistics Consumer Price Index
-- Real Estate: Zillow Home Value Index or similar verified source
+REQUIRED SOURCES (use ONLY the newest data available):
+- Population: U.S. Census Bureau 2020 Census or most recent estimates (2023 if available)
+- Median Income: U.S. Census Bureau American Community Survey 2022-2023 (use the MOST RECENT year available)
+- GDP/Economic: Bureau of Economic Analysis 2023 data (most recent available)
+- Industries: Bureau of Labor Statistics 2023-2024 employment data
+- Cost of Living: Bureau of Labor Statistics 2023-2024 Consumer Price Index
+- Real Estate: Zillow 2024 data or most current available
 
-IMPORTANT: Use the EXACT SAME median income value throughout ALL sections. This number MUST be consistent everywhere.
+IMPORTANT: Use the EXACT SAME median income value throughout ALL sections. Always specify the MOST RECENT year available for each source.
 
-CITATION FORMAT: Always format as "According to [Source] ([Year]), [specific data]"
+CITATION FORMAT: Always format as "According to [Source] ([MOST RECENT YEAR]), [specific data]"
 
 Generate data using this EXACT structure:
 
 1. heroDescription: 1-2 professional sentences about finding financial advisors in ${cityName}
 
-2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy using verified major employers and economic facts
+2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy using verified major employers and most recent economic facts
 
-3. majorIndustries: Top 3-4 actual industries from BLS employment data (format: "Industry1, Industry2, Industry3, Industry4")
+3. majorIndustries: Top 3-4 actual industries from most recent BLS employment data (format: "Industry1, Industry2, Industry3, Industry4")
 
-4. population: Real Census data (format: "1,234,567 (metro: 2.3M)")
+4. population: Most recent Census data (format: "1,234,567 (metro: 2.3M)")
 
-5. medianIncome: Exact ACS data (format: "$67,462") - THIS NUMBER MUST BE USED CONSISTENTLY IN ALL SECTIONS
+5. medianIncome: Most recent ACS data 2022-2023 (format: "$67,462") - THIS NUMBER MUST BE USED CONSISTENTLY IN ALL SECTIONS
 
-6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) based on actual economic data
+6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) based on most recent economic data
 
-Research ${cityName}, ${state} and use verified data from the required sources.
+Use THE MOST RECENT DATA AVAILABLE for ${cityName}, ${state}. Prioritize 2023-2024 data when available, fall back to 2022 for older sources.
 
 Return ONLY valid JSON:
 {
@@ -285,37 +285,40 @@ Return ONLY valid JSON:
 async function generateMarketInsights(cityName, state, medianIncome) {
   console.log(`💡 Generating market insights for ${cityName}, ${state}...`);
   
-  const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state} using ONLY verified sources.
+  const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state} using ONLY the most recent verified sources available.
 
-REQUIRED SOURCES (use ONLY these and cite them):
-- Economic Data: Bureau of Economic Analysis (BEA) for GDP/growth data  
-- Demographics: U.S. Census Bureau for population/income data
-- Real Estate: Zillow Home Value Index for housing market data
-- Cost of Living: Bureau of Labor Statistics (BLS) Consumer Price Index
-- Business: Fortune 500 lists, verified company headquarters data
-- Employment: Bureau of Labor Statistics employment statistics
+REQUIRED SOURCES (use ONLY the newest data available):
+- Economic Data: Bureau of Economic Analysis 2023 GDP/growth data (most recent available)
+- Demographics: U.S. Census Bureau American Community Survey 2022-2023 data 
+- Real Estate: Zillow 2024 data or most current home value/market data available
+- Cost of Living: Bureau of Labor Statistics 2023-2024 Consumer Price Index data
+- Business: Fortune 500 2023-2024 lists, verified company headquarters data
+- Employment: Bureau of Labor Statistics 2023-2024 employment statistics
 
 CRITICAL CONSISTENCY RULE: The median household income for ${cityName} is ${medianIncome}. 
-If you mention median income ANYWHERE, use EXACTLY this number and cite the same source.
+If you mention median income ANYWHERE, use EXACTLY this number and cite the same recent source.
 
-CITATION REQUIREMENT: Every description must start with EXACTLY this format: "According to [Source] (YEAR), [data]..." or "Based on [Source] (YEAR), [data]..."
+CITATION REQUIREMENT: Every description must start with EXACTLY this format using the MOST RECENT YEAR available: "According to [Source] (RECENT YEAR), [data]..." or "Based on [Source] (RECENT YEAR), [data]..."
 EXAMPLES:
-- "According to Bureau of Economic Analysis (2021), Houston's GDP was..."
-- "Based on U.S. Census Bureau (2020), the median household income..."
+- "According to Bureau of Economic Analysis (2023), ${cityName}'s GDP was..."
+- "Based on U.S. Census Bureau (2023), the median household income..."
+- "According to Zillow (2024), the median home value..."
 
-Generate insights with this EXACT structure and required sources:
+Generate insights with this EXACT structure using the MOST RECENT data available:
 
 Market Insights:
-- Economic Growth: Use BEA data for GDP, growth rates, economic developments
-- Wealth Demographics: Use Census data - if mentioning median income, use EXACTLY ${medianIncome} from same source/year
-- Advisor Specializations: Use employment data to infer advisor specialization needs
+- Economic Growth: Use BEA 2023 data for GDP, growth rates, economic developments
+- Wealth Demographics: Use Census 2022-2023 data - if mentioning median income, use EXACTLY ${medianIncome} from same recent source/year
+- Advisor Specializations: Use BLS 2023-2024 employment data to infer advisor specialization needs
 
 Local Considerations:  
-- Cost of Living: Use BLS Consumer Price Index data with specific numbers
-- Real Estate Market: Use Zillow data with specific home values and trends
-- Business Environment: Use verified Fortune 500 data, major employer facts
+- Cost of Living: Use BLS 2023-2024 Consumer Price Index data with specific recent numbers
+- Real Estate Market: Use Zillow 2024 data with specific recent home values and trends
+- Business Environment: Use Fortune 500 2023-2024 data, verified recent major employer facts
 
-Return as valid JSON with consistent source citations:
+Prioritize 2023-2024 data when available. Use the MOST RECENT verified data for ${cityName}, ${state}.
+
+Return as valid JSON with consistent recent source citations:
 {
   "insights": [
     {
@@ -323,15 +326,15 @@ Return as valid JSON with consistent source citations:
       "sections": [
         {
           "title": "Economic Growth", 
-          "description": "According to Bureau of Economic Analysis (YEAR), [specific data]..."
+          "description": "According to Bureau of Economic Analysis (2023), [specific recent data]..."
         },
         {
           "title": "Wealth Demographics", 
-          "description": "According to U.S. Census Bureau (YEAR), the median household income in ${cityName} is ${medianIncome}. [Additional verified data]..."
+          "description": "According to U.S. Census Bureau (2022 or 2023), the median household income in ${cityName} is ${medianIncome}. [Additional recent verified data]..."
         },
         {
           "title": "Advisor Specializations", 
-          "description": "Based on BLS employment data, [specific info]..."
+          "description": "Based on Bureau of Labor Statistics (2023 or 2024), [specific recent info]..."
         }
       ]
     },
@@ -340,15 +343,15 @@ Return as valid JSON with consistent source citations:
       "sections": [
         {
           "title": "Cost of Living", 
-          "description": "According to Bureau of Labor Statistics (YEAR), [specific data]..."
+          "description": "According to Bureau of Labor Statistics (2023 or 2024), [specific recent data]..."
         },
         {
           "title": "Real Estate Market", 
-          "description": "According to Zillow (YEAR), [specific data]..."
+          "description": "According to Zillow (2024), [specific recent data]..."
         },
         {
           "title": "Business Environment", 
-          "description": "According to Fortune 500/verified sources, [specific data]..."
+          "description": "According to Fortune 500 (2023 or 2024)/verified recent sources, [specific recent data]..."
         }
       ]
     }

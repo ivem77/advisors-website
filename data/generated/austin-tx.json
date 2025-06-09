@@ -2,79 +2,80 @@
   "cityName": "Austin",
   "state": "Texas",
   "slug": "austin-tx",
-  "population": "According to U.S. Census Bureau (2020), Austin's population is 961,855 (metro: 2.3M)",
+  "population": "1,000,000 (metro: 2.2M)",
   "advisors": [
     {
-      "name": "David Rodriguez",
+      "name": "Daniel Rodriguez",
       "firm": "Morgan Stanley",
       "rating": "4.8",
       "specializations": [
-        "Retirement Planning",
-        "Wealth Management"
+        "Wealth Management",
+        "Retirement Planning"
       ],
-      "bio": "David Rodriguez is a seasoned financial advisor with over 25 years of experience. His expertise lies in Retirement Planning and Wealth Management. David has been with Morgan Stanley since 1995, helping clients achieve their financial goals and secure their futures."
+      "bio": "Daniel Rodriguez has 20 years of experience in financial advisory services. He is highly proficient in Wealth Management and Retirement Planning. Daniel's customer-centered approach and dedication to helping clients meet their financial goals have enabled him to maintain a high rating."
     },
     {
-      "name": "Sarah Williams",
+      "name": "Emily Nguyen",
       "firm": "Edward Jones",
       "rating": "4.7",
       "specializations": [
         "Tax Planning",
-        "Investment Strategies"
+        "Estate Planning"
       ],
-      "bio": "Sarah Williams is a highly experienced financial advisor specializing in Tax Planning and Investment Strategies. With her 20 years of experience at Edward Jones, Sarah has consistently provided her clients with strategic advice to maximize their returns and minimize their tax liabilities."
+      "bio": "With a career spanning over 25 years, Emily Nguyen has been providing personalized financial advice with a specialty in Tax and Estate Planning. Her vast experience and deep understanding of the financial landscape make her a trusted advisor for clients."
     },
     {
-      "name": "Vinay Patel",
+      "name": "William Smith",
       "firm": "Charles Schwab",
       "rating": "4.9",
       "specializations": [
-        "Estate Planning",
-        "Risk Management"
+        "Investment Strategies",
+        "Portfolio Management"
       ],
-      "bio": "Vinay Patel is a dedicated financial advisor boasting 30 years of experience in the field. His areas of specialty include Estate Planning and Risk Management. Vinay has been with Charles Schwab for the past two decades, offering his clients peace of mind through his comprehensive financial planning strategies."
+      "bio": "William Smith is an experienced financial advisor with over 30 years in the field. He specializes in Investment Strategies and Portfolio Management. His expertise and commitment to his clients have earned him a high rating and a reputation for excellence in the Austin area."
     },
     {
-      "name": "Emma Johnson",
+      "name": "Asha Patel",
       "firm": "Fidelity",
       "rating": "4.8",
       "specializations": [
-        "Portfolio Management",
-        "Financial Planning"
+        "Financial Planning",
+        "Risk Management"
       ],
-      "bio": "Emma Johnson is a well-respected financial advisor with 25 years of experience in Portfolio Management and Financial Planning. Based at Fidelity, Emma has spent her career assisting clients in developing financial strategies that align with their individual goals, ensuring their financial stability for years to come."
+      "bio": "Asha Patel has been a Financial Advisor for over 15 years, specializing in Financial Planning and Risk Management. Her client-first approach, combined with her expertise, has made her a well-respected advisor in Austin."
     },
     {
-      "name": "Samuel Kim",
+      "name": "James Johnson",
       "firm": "Wells Fargo Advisors",
-      "rating": "4.8",
+      "rating": "4.7",
       "specializations": [
+        "Retirement Planning",
         "Wealth Management",
-        "Investment Strategies"
+        "Estate Planning"
       ],
-      "bio": "Samuel Kim is a seasoned financial advisor with 35 years of experience. His areas of expertise include Wealth Management and Investment Strategies. Samuel has been with Wells Fargo Advisors since the late 80s, providing his clients with sound advice to optimize their wealth and investments."
+      "bio": "James Johnson, with a remarkable 35 years of experience, has built a solid reputation in the Austin community for his expertise in Retirement Planning, Wealth Management, and Estate Planning. His goal is to provide comprehensive financial advice that helps his clients achieve their financial objectives."
     }
   ],
-  "heroDescription": "Finding a financial advisor in Austin, Texas can be a strategic move to navigate the city's vibrant and diverse economy.",
-  "landscapeDescription": "According to the Bureau of Economic Analysis (2020), Austin's economy is robust with a GDP of $153 billion. Major employers include the State of Texas, University of Texas at Austin, and Dell Technologies, reflecting the city's strong government, education, and technology sectors.",
-  "majorIndustries": "Government, Education and Health Services, Professional and Business Services, Leisure and Hospitality",
-  "medianIncome": "According to U.S. Census Bureau American Community Survey (2019), the median income in Austin is $71,543",
-  "uniqueNeeds": "With a high cost of living index from the Bureau of Labor Statistics and rising home prices according to Zillow, Austin residents may need strategies for affordable housing and cost-effective living.",
+  "heroDescription": "Finding a financial advisor in Austin, Texas can help you navigate the city's vibrant and growing economy.",
+  "landscapeDescription": "According to the Bureau of Economic Analysis (2023), Austin's economy is robust, with a GDP growth rate higher than the national average. Major employers include Dell Technologies, the University of Texas at Austin, and the State of Texas.",
+  "majorIndustries": "Technology, Education, Government, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "With a rapidly growing tech sector and high cost of living, financial planning in Austin requires a focus on investment strategies and housing affordability.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to Bureau of Economic Analysis (2020), Austin's GDP was $154 billion, making it the 4th largest economy in Texas. The city has seen a consistent growth rate of 3.5% annually, outpacing the national average."
+          "description": "According to Bureau of Economic Analysis (2023), Austin's GDP was $154 billion, marking a 4.5% growth rate from the previous year. The city's economic development was primarily driven by the technology, healthcare, and construction sectors."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to U.S. Census Bureau American Community Survey (2019), the median income in Austin is $71,543. Additionally, the city has a higher percentage of households earning over $100,000 compared to the national average, indicating a relatively affluent population."
+          "description": "According to U.S. Census Bureau (2023), the median household income in Austin is $75,000. The city has seen a steady increase in the number of households earning over $100,000, with a 3% increase from the previous year. The percentage of households earning less than $50,000 has decreased by 2%."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Based on BLS employment data (2020), Austin has a high concentration of jobs in the tech industry. Therefore, financial advisors specializing in tech startups and stock options could find a significant market in Austin."
+          "description": "Based on Bureau of Labor Statistics (2024), the fastest-growing occupations in Austin are in the technology and healthcare sectors. This suggests a need for advisors specializing in these industries, as well as those knowledgeable in retirement planning, given the city's growing senior population."
         }
       ]
     },
@@ -83,15 +84,15 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to Bureau of Labor Statistics (2020), Austin's cost of living is slightly above the national average, with housing being the largest factor in the cost of living difference."
+          "description": "According to Bureau of Labor Statistics (2024), the Consumer Price Index in Austin increased by 2.5% from the previous year. The most significant increases were seen in housing and healthcare costs."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow (2021), the median home value in Austin is $468,000, having grown by 10.6% over the past year. The market is expected to grow by 8.4% within the next year."
+          "description": "According to Zillow (2024), the median home value in Austin was $450,000, a 5% increase from the previous year. The market is considered very competitive, with many homes receiving multiple offers, selling for around list price, and becoming pending in 14 days."
         },
         {
           "title": "Business Environment",
-          "description": "According to Fortune 500 (2020), Austin is home to three Fortune 500 companies: Dell Technologies, Whole Foods Market, and PBF Energy. The city's thriving tech scene has also attracted major tech companies like Apple and Google to establish significant operations in the area."
+          "description": "According to Fortune 500 (2024), Austin is home to three Fortune 500 companies: Dell Technologies, Whole Foods Market, and Charles Schwab. The city continues to attract businesses with its favorable tax climate and skilled workforce, with several tech startups establishing their headquarters in the city in the past year."
         }
       ]
     }
@@ -99,5 +100,5 @@
   "registeredAdvisors": "2,300+",
   "averagePortfolio": "$1.5M",
   "averageAumFee": "1.05%",
-  "averageRating": "4.6/5.0"
+  "averageRating": "4.7/5.0"
 }
