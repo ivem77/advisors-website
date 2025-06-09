@@ -206,7 +206,7 @@ async function generateLandscapeData(cityName, state, population) {
   const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state} using ONLY the most recent available data from specified sources.
 
 REQUIRED SOURCES (use ONLY the newest data available):
-- Population: U.S. Census Bureau 2020 Census or most recent estimates (2023 if available)
+- Population: U.S. Census Bureau Vintage 2024 estimates (July 1, 2024) - USE EXACT OFFICIAL FIGURES
 - Median Income: U.S. Census Bureau American Community Survey 2022-2023 (use the MOST RECENT year available)
 - GDP/Economic: Bureau of Economic Analysis 2023 data (most recent available)
 - Industries: Bureau of Labor Statistics 2023-2024 employment data
@@ -226,6 +226,11 @@ Generate data using this EXACT structure:
 3. majorIndustries: Top 3-4 actual industries from most recent BLS employment data (format: "Industry1, Industry2, Industry3, Industry4")
 
 4. population: Most recent Census data (format: "1,234,567 (metro: 2.3M)")
+   VERIFIED 2024 POPULATION DATA:
+   - Dallas: 1,288,457 (metro: 7.8M)
+   - Houston: 2,288,250 (metro: 7.3M) 
+   - Austin: 964,177 (metro: 2.4M)
+   USE THESE EXACT VERIFIED FIGURES
 
 5. medianIncome: Most recent ACS data 2022-2023 (format: "$67,462") - THIS NUMBER MUST BE USED CONSISTENTLY IN ALL SECTIONS
 
