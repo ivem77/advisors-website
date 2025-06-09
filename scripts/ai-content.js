@@ -125,7 +125,7 @@ IMPORTANT: Use actual, real data that can be fact-checked. Do not make up number
 
 5. medianIncome: Use the EXACT SAME actual median household income data for ${cityName} from the most recent U.S. Census Bureau American Community Survey (format: "$67,462"). This number MUST match exactly in all other sections.
 
-6. uniqueNeeds: 2-3 sentences about specific financial planning needs based on ${cityName}'s actual economic characteristics and demographics
+6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) about specific financial planning needs based on ${cityName}'s actual economic characteristics and demographics
 
 Research and use real data for ${cityName}, ${state}. Be factual and accurate.
 

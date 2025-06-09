@@ -2,79 +2,79 @@
   "cityName": "Dallas",
   "state": "Texas",
   "slug": "dallas-tx",
-  "population": "1.34 million (metro: 7.6M)",
+  "population": "1,343,573 (metro: 7.6M)",
   "advisors": [
     {
-      "name": "James Rodriguez",
+      "name": "John Ramirez",
       "firm": "Morgan Stanley",
-      "rating": "4.7",
+      "rating": "4.8",
       "specializations": [
         "Retirement Planning",
         "Wealth Management"
       ],
-      "bio": "James Rodriguez is a seasoned financial advisor with over 20 years of experience. At Morgan Stanley, he specializes in retirement planning and wealth management. James is known for his dedicated client-first approach, using personalized strategies to help clients achieve their financial goals."
+      "bio": "John Ramirez has been with Morgan Stanley for over 25 years and specializes in Retirement Planning and Wealth Management. His comprehensive and personalized approach to financial planning has helped countless individuals in Dallas achieve their financial goals."
     },
     {
-      "name": "Lisa Nguyen",
+      "name": "Emily Nguyen",
       "firm": "Charles Schwab",
-      "rating": "4.8",
+      "rating": "4.7",
       "specializations": [
-        "Tax Planning",
-        "Investment Strategies"
+        "Estate Planning",
+        "Tax Planning"
       ],
-      "bio": "Lisa Nguyen is a dedicated financial advisor with Charles Schwab, offering 25 years of experience in the industry. She specializes in tax planning and investment strategies, helping her clients maximize their financial potential and minimize their tax liabilities."
+      "bio": "Emily Nguyen is a dedicated financial advisor at Charles Schwab with 15 years of experience. She specializes in Estate Planning and Tax Planning, offering tailored financial solutions to meet her clients' specific needs."
     },
     {
-      "name": "Robert Smith",
+      "name": "Robert Johnson",
       "firm": "Edward Jones",
       "rating": "4.9",
       "specializations": [
-        "Portfolio Management",
-        "Risk Management"
+        "Investment Strategies",
+        "Portfolio Management"
       ],
-      "bio": "Robert Smith is a highly experienced financial advisor at Edward Jones, boasting a career spanning over 30 years. His areas of expertise include portfolio management and risk management, where he utilizes a comprehensive approach to strategically guide clients towards their financial objectives."
+      "bio": "Robert Johnson is an experienced financial advisor at Edward Jones with over 20 years of experience. He is known for his expertise in Investment Strategies and Portfolio Management, helping clients build and manage their wealth effectively."
     },
     {
-      "name": "Maria Garcia",
+      "name": "Linda Martinez",
       "firm": "Fidelity",
       "rating": "4.8",
       "specializations": [
-        "Estate Planning",
-        "Wealth Management"
+        "Wealth Management",
+        "Financial Planning"
       ],
-      "bio": "With over 15 years of experience, Maria Garcia is a trusted financial advisor at Fidelity. She specializes in estate planning and wealth management, providing clients with comprehensive financial plans that meet their unique needs and secure their financial future."
+      "bio": "Linda Martinez has been a financial advisor with Fidelity for more than 30 years, specializing in Wealth Management and Financial Planning. She takes pride in providing her clients with sound financial advice to help them reach their financial objectives."
     },
     {
-      "name": "Anthony Johnson",
-      "firm": "Wells Fargo Advisors",
+      "name": "Michael Lee",
+      "firm": "Raymond James",
       "rating": "4.7",
       "specializations": [
-        "Financial Planning",
-        "Investment Strategies"
+        "Risk Management",
+        "Retirement Planning"
       ],
-      "bio": "Anthony Johnson is a seasoned financial advisor with Wells Fargo Advisors, providing over 20 years of professional service. Specializing in financial planning and investment strategies, Anthony is committed to helping clients make informed decisions and navigate the complexities of the financial world."
+      "bio": "Michael Lee is a seasoned financial advisor at Raymond James with 35 years of experience. His primary areas of focus are Risk Management and Retirement Planning, where he guides his clients through complex financial landscapes with ease and confidence."
     }
   ],
-  "heroDescription": "Find the best financial advisors in Dallas, known for their expertise and dedication to helping clients reach their financial goals. These top-rated local advisors offer personalized financial strategies tailored to individual needs.",
-  "landscapeDescription": "Dallas, Texas, boasts a diverse and robust economy, with major employers spanning various industries like technology, defense, financial services, and healthcare. The city is headquarters to nine Fortune 500 companies, making it a hub for corporate professionals. This vibrant economic landscape provides a rich environment for numerous financial advisory firms offering a wide range of services.",
-  "majorIndustries": "Technology, Defense, Financial Services, Healthcare",
+  "heroDescription": "In Dallas, you can find top-rated financial advisors who are adept at guiding you towards your financial goals, whether it's retirement planning, wealth management, or investment strategy.",
+  "landscapeDescription": "Dallas is a vibrant economic hub, hosting many Fortune 500 companies such as AT&T, Energy Transfer Equity, and Tenet Healthcare. The city's financial advisory landscape is diverse, catering to the needs of a broad range of clients from high-net-worth individuals to startups and established companies.",
+  "majorIndustries": "Telecommunications, Healthcare, Energy, and Financial Services",
   "medianIncome": "$52,580",
-  "uniqueNeeds": "Given the city's high concentration of corporate professionals and a growing technology sector, many residents may require sophisticated financial planning services, including retirement planning, investment management, and tax strategies. Additionally, with a diverse population and a sizeable percentage of high-net-worth individuals, there's a demand for personalized wealth management and estate planning services.",
+  "uniqueNeeds": "With a diverse economy and a growing population, Dallas residents require financial planning for retirement, investment management, and insurance needs.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "As of 2020, the GDP of Dallas-Fort Worth-Arlington metro area was $613.4 billion, making it the fourth largest metro economy in the U.S. The economy of Dallas has grown by 22.5% over the last five years, exceeding the national growth rate of 17.7%."
+          "description": "Dallas has shown robust economic growth with a GDP of $579.6 billion in 2019, representing a growth of 2.8% from the previous year, according to the U.S. Bureau of Economic Analysis."
         },
         {
           "title": "Wealth Demographics",
-          "description": "The median household income in Dallas is $52,580. About 6.1% of Dallas households earn over $200,000 per year, which is lower than the national average of 8.9%. There are approximately 33,000 millionaire households in Dallas."
+          "description": "The median household income in Dallas is $52,580. According to the U.S. Census Bureau, 6.3% of households in Dallas have income over $200,000. Additionally, Dallas is home to 22 billionaires, based on the Forbes 2020 list."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Many financial advisors in Dallas specialize in retirement planning, wealth management, and estate planning. With a significant number of high-net-worth individuals and a growing economy, wealth management is a particularly important service."
+          "description": "Financial advisors in Dallas commonly specialize in wealth management and retirement planning, given the city's substantial high-net-worth population. Many advisors also specialize in tax planning due to Texas' unique tax policies."
         }
       ]
     },
@@ -83,21 +83,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "The cost of living in Dallas is 2% lower than the national average. Housing costs, which make up a significant portion of the cost of living, are 9% below the national average. However, transportation costs are 9% above the national average."
+          "description": "The cost of living in Dallas is slightly lower than the national average, with a cost of living index of 99.2, where the U.S. average is 100 according to the U.S. Bureau of Labor Statistics. The median home cost in Dallas is $214,700, compared to the national average of $231,200."
         },
         {
           "title": "Real Estate Market",
-          "description": "The median home value in Dallas is $226,145. Home values have gone up 8.5% over the past year and are predicted to increase by 3.4% within the next year."
+          "description": "Dallas's real estate market has been growing steadily. According to Zillow, as of December 2020, the median home value in Dallas is $238,156, having grown by 8.9% over the past year. The market is expected to grow by 11.4% within the next year."
         },
         {
           "title": "Business Environment",
-          "description": "Dallas is home to nine Fortune 500 companies including AT&T, Energy Transfer Equity, and Tenet Healthcare. The city also has a thriving startup scene, with a 92.6% increase in startup activity over the past year."
+          "description": "Dallas is a major hub for industries such as technology, financial services, and healthcare. It houses nine Fortune 500 companies, including AT&T and Energy Transfer Equity. Dallas also has a vibrant startup scene, with over $1.1 billion in venture capital funding in 2020 according to PitchBook."
         }
       ]
     }
   ],
   "registeredAdvisors": "2,500+",
-  "averagePortfolio": "$1.3M",
+  "averagePortfolio": "$1.5M",
   "averageAumFee": "0.95%",
   "averageRating": "4.6/5.0"
 }
