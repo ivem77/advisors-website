@@ -31,6 +31,56 @@ function validateCrossCityData(cityName, businessDescription) {
   return true;
 }
 
+function validateSuspiciousData(cityName, data) {
+  const text = JSON.stringify(data).toLowerCase();
+  
+  // Check for overly precise fabricated-looking statistics
+  const suspiciousPatterns = [
+    /gdp was \$[\d,]+\.[\d] billion/i, // Overly precise GDP
+    /growth.*of.*[\d]+\.[\d]{2,}%/i,   // Overly precise percentages
+    /increased.*by.*[\d]+\.[\d]{2,}%/i, // Overly precise increases
+    /[\d]+\.[\d]{3,}%/i,               // Numbers with 3+ decimal places
+  ];
+  
+  const foundSuspicious = [];
+  for (const pattern of suspiciousPatterns) {
+    const matches = text.match(pattern);
+    if (matches) {
+      foundSuspicious.push(matches[0]);
+    }
+  }
+  
+  if (foundSuspicious.length > 0) {
+    console.warn(`⚠️ ${cityName}: Suspicious overly-precise data detected: ${foundSuspicious.join(', ')}`);
+    // Don't throw error, just warn for now
+  }
+  
+  return true;
+}
+
+function validateEconomicClaims(cityName, insights) {
+  for (const category of insights) {
+    for (const section of category.sections) {
+      const desc = section.description;
+      
+      // Check for unrealistic economic claims
+      const unrealisticPatterns = [
+        /gdp.*\$[\d,]+\.[\d] billion.*growth.*[\d]+\.[\d]{2,}%/i, // Overly specific GDP + growth
+        /home.*value.*\$[\d,]+,[\d]{3}/i, // Overly precise home values
+        /median.*\$[\d,]+,[\d]{3}/i,      // Overly precise medians (not income)
+      ];
+      
+      for (const pattern of unrealisticPatterns) {
+        if (desc.match(pattern)) {
+          console.warn(`⚠️ ${cityName}: Potentially unrealistic economic claim in ${section.title}: ${desc.substring(0, 100)}...`);
+        }
+      }
+    }
+  }
+  
+  return true;
+}
+
 function validateSourceCitation(text, requiredSources = []) {
   // Accept both "According to" and "Based on" patterns, with flexible punctuation
   const citationPattern = /(According to|Based on).+ \(\d{4}\)[,.]?\s*/;
@@ -250,6 +300,10 @@ Generate data using this EXACT structure:
 1. heroDescription: 1-2 professional sentences about finding financial advisors in ${cityName}
 
 2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy using verified major employers and most recent economic facts
+   VERIFIED MAJOR EMPLOYERS (use only these confirmed ones):
+   - Dallas: AT&T, Texas Health Resources, American Airlines, Lockheed Martin
+   - Houston: ExxonMobil, Phillips 66, MD Anderson, Shell, Chevron
+   - Austin: Dell Technologies, University of Texas, State of Texas, IBM, Apple
 
 3. majorIndustries: Top 3-4 actual industries from most recent BLS employment data (format: "Industry1, Industry2, Industry3, Industry4")
 
@@ -355,17 +409,24 @@ EXAMPLES:
 - "Based on U.S. Census Bureau (2023), the median household income..."
 - "According to Zillow (2024), the median home value..."
 
-Generate insights with this EXACT structure using the MOST RECENT data available:
+GENERATE CONSERVATIVE, HIGH-CONFIDENCE DATA ONLY:
 
 Market Insights:
-- Economic Growth: Use BEA 2023 data for GDP, growth rates, economic developments
-- Wealth Demographics: Use Census 2022-2023 data - if mentioning median income, use EXACTLY ${medianIncome} from same recent source/year
-- Advisor Specializations: Use BLS 2023-2024 employment data to infer advisor specialization needs
+- Economic Growth: Use BEA 2023 data for GENERAL economic trends and major industry presence. Avoid overly precise GDP numbers or growth percentages. Focus on directional trends and major sectors.
+- Wealth Demographics: Use Census 2022-2023 data - MUST mention median income as EXACTLY ${medianIncome}. Avoid other overly precise demographic statistics.
+- Advisor Specializations: Use BLS 2023-2024 employment data to identify major growing industries. Focus on broad industry trends, not specific job growth percentages.
 
 Local Considerations:  
-- Cost of Living: Use BLS 2023-2024 Consumer Price Index data with specific recent numbers
-- Real Estate Market: Use Zillow 2024 data with specific recent home values and trends
-- Business Environment: Use Fortune 500 2023-2024 data, verified recent major employer facts
+- Cost of Living: Use BLS 2023-2024 Consumer Price Index data. Report GENERAL cost trends (above/below national average) without overly precise index numbers.
+- Real Estate Market: Use Zillow 2024 data for GENERAL market temperature (hot/warm/cool) and broad price ranges. Avoid overly precise dollar amounts.
+- Business Environment: Use Fortune 500 2023-2024 data with verified company counts. Focus on major industry presence and business climate, not specific revenue figures.
+
+IMPORTANT GUIDELINES FOR ACCURACY:
+- Use phrases like "approximately", "around", "roughly" for numbers you're not 100% certain about
+- Report ranges instead of precise values where appropriate (e.g., "between $400K-$500K" not "$437,500")
+- Focus on verified trends and confirmed major employers
+- Avoid fabricating specific percentages or growth rates
+- When unsure, describe general economic health rather than specific metrics
 
 Prioritize 2023-2024 data when available. Use the MOST RECENT verified data for ${cityName}, ${state}.
 
@@ -442,6 +503,10 @@ Return as valid JSON with consistent recent source citations:
       }
     }
     
+    // Additional validation checks
+    validateSuspiciousData(cityName, insightsData);
+    validateEconomicClaims(cityName, insightsData.insights);
+    
     console.log(`✅ Market insights validation passed for ${cityName}`);
     return insightsData;
   } catch (error) {
@@ -459,5 +524,7 @@ module.exports = {
   validateSourceCitation,
   validateDataStructure,
   validateInsightsStructure,
-  validateCrossCityData
+  validateCrossCityData,
+  validateSuspiciousData,
+  validateEconomicClaims
 }; 
