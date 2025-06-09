@@ -58,16 +58,25 @@ Return as valid JSON array with exactly this structure:
 async function generateCityStats(cityName, state, population) {
   console.log(`📊 Generating city statistics for ${cityName}, ${state}...`);
   
-  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} (population: ${population}).
+  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state}. Base these on actual market characteristics and city size.
 
-Base these on real industry averages and make them appropriate for a city of this size:
+Use real industry knowledge and realistic scaling based on ${cityName}'s actual size and economic profile:
 
-1. registeredAdvisors: Format like "2,100+" or "850+" (scale with population - larger cities have more advisors)
-2. averagePortfolio: Format like "$1.2M" or "$890K" (typical range $800K-$2M, adjust slightly by city wealth)
-3. averageAumFee: Format like "0.95%" (typical range 0.85%-1.25%)
-4. averageRating: Format like "4.6/5.0" (range 4.3-4.8)
+1. registeredAdvisors: Scale appropriately for ${cityName}'s market size (format: "2,100+" or "850+")
+   - Austin (~950k): ~1,200-1,800 advisors
+   - Dallas (~1.3M): ~2,000-3,000 advisors  
+   - Houston (~2.3M): ~3,000-4,500 advisors
 
-Use realistic numbers that would be appropriate for ${cityName}'s market size and demographics.
+2. averagePortfolio: Use realistic ranges based on ${cityName}'s wealth demographics (format: "$1.2M")
+   - Typical range: $800K-$2M depending on city wealth levels
+
+3. averageAumFee: Use standard industry rates (format: "0.95%")
+   - Typical range: 0.85%-1.25% (competitive markets may be lower)
+
+4. averageRating: Use realistic advisor rating ranges (format: "4.6/5.0")
+   - Typical range: 4.3-4.8/5.0
+
+Base numbers on ${cityName}'s actual economic characteristics and market competitiveness.
 
 Return only valid JSON:
 {
@@ -102,21 +111,23 @@ Return only valid JSON:
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
-  const prompt = `Generate factual financial landscape information for ${cityName}, ${state} (population: ${population}).
+  const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state}. Use only verifiable information from reliable sources.
 
-Research the actual economic characteristics of this city and provide realistic information:
+IMPORTANT: Use actual, real data that can be fact-checked. Do not make up numbers or statistics.
 
 1. heroDescription: 1-2 sentences that would appear under "Best Financial Advisors in ${cityName}" - describe finding top-rated local advisors for financial goals (keep it general and professional)
 
-2. landscapeDescription: 2-3 sentences about the city's economy, major employers, and financial advisory landscape. Be factual and specific to this city's known characteristics.
+2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy, real major employers, and financial advisory landscape. Use factual information about the city.
 
-3. majorIndustries: 3-4 main industries (comma separated) - use the actual top industries for this city (e.g., for Austin: Technology, Healthcare, Government, Education)
+3. majorIndustries: The actual top 3-4 industries for ${cityName} based on real economic data (research what ${cityName} is actually known for)
 
-4. population: Use realistic population data with metro area if appropriate (format: "950,000 (metro: 2.2M)")
+4. population: Use real population data for ${cityName} with actual metro area numbers (format: "950,000 (metro: 2.2M)")
 
-5. medianIncome: Use realistic median household income data (format: "$67,462")
+5. medianIncome: Use actual median household income data for ${cityName} from recent census or economic data (format: "$67,462")
 
-6. uniqueNeeds: 2-3 sentences about specific financial planning needs for this city's demographics and economy
+6. uniqueNeeds: 2-3 sentences about specific financial planning needs based on ${cityName}'s actual economic characteristics and demographics
+
+Research and use real data for ${cityName}, ${state}. Be factual and accurate.
 
 Return only valid JSON:
 {
@@ -155,19 +166,23 @@ Return only valid JSON:
 async function generateMarketInsights(cityName, state) {
   console.log(`💡 Generating market insights for ${cityName}, ${state}...`);
   
-  const prompt = `Generate market insights for financial advisors in ${cityName}, ${state}.
+  const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state}. Use only verifiable data and statistics.
 
-Create 2 insight categories, each with 3 sections:
+CRITICAL: Use actual, real data that can be fact-checked. Do not fabricate numbers or statistics.
 
-Category 1: "Market Insights" 
-- Focus on local economic factors, wealth demographics, advisor specializations
+Create insights in this structure with REAL data for ${cityName}:
 
-Category 2: "Local Considerations"
-- Focus on cost of living, real estate, business environment
+Market Insights:
+- Economic Growth: Real GDP data, economic growth rates, or major economic developments for ${cityName}
+- Wealth Demographics: Actual data about high-net-worth individuals, median household income ranking, or wealth concentration
+- Advisor Specializations: Real information about what financial advisors in ${cityName} actually specialize in based on the local economy
 
-Each section should be:
-- Title: 3-5 words
-- Description: 1-2 sentences with specific, factual information about this city
+Local Considerations:
+- Cost of Living: Actual cost of living data, housing costs, or comparison to national averages for ${cityName}
+- Real Estate Market: Real data about ${cityName}'s housing market, home values, market trends
+- Business Environment: Factual information about major employers, business growth, startup activity in ${cityName}
+
+Research and use verifiable data sources. Be specific to ${cityName}, ${state}.
 
 Return as valid JSON:
 {
@@ -175,17 +190,17 @@ Return as valid JSON:
     {
       "category": "Market Insights",
       "sections": [
-        {"title": "Title Here", "description": "Description here..."},
-        {"title": "Title Here", "description": "Description here..."},
-        {"title": "Title Here", "description": "Description here..."}
+        {"title": "Economic Growth", "description": "Real economic data"},
+        {"title": "Wealth Demographics", "description": "Actual demographic data"},
+        {"title": "Advisor Specializations", "description": "Real advisor specialization info"}
       ]
     },
     {
       "category": "Local Considerations", 
       "sections": [
-        {"title": "Title Here", "description": "Description here..."},
-        {"title": "Title Here", "description": "Description here..."},
-        {"title": "Title Here", "description": "Description here..."}
+        {"title": "Cost of Living", "description": "Real cost data"},
+        {"title": "Real Estate Market", "description": "Actual market data"},
+        {"title": "Business Environment", "description": "Real business data"}
       ]
     }
   ]

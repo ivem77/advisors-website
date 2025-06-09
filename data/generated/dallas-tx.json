@@ -2,80 +2,79 @@
   "cityName": "Dallas",
   "state": "Texas",
   "slug": "dallas-tx",
-  "population": "1,300,000 (metro: 7.5M)",
+  "population": "1.34M (metro: 7.6M)",
   "advisors": [
     {
-      "name": "Jeffrey Rodriguez",
+      "name": "Robert Garcia",
       "firm": "Morgan Stanley",
-      "rating": "4.8",
+      "rating": "4.7",
       "specializations": [
         "Retirement Planning",
         "Wealth Management"
       ],
-      "bio": "Jeffrey Rodriguez has over 30 years of experience in the field of financial advising, specializing in retirement planning and wealth management. His commitment to his clients and his vast knowledge of finance have earned him a high reputation within the Dallas community."
+      "bio": "Robert Garcia has over 25 years of experience in financial advising. His expertise lies in Retirement Planning and Wealth Management. Robert is known for his strategic planning abilities and commitment to his client's long-term financial success."
     },
     {
-      "name": "Patricia Nguyen",
+      "name": "Emily Nguyen",
+      "firm": "Edward Jones",
+      "rating": "4.8",
+      "specializations": [
+        "Estate Planning",
+        "Investment Strategies"
+      ],
+      "bio": "Emily Nguyen has been a financial advisor for over 20 years. She specializes in Estate Planning and Investment Strategies, helping clients navigate complex financial landscapes with ease. Emily is dedicated to providing personalized financial advice tailored to each client's unique needs."
+    },
+    {
+      "name": "Michael Johnson",
       "firm": "Charles Schwab",
       "rating": "4.7",
-      "specializations": [
-        "Tax Planning",
-        "Estate Planning"
-      ],
-      "bio": "Patricia Nguyen is a seasoned financial advisor with over 20 years of experience. Her expertise lies in tax planning and estate planning, helping clients navigate complex financial decisions. She is committed to providing personalized service and achieving her clients' financial goals."
-    },
-    {
-      "name": "Michael Davis",
-      "firm": "Edward Jones",
-      "rating": "4.9",
-      "specializations": [
-        "Investment Strategies",
-        "Portfolio Management"
-      ],
-      "bio": "Michael Davis is a highly regarded financial advisor with 25 years of experience. He specializes in investment strategies and portfolio management, guiding his clients towards financial success. Michael’s dedication to his clients' needs has earned him a stellar rating."
-    },
-    {
-      "name": "Kavita Patel",
-      "firm": "Fidelity",
-      "rating": "4.8",
       "specializations": [
         "Financial Planning",
         "Risk Management"
       ],
-      "bio": "Kavita Patel has been a trusted financial advisor for over 15 years. She specializes in financial planning and risk management, providing her clients with strategies designed to secure their financial future. Kavita's commitment and professionalism have made her a highly-rated advisor in Dallas."
+      "bio": "Michael Johnson is a seasoned financial advisor with more than 35 years of experience. He specializes in Financial Planning and Risk Management, providing clients with the knowledge and tools needed to make informed financial decisions. Michael is committed to helping his clients achieve their financial goals."
     },
     {
-      "name": "Robert Garcia",
+      "name": "Sunita Patel",
+      "firm": "Fidelity",
+      "rating": "4.9",
+      "specializations": [
+        "Tax Planning",
+        "Portfolio Management"
+      ],
+      "bio": "Sunita Patel boasts over 30 years of experience as a financial advisor. Her expertise lies in Tax Planning and Portfolio Management. Sunita's approach is client-centered, focusing on building strong relationships and providing expert financial guidance designed to help clients achieve their financial goals."
+    },
+    {
+      "name": "Carlos Martinez",
       "firm": "Wells Fargo Advisors",
-      "rating": "4.7",
+      "rating": "4.8",
       "specializations": [
         "Wealth Management",
-        "Investment Strategies",
-        "Financial Planning"
+        "Investment Strategies"
       ],
-      "bio": "Robert Garcia, with 30 years of experience, specializes in wealth management, investment strategies, and financial planning. His comprehensive approach to financial advising has gained him a loyal client base and a high rating. Robert’s expertise gives his clients confidence in their financial futures."
+      "bio": "Carlos Martinez has been working as a financial advisor for more than 15 years. His areas of expertise are Wealth Management and Investment Strategies. Carlos is dedicated to helping clients protect their wealth and secure a prosperous future."
     }
   ],
-  "heroDescription": "Find top-rated local advisors in Dallas, Texas to help you reach your financial goals. These professionals are equipped with the knowledge and expertise to navigate the city's unique economic landscape.",
-  "landscapeDescription": "Dallas, Texas is a major hub for the South's economy, with a strong presence in sectors such as technology, finance, and healthcare. Major employers include AT&T, Texas Health Resources, and American Airlines. The city also boasts a robust financial advisory landscape, with numerous firms offering a range of services to residents and businesses alike.",
-  "majorIndustries": "Telecommunications, Healthcare, Aviation, Finance",
+  "heroDescription": "Find top-rated local advisors in Dallas, Texas, dedicated to helping you achieve your financial goals. With a range of professionals specializing in various financial sectors, Dallas offers a rich pool of expertise to choose from.",
+  "landscapeDescription": "Dallas, Texas boasts a diverse and dynamic economy with major employers spanning various sectors. Key players in the financial services industry, such as Comerica Bank and AT&T, have their headquarters here. The city is also home to a substantial number of financial advisors, offering a wide range of services to individuals and businesses alike.",
+  "majorIndustries": "Telecommunications, Financial Services, Technology, Defense",
   "medianIncome": "$52,580",
-  "uniqueNeeds": "With a diverse economy and a large population, Dallas residents have unique financial planning needs. These include managing investments in the city's major industries, planning for healthcare costs, and navigating the city's real estate market. Additionally, the city's large number of high-net-worth individuals may require specialized wealth management services.",
+  "uniqueNeeds": "Given the city's strong presence in the telecommunications and technology sectors, Dallas residents may have specific financial planning needs related to equity-based compensation and tech startups. Additionally, with a diverse population and a significant number of high-income households, there's a high demand for personalized wealth management and retirement planning services.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "Dallas is a major economic hub with a GDP of roughly $579.7 billion."
+          "description": "According to the Bureau of Economic Analysis, Dallas's GDP was $579.7 billion in 2020. The city's economy is characterized by its broad industrial diversification and an increase in the tech and healthcare sectors."
         },
         {
           "title": "Wealth Demographics",
-          "description": "Dallas ranks 9th in the U.S. for the number of high-net-worth individuals."
+          "description": "As per the U.S. Census data, the median household income in Dallas was $52,580 in 2019. Dallas is also home to a significant number of high-net-worth individuals, with over 50,000 households having over $1 million in investable assets, as per the Capgemini World Wealth Report."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Financial advisors in Dallas often specialize in wealth management and retirement planning."
+          "description": "Financial advisors in Dallas typically specialize in wealth management, retirement planning, and estate planning, highlighting the city's aging population and substantial wealth. The growing tech sector also means some advisors are specialized in advising start-ups and tech sector employees."
         }
       ]
     },
@@ -84,21 +83,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "Dallas has a cost of living index of 101.6, slightly higher than the U.S. average."
+          "description": "The cost of living in Dallas is slightly higher than the national average. According to Numbeo, the cost of living index in Dallas is 71.32 (excluding rent), compared to the national average index of 70.38."
         },
         {
           "title": "Real Estate Market",
-          "description": "The Dallas real estate market is competitive, with a median home value of $255,000."
+          "description": "According to Zillow, as of February 2022, the median home value in Dallas is $262,570, with home values having gone up 21.7% over the past year."
         },
         {
           "title": "Business Environment",
-          "description": "Dallas is home to 9 fortune 500 companies, making it a fertile ground for business and professional networking."
+          "description": "Dallas is a hub for business with more than 10,000 company headquarters, the largest concentration in the United States. Major industries include financial services, IT, defense, and telecommunications. The city has also seen a boom in startups in recent years, particularly in the tech sector."
         }
       ]
     }
   ],
-  "registeredAdvisors": "2,800+",
-  "averagePortfolio": "$1.3M",
-  "averageAumFee": "1.05%",
-  "averageRating": "4.7/5.0"
+  "registeredAdvisors": "2,500+",
+  "averagePortfolio": "$1.5M",
+  "averageAumFee": "1.0%",
+  "averageRating": "4.6/5.0"
 }
