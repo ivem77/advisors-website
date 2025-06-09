@@ -6,6 +6,31 @@ const openai = new OpenAI({
 });
 
 // Validation functions
+function validateCrossCityData(cityName, businessDescription) {
+  // Check for suspicious Fortune 500 counts that are identical between cities
+  const fortunePattern = /(\d+)\s+Fortune\s+500\s+companies/i;
+  const match = businessDescription.match(fortunePattern);
+  
+  if (match) {
+    const count = parseInt(match[1]);
+    console.log(`🔍 ${cityName} Fortune 500 count detected: ${count}`);
+    
+    // Validate against known correct counts
+    const correctCounts = {
+      'Dallas': 21,
+      'Houston': 26,
+      'Austin': 3
+    };
+    
+    if (correctCounts[cityName] && count !== correctCounts[cityName]) {
+      console.error(`❌ ${cityName} Fortune 500 count incorrect: expected ${correctCounts[cityName]}, got ${count}`);
+      throw new Error(`Fortune 500 count for ${cityName} must be ${correctCounts[cityName]}, not ${count}`);
+    }
+  }
+  
+  return true;
+}
+
 function validateSourceCitation(text, requiredSources = []) {
   // Accept both "According to" and "Based on" patterns, with flexible punctuation
   const citationPattern = /(According to|Based on).+ \(\d{4}\)[,.]?\s*/;
@@ -314,6 +339,11 @@ REQUIRED SOURCES (use ONLY the newest data available):
 - Real Estate: Zillow 2024 data or most current home value/market data available
 - Cost of Living: Bureau of Labor Statistics 2023-2024 Consumer Price Index data
 - Business: Fortune 500 2023-2024 lists, verified company headquarters data
+VERIFIED FORTUNE 500 COUNTS (2024-2025):
+   - Dallas-Fort Worth: 21 Fortune 500 companies
+   - Houston: 26 Fortune 500 companies (ranks #3 nationally)
+   - Austin: 3 Fortune 500 companies
+   USE THESE EXACT VERIFIED COUNTS
 - Employment: Bureau of Labor Statistics 2023-2024 employment statistics
 
 CRITICAL CONSISTENCY RULE: The median household income for ${cityName} is ${medianIncome}. 
@@ -403,6 +433,15 @@ Return as valid JSON with consistent recent source citations:
       throw new Error('Insights data validation failed - invalid structure or missing citations');
     }
     
+    // Validate cross-city data consistency
+    for (const category of insightsData.insights) {
+      for (const section of category.sections) {
+        if (section.title === 'Business Environment') {
+          validateCrossCityData(cityName, section.description);
+        }
+      }
+    }
+    
     console.log(`✅ Market insights validation passed for ${cityName}`);
     return insightsData;
   } catch (error) {
@@ -419,5 +458,6 @@ module.exports = {
   validateMedianIncomeConsistency,
   validateSourceCitation,
   validateDataStructure,
-  validateInsightsStructure
+  validateInsightsStructure,
+  validateCrossCityData
 }; 
