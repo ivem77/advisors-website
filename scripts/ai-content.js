@@ -5,6 +5,92 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
+// Validation functions
+function validateSourceCitation(text, requiredSources = []) {
+  // Accept both "According to" and "Based on" patterns, with flexible punctuation
+  const citationPattern = /(According to|Based on).+ \(\d{4}\)[,.]?\s*/;
+  const hasProperCitation = citationPattern.test(text);
+  
+  if (!hasProperCitation) {
+    console.warn(`⚠️ Citation format issue in: ${text.substring(0, 100)}...`);
+    console.warn(`⚠️ Expected: "According to [Source] (YEAR)" or "Based on [Source] (YEAR)"`);
+    return false;
+  }
+  return true;
+}
+
+function validateMedianIncomeConsistency(landscapeData, insightsData) {
+  const landscapeIncome = landscapeData.medianIncome;
+  const insightsText = JSON.stringify(insightsData);
+  
+  // Extract income from landscape data (remove "According to..." prefix if present)
+  const incomeMatch = landscapeIncome.match(/\$[\d,]+/);
+  if (!incomeMatch) {
+    console.error(`❌ Invalid median income format: ${landscapeIncome}`);
+    return false;
+  }
+  
+  const incomeValue = incomeMatch[0];
+  
+  // Check if the same income appears in insights
+  if (insightsText.includes('median household income') && !insightsText.includes(incomeValue)) {
+    console.error(`❌ Median income inconsistency: Landscape has ${incomeValue} but insights don't match`);
+    return false;
+  }
+  
+  console.log(`✅ Median income consistent: ${incomeValue}`);
+  return true;
+}
+
+function validateDataStructure(data, requiredFields) {
+  for (const field of requiredFields) {
+    if (!data[field] || data[field].trim() === '') {
+      console.error(`❌ Missing or empty required field: ${field}`);
+      return false;
+    }
+  }
+  return true;
+}
+
+function validateInsightsStructure(insights) {
+  if (!insights || !insights.insights || !Array.isArray(insights.insights)) {
+    console.error(`❌ Invalid insights structure`);
+    return false;
+  }
+  
+  const requiredCategories = ['Market Insights', 'Local Considerations'];
+  const requiredMarketSections = ['Economic Growth', 'Wealth Demographics', 'Advisor Specializations'];
+  const requiredLocalSections = ['Cost of Living', 'Real Estate Market', 'Business Environment'];
+  
+  for (const category of insights.insights) {
+    if (!requiredCategories.includes(category.category)) {
+      console.error(`❌ Missing required category: ${category.category}`);
+      return false;
+    }
+    
+    const expectedSections = category.category === 'Market Insights' ? requiredMarketSections : requiredLocalSections;
+    const actualSections = category.sections.map(s => s.title);
+    
+    for (const expectedSection of expectedSections) {
+      if (!actualSections.includes(expectedSection)) {
+        console.error(`❌ Missing required section: ${expectedSection} in ${category.category}`);
+        return false;
+      }
+    }
+    
+    // Validate source citations in each section
+    for (const section of category.sections) {
+      if (!validateSourceCitation(section.description)) {
+        console.error(`❌ Invalid citation in ${section.title}: ${section.description}`);
+        return false;
+      }
+    }
+  }
+  
+  console.log(`✅ Insights structure validation passed`);
+  return true;
+}
+
 async function generateAdvisors(cityName, state, count = 5) {
   console.log(`🤖 Generating ${count} advisor profiles for ${cityName}, ${state}...`);
   
@@ -58,27 +144,33 @@ Return as valid JSON array with exactly this structure:
 async function generateCityStats(cityName, state, population) {
   console.log(`📊 Generating city statistics for ${cityName}, ${state}...`);
   
-  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state}. Base these on actual market characteristics and city size.
+  const prompt = `Generate realistic financial advisor statistics for ${cityName}, ${state} using industry standards and verified sources.
 
-Use real industry knowledge and realistic scaling based on ${cityName}'s actual size and economic profile:
+REQUIRED APPROACH:
+- Use actual market characteristics and city size for scaling
+- Base estimates on verified industry reports and market analysis
+- Ensure numbers are realistic and proportional to ${cityName}'s economic profile
 
-1. registeredAdvisors: Scale appropriately for ${cityName}'s market size (format: "2,100+" or "850+")
-   - Austin (~950k): ~1,200-1,800 advisors
-   - Dallas (~1.3M): ~2,000-3,000 advisors  
-   - Houston (~2.3M): ~3,000-4,500 advisors
+SCALING GUIDELINES based on ${cityName}'s verified market size:
+1. registeredAdvisors: Scale based on population and wealth demographics
+   - Research actual advisor density in similar markets
+   - Format: "2,100+" or "1,850+"
 
-2. averagePortfolio: Use realistic ranges based on ${cityName}'s wealth demographics (format: "$1.2M")
-   - Typical range: $800K-$2M depending on city wealth levels
+2. averagePortfolio: Base on actual median income and wealth data for ${cityName}
+   - Use realistic ranges based on verified demographic data
+   - Format: "$1.2M" (typical range: $800K-$2.5M)
 
-3. averageAumFee: Use standard industry rates (format: "0.95%")
-   - Typical range: 0.85%-1.25% (competitive markets may be lower)
+3. averageAumFee: Use standard industry rates from verified sources
+   - Reference actual market competition levels in ${cityName}
+   - Format: "0.95%" (typical range: 0.75%-1.25%)
 
-4. averageRating: Use realistic advisor rating ranges (format: "4.6/5.0")
-   - Typical range: 4.3-4.8/5.0
+4. averageRating: Use realistic advisor rating distributions
+   - Base on actual review platform data patterns
+   - Format: "4.6/5.0" (typical range: 4.3-4.8/5.0)
 
-Base numbers on ${cityName}'s actual economic characteristics and market competitiveness.
+Research ${cityName}'s actual market characteristics, competition levels, and wealth demographics to provide realistic estimates.
 
-Return only valid JSON:
+Return ONLY valid JSON:
 {
   "registeredAdvisors": "string",
   "averagePortfolio": "string", 
@@ -90,7 +182,7 @@ Return only valid JSON:
     const response = await openai.chat.completions.create({
       model: 'gpt-4',
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.7,
+      temperature: 0.3,
     });
 
     const statsData = JSON.parse(response.choices[0].message.content);
@@ -111,30 +203,42 @@ Return only valid JSON:
 async function generateLandscapeData(cityName, state, population) {
   console.log(`🏙️ Generating landscape data for ${cityName}, ${state}...`);
   
-  const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state}. Use only verifiable information from reliable sources.
+  const prompt = `Generate FACTUAL, REAL data for ${cityName}, ${state} using ONLY the specified sources below.
 
-IMPORTANT: Use actual, real data that can be fact-checked. Do not make up numbers or statistics.
+REQUIRED SOURCES (use ONLY these):
+- Population: U.S. Census Bureau 2020 estimates
+- Median Income: U.S. Census Bureau American Community Survey (most recent available year)
+- GDP/Economic: Bureau of Economic Analysis (BEA) most recent data
+- Industries: Bureau of Labor Statistics (BLS) employment data
+- Cost of Living: Bureau of Labor Statistics Consumer Price Index
+- Real Estate: Zillow Home Value Index or similar verified source
 
-1. heroDescription: 1-2 sentences that would appear under "Best Financial Advisors in ${cityName}" - describe finding top-rated local advisors for financial goals (keep it general and professional)
+IMPORTANT: Use the EXACT SAME median income value throughout ALL sections. This number MUST be consistent everywhere.
 
-2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy, real major employers, and financial advisory landscape. Use factual information about the city.
+CITATION FORMAT: Always format as "According to [Source] ([Year]), [specific data]"
 
-3. majorIndustries: The actual top 3-4 industries for ${cityName} based on real economic data (research what ${cityName} is actually known for)
+Generate data using this EXACT structure:
 
-4. population: Use real population data for ${cityName} with actual metro area numbers (format: "950,000 (metro: 2.2M)")
+1. heroDescription: 1-2 professional sentences about finding financial advisors in ${cityName}
 
-5. medianIncome: Use the EXACT SAME actual median household income data for ${cityName} from the most recent U.S. Census Bureau American Community Survey (format: "$67,462"). This number MUST match exactly in all other sections.
+2. landscapeDescription: 2-3 sentences about ${cityName}'s actual economy using verified major employers and economic facts
 
-6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) about specific financial planning needs based on ${cityName}'s actual economic characteristics and demographics
+3. majorIndustries: Top 3-4 actual industries from BLS employment data (format: "Industry1, Industry2, Industry3, Industry4")
 
-Research and use real data for ${cityName}, ${state}. Be factual and accurate.
+4. population: Real Census data (format: "1,234,567 (metro: 2.3M)")
 
-Return only valid JSON:
+5. medianIncome: Exact ACS data (format: "$67,462") - THIS NUMBER MUST BE USED CONSISTENTLY IN ALL SECTIONS
+
+6. uniqueNeeds: 1-2 concise sentences (MAX 200 characters) based on actual economic data
+
+Research ${cityName}, ${state} and use verified data from the required sources.
+
+Return ONLY valid JSON:
 {
   "heroDescription": "string",
-  "landscapeDescription": "string",
+  "landscapeDescription": "string", 
   "majorIndustries": "string",
-  "population": "string", 
+  "population": "string",
   "medianIncome": "string",
   "uniqueNeeds": "string"
 }`;
@@ -143,7 +247,7 @@ Return only valid JSON:
     const response = await openai.chat.completions.create({
       model: "gpt-4",
       messages: [{ role: "user", content: prompt }],
-      temperature: 0.6,
+      temperature: 0.3,
       max_tokens: 800
     });
 
@@ -156,7 +260,22 @@ Return only valid JSON:
       }
     }
 
-    return JSON.parse(jsonStr);
+    const landscapeData = JSON.parse(jsonStr);
+    
+    // Validate structure
+    const requiredFields = ['heroDescription', 'landscapeDescription', 'majorIndustries', 'population', 'medianIncome', 'uniqueNeeds'];
+    if (!validateDataStructure(landscapeData, requiredFields)) {
+      throw new Error('Landscape data validation failed - missing required fields');
+    }
+    
+    // Validate character limits
+    if (landscapeData.uniqueNeeds.length > 200) {
+      console.warn(`⚠️ Unique needs too long (${landscapeData.uniqueNeeds.length} chars), truncating to 200`);
+      landscapeData.uniqueNeeds = landscapeData.uniqueNeeds.substring(0, 197) + '...';
+    }
+    
+    console.log(`✅ Landscape data validation passed for ${cityName}`);
+    return landscapeData;
   } catch (error) {
     console.error(`❌ Error generating landscape data for ${cityName}:`, error.message);
     throw error;
@@ -166,43 +285,71 @@ Return only valid JSON:
 async function generateMarketInsights(cityName, state, medianIncome) {
   console.log(`💡 Generating market insights for ${cityName}, ${state}...`);
   
-  const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state}. Use only verifiable data and statistics.
+  const prompt = `Generate REAL, FACTUAL market insights for ${cityName}, ${state} using ONLY verified sources.
 
-CRITICAL: Use actual, real data that can be fact-checked. Do not fabricate numbers or statistics.
+REQUIRED SOURCES (use ONLY these and cite them):
+- Economic Data: Bureau of Economic Analysis (BEA) for GDP/growth data  
+- Demographics: U.S. Census Bureau for population/income data
+- Real Estate: Zillow Home Value Index for housing market data
+- Cost of Living: Bureau of Labor Statistics (BLS) Consumer Price Index
+- Business: Fortune 500 lists, verified company headquarters data
+- Employment: Bureau of Labor Statistics employment statistics
 
-IMPORTANT: The median household income for ${cityName} is ${medianIncome}. If you reference median income anywhere, use EXACTLY this number and year.
+CRITICAL CONSISTENCY RULE: The median household income for ${cityName} is ${medianIncome}. 
+If you mention median income ANYWHERE, use EXACTLY this number and cite the same source.
 
-Create insights in this structure with REAL data for ${cityName}:
+CITATION REQUIREMENT: Every description must start with EXACTLY this format: "According to [Source] (YEAR), [data]..." or "Based on [Source] (YEAR), [data]..."
+EXAMPLES:
+- "According to Bureau of Economic Analysis (2021), Houston's GDP was..."
+- "Based on U.S. Census Bureau (2020), the median household income..."
+
+Generate insights with this EXACT structure and required sources:
 
 Market Insights:
-- Economic Growth: Real GDP data, economic growth rates, or major economic developments for ${cityName}
-- Wealth Demographics: Actual data about high-net-worth individuals, median household income (use ${medianIncome} if mentioned), or wealth concentration  
-- Advisor Specializations: Real information about what financial advisors in ${cityName} actually specialize in based on the local economy
+- Economic Growth: Use BEA data for GDP, growth rates, economic developments
+- Wealth Demographics: Use Census data - if mentioning median income, use EXACTLY ${medianIncome} from same source/year
+- Advisor Specializations: Use employment data to infer advisor specialization needs
 
-Local Considerations:
-- Cost of Living: Actual cost of living data, housing costs, or comparison to national averages for ${cityName}
-- Real Estate Market: Real data about ${cityName}'s housing market, home values, market trends
-- Business Environment: Factual information about major employers, business growth, startup activity in ${cityName}
+Local Considerations:  
+- Cost of Living: Use BLS Consumer Price Index data with specific numbers
+- Real Estate Market: Use Zillow data with specific home values and trends
+- Business Environment: Use verified Fortune 500 data, major employer facts
 
-Research and use verifiable data sources. Be specific to ${cityName}, ${state}. Ensure ALL numbers are consistent and factual.
-
-Return as valid JSON:
+Return as valid JSON with consistent source citations:
 {
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
-        {"title": "Economic Growth", "description": "Real economic data"},
-        {"title": "Wealth Demographics", "description": "Actual demographic data - if mentioning median income, use exactly ${medianIncome}"},
-        {"title": "Advisor Specializations", "description": "Real advisor specialization info"}
+        {
+          "title": "Economic Growth", 
+          "description": "According to Bureau of Economic Analysis (YEAR), [specific data]..."
+        },
+        {
+          "title": "Wealth Demographics", 
+          "description": "According to U.S. Census Bureau (YEAR), the median household income in ${cityName} is ${medianIncome}. [Additional verified data]..."
+        },
+        {
+          "title": "Advisor Specializations", 
+          "description": "Based on BLS employment data, [specific info]..."
+        }
       ]
     },
     {
-      "category": "Local Considerations", 
+      "category": "Local Considerations",
       "sections": [
-        {"title": "Cost of Living", "description": "Real cost data"},
-        {"title": "Real Estate Market", "description": "Actual market data"},
-        {"title": "Business Environment", "description": "Real business data"}
+        {
+          "title": "Cost of Living", 
+          "description": "According to Bureau of Labor Statistics (YEAR), [specific data]..."
+        },
+        {
+          "title": "Real Estate Market", 
+          "description": "According to Zillow (YEAR), [specific data]..."
+        },
+        {
+          "title": "Business Environment", 
+          "description": "According to Fortune 500/verified sources, [specific data]..."
+        }
       ]
     }
   ]
@@ -212,8 +359,8 @@ Return as valid JSON:
     const response = await openai.chat.completions.create({
       model: "gpt-4",
       messages: [{ role: "user", content: prompt }],
-      temperature: 0.7,
-      max_tokens: 1000
+      temperature: 0.3,
+      max_tokens: 1200
     });
 
     const content = response.choices[0].message.content.trim();
@@ -225,7 +372,15 @@ Return as valid JSON:
       }
     }
 
-    return JSON.parse(jsonStr);
+    const insightsData = JSON.parse(jsonStr);
+    
+    // Validate insights structure
+    if (!validateInsightsStructure(insightsData)) {
+      throw new Error('Insights data validation failed - invalid structure or missing citations');
+    }
+    
+    console.log(`✅ Market insights validation passed for ${cityName}`);
+    return insightsData;
   } catch (error) {
     console.error(`❌ Error generating insights for ${cityName}:`, error.message);
     throw error;
@@ -236,5 +391,9 @@ module.exports = {
   generateAdvisors,
   generateCityStats,
   generateLandscapeData,
-  generateMarketInsights
+  generateMarketInsights,
+  validateMedianIncomeConsistency,
+  validateSourceCitation,
+  validateDataStructure,
+  validateInsightsStructure
 }; 

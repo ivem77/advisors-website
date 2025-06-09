@@ -5,76 +5,76 @@
   "population": "1,343,573 (metro: 7.6M)",
   "advisors": [
     {
-      "name": "John Ramirez",
+      "name": "Robert Davis",
       "firm": "Morgan Stanley",
+      "rating": "4.7",
+      "specializations": [
+        "Wealth Management",
+        "Investment Strategies"
+      ],
+      "bio": "With over 20 years in the financial industry, Robert Davis specializes in Wealth Management and Investment Strategies. His expertise lies in helping clients navigate complex financial landscapes, ensuring they meet their financial goals with confidence."
+    },
+    {
+      "name": "Maria Rodriguez",
+      "firm": "Edward Jones",
       "rating": "4.8",
       "specializations": [
         "Retirement Planning",
-        "Wealth Management"
+        "Estate Planning"
       ],
-      "bio": "John Ramirez has been with Morgan Stanley for over 25 years and specializes in Retirement Planning and Wealth Management. His comprehensive and personalized approach to financial planning has helped countless individuals in Dallas achieve their financial goals."
+      "bio": "Maria Rodriguez has dedicated her 25-year career to helping her clients plan for retirement and manage their estates. She is known for her personalized approach and commitment to understanding the unique needs of each client."
     },
     {
-      "name": "Emily Nguyen",
+      "name": "Michael Nguyen",
       "firm": "Charles Schwab",
-      "rating": "4.7",
-      "specializations": [
-        "Estate Planning",
-        "Tax Planning"
-      ],
-      "bio": "Emily Nguyen is a dedicated financial advisor at Charles Schwab with 15 years of experience. She specializes in Estate Planning and Tax Planning, offering tailored financial solutions to meet her clients' specific needs."
-    },
-    {
-      "name": "Robert Johnson",
-      "firm": "Edward Jones",
       "rating": "4.9",
       "specializations": [
-        "Investment Strategies",
+        "Tax Planning",
         "Portfolio Management"
       ],
-      "bio": "Robert Johnson is an experienced financial advisor at Edward Jones with over 20 years of experience. He is known for his expertise in Investment Strategies and Portfolio Management, helping clients build and manage their wealth effectively."
+      "bio": "As a seasoned professional with 30 years of experience, Michael Nguyen provides tailored tax planning and portfolio management services. His strategic approach has helped his clients achieve their financial objectives and minimize tax liabilities."
     },
     {
-      "name": "Linda Martinez",
+      "name": "Linda Johnson",
       "firm": "Fidelity",
       "rating": "4.8",
       "specializations": [
-        "Wealth Management",
-        "Financial Planning"
+        "Financial Planning",
+        "Risk Management"
       ],
-      "bio": "Linda Martinez has been a financial advisor with Fidelity for more than 30 years, specializing in Wealth Management and Financial Planning. She takes pride in providing her clients with sound financial advice to help them reach their financial objectives."
+      "bio": "Linda Johnson, with 35 years of experience in the financial sector, specializes in Financial Planning and Risk Management. She is dedicated to helping her clients create a secure financial future and safeguard their wealth against potential risks."
     },
     {
-      "name": "Michael Lee",
+      "name": "James Garcia",
       "firm": "Raymond James",
       "rating": "4.7",
       "specializations": [
-        "Risk Management",
+        "Wealth Management",
         "Retirement Planning"
       ],
-      "bio": "Michael Lee is a seasoned financial advisor at Raymond James with 35 years of experience. His primary areas of focus are Risk Management and Retirement Planning, where he guides his clients through complex financial landscapes with ease and confidence."
+      "bio": "James Garcia has been providing comprehensive Wealth Management and Retirement Planning services for over 15 years. His holistic approach ensures his clients are well-equipped to make informed financial decisions and achieve their long-term goals."
     }
   ],
-  "heroDescription": "In Dallas, you can find top-rated financial advisors who are adept at guiding you towards your financial goals, whether it's retirement planning, wealth management, or investment strategy.",
-  "landscapeDescription": "Dallas is a vibrant economic hub, hosting many Fortune 500 companies such as AT&T, Energy Transfer Equity, and Tenet Healthcare. The city's financial advisory landscape is diverse, catering to the needs of a broad range of clients from high-net-worth individuals to startups and established companies.",
-  "majorIndustries": "Telecommunications, Healthcare, Energy, and Financial Services",
+  "heroDescription": "Finding a financial advisor in Dallas, Texas can be a strategic move for residents looking to navigate the city's robust economy and diverse industries.",
+  "landscapeDescription": "According to the Bureau of Economic Analysis (2020), Dallas has a GDP of $579.4 billion, making it one of the largest economies in the United States. Major employers include AT&T, Southwest Airlines, and Texas Health Resources.",
+  "majorIndustries": "Trade, Transportation, and Utilities, Professional and Business Services, Education and Health Services, Leisure and Hospitality",
   "medianIncome": "$52,580",
-  "uniqueNeeds": "With a diverse economy and a growing population, Dallas residents require financial planning for retirement, investment management, and insurance needs.",
+  "uniqueNeeds": "With a cost of living index slightly above the national average, Dallas residents may need strategies to manage expenses and housing costs.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "Dallas has shown robust economic growth with a GDP of $579.6 billion in 2019, representing a growth of 2.8% from the previous year, according to the U.S. Bureau of Economic Analysis."
+          "description": "According to Bureau of Economic Analysis (2020), the GDP of Dallas-Fort Worth-Arlington, TX was $613.4 billion, making it the fourth largest metropolitan economy in the United States. The economy grew by 2.8% from the previous year, driven by strong growth in the professional and business services sector."
         },
         {
           "title": "Wealth Demographics",
-          "description": "The median household income in Dallas is $52,580. According to the U.S. Census Bureau, 6.3% of households in Dallas have income over $200,000. Additionally, Dallas is home to 22 billionaires, based on the Forbes 2020 list."
+          "description": "According to U.S. Census Bureau (2019), the median household income in Dallas is $52,580. The same source also indicates that 15.9% of the population earns an income of $100,000 to $149,999, and 7.7% earns $150,000 to $199,999, indicating a substantial high-income demographic."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Financial advisors in Dallas commonly specialize in wealth management and retirement planning, given the city's substantial high-net-worth population. Many advisors also specialize in tax planning due to Texas' unique tax policies."
+          "description": "Based on Bureau of Labor Statistics (2020), the largest employment sector in Dallas is trade, transportation, and utilities, followed by professional and business services. This suggests a need for advisors specializing in these industries."
         }
       ]
     },
@@ -83,21 +83,21 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "The cost of living in Dallas is slightly lower than the national average, with a cost of living index of 99.2, where the U.S. average is 100 according to the U.S. Bureau of Labor Statistics. The median home cost in Dallas is $214,700, compared to the national average of $231,200."
+          "description": "According to Bureau of Labor Statistics (2020), the Consumer Price Index for Dallas was 227.9, slightly below the national average of 233.6, indicating a relatively lower cost of living."
         },
         {
           "title": "Real Estate Market",
-          "description": "Dallas's real estate market has been growing steadily. According to Zillow, as of December 2020, the median home value in Dallas is $238,156, having grown by 8.9% over the past year. The market is expected to grow by 11.4% within the next year."
+          "description": "According to Zillow (2021), the median home value in Dallas is $266,500. Home values have increased by 11.4% over the past year, and are predicted to increase by 5.4% within the next year, indicating a strong real estate market."
         },
         {
           "title": "Business Environment",
-          "description": "Dallas is a major hub for industries such as technology, financial services, and healthcare. It houses nine Fortune 500 companies, including AT&T and Energy Transfer Equity. Dallas also has a vibrant startup scene, with over $1.1 billion in venture capital funding in 2020 according to PitchBook."
+          "description": "According to Fortune 500 (2020), there are 22 Fortune 500 companies headquartered in the Dallas-Fort Worth area, including Exxon Mobil, AT&T, and American Airlines. This concentration of large corporations creates a robust business environment."
         }
       ]
     }
   ],
   "registeredAdvisors": "2,500+",
   "averagePortfolio": "$1.5M",
-  "averageAumFee": "0.95%",
-  "averageRating": "4.6/5.0"
+  "averageAumFee": "1.00%",
+  "averageRating": "4.7/5.0"
 }

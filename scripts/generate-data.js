@@ -78,6 +78,14 @@ async function generateCityData(city) {
       generateCityStats(city.name, city.state, city.population)
     ]);
 
+    // Cross-validate data consistency
+    console.log('🔍 Validating data consistency...');
+    const { validateMedianIncomeConsistency } = require('./ai-content');
+    
+    if (!validateMedianIncomeConsistency(landscape, insights)) {
+      throw new Error('Cross-validation failed: Median income inconsistency detected');
+    }
+
     // Combine all data into city object
     const cityData = {
       cityName: city.name,
@@ -97,6 +105,7 @@ async function generateCityData(city) {
     console.log(`✅ Generated data for ${city.name}`);
     console.log(`📊 Stats: ${stats.registeredAdvisors} advisors, ${stats.averagePortfolio} avg portfolio`);
     console.log(`👥 Advisors: ${advisors.length} profiles created`);
+    console.log(`🔍 Validation: All consistency checks passed`);
     console.log(`💾 Saved to: data/generated/${city.slug}.json`);
     
     return cityData;
