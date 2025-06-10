@@ -762,6 +762,16 @@ html, body {
   padding: 16px;
   margin: 0;
   color: var(--color-black);
+  text-decoration: none;
+  transition: all var(--transition);
+}
+
+.locations__item--link:hover,
+.locations__item--link:focus {
+  transform: var(--transform-hover);
+  box-shadow: 0 8px 25px rgba(6, 5, 15, 0.15);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
 }
 .locations__icon {
   border-radius: 50%;
