@@ -5,6 +5,7 @@
   "main": "scripts/build-sites.js",
   "scripts": {
     "generate": "node scripts/generate-data.js",
+    "generate:optimized": "node scripts/generate-data-optimized.js",
     "generate:demo": "node scripts/demo-generate.js",
     "build": "node scripts/build-sites.js",
     "dev": "npm run build && npx http-server build -p 3000",
@@ -13,6 +14,7 @@
     "test": "npm run test:template && npm run test:validate",
     "clean": "rm -rf build data/generated test-output",
     "demo": "npm run generate:demo && npm run build && npm run dev",
+    "demo:optimized": "npm run generate:optimized && npm run build && npm run dev",
     "deploy": "npm run build && echo 'Upload build/ directory to your hosting provider'"
   },
   "repository": {
