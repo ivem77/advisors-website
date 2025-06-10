@@ -1,330 +1,338 @@
 <!-- All image and SVG assets are stored in the 'assets' folder for organization. Update asset filenames as needed. -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{pageTitle}}</title>
-  
-  <!-- Performance optimizations -->
-  <meta name="description" content="{{metaDescription}}">
-  <meta name="keywords" content="financial advisors {{cityName}}, wealth management, retirement planning, investment advisor">
-  
-  <!-- Preconnect to external domains for faster loading -->
-  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-  <link rel="dns-prefetch" href="https://app.mezzi.com">
-  
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/Mezzi-favicon.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/Mezzi-favicon.png">
-  <link rel="shortcut icon" href="assets/Mezzi-favicon.png">
-  <link rel="apple-touch-icon" href="assets/Mezzi-favicon.png">
-  
-  <!-- Preload critical CSS -->
-  <link rel="preload" href="styles.css" as="style">
-  <link rel="stylesheet" href="styles.css">
-  
-  <!-- Preload critical font -->
-  <link rel="preload" href="assets/fonts/Satoshi-Variable.woff2" as="font" type="font/woff2" crossorigin>
-  
-  <!-- Load Chart.js with defer for better performance -->
-  <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
-</head>
-<body>
-  <!-- Navigation -->
-  <nav class="navbar">
-    <div class="navbar__logo">
-      <!-- Replace with your SVG/logo -->
-      <img src="assets/logo.svg" alt="Mezzi Logo" height="40">
-    </div>
-    <div class="navbar__menu">
-      <ul class="navbar__links">
-        <li><a href="#overview">Overview</a></li>
-        <li><a href="#landscape">Financial Landscape</a></li>
-        <li><a href="#advisors">Top Advisors</a></li>
-        <li><a href="#guidance">Guidance</a></li>
-        <li><a href="#calculator">Estimated Fees</a></li>
-        <li><a href="#locations">Other Locations</a></li>
-      </ul>
-      <div class="navbar__cta-mobile">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{pageTitle}}</title>
+
+    <!-- Performance optimizations -->
+    <meta name="description" content="{{metaDescription}}" />
+    <meta
+      name="keywords"
+      content="financial advisors {{cityName}}, wealth management, retirement planning, investment advisor"
+    />
+
+    <!-- Preconnect to external domains for faster loading -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link rel="dns-prefetch" href="https://app.mezzi.com" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/Mezzi-favicon.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/Mezzi-favicon.png" />
+    <link rel="shortcut icon" href="assets/Mezzi-favicon.png" />
+    <link rel="apple-touch-icon" href="assets/Mezzi-favicon.png" />
+
+    <!-- Preload critical CSS -->
+    <link rel="preload" href="styles.css" as="style" />
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Preload critical font -->
+    <link rel="preload" href="assets/fonts/Satoshi-Variable.woff2" as="font" type="font/woff2" crossorigin />
+
+    <!-- Load Chart.js with defer for better performance -->
+    <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"
+    ></script>
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar">
+      <div class="navbar__logo">
+        <!-- Replace with your SVG/logo -->
+        <img src="assets/logo.svg" alt="Mezzi Logo" height="40" />
+      </div>
+      <div class="navbar__menu">
+        <ul class="navbar__links">
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#landscape">Financial Landscape</a></li>
+          <li><a href="#advisors">Top Advisors</a></li>
+          <li><a href="#guidance">Guidance</a></li>
+          <li><a href="#calculator">Estimated Fees</a></li>
+          <li><a href="#locations">Other Locations</a></li>
+        </ul>
+        <div class="navbar__cta-mobile">
+          <a href="https://app.mezzi.com/" class="btn btn--primary">Sign up</a>
+        </div>
+      </div>
+      <div class="navbar__cta">
         <a href="https://app.mezzi.com/" class="btn btn--primary">Sign up</a>
       </div>
-    </div>
-    <div class="navbar__cta">
-      <a href="https://app.mezzi.com/" class="btn btn--primary">Sign up</a>
-    </div>
-    <button class="navbar__toggle" aria-label="Open menu">
-      <span></span><span></span><span></span>
-    </button>
-  </nav>
+      <button class="navbar__toggle" aria-label="Open menu"><span></span><span></span><span></span></button>
+    </nav>
 
-  <!-- Hero Section -->
-  <header class="hero" id="overview">
-    <div class="container">
-      <div class="hero__content">
-        <h1>Best Financial Advisors in {{cityName}}</h1>
-        <p>Find top-rated local financial advisors who can help you achieve your financial goals with personalized strategies and expert guidance.</p>
-        <div class="hero__actions">
-          <a href="#advisors" class="btn btn--primary btn--large">Find an Advisor</a>
-          <a href="#calculator" class="btn btn--outline btn--large">Estimated Advisor Fees</a>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <!-- Stats Section -->
-  <section class="stats">
-    <div class="container">
-      <div class="stats__cards">
-        <div class="stats__card">
-          <div class="stats__value">{{registeredAdvisors}}</div>
-          <div class="stats__label">Advisors</div>
-        </div>
-        <div class="stats__card">
-          <div class="stats__value">{{averageRating}}</div>
-          <div class="stats__label">Average Rating</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Financial Landscape Section -->
-  <section class="landscape" id="landscape">
-    <div class="container">
-      <div class="landscape__intro">
-        <h2>{{cityName}} Financial Landscape</h2>
-        <p>{{landscapeDescription}}</p>
-      </div>
-      <div class="info-cards">
-        <div class="info-card">
-          <div class="landscape__card-title">Major industries</div>
-          <div class="landscape__card-desc">{{majorIndustries}}</div>
-        </div>
-        <div class="info-card">
-          <div class="landscape__card-title">Population</div>
-          <div class="landscape__card-desc">{{population}}</div>
-        </div>
-        <div class="info-card">
-          <div class="landscape__card-title">Median household income</div>
-          <div class="landscape__card-desc">{{medianIncome}}</div>
-        </div>
-        <div class="info-card">
-          <div class="landscape__card-title">Unique needs</div>
-          <div class="landscape__card-desc">{{uniqueNeeds}}</div>
-        </div>
-      </div>
-      <div class="landscape__insights">
-        {{#insights}}
-        <div class="landscape__insight">
-          <div class="landscape__insight-title">{{category}}</div>
-          {{#sections}}
-          <div class="landscape__insight-section">
-            <div class="landscape__insight-section-title">{{title}}</div>
-            <div class="landscape__insight-section-desc">{{description}}</div>
+    <!-- Hero Section -->
+    <header class="hero" id="overview">
+      <div class="container">
+        <div class="hero__content">
+          <h1>Best Financial Advisors in {{cityName}}</h1>
+          <p>
+            Find top-rated local financial advisors who can help you achieve your financial goals with personalized
+            strategies and expert guidance.
+          </p>
+          <div class="hero__actions">
+            <a href="#advisors" class="btn btn--primary btn--large">Find an Advisor</a>
+            <a href="#calculator" class="btn btn--outline btn--large">Estimated Advisor Fees</a>
           </div>
-          {{/sections}}
         </div>
-        {{/insights}}
       </div>
-    </div>
-  </section>
+    </header>
 
-  <!-- Top Advisors Section -->
-  <section class="advisors" id="advisors">
-    <div class="container">
-      <h2>Top 5 Financial Advisors in {{cityName}}</h2>
-      <div class="advisors__list">
-        {{#advisors}}
-        <a href="#" class="advisor-card">
-          <div class="advisor-card__info">
-            <div class="advisor-card__header">
-              <div class="advisor-card__name">{{name}}</div>
-              <div class="advisor-card__rating">
-                <span class="advisor-card__stars">★★★★★</span>
-                <span class="advisor-card__rating-value">{{rating}}</span>
+    <!-- Stats Section -->
+    <section class="stats">
+      <div class="container">
+        <div class="stats__cards">
+          <div class="stats__card">
+            <div class="stats__value">{{registeredAdvisors}}</div>
+            <div class="stats__label">Advisors</div>
+          </div>
+          <div class="stats__card">
+            <div class="stats__value">{{averageRating}}</div>
+            <div class="stats__label">Average Rating</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Financial Landscape Section -->
+    <section class="landscape" id="landscape">
+      <div class="container">
+        <div class="landscape__intro">
+          <h2>{{cityName}} Financial Landscape</h2>
+          <p>{{landscapeDescription}}</p>
+        </div>
+        <div class="info-cards">
+          <div class="info-card">
+            <div class="landscape__card-title">Major industries</div>
+            <div class="landscape__card-desc">{{majorIndustries}}</div>
+          </div>
+          <div class="info-card">
+            <div class="landscape__card-title">Population</div>
+            <div class="landscape__card-desc">{{population}}</div>
+          </div>
+          <div class="info-card">
+            <div class="landscape__card-title">Median household income</div>
+            <div class="landscape__card-desc">{{medianIncome}}</div>
+          </div>
+          <div class="info-card">
+            <div class="landscape__card-title">Unique needs</div>
+            <div class="landscape__card-desc">{{uniqueNeeds}}</div>
+          </div>
+        </div>
+        <div class="landscape__insights">
+          {{#insights}}
+          <div class="landscape__insight">
+            <div class="landscape__insight-title">{{category}}</div>
+            {{#sections}}
+            <div class="landscape__insight-section">
+              <div class="landscape__insight-section-title">{{title}}</div>
+              <div class="landscape__insight-section-desc">{{description}}</div>
+            </div>
+            {{/sections}}
+          </div>
+          {{/insights}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Top Advisors Section -->
+    <section class="advisors" id="advisors">
+      <div class="container">
+        <h2>Top 5 Financial Advisors in {{cityName}}</h2>
+        <div class="advisors__list">
+          {{#advisors}}
+          <a href="#" class="advisor-card">
+            <div class="advisor-card__info">
+              <div class="advisor-card__header">
+                <div class="advisor-card__name">{{name}}</div>
+                <div class="advisor-card__rating">
+                  <span class="advisor-card__stars">★★★★★</span>
+                  <span class="advisor-card__rating-value">{{rating}}</span>
+                </div>
+              </div>
+              <div class="advisor-card__desc">
+                <div class="advisor-card__bio">{{reviewSummary}}</div>
               </div>
             </div>
-            <div class="advisor-card__desc">
-              <div class="advisor-card__bio">{{reviewSummary}}</div>
-            </div>
-          </div>
-        </a>
-        {{/advisors}}
-        <!-- Mezzi Banner -->
-        <div class="advisor-card mezzi-banner">
-          <div class="mezzi-banner__content">
-            <div class="mezzi-banner__logo">
-              <img src="assets/logo.svg" alt="Mezzi Logo" height="50">
-            </div>
-            <div class="mezzi-banner__info">
-              <div class="mezzi-banner__text">Receive a complimentary AI wealth evaluation before hiring an advisor.</div>
-            </div>
-            <div class="mezzi-banner__cta">
-              <a href="https://app.mezzi.com/" class="btn btn--black">Sign up for Mezzi</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Guidance Section -->
-  <section class="guidance" id="guidance">
-    <div class="container">
-      <h2>How to Choose the Right Financial Advisor</h2>
-      <p class="guidance__subtitle">When selecting a financial advisor in {{cityName}}, consider these essential factors</p>
-      <div class="guidance__list">
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/standard.svg" alt="Icon"></div>
-          <div class="guidance__title">Fiduciary Standard</div>
-          <div class="guidance__desc">Prioritize advisors who commit to acting as fiduciaries 100% of the time, legally obligating them to put your interests first.</div>
-        </div>
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/location.svg" alt="Icon"></div>
-          <div class="guidance__title">{{cityName}}-Specific Expertise</div>
-          <div class="guidance__desc">For {{cityName}} residents working in {{majorIndustries}}, consider advisors with specific experience in your industry's unique compensation and benefit structures.</div>
-        </div>
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/fee.svg" alt="Icon"></div>
-          <div class="guidance__title">Fee Structure Transparency</div>
-          <div class="guidance__desc">Understand how your advisor is compensated—whether through fees, commissions, or a combination—and how this might influence their recommendations.</div>
-        </div>
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/credentials.svg" alt="Icon"></div>
-          <div class="guidance__title">Credentials</div>
-          <div class="guidance__desc">Seek advisors with recognized credentials such as CFP®, CFA, or ChFC designations, indicating advanced training and ethical standards.</div>
-        </div>
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/communication.svg" alt="Icon"></div>
-          <div class="guidance__title">Communication Style</div>
-          <div class="guidance__desc">Choose an advisor whose communication approach matches your preferences regarding frequency, detail, and method of interaction.</div>
-        </div>
-        <div class="guidance__item">
-          <div class="guidance__icon"><img src="assets/risk.svg" alt="Icon"></div>
-          <div class="guidance__title">Risk Management Focus</div>
-          <div class="guidance__desc">{{citySpecificRiskAdvice}}</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Calculator Section -->
-  <section class="calculator" id="calculator">
-    <div class="container">
-      <h2>Skip the advisor fees</h2>
-      <div class="calculator-container">
-        <div class="input-section">
-          <div class="input-group">
-            <label for="years">How many years until you want to retire?</label>
-            <input type="number" id="years" min="1" max="100" value="30" />
-          </div>
-
-          <div class="input-group">
-            <label for="currentValue">What is your portfolio's current value?</label>
-            <input type="text" id="currentValue" inputmode="numeric" value="500000" />
-          </div>
-
-          <div class="input-group">
-            <label for="annualContribution">What is your projected annual contribution?</label>
-            <input type="text" id="annualContribution" inputmode="numeric" value="25000" />
-          </div>
-
-          <div class="input-row">
-            <div class="input-col">
-              <label for="return">Estimated Annual Return</label>
-              <input type="text" id="return" min="0" max="100" step="0.1" value="7" />
-            </div>
-
-            <div class="input-col">
-              <label for="fee">Asset Manager Fee</label>
-              <input type="text" id="fee" min="0" max="100" step="0.1" value="1" />
-            </div>
-          </div>
-        </div>
-
-        <div class="results-section">
-          <div id="chartContainer">
-            <canvas id="myChart"></canvas>
-          </div>
-
-          <div id="result"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Locations Section -->
-  <section class="locations" id="locations">
-    <div class="container">
-      <h2>Find Financial Advisors in Nearby Cities</h2>
-      <p class="locations__subtitle">Explore financial advisor options in these nearby {{state}} locations</p>
-      <div class="locations__list">
-        <a href="/houston-tx" class="locations__item locations__item--link"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Houston</a>
-        <a href="/austin-tx" class="locations__item locations__item--link"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Austin</a>
-        <a href="/dallas-tx" class="locations__item locations__item--link"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Dallas</a>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>San Antonio</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Fort Worth</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>El Paso</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Arlington</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Corpus Christi</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Plano</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Lubbock</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Galveston</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Amarillo</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Waco</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Laredo</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>McAllen</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Denton</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Killeen</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Frisco</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Midland</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Abilene</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Tyler</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>San Marcos</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Beaumont</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>College Station</div>
-        <div class="locations__item"><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24"></span>Odessa</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Signup Section -->
-  <section class="signup" id="signup">
-    <div class="container">
-      <div class="signup__content">
-        <div class="signup__text">Get actionable insights in less than five minutes</div>
-        <a href="https://app.mezzi.com/" class="btn btn--black btn--large">Sign up for Mezzi</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="container">
-      <div class="footer__content">
-        <div class="footer__column footer__column--left">
-          <a href="https://apps.apple.com/us/app/mezzi-wealth/id6449714926" class="footer__app-store">
-            <img src="assets/AppStore.svg" alt="Download on the App Store" class="footer__app-store-badge">
           </a>
-          <div class="footer__copyright">© 2024 Mezzi. All rights reserved.</div>
-        </div>
-        <div class="footer__column footer__column--center">
-          <div class="footer__links">
-            <a href="https://www.mezzi.com/privacy-policy">Privacy Policy</a>
-            <a href="https://www.mezzi.com/terms-of-use">Terms of Use</a>
-          </div>
-        </div>
-        <div class="footer__column footer__column--right">
-          <div class="footer__social">
-            <a href="mailto:help@mezzi.com"><img src="assets/email.svg" alt="Email" class="footer__icon"></a>
-            <a href="https://x.com/MezziApp"><img src="assets/x-logo.svg" alt="X" class="footer__icon"></a>
-            <a href="https://www.instagram.com/mezziapp/"><img src="assets/instagram.svg" alt="Instagram" class="footer__icon"></a>
+          {{/advisors}}
+          <!-- Mezzi Banner -->
+          <div class="advisor-card mezzi-banner">
+            <div class="mezzi-banner__content">
+              <div class="mezzi-banner__logo">
+                <img src="assets/logo.svg" alt="Mezzi Logo" height="50" />
+              </div>
+              <div class="mezzi-banner__info">
+                <div class="mezzi-banner__text">
+                  Receive a complimentary AI wealth evaluation before hiring an advisor.
+                </div>
+              </div>
+              <div class="mezzi-banner__cta">
+                <a href="https://app.mezzi.com/" class="btn btn--black">Sign up for Mezzi</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </footer>
-  <script defer src="script.js"></script>
-</body>
-</html> 
+    </section>
+
+    <!-- Guidance Section -->
+    <section class="guidance" id="guidance">
+      <div class="container">
+        <h2>How to Choose the Right Financial Advisor</h2>
+        <p class="guidance__subtitle">
+          When selecting a financial advisor in {{cityName}}, consider these essential factors
+        </p>
+        <div class="guidance__list">
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/standard.svg" alt="Icon" /></div>
+            <div class="guidance__title">Fiduciary Standard</div>
+            <div class="guidance__desc">
+              Prioritize advisors who commit to acting as fiduciaries 100% of the time, legally obligating them to put
+              your interests first.
+            </div>
+          </div>
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/location.svg" alt="Icon" /></div>
+            <div class="guidance__title">{{cityName}}-Specific Expertise</div>
+            <div class="guidance__desc">
+              For {{cityName}} residents working in {{majorIndustries}}, consider advisors with specific experience in
+              your industry's unique compensation and benefit structures.
+            </div>
+          </div>
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/fee.svg" alt="Icon" /></div>
+            <div class="guidance__title">Fee Structure Transparency</div>
+            <div class="guidance__desc">
+              Understand how your advisor is compensated—whether through fees, commissions, or a combination—and how
+              this might influence their recommendations.
+            </div>
+          </div>
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/credentials.svg" alt="Icon" /></div>
+            <div class="guidance__title">Credentials</div>
+            <div class="guidance__desc">
+              Seek advisors with recognized credentials such as CFP®, CFA, or ChFC designations, indicating advanced
+              training and ethical standards.
+            </div>
+          </div>
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/communication.svg" alt="Icon" /></div>
+            <div class="guidance__title">Communication Style</div>
+            <div class="guidance__desc">
+              Choose an advisor whose communication approach matches your preferences regarding frequency, detail, and
+              method of interaction.
+            </div>
+          </div>
+          <div class="guidance__item">
+            <div class="guidance__icon"><img src="assets/risk.svg" alt="Icon" /></div>
+            <div class="guidance__title">Risk Management Focus</div>
+            <div class="guidance__desc">{{citySpecificRiskAdvice}}</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Section -->
+    <section class="calculator" id="calculator">
+      <div class="container">
+        <h2>Skip the advisor fees</h2>
+        <div class="calculator-container">
+          <div class="input-section">
+            <div class="input-group">
+              <label for="years">How many years until you want to retire?</label>
+              <input type="number" id="years" min="1" max="100" value="30" />
+            </div>
+
+            <div class="input-group">
+              <label for="currentValue">What is your portfolio's current value?</label>
+              <input type="text" id="currentValue" inputmode="numeric" value="500000" />
+            </div>
+
+            <div class="input-group">
+              <label for="annualContribution">What is your projected annual contribution?</label>
+              <input type="text" id="annualContribution" inputmode="numeric" value="25000" />
+            </div>
+
+            <div class="input-row">
+              <div class="input-col">
+                <label for="return">Estimated Annual Return</label>
+                <input type="text" id="return" min="0" max="100" step="0.1" value="7" />
+              </div>
+
+              <div class="input-col">
+                <label for="fee">Asset Manager Fee</label>
+                <input type="text" id="fee" min="0" max="100" step="0.1" value="1" />
+              </div>
+            </div>
+          </div>
+
+          <div class="results-section">
+            <div id="chartContainer">
+              <canvas id="myChart"></canvas>
+            </div>
+
+            <div id="result"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Locations Section -->
+    <section class="locations" id="locations">
+      <div class="container">
+        <h2>Find Financial Advisors in Nearby Cities</h2>
+        <p class="locations__subtitle">Explore financial advisor options in these nearby {{state}} locations</p>
+        <div class="locations__list">
+          {{#nearbyLocations}}
+          <a href="../{{slug}}/" class="locations__item locations__item--link"
+            ><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24" /></span>{{name}}</a
+          >
+          {{/nearbyLocations}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Signup Section -->
+    <section class="signup" id="signup">
+      <div class="container">
+        <div class="signup__content">
+          <div class="signup__text">Get actionable insights in less than five minutes</div>
+          <a href="https://app.mezzi.com/" class="btn btn--black btn--large">Sign up for Mezzi</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__content">
+          <div class="footer__column footer__column--left">
+            <a href="https://apps.apple.com/us/app/mezzi-wealth/id6449714926" class="footer__app-store">
+              <img src="assets/AppStore.svg" alt="Download on the App Store" class="footer__app-store-badge" />
+            </a>
+            <div class="footer__copyright">© 2024 Mezzi. All rights reserved.</div>
+          </div>
+          <div class="footer__column footer__column--center">
+            <div class="footer__links">
+              <a href="https://www.mezzi.com/privacy-policy">Privacy Policy</a>
+              <a href="https://www.mezzi.com/terms-of-use">Terms of Use</a>
+            </div>
+          </div>
+          <div class="footer__column footer__column--right">
+            <div class="footer__social">
+              <a href="mailto:help@mezzi.com"><img src="assets/email.svg" alt="Email" class="footer__icon" /></a>
+              <a href="https://x.com/MezziApp"><img src="assets/x-logo.svg" alt="X" class="footer__icon" /></a>
+              <a href="https://www.instagram.com/mezziapp/"
+                ><img src="assets/instagram.svg" alt="Instagram" class="footer__icon"
+              /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script defer src="script.js"></script>
+  </body>
+</html>

@@ -1,6 +1,12 @@
 const fs = require('fs-extra');
 const { generateAllCityContent, validateDataStructure, RATE_LIMIT_DELAY } = require('./ai-content-optimized');
 
+function getNearbyLocations(state) {
+  const locationList = fs.readJsonSync('./data/cities.json');
+  const stateCities = locationList.filter(location => location.state === state);
+  return stateCities.slice(0, 8);
+}
+
 async function generateCityDataOptimized(city) {
   console.log(`\n🏙️ Generating optimized data for ${city.name}, ${city.state}...`);
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
@@ -24,6 +30,8 @@ async function generateCityDataOptimized(city) {
       throw new Error('Landscape data validation failed');
     }
 
+    const nearbyLocations = getNearbyLocations(city.state);
+
     // Combine all data into city object
     const cityData = {
       cityName: city.name,
@@ -39,7 +47,8 @@ async function generateCityDataOptimized(city) {
       advisors: allContent.advisors,
       ...allContent.landscape,
       insights: allContent.insights.insights || allContent.insights,
-      ...allContent.stats
+      ...allContent.stats,
+      nearbyLocations
     };
 
     // Save generated data

@@ -4,62 +4,10 @@ require('dotenv').config();
 const fs = require('fs-extra');
 const { generateAdvisors, generateCityStats, generateLandscapeData, generateMarketInsights } = require('./ai-content');
 
-function getNearbyLocations(cityName, state) {
-  // Logic to determine nearby cities based on geography
-  const locationMap = {
-    'Texas': ['Houston', 'Dallas', 'Austin', 'San Antonio', 'Fort Worth', 'El Paso', 'Arlington', 'Corpus Christi', 'Plano', 'Lubbock', 'Irving', 'Laredo', 'Garland', 'Frisco', 'McKinney'],
-    'California': ['Los Angeles', 'San Francisco', 'San Diego', 'Sacramento', 'San Jose', 'Fresno', 'Long Beach', 'Oakland', 'Anaheim', 'Santa Ana', 'Riverside', 'Stockton', 'Irvine', 'Fremont'],
-    'Florida': ['Miami', 'Tampa', 'Orlando', 'Jacksonville', 'Fort Lauderdale', 'Tallahassee', 'St. Petersburg', 'Hialeah', 'Gainesville', 'Coral Springs', 'West Palm Beach'],
-    'New York': ['New York City', 'Buffalo', 'Rochester', 'Syracuse', 'Albany', 'Yonkers', 'New Rochelle', 'Mount Vernon'],
-    'Illinois': ['Chicago', 'Aurora', 'Springfield', 'Peoria', 'Rockford', 'Elgin', 'Joliet', 'Naperville'],
-    'Pennsylvania': ['Philadelphia', 'Pittsburgh', 'Allentown', 'Erie', 'Reading', 'Scranton', 'Bethlehem'],
-    'Ohio': ['Columbus', 'Cleveland', 'Cincinnati', 'Toledo', 'Akron', 'Dayton', 'Canton'],
-    'Georgia': ['Atlanta', 'Augusta', 'Columbus', 'Savannah', 'Athens', 'Macon'],
-    'North Carolina': ['Charlotte', 'Raleigh', 'Greensboro', 'Durham', 'Winston-Salem', 'Asheville'],
-    'Michigan': ['Detroit', 'Grand Rapids', 'Warren', 'Sterling Heights', 'Lansing', 'Ann Arbor'],
-    'Tennessee': ['Nashville', 'Memphis', 'Knoxville', 'Chattanooga', 'Clarksville'],
-    'Virginia': ['Virginia Beach', 'Norfolk', 'Richmond', 'Newport News', 'Alexandria'],
-    'Washington': ['Seattle', 'Spokane', 'Tacoma', 'Vancouver', 'Bellevue'],
-    'Arizona': ['Phoenix', 'Tucson', 'Mesa', 'Chandler', 'Glendale', 'Scottsdale'],
-    'Massachusetts': ['Boston', 'Worcester', 'Springfield', 'Cambridge', 'Lowell'],
-    'Indiana': ['Indianapolis', 'Fort Wayne', 'Evansville', 'South Bend'],
-    'Missouri': ['Kansas City', 'St. Louis', 'Springfield', 'Columbia'],
-    'Maryland': ['Baltimore', 'Frederick', 'Rockville', 'Gaithersburg'],
-    'Wisconsin': ['Milwaukee', 'Madison', 'Green Bay', 'Kenosha'],
-    'Colorado': ['Denver', 'Colorado Springs', 'Aurora', 'Fort Collins'],
-    'Minnesota': ['Minneapolis', 'St. Paul', 'Rochester', 'Duluth'],
-    'South Carolina': ['Charleston', 'Columbia', 'North Charleston', 'Greenville'],
-    'Alabama': ['Birmingham', 'Montgomery', 'Mobile', 'Huntsville'],
-    'Louisiana': ['New Orleans', 'Baton Rouge', 'Shreveport', 'Lafayette'],
-    'Kentucky': ['Louisville', 'Lexington', 'Bowling Green', 'Owensboro'],
-    'Oregon': ['Portland', 'Salem', 'Eugene', 'Gresham'],
-    'Oklahoma': ['Oklahoma City', 'Tulsa', 'Norman', 'Lawton'],
-    'Connecticut': ['Bridgeport', 'New Haven', 'Hartford', 'Stamford'],
-    'Utah': ['Salt Lake City', 'West Valley City', 'Provo', 'Ogden'],
-    'Iowa': ['Des Moines', 'Cedar Rapids', 'Davenport', 'Sioux City'],
-    'Nevada': ['Las Vegas', 'Henderson', 'Reno', 'North Las Vegas'],
-    'Arkansas': ['Little Rock', 'Fort Smith', 'Fayetteville', 'Springdale'],
-    'Kansas': ['Wichita', 'Overland Park', 'Kansas City', 'Topeka'],
-    'Mississippi': ['Jackson', 'Gulfport', 'Southaven', 'Hattiesburg'],
-    'New Mexico': ['Albuquerque', 'Las Cruces', 'Rio Rancho', 'Santa Fe'],
-    'Nebraska': ['Omaha', 'Lincoln', 'Bellevue', 'Grand Island'],
-    'West Virginia': ['Charleston', 'Huntington', 'Morgantown', 'Parkersburg'],
-    'Idaho': ['Boise', 'Meridian', 'Nampa', 'Idaho Falls'],
-    'Hawaii': ['Honolulu', 'Pearl City', 'Hilo', 'Kailua'],
-    'New Hampshire': ['Manchester', 'Nashua', 'Concord', 'Rochester'],
-    'Maine': ['Portland', 'Lewiston', 'Bangor', 'Auburn'],
-    'Montana': ['Billings', 'Missoula', 'Great Falls', 'Bozeman'],
-    'Rhode Island': ['Providence', 'Warwick', 'Cranston', 'Pawtucket'],
-    'Delaware': ['Wilmington', 'Dover', 'Newark', 'Middletown'],
-    'South Dakota': ['Sioux Falls', 'Rapid City', 'Aberdeen', 'Brookings'],
-    'North Dakota': ['Fargo', 'Bismarck', 'Grand Forks', 'Minot'],
-    'Alaska': ['Anchorage', 'Fairbanks', 'Juneau', 'Sitka'],
-    'Vermont': ['Burlington', 'Essex', 'South Burlington', 'Colchester'],
-    'Wyoming': ['Cheyenne', 'Casper', 'Laramie', 'Gillette']
-  };
-  
-  const stateCities = locationMap[state] || [];
-  return stateCities.filter(city => city !== cityName).slice(0, 8);
+function getNearbyLocations(state) {
+  const locationList = fs.readJsonSync('./data/location-map.json');
+  const stateCities = locationList.filter(location => location.state === state).map(location => location.name);
+  return stateCities.slice(0, 8);
 }
 
 async function generateCityData(city) {
