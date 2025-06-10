@@ -1,23 +1,7002 @@
 [
   {
+    "name": "New York",
+    "state": "New York",
+    "slug": "new-york-ny",
+    "population": 8405837,
+    "priority": 1
+  },
+  {
+    "name": "Los Angeles",
+    "state": "California",
+    "slug": "los-angeles-ca",
+    "population": 3884307,
+    "priority": 1
+  },
+  {
+    "name": "Chicago",
+    "state": "Illinois",
+    "slug": "chicago-il",
+    "population": 2718782,
+    "priority": 1
+  },
+  {
     "name": "Houston",
     "state": "Texas",
     "slug": "houston-tx",
-    "population": 2300000,
+    "population": 2195914,
+    "priority": 1
+  },
+  {
+    "name": "Philadelphia",
+    "state": "Pennsylvania",
+    "slug": "philadelphia-pa",
+    "population": 1553165,
+    "priority": 1
+  },
+  {
+    "name": "Phoenix",
+    "state": "Arizona",
+    "slug": "phoenix-az",
+    "population": 1513367,
+    "priority": 1
+  },
+  {
+    "name": "San Antonio",
+    "state": "Texas",
+    "slug": "san-antonio-tx",
+    "population": 1409019,
+    "priority": 1
+  },
+  {
+    "name": "San Diego",
+    "state": "California",
+    "slug": "san-diego-ca",
+    "population": 1355896,
     "priority": 1
   },
   {
     "name": "Dallas",
-    "state": "Texas", 
+    "state": "Texas",
     "slug": "dallas-tx",
-    "population": 1300000,
+    "population": 1257676,
+    "priority": 1
+  },
+  {
+    "name": "San Jose",
+    "state": "California",
+    "slug": "san-jose-ca",
+    "population": 998537,
     "priority": 1
   },
   {
     "name": "Austin",
     "state": "Texas",
-    "slug": "austin-tx", 
-    "population": 950000,
+    "slug": "austin-tx",
+    "population": 885400,
+    "priority": 1
+  },
+  {
+    "name": "Indianapolis",
+    "state": "Indiana",
+    "slug": "indianapolis-in",
+    "population": 843393,
+    "priority": 1
+  },
+  {
+    "name": "Jacksonville",
+    "state": "Florida",
+    "slug": "jacksonville-fl",
+    "population": 842583,
+    "priority": 1
+  },
+  {
+    "name": "San Francisco",
+    "state": "California",
+    "slug": "san-francisco-ca",
+    "population": 837442,
+    "priority": 1
+  },
+  {
+    "name": "Columbus",
+    "state": "Ohio",
+    "slug": "columbus-oh",
+    "population": 822553,
+    "priority": 1
+  },
+  {
+    "name": "Charlotte",
+    "state": "North Carolina",
+    "slug": "charlotte-nc",
+    "population": 792862,
+    "priority": 1
+  },
+  {
+    "name": "Fort Worth",
+    "state": "Texas",
+    "slug": "fort-worth-tx",
+    "population": 792727,
+    "priority": 1
+  },
+  {
+    "name": "Detroit",
+    "state": "Michigan",
+    "slug": "detroit-mi",
+    "population": 688701,
+    "priority": 1
+  },
+  {
+    "name": "El Paso",
+    "state": "Texas",
+    "slug": "el-paso-tx",
+    "population": 674433,
+    "priority": 1
+  },
+  {
+    "name": "Memphis",
+    "state": "Tennessee",
+    "slug": "memphis-tn",
+    "population": 653450,
+    "priority": 1
+  },
+  {
+    "name": "Seattle",
+    "state": "Washington",
+    "slug": "seattle-wa",
+    "population": 652405,
+    "priority": 1
+  },
+  {
+    "name": "Denver",
+    "state": "Colorado",
+    "slug": "denver-co",
+    "population": 649495,
+    "priority": 1
+  },
+  {
+    "name": "Washington",
+    "state": "District of Columbia",
+    "slug": "washington-dc",
+    "population": 646449,
+    "priority": 1
+  },
+  {
+    "name": "Boston",
+    "state": "Massachusetts",
+    "slug": "boston-ma",
+    "population": 645966,
+    "priority": 1
+  },
+  {
+    "name": "Nashville-Davidson",
+    "state": "Tennessee",
+    "slug": "nashville-davidson-tn",
+    "population": 634464,
+    "priority": 1
+  },
+  {
+    "name": "Baltimore",
+    "state": "Maryland",
+    "slug": "baltimore-md",
+    "population": 622104,
+    "priority": 1
+  },
+  {
+    "name": "Oklahoma City",
+    "state": "Oklahoma",
+    "slug": "oklahoma-city-ok",
+    "population": 610613,
+    "priority": 1
+  },
+  {
+    "name": "Louisville/Jefferson County",
+    "state": "Kentucky",
+    "slug": "louisville-jefferson-county-ky",
+    "population": 609893,
+    "priority": 1
+  },
+  {
+    "name": "Portland",
+    "state": "Oregon",
+    "slug": "portland-or",
+    "population": 609456,
+    "priority": 1
+  },
+  {
+    "name": "Las Vegas",
+    "state": "Nevada",
+    "slug": "las-vegas-nv",
+    "population": 603488,
+    "priority": 1
+  },
+  {
+    "name": "Milwaukee",
+    "state": "Wisconsin",
+    "slug": "milwaukee-wi",
+    "population": 599164,
+    "priority": 1
+  },
+  {
+    "name": "Albuquerque",
+    "state": "New Mexico",
+    "slug": "albuquerque-nm",
+    "population": 556495,
+    "priority": 1
+  },
+  {
+    "name": "Tucson",
+    "state": "Arizona",
+    "slug": "tucson-az",
+    "population": 526116,
+    "priority": 1
+  },
+  {
+    "name": "Fresno",
+    "state": "California",
+    "slug": "fresno-ca",
+    "population": 509924,
+    "priority": 1
+  },
+  {
+    "name": "Sacramento",
+    "state": "California",
+    "slug": "sacramento-ca",
+    "population": 479686,
+    "priority": 1
+  },
+  {
+    "name": "Long Beach",
+    "state": "California",
+    "slug": "long-beach-ca",
+    "population": 469428,
+    "priority": 1
+  },
+  {
+    "name": "Kansas City",
+    "state": "Missouri",
+    "slug": "kansas-city-mo",
+    "population": 467007,
+    "priority": 1
+  },
+  {
+    "name": "Mesa",
+    "state": "Arizona",
+    "slug": "mesa-az",
+    "population": 457587,
+    "priority": 1
+  },
+  {
+    "name": "Virginia Beach",
+    "state": "Virginia",
+    "slug": "virginia-beach-va",
+    "population": 448479,
+    "priority": 1
+  },
+  {
+    "name": "Atlanta",
+    "state": "Georgia",
+    "slug": "atlanta-ga",
+    "population": 447841,
+    "priority": 1
+  },
+  {
+    "name": "Colorado Springs",
+    "state": "Colorado",
+    "slug": "colorado-springs-co",
+    "population": 439886,
+    "priority": 1
+  },
+  {
+    "name": "Omaha",
+    "state": "Nebraska",
+    "slug": "omaha-ne",
+    "population": 434353,
+    "priority": 1
+  },
+  {
+    "name": "Raleigh",
+    "state": "North Carolina",
+    "slug": "raleigh-nc",
+    "population": 431746,
+    "priority": 1
+  },
+  {
+    "name": "Miami",
+    "state": "Florida",
+    "slug": "miami-fl",
+    "population": 417650,
+    "priority": 1
+  },
+  {
+    "name": "Oakland",
+    "state": "California",
+    "slug": "oakland-ca",
+    "population": 406253,
+    "priority": 1
+  },
+  {
+    "name": "Minneapolis",
+    "state": "Minnesota",
+    "slug": "minneapolis-mn",
+    "population": 400070,
+    "priority": 1
+  },
+  {
+    "name": "Tulsa",
+    "state": "Oklahoma",
+    "slug": "tulsa-ok",
+    "population": 398121,
+    "priority": 1
+  },
+  {
+    "name": "Cleveland",
+    "state": "Ohio",
+    "slug": "cleveland-oh",
+    "population": 390113,
+    "priority": 1
+  },
+  {
+    "name": "Wichita",
+    "state": "Kansas",
+    "slug": "wichita-ks",
+    "population": 386552,
+    "priority": 1
+  },
+  {
+    "name": "Arlington",
+    "state": "Texas",
+    "slug": "arlington-tx",
+    "population": 379577,
+    "priority": 1
+  },
+  {
+    "name": "New Orleans",
+    "state": "Louisiana",
+    "slug": "new-orleans-la",
+    "population": 378715,
+    "priority": 1
+  },
+  {
+    "name": "Bakersfield",
+    "state": "California",
+    "slug": "bakersfield-ca",
+    "population": 363630,
+    "priority": 1
+  },
+  {
+    "name": "Tampa",
+    "state": "Florida",
+    "slug": "tampa-fl",
+    "population": 352957,
+    "priority": 1
+  },
+  {
+    "name": "Honolulu",
+    "state": "Hawaii",
+    "slug": "honolulu-hi",
+    "population": 347884,
+    "priority": 1
+  },
+  {
+    "name": "Aurora",
+    "state": "Colorado",
+    "slug": "aurora-co",
+    "population": 345803,
+    "priority": 1
+  },
+  {
+    "name": "Anaheim",
+    "state": "California",
+    "slug": "anaheim-ca",
+    "population": 345012,
+    "priority": 1
+  },
+  {
+    "name": "Santa Ana",
+    "state": "California",
+    "slug": "santa-ana-ca",
+    "population": 334227,
+    "priority": 1
+  },
+  {
+    "name": "St. Louis",
+    "state": "Missouri",
+    "slug": "st-louis-mo",
+    "population": 318416,
+    "priority": 1
+  },
+  {
+    "name": "Riverside",
+    "state": "California",
+    "slug": "riverside-ca",
+    "population": 316619,
+    "priority": 1
+  },
+  {
+    "name": "Corpus Christi",
+    "state": "Texas",
+    "slug": "corpus-christi-tx",
+    "population": 316381,
+    "priority": 1
+  },
+  {
+    "name": "Lexington-Fayette",
+    "state": "Kentucky",
+    "slug": "lexington-fayette-ky",
+    "population": 308428,
+    "priority": 1
+  },
+  {
+    "name": "Pittsburgh",
+    "state": "Pennsylvania",
+    "slug": "pittsburgh-pa",
+    "population": 305841,
+    "priority": 1
+  },
+  {
+    "name": "Anchorage",
+    "state": "Alaska",
+    "slug": "anchorage-ak",
+    "population": 300950,
+    "priority": 1
+  },
+  {
+    "name": "Stockton",
+    "state": "California",
+    "slug": "stockton-ca",
+    "population": 298118,
+    "priority": 1
+  },
+  {
+    "name": "Cincinnati",
+    "state": "Ohio",
+    "slug": "cincinnati-oh",
+    "population": 297517,
+    "priority": 1
+  },
+  {
+    "name": "St. Paul",
+    "state": "Minnesota",
+    "slug": "st-paul-mn",
+    "population": 294873,
+    "priority": 1
+  },
+  {
+    "name": "Toledo",
+    "state": "Ohio",
+    "slug": "toledo-oh",
+    "population": 282313,
+    "priority": 1
+  },
+  {
+    "name": "Greensboro",
+    "state": "North Carolina",
+    "slug": "greensboro-nc",
+    "population": 279639,
+    "priority": 1
+  },
+  {
+    "name": "Newark",
+    "state": "New Jersey",
+    "slug": "newark-nj",
+    "population": 278427,
+    "priority": 1
+  },
+  {
+    "name": "Plano",
+    "state": "Texas",
+    "slug": "plano-tx",
+    "population": 274409,
+    "priority": 1
+  },
+  {
+    "name": "Henderson",
+    "state": "Nevada",
+    "slug": "henderson-nv",
+    "population": 270811,
+    "priority": 1
+  },
+  {
+    "name": "Lincoln",
+    "state": "Nebraska",
+    "slug": "lincoln-ne",
+    "population": 268738,
+    "priority": 1
+  },
+  {
+    "name": "Buffalo",
+    "state": "New York",
+    "slug": "buffalo-ny",
+    "population": 258959,
+    "priority": 1
+  },
+  {
+    "name": "Jersey City",
+    "state": "New Jersey",
+    "slug": "jersey-city-nj",
+    "population": 257342,
+    "priority": 1
+  },
+  {
+    "name": "Chula Vista",
+    "state": "California",
+    "slug": "chula-vista-ca",
+    "population": 256780,
+    "priority": 1
+  },
+  {
+    "name": "Fort Wayne",
+    "state": "Indiana",
+    "slug": "fort-wayne-in",
+    "population": 256496,
+    "priority": 1
+  },
+  {
+    "name": "Orlando",
+    "state": "Florida",
+    "slug": "orlando-fl",
+    "population": 255483,
+    "priority": 1
+  },
+  {
+    "name": "St. Petersburg",
+    "state": "Florida",
+    "slug": "st-petersburg-fl",
+    "population": 249688,
+    "priority": 1
+  },
+  {
+    "name": "Chandler",
+    "state": "Arizona",
+    "slug": "chandler-az",
+    "population": 249146,
+    "priority": 1
+  },
+  {
+    "name": "Laredo",
+    "state": "Texas",
+    "slug": "laredo-tx",
+    "population": 248142,
+    "priority": 1
+  },
+  {
+    "name": "Norfolk",
+    "state": "Virginia",
+    "slug": "norfolk-va",
+    "population": 246139,
+    "priority": 1
+  },
+  {
+    "name": "Durham",
+    "state": "North Carolina",
+    "slug": "durham-nc",
+    "population": 245475,
+    "priority": 1
+  },
+  {
+    "name": "Madison",
+    "state": "Wisconsin",
+    "slug": "madison-wi",
+    "population": 243344,
+    "priority": 1
+  },
+  {
+    "name": "Lubbock",
+    "state": "Texas",
+    "slug": "lubbock-tx",
+    "population": 239538,
+    "priority": 1
+  },
+  {
+    "name": "Irvine",
+    "state": "California",
+    "slug": "irvine-ca",
+    "population": 236716,
+    "priority": 1
+  },
+  {
+    "name": "Winston-Salem",
+    "state": "North Carolina",
+    "slug": "winston-salem-nc",
+    "population": 236441,
+    "priority": 1
+  },
+  {
+    "name": "Glendale",
+    "state": "Arizona",
+    "slug": "glendale-az",
+    "population": 234632,
+    "priority": 1
+  },
+  {
+    "name": "Garland",
+    "state": "Texas",
+    "slug": "garland-tx",
+    "population": 234566,
+    "priority": 1
+  },
+  {
+    "name": "Hialeah",
+    "state": "Florida",
+    "slug": "hialeah-fl",
+    "population": 233394,
+    "priority": 1
+  },
+  {
+    "name": "Reno",
+    "state": "Nevada",
+    "slug": "reno-nv",
+    "population": 233294,
+    "priority": 1
+  },
+  {
+    "name": "Chesapeake",
+    "state": "Virginia",
+    "slug": "chesapeake-va",
+    "population": 230571,
+    "priority": 1
+  },
+  {
+    "name": "Gilbert",
+    "state": "Arizona",
+    "slug": "gilbert-az",
+    "population": 229972,
+    "priority": 1
+  },
+  {
+    "name": "Baton Rouge",
+    "state": "Louisiana",
+    "slug": "baton-rouge-la",
+    "population": 229426,
+    "priority": 1
+  },
+  {
+    "name": "Irving",
+    "state": "Texas",
+    "slug": "irving-tx",
+    "population": 228653,
+    "priority": 1
+  },
+  {
+    "name": "Scottsdale",
+    "state": "Arizona",
+    "slug": "scottsdale-az",
+    "population": 226918,
+    "priority": 1
+  },
+  {
+    "name": "North Las Vegas",
+    "state": "Nevada",
+    "slug": "north-las-vegas-nv",
+    "population": 226877,
+    "priority": 1
+  },
+  {
+    "name": "Fremont",
+    "state": "California",
+    "slug": "fremont-ca",
+    "population": 224922,
+    "priority": 1
+  },
+  {
+    "name": "Boise City",
+    "state": "Idaho",
+    "slug": "boise-city-id",
+    "population": 214237,
+    "priority": 1
+  },
+  {
+    "name": "Richmond",
+    "state": "Virginia",
+    "slug": "richmond-va",
+    "population": 214114,
+    "priority": 1
+  },
+  {
+    "name": "San Bernardino",
+    "state": "California",
+    "slug": "san-bernardino-ca",
+    "population": 213708,
+    "priority": 1
+  },
+  {
+    "name": "Birmingham",
+    "state": "Alabama",
+    "slug": "birmingham-al",
+    "population": 212113,
+    "priority": 1
+  },
+  {
+    "name": "Spokane",
+    "state": "Washington",
+    "slug": "spokane-wa",
+    "population": 210721,
+    "priority": 1
+  },
+  {
+    "name": "Rochester",
+    "state": "New York",
+    "slug": "rochester-ny",
+    "population": 210358,
+    "priority": 1
+  },
+  {
+    "name": "Des Moines",
+    "state": "Iowa",
+    "slug": "des-moines-ia",
+    "population": 207510,
+    "priority": 1
+  },
+  {
+    "name": "Modesto",
+    "state": "California",
+    "slug": "modesto-ca",
+    "population": 204933,
+    "priority": 1
+  },
+  {
+    "name": "Fayetteville",
+    "state": "North Carolina",
+    "slug": "fayetteville-nc",
+    "population": 204408,
+    "priority": 1
+  },
+  {
+    "name": "Tacoma",
+    "state": "Washington",
+    "slug": "tacoma-wa",
+    "population": 203446,
+    "priority": 1
+  },
+  {
+    "name": "Oxnard",
+    "state": "California",
+    "slug": "oxnard-ca",
+    "population": 203007,
+    "priority": 1
+  },
+  {
+    "name": "Fontana",
+    "state": "California",
+    "slug": "fontana-ca",
+    "population": 203003,
+    "priority": 1
+  },
+  {
+    "name": "Columbus",
+    "state": "Georgia",
+    "slug": "columbus-ga",
+    "population": 202824,
+    "priority": 1
+  },
+  {
+    "name": "Montgomery",
+    "state": "Alabama",
+    "slug": "montgomery-al",
+    "population": 201332,
+    "priority": 1
+  },
+  {
+    "name": "Moreno Valley",
+    "state": "California",
+    "slug": "moreno-valley-ca",
+    "population": 201175,
+    "priority": 1
+  },
+  {
+    "name": "Shreveport",
+    "state": "Louisiana",
+    "slug": "shreveport-la",
+    "population": 200327,
+    "priority": 1
+  },
+  {
+    "name": "Aurora",
+    "state": "Illinois",
+    "slug": "aurora-il",
+    "population": 199963,
+    "priority": 1
+  },
+  {
+    "name": "Yonkers",
+    "state": "New York",
+    "slug": "yonkers-ny",
+    "population": 199766,
+    "priority": 1
+  },
+  {
+    "name": "Akron",
+    "state": "Ohio",
+    "slug": "akron-oh",
+    "population": 198100,
+    "priority": 1
+  },
+  {
+    "name": "Huntington Beach",
+    "state": "California",
+    "slug": "huntington-beach-ca",
+    "population": 197575,
+    "priority": 1
+  },
+  {
+    "name": "Little Rock",
+    "state": "Arkansas",
+    "slug": "little-rock-ar",
+    "population": 197357,
+    "priority": 1
+  },
+  {
+    "name": "Augusta-Richmond County",
+    "state": "Georgia",
+    "slug": "augusta-richmond-county-ga",
+    "population": 197350,
+    "priority": 1
+  },
+  {
+    "name": "Amarillo",
+    "state": "Texas",
+    "slug": "amarillo-tx",
+    "population": 196429,
+    "priority": 1
+  },
+  {
+    "name": "Glendale",
+    "state": "California",
+    "slug": "glendale-ca",
+    "population": 196021,
+    "priority": 1
+  },
+  {
+    "name": "Mobile",
+    "state": "Alabama",
+    "slug": "mobile-al",
+    "population": 194899,
+    "priority": 1
+  },
+  {
+    "name": "Grand Rapids",
+    "state": "Michigan",
+    "slug": "grand-rapids-mi",
+    "population": 192294,
+    "priority": 1
+  },
+  {
+    "name": "Salt Lake City",
+    "state": "Utah",
+    "slug": "salt-lake-city-ut",
+    "population": 191180,
+    "priority": 1
+  },
+  {
+    "name": "Tallahassee",
+    "state": "Florida",
+    "slug": "tallahassee-fl",
+    "population": 186411,
+    "priority": 1
+  },
+  {
+    "name": "Huntsville",
+    "state": "Alabama",
+    "slug": "huntsville-al",
+    "population": 186254,
+    "priority": 1
+  },
+  {
+    "name": "Grand Prairie",
+    "state": "Texas",
+    "slug": "grand-prairie-tx",
+    "population": 183372,
+    "priority": 1
+  },
+  {
+    "name": "Knoxville",
+    "state": "Tennessee",
+    "slug": "knoxville-tn",
+    "population": 183270,
+    "priority": 1
+  },
+  {
+    "name": "Worcester",
+    "state": "Massachusetts",
+    "slug": "worcester-ma",
+    "population": 182544,
+    "priority": 1
+  },
+  {
+    "name": "Newport News",
+    "state": "Virginia",
+    "slug": "newport-news-va",
+    "population": 182020,
+    "priority": 1
+  },
+  {
+    "name": "Brownsville",
+    "state": "Texas",
+    "slug": "brownsville-tx",
+    "population": 181860,
+    "priority": 1
+  },
+  {
+    "name": "Overland Park",
+    "state": "Kansas",
+    "slug": "overland-park-ks",
+    "population": 181260,
+    "priority": 1
+  },
+  {
+    "name": "Santa Clarita",
+    "state": "California",
+    "slug": "santa-clarita-ca",
+    "population": 179590,
+    "priority": 1
+  },
+  {
+    "name": "Providence",
+    "state": "Rhode Island",
+    "slug": "providence-ri",
+    "population": 177994,
+    "priority": 1
+  },
+  {
+    "name": "Garden Grove",
+    "state": "California",
+    "slug": "garden-grove-ca",
+    "population": 175140,
+    "priority": 1
+  },
+  {
+    "name": "Chattanooga",
+    "state": "Tennessee",
+    "slug": "chattanooga-tn",
+    "population": 173366,
+    "priority": 1
+  },
+  {
+    "name": "Oceanside",
+    "state": "California",
+    "slug": "oceanside-ca",
+    "population": 172794,
+    "priority": 1
+  },
+  {
+    "name": "Jackson",
+    "state": "Mississippi",
+    "slug": "jackson-ms",
+    "population": 172638,
+    "priority": 1
+  },
+  {
+    "name": "Fort Lauderdale",
+    "state": "Florida",
+    "slug": "fort-lauderdale-fl",
+    "population": 172389,
+    "priority": 1
+  },
+  {
+    "name": "Santa Rosa",
+    "state": "California",
+    "slug": "santa-rosa-ca",
+    "population": 171990,
+    "priority": 1
+  },
+  {
+    "name": "Rancho Cucamonga",
+    "state": "California",
+    "slug": "rancho-cucamonga-ca",
+    "population": 171386,
+    "priority": 1
+  },
+  {
+    "name": "Port St. Lucie",
+    "state": "Florida",
+    "slug": "port-st-lucie-fl",
+    "population": 171016,
+    "priority": 1
+  },
+  {
+    "name": "Tempe",
+    "state": "Arizona",
+    "slug": "tempe-az",
+    "population": 168228,
+    "priority": 1
+  },
+  {
+    "name": "Ontario",
+    "state": "California",
+    "slug": "ontario-ca",
+    "population": 167500,
+    "priority": 1
+  },
+  {
+    "name": "Vancouver",
+    "state": "Washington",
+    "slug": "vancouver-wa",
+    "population": 167405,
+    "priority": 1
+  },
+  {
+    "name": "Cape Coral",
+    "state": "Florida",
+    "slug": "cape-coral-fl",
+    "population": 165831,
+    "priority": 1
+  },
+  {
+    "name": "Sioux Falls",
+    "state": "South Dakota",
+    "slug": "sioux-falls-sd",
+    "population": 164676,
+    "priority": 1
+  },
+  {
+    "name": "Springfield",
+    "state": "Missouri",
+    "slug": "springfield-mo",
+    "population": 164122,
+    "priority": 1
+  },
+  {
+    "name": "Peoria",
+    "state": "Arizona",
+    "slug": "peoria-az",
+    "population": 162592,
+    "priority": 1
+  },
+  {
+    "name": "Pembroke Pines",
+    "state": "Florida",
+    "slug": "pembroke-pines-fl",
+    "population": 162329,
+    "priority": 1
+  },
+  {
+    "name": "Elk Grove",
+    "state": "California",
+    "slug": "elk-grove-ca",
+    "population": 161007,
+    "priority": 1
+  },
+  {
+    "name": "Salem",
+    "state": "Oregon",
+    "slug": "salem-or",
+    "population": 160614,
+    "priority": 1
+  },
+  {
+    "name": "Lancaster",
+    "state": "California",
+    "slug": "lancaster-ca",
+    "population": 159523,
+    "priority": 1
+  },
+  {
+    "name": "Corona",
+    "state": "California",
+    "slug": "corona-ca",
+    "population": 159503,
+    "priority": 1
+  },
+  {
+    "name": "Eugene",
+    "state": "Oregon",
+    "slug": "eugene-or",
+    "population": 159190,
+    "priority": 1
+  },
+  {
+    "name": "Palmdale",
+    "state": "California",
+    "slug": "palmdale-ca",
+    "population": 157161,
+    "priority": 1
+  },
+  {
+    "name": "Salinas",
+    "state": "California",
+    "slug": "salinas-ca",
+    "population": 155662,
+    "priority": 1
+  },
+  {
+    "name": "Springfield",
+    "state": "Massachusetts",
+    "slug": "springfield-ma",
+    "population": 153703,
+    "priority": 1
+  },
+  {
+    "name": "Pasadena",
+    "state": "Texas",
+    "slug": "pasadena-tx",
+    "population": 152735,
+    "priority": 1
+  },
+  {
+    "name": "Fort Collins",
+    "state": "Colorado",
+    "slug": "fort-collins-co",
+    "population": 152061,
+    "priority": 1
+  },
+  {
+    "name": "Hayward",
+    "state": "California",
+    "slug": "hayward-ca",
+    "population": 151574,
+    "priority": 1
+  },
+  {
+    "name": "Pomona",
+    "state": "California",
+    "slug": "pomona-ca",
+    "population": 151348,
+    "priority": 1
+  },
+  {
+    "name": "Cary",
+    "state": "North Carolina",
+    "slug": "cary-nc",
+    "population": 151088,
+    "priority": 1
+  },
+  {
+    "name": "Rockford",
+    "state": "Illinois",
+    "slug": "rockford-il",
+    "population": 150251,
+    "priority": 1
+  },
+  {
+    "name": "Alexandria",
+    "state": "Virginia",
+    "slug": "alexandria-va",
+    "population": 148892,
+    "priority": 1
+  },
+  {
+    "name": "Escondido",
+    "state": "California",
+    "slug": "escondido-ca",
+    "population": 148738,
+    "priority": 1
+  },
+  {
+    "name": "McKinney",
+    "state": "Texas",
+    "slug": "mckinney-tx",
+    "population": 148559,
+    "priority": 1
+  },
+  {
+    "name": "Kansas City",
+    "state": "Kansas",
+    "slug": "kansas-city-ks",
+    "population": 148483,
+    "priority": 1
+  },
+  {
+    "name": "Joliet",
+    "state": "Illinois",
+    "slug": "joliet-il",
+    "population": 147806,
+    "priority": 1
+  },
+  {
+    "name": "Sunnyvale",
+    "state": "California",
+    "slug": "sunnyvale-ca",
+    "population": 147559,
+    "priority": 1
+  },
+  {
+    "name": "Torrance",
+    "state": "California",
+    "slug": "torrance-ca",
+    "population": 147478,
+    "priority": 1
+  },
+  {
+    "name": "Bridgeport",
+    "state": "Connecticut",
+    "slug": "bridgeport-ct",
+    "population": 147216,
+    "priority": 1
+  },
+  {
+    "name": "Lakewood",
+    "state": "Colorado",
+    "slug": "lakewood-co",
+    "population": 147214,
+    "priority": 1
+  },
+  {
+    "name": "Hollywood",
+    "state": "Florida",
+    "slug": "hollywood-fl",
+    "population": 146526,
+    "priority": 1
+  },
+  {
+    "name": "Paterson",
+    "state": "New Jersey",
+    "slug": "paterson-nj",
+    "population": 145948,
+    "priority": 1
+  },
+  {
+    "name": "Naperville",
+    "state": "Illinois",
+    "slug": "naperville-il",
+    "population": 144864,
+    "priority": 1
+  },
+  {
+    "name": "Syracuse",
+    "state": "New York",
+    "slug": "syracuse-ny",
+    "population": 144669,
+    "priority": 1
+  },
+  {
+    "name": "Mesquite",
+    "state": "Texas",
+    "slug": "mesquite-tx",
+    "population": 143484,
+    "priority": 1
+  },
+  {
+    "name": "Dayton",
+    "state": "Ohio",
+    "slug": "dayton-oh",
+    "population": 143355,
+    "priority": 1
+  },
+  {
+    "name": "Savannah",
+    "state": "Georgia",
+    "slug": "savannah-ga",
+    "population": 142772,
+    "priority": 1
+  },
+  {
+    "name": "Clarksville",
+    "state": "Tennessee",
+    "slug": "clarksville-tn",
+    "population": 142357,
+    "priority": 1
+  },
+  {
+    "name": "Orange",
+    "state": "California",
+    "slug": "orange-ca",
+    "population": 139969,
+    "priority": 1
+  },
+  {
+    "name": "Pasadena",
+    "state": "California",
+    "slug": "pasadena-ca",
+    "population": 139731,
+    "priority": 1
+  },
+  {
+    "name": "Fullerton",
+    "state": "California",
+    "slug": "fullerton-ca",
+    "population": 138981,
+    "priority": 1
+  },
+  {
+    "name": "Killeen",
+    "state": "Texas",
+    "slug": "killeen-tx",
+    "population": 137147,
+    "priority": 1
+  },
+  {
+    "name": "Frisco",
+    "state": "Texas",
+    "slug": "frisco-tx",
+    "population": 136791,
+    "priority": 1
+  },
+  {
+    "name": "Hampton",
+    "state": "Virginia",
+    "slug": "hampton-va",
+    "population": 136699,
+    "priority": 1
+  },
+  {
+    "name": "McAllen",
+    "state": "Texas",
+    "slug": "mcallen-tx",
+    "population": 136639,
+    "priority": 1
+  },
+  {
+    "name": "Warren",
+    "state": "Michigan",
+    "slug": "warren-mi",
+    "population": 134873,
+    "priority": 1
+  },
+  {
+    "name": "Bellevue",
+    "state": "Washington",
+    "slug": "bellevue-wa",
+    "population": 133992,
+    "priority": 1
+  },
+  {
+    "name": "West Valley City",
+    "state": "Utah",
+    "slug": "west-valley-city-ut",
+    "population": 133579,
+    "priority": 1
+  },
+  {
+    "name": "Columbia",
+    "state": "South Carolina",
+    "slug": "columbia-sc",
+    "population": 133358,
+    "priority": 1
+  },
+  {
+    "name": "Olathe",
+    "state": "Kansas",
+    "slug": "olathe-ks",
+    "population": 131885,
+    "priority": 1
+  },
+  {
+    "name": "Sterling Heights",
+    "state": "Michigan",
+    "slug": "sterling-heights-mi",
+    "population": 131224,
+    "priority": 1
+  },
+  {
+    "name": "New Haven",
+    "state": "Connecticut",
+    "slug": "new-haven-ct",
+    "population": 130660,
+    "priority": 1
+  },
+  {
+    "name": "Miramar",
+    "state": "Florida",
+    "slug": "miramar-fl",
+    "population": 130288,
+    "priority": 1
+  },
+  {
+    "name": "Waco",
+    "state": "Texas",
+    "slug": "waco-tx",
+    "population": 129030,
+    "priority": 1
+  },
+  {
+    "name": "Thousand Oaks",
+    "state": "California",
+    "slug": "thousand-oaks-ca",
+    "population": 128731,
+    "priority": 1
+  },
+  {
+    "name": "Cedar Rapids",
+    "state": "Iowa",
+    "slug": "cedar-rapids-ia",
+    "population": 128429,
+    "priority": 1
+  },
+  {
+    "name": "Charleston",
+    "state": "South Carolina",
+    "slug": "charleston-sc",
+    "population": 127999,
+    "priority": 1
+  },
+  {
+    "name": "Visalia",
+    "state": "California",
+    "slug": "visalia-ca",
+    "population": 127763,
+    "priority": 1
+  },
+  {
+    "name": "Topeka",
+    "state": "Kansas",
+    "slug": "topeka-ks",
+    "population": 127679,
+    "priority": 1
+  },
+  {
+    "name": "Elizabeth",
+    "state": "New Jersey",
+    "slug": "elizabeth-nj",
+    "population": 127558,
+    "priority": 1
+  },
+  {
+    "name": "Gainesville",
+    "state": "Florida",
+    "slug": "gainesville-fl",
+    "population": 127488,
+    "priority": 1
+  },
+  {
+    "name": "Thornton",
+    "state": "Colorado",
+    "slug": "thornton-co",
+    "population": 127359,
+    "priority": 1
+  },
+  {
+    "name": "Roseville",
+    "state": "California",
+    "slug": "roseville-ca",
+    "population": 127035,
+    "priority": 1
+  },
+  {
+    "name": "Carrollton",
+    "state": "Texas",
+    "slug": "carrollton-tx",
+    "population": 126700,
+    "priority": 1
+  },
+  {
+    "name": "Coral Springs",
+    "state": "Florida",
+    "slug": "coral-springs-fl",
+    "population": 126604,
+    "priority": 1
+  },
+  {
+    "name": "Stamford",
+    "state": "Connecticut",
+    "slug": "stamford-ct",
+    "population": 126456,
+    "priority": 1
+  },
+  {
+    "name": "Simi Valley",
+    "state": "California",
+    "slug": "simi-valley-ca",
+    "population": 126181,
+    "priority": 1
+  },
+  {
+    "name": "Concord",
+    "state": "California",
+    "slug": "concord-ca",
+    "population": 125880,
+    "priority": 1
+  },
+  {
+    "name": "Hartford",
+    "state": "Connecticut",
+    "slug": "hartford-ct",
+    "population": 125017,
+    "priority": 1
+  },
+  {
+    "name": "Kent",
+    "state": "Washington",
+    "slug": "kent-wa",
+    "population": 124435,
+    "priority": 1
+  },
+  {
+    "name": "Lafayette",
+    "state": "Louisiana",
+    "slug": "lafayette-la",
+    "population": 124276,
+    "priority": 1
+  },
+  {
+    "name": "Midland",
+    "state": "Texas",
+    "slug": "midland-tx",
+    "population": 123933,
+    "priority": 1
+  },
+  {
+    "name": "Surprise",
+    "state": "Arizona",
+    "slug": "surprise-az",
+    "population": 123546,
+    "priority": 1
+  },
+  {
+    "name": "Denton",
+    "state": "Texas",
+    "slug": "denton-tx",
+    "population": 123099,
+    "priority": 1
+  },
+  {
+    "name": "Victorville",
+    "state": "California",
+    "slug": "victorville-ca",
+    "population": 121096,
+    "priority": 1
+  },
+  {
+    "name": "Evansville",
+    "state": "Indiana",
+    "slug": "evansville-in",
+    "population": 120310,
+    "priority": 1
+  },
+  {
+    "name": "Santa Clara",
+    "state": "California",
+    "slug": "santa-clara-ca",
+    "population": 120245,
+    "priority": 1
+  },
+  {
+    "name": "Abilene",
+    "state": "Texas",
+    "slug": "abilene-tx",
+    "population": 120099,
+    "priority": 1
+  },
+  {
+    "name": "Athens-Clarke County",
+    "state": "Georgia",
+    "slug": "athens-clarke-county-ga",
+    "population": 119980,
+    "priority": 1
+  },
+  {
+    "name": "Vallejo",
+    "state": "California",
+    "slug": "vallejo-ca",
+    "population": 118837,
+    "priority": 1
+  },
+  {
+    "name": "Allentown",
+    "state": "Pennsylvania",
+    "slug": "allentown-pa",
+    "population": 118577,
+    "priority": 1
+  },
+  {
+    "name": "Norman",
+    "state": "Oklahoma",
+    "slug": "norman-ok",
+    "population": 118197,
+    "priority": 1
+  },
+  {
+    "name": "Beaumont",
+    "state": "Texas",
+    "slug": "beaumont-tx",
+    "population": 117796,
+    "priority": 1
+  },
+  {
+    "name": "Independence",
+    "state": "Missouri",
+    "slug": "independence-mo",
+    "population": 117240,
+    "priority": 1
+  },
+  {
+    "name": "Murfreesboro",
+    "state": "Tennessee",
+    "slug": "murfreesboro-tn",
+    "population": 117044,
+    "priority": 1
+  },
+  {
+    "name": "Ann Arbor",
+    "state": "Michigan",
+    "slug": "ann-arbor-mi",
+    "population": 117025,
+    "priority": 1
+  },
+  {
+    "name": "Springfield",
+    "state": "Illinois",
+    "slug": "springfield-il",
+    "population": 117006,
+    "priority": 1
+  },
+  {
+    "name": "Berkeley",
+    "state": "California",
+    "slug": "berkeley-ca",
+    "population": 116768,
+    "priority": 1
+  },
+  {
+    "name": "Peoria",
+    "state": "Illinois",
+    "slug": "peoria-il",
+    "population": 116513,
+    "priority": 1
+  },
+  {
+    "name": "Provo",
+    "state": "Utah",
+    "slug": "provo-ut",
+    "population": 116288,
+    "priority": 1
+  },
+  {
+    "name": "El Monte",
+    "state": "California",
+    "slug": "el-monte-ca",
+    "population": 115708,
+    "priority": 1
+  },
+  {
+    "name": "Columbia",
+    "state": "Missouri",
+    "slug": "columbia-mo",
+    "population": 115276,
+    "priority": 1
+  },
+  {
+    "name": "Lansing",
+    "state": "Michigan",
+    "slug": "lansing-mi",
+    "population": 113972,
+    "priority": 1
+  },
+  {
+    "name": "Fargo",
+    "state": "North Dakota",
+    "slug": "fargo-nd",
+    "population": 113658,
+    "priority": 1
+  },
+  {
+    "name": "Downey",
+    "state": "California",
+    "slug": "downey-ca",
+    "population": 113242,
+    "priority": 1
+  },
+  {
+    "name": "Costa Mesa",
+    "state": "California",
+    "slug": "costa-mesa-ca",
+    "population": 112174,
+    "priority": 1
+  },
+  {
+    "name": "Wilmington",
+    "state": "North Carolina",
+    "slug": "wilmington-nc",
+    "population": 112067,
+    "priority": 1
+  },
+  {
+    "name": "Arvada",
+    "state": "Colorado",
+    "slug": "arvada-co",
+    "population": 111707,
+    "priority": 1
+  },
+  {
+    "name": "Inglewood",
+    "state": "California",
+    "slug": "inglewood-ca",
+    "population": 111542,
+    "priority": 1
+  },
+  {
+    "name": "Miami Gardens",
+    "state": "Florida",
+    "slug": "miami-gardens-fl",
+    "population": 111378,
+    "priority": 1
+  },
+  {
+    "name": "Carlsbad",
+    "state": "California",
+    "slug": "carlsbad-ca",
+    "population": 110972,
+    "priority": 1
+  },
+  {
+    "name": "Westminster",
+    "state": "Colorado",
+    "slug": "westminster-co",
+    "population": 110945,
+    "priority": 1
+  },
+  {
+    "name": "Rochester",
+    "state": "Minnesota",
+    "slug": "rochester-mn",
+    "population": 110742,
+    "priority": 1
+  },
+  {
+    "name": "Odessa",
+    "state": "Texas",
+    "slug": "odessa-tx",
+    "population": 110720,
+    "priority": 1
+  },
+  {
+    "name": "Manchester",
+    "state": "New Hampshire",
+    "slug": "manchester-nh",
+    "population": 110378,
+    "priority": 1
+  },
+  {
+    "name": "Elgin",
+    "state": "Illinois",
+    "slug": "elgin-il",
+    "population": 110145,
+    "priority": 1
+  },
+  {
+    "name": "West Jordan",
+    "state": "Utah",
+    "slug": "west-jordan-ut",
+    "population": 110077,
+    "priority": 1
+  },
+  {
+    "name": "Round Rock",
+    "state": "Texas",
+    "slug": "round-rock-tx",
+    "population": 109821,
+    "priority": 1
+  },
+  {
+    "name": "Clearwater",
+    "state": "Florida",
+    "slug": "clearwater-fl",
+    "population": 109703,
+    "priority": 1
+  },
+  {
+    "name": "Waterbury",
+    "state": "Connecticut",
+    "slug": "waterbury-ct",
+    "population": 109676,
+    "priority": 1
+  },
+  {
+    "name": "Gresham",
+    "state": "Oregon",
+    "slug": "gresham-or",
+    "population": 109397,
+    "priority": 1
+  },
+  {
+    "name": "Fairfield",
+    "state": "California",
+    "slug": "fairfield-ca",
+    "population": 109320,
+    "priority": 1
+  },
+  {
+    "name": "Billings",
+    "state": "Montana",
+    "slug": "billings-mt",
+    "population": 109059,
+    "priority": 1
+  },
+  {
+    "name": "Lowell",
+    "state": "Massachusetts",
+    "slug": "lowell-ma",
+    "population": 108861,
+    "priority": 1
+  },
+  {
+    "name": "San Buenaventura (Ventura)",
+    "state": "California",
+    "slug": "san-buenaventura-ventura-ca",
+    "population": 108817,
+    "priority": 1
+  },
+  {
+    "name": "Pueblo",
+    "state": "Colorado",
+    "slug": "pueblo-co",
+    "population": 108249,
+    "priority": 1
+  },
+  {
+    "name": "High Point",
+    "state": "North Carolina",
+    "slug": "high-point-nc",
+    "population": 107741,
+    "priority": 1
+  },
+  {
+    "name": "West Covina",
+    "state": "California",
+    "slug": "west-covina-ca",
+    "population": 107740,
+    "priority": 1
+  },
+  {
+    "name": "Richmond",
+    "state": "California",
+    "slug": "richmond-ca",
+    "population": 107571,
+    "priority": 1
+  },
+  {
+    "name": "Murrieta",
+    "state": "California",
+    "slug": "murrieta-ca",
+    "population": 107479,
+    "priority": 1
+  },
+  {
+    "name": "Cambridge",
+    "state": "Massachusetts",
+    "slug": "cambridge-ma",
+    "population": 107289,
+    "priority": 1
+  },
+  {
+    "name": "Antioch",
+    "state": "California",
+    "slug": "antioch-ca",
+    "population": 107100,
+    "priority": 1
+  },
+  {
+    "name": "Temecula",
+    "state": "California",
+    "slug": "temecula-ca",
+    "population": 106780,
+    "priority": 1
+  },
+  {
+    "name": "Norwalk",
+    "state": "California",
+    "slug": "norwalk-ca",
+    "population": 106589,
+    "priority": 1
+  },
+  {
+    "name": "Centennial",
+    "state": "Colorado",
+    "slug": "centennial-co",
+    "population": 106114,
+    "priority": 1
+  },
+  {
+    "name": "Everett",
+    "state": "Washington",
+    "slug": "everett-wa",
+    "population": 105370,
+    "priority": 1
+  },
+  {
+    "name": "Palm Bay",
+    "state": "Florida",
+    "slug": "palm-bay-fl",
+    "population": 104898,
+    "priority": 1
+  },
+  {
+    "name": "Wichita Falls",
+    "state": "Texas",
+    "slug": "wichita-falls-tx",
+    "population": 104898,
+    "priority": 1
+  },
+  {
+    "name": "Green Bay",
+    "state": "Wisconsin",
+    "slug": "green-bay-wi",
+    "population": 104779,
+    "priority": 1
+  },
+  {
+    "name": "Daly City",
+    "state": "California",
+    "slug": "daly-city-ca",
+    "population": 104739,
+    "priority": 1
+  },
+  {
+    "name": "Burbank",
+    "state": "California",
+    "slug": "burbank-ca",
+    "population": 104709,
+    "priority": 1
+  },
+  {
+    "name": "Richardson",
+    "state": "Texas",
+    "slug": "richardson-tx",
+    "population": 104475,
+    "priority": 1
+  },
+  {
+    "name": "Pompano Beach",
+    "state": "Florida",
+    "slug": "pompano-beach-fl",
+    "population": 104410,
+    "priority": 1
+  },
+  {
+    "name": "North Charleston",
+    "state": "South Carolina",
+    "slug": "north-charleston-sc",
+    "population": 104054,
+    "priority": 1
+  },
+  {
+    "name": "Broken Arrow",
+    "state": "Oklahoma",
+    "slug": "broken-arrow-ok",
+    "population": 103500,
+    "priority": 1
+  },
+  {
+    "name": "Boulder",
+    "state": "Colorado",
+    "slug": "boulder-co",
+    "population": 103166,
+    "priority": 1
+  },
+  {
+    "name": "West Palm Beach",
+    "state": "Florida",
+    "slug": "west-palm-beach-fl",
+    "population": 102436,
+    "priority": 1
+  },
+  {
+    "name": "Santa Maria",
+    "state": "California",
+    "slug": "santa-maria-ca",
+    "population": 102216,
+    "priority": 1
+  },
+  {
+    "name": "El Cajon",
+    "state": "California",
+    "slug": "el-cajon-ca",
+    "population": 102211,
+    "priority": 1
+  },
+  {
+    "name": "Davenport",
+    "state": "Iowa",
+    "slug": "davenport-ia",
+    "population": 102157,
+    "priority": 1
+  },
+  {
+    "name": "Rialto",
+    "state": "California",
+    "slug": "rialto-ca",
+    "population": 101910,
+    "priority": 1
+  },
+  {
+    "name": "Las Cruces",
+    "state": "New Mexico",
+    "slug": "las-cruces-nm",
+    "population": 101324,
+    "priority": 1
+  },
+  {
+    "name": "San Mateo",
+    "state": "California",
+    "slug": "san-mateo-ca",
+    "population": 101128,
+    "priority": 1
+  },
+  {
+    "name": "Lewisville",
+    "state": "Texas",
+    "slug": "lewisville-tx",
+    "population": 101074,
+    "priority": 1
+  },
+  {
+    "name": "South Bend",
+    "state": "Indiana",
+    "slug": "south-bend-in",
+    "population": 100886,
+    "priority": 1
+  },
+  {
+    "name": "Lakeland",
+    "state": "Florida",
+    "slug": "lakeland-fl",
+    "population": 100710,
+    "priority": 1
+  },
+  {
+    "name": "Erie",
+    "state": "Pennsylvania",
+    "slug": "erie-pa",
+    "population": 100671,
+    "priority": 1
+  },
+  {
+    "name": "Tyler",
+    "state": "Texas",
+    "slug": "tyler-tx",
+    "population": 100223,
+    "priority": 1
+  },
+  {
+    "name": "Pearland",
+    "state": "Texas",
+    "slug": "pearland-tx",
+    "population": 100065,
+    "priority": 1
+  },
+  {
+    "name": "College Station",
+    "state": "Texas",
+    "slug": "college-station-tx",
+    "population": 100050,
+    "priority": 1
+  },
+  {
+    "name": "Kenosha",
+    "state": "Wisconsin",
+    "slug": "kenosha-wi",
+    "population": 99889,
+    "priority": 1
+  },
+  {
+    "name": "Sandy Springs",
+    "state": "Georgia",
+    "slug": "sandy-springs-ga",
+    "population": 99770,
+    "priority": 1
+  },
+  {
+    "name": "Clovis",
+    "state": "California",
+    "slug": "clovis-ca",
+    "population": 99769,
+    "priority": 1
+  },
+  {
+    "name": "Flint",
+    "state": "Michigan",
+    "slug": "flint-mi",
+    "population": 99763,
+    "priority": 1
+  },
+  {
+    "name": "Roanoke",
+    "state": "Virginia",
+    "slug": "roanoke-va",
+    "population": 98465,
+    "priority": 1
+  },
+  {
+    "name": "Albany",
+    "state": "New York",
+    "slug": "albany-ny",
+    "population": 98424,
+    "priority": 1
+  },
+  {
+    "name": "Jurupa Valley",
+    "state": "California",
+    "slug": "jurupa-valley-ca",
+    "population": 98030,
+    "priority": 1
+  },
+  {
+    "name": "Compton",
+    "state": "California",
+    "slug": "compton-ca",
+    "population": 97877,
+    "priority": 1
+  },
+  {
+    "name": "San Angelo",
+    "state": "Texas",
+    "slug": "san-angelo-tx",
+    "population": 97492,
+    "priority": 1
+  },
+  {
+    "name": "Hillsboro",
+    "state": "Oregon",
+    "slug": "hillsboro-or",
+    "population": 97368,
+    "priority": 1
+  },
+  {
+    "name": "Lawton",
+    "state": "Oklahoma",
+    "slug": "lawton-ok",
+    "population": 97151,
+    "priority": 1
+  },
+  {
+    "name": "Renton",
+    "state": "Washington",
+    "slug": "renton-wa",
+    "population": 97003,
+    "priority": 1
+  },
+  {
+    "name": "Vista",
+    "state": "California",
+    "slug": "vista-ca",
+    "population": 96929,
+    "priority": 1
+  },
+  {
+    "name": "Davie",
+    "state": "Florida",
+    "slug": "davie-fl",
+    "population": 96830,
+    "priority": 1
+  },
+  {
+    "name": "Greeley",
+    "state": "Colorado",
+    "slug": "greeley-co",
+    "population": 96539,
+    "priority": 1
+  },
+  {
+    "name": "Mission Viejo",
+    "state": "California",
+    "slug": "mission-viejo-ca",
+    "population": 96346,
+    "priority": 1
+  },
+  {
+    "name": "Portsmouth",
+    "state": "Virginia",
+    "slug": "portsmouth-va",
+    "population": 96205,
+    "priority": 1
+  },
+  {
+    "name": "Dearborn",
+    "state": "Michigan",
+    "slug": "dearborn-mi",
+    "population": 95884,
+    "priority": 1
+  },
+  {
+    "name": "South Gate",
+    "state": "California",
+    "slug": "south-gate-ca",
+    "population": 95677,
+    "priority": 1
+  },
+  {
+    "name": "Tuscaloosa",
+    "state": "Alabama",
+    "slug": "tuscaloosa-al",
+    "population": 95334,
+    "priority": 1
+  },
+  {
+    "name": "Livonia",
+    "state": "Michigan",
+    "slug": "livonia-mi",
+    "population": 95208,
+    "priority": 1
+  },
+  {
+    "name": "New Bedford",
+    "state": "Massachusetts",
+    "slug": "new-bedford-ma",
+    "population": 95078,
+    "priority": 1
+  },
+  {
+    "name": "Vacaville",
+    "state": "California",
+    "slug": "vacaville-ca",
+    "population": 94275,
+    "priority": 1
+  },
+  {
+    "name": "Brockton",
+    "state": "Massachusetts",
+    "slug": "brockton-ma",
+    "population": 94089,
+    "priority": 1
+  },
+  {
+    "name": "Roswell",
+    "state": "Georgia",
+    "slug": "roswell-ga",
+    "population": 94034,
+    "priority": 1
+  },
+  {
+    "name": "Beaverton",
+    "state": "Oregon",
+    "slug": "beaverton-or",
+    "population": 93542,
+    "priority": 1
+  },
+  {
+    "name": "Quincy",
+    "state": "Massachusetts",
+    "slug": "quincy-ma",
+    "population": 93494,
+    "priority": 1
+  },
+  {
+    "name": "Sparks",
+    "state": "Nevada",
+    "slug": "sparks-nv",
+    "population": 93282,
+    "priority": 1
+  },
+  {
+    "name": "Yakima",
+    "state": "Washington",
+    "slug": "yakima-wa",
+    "population": 93257,
+    "priority": 1
+  },
+  {
+    "name": "Lee's Summit",
+    "state": "Missouri",
+    "slug": "lee-s-summit-mo",
+    "population": 93184,
+    "priority": 1
+  },
+  {
+    "name": "Federal Way",
+    "state": "Washington",
+    "slug": "federal-way-wa",
+    "population": 92734,
+    "priority": 1
+  },
+  {
+    "name": "Carson",
+    "state": "California",
+    "slug": "carson-ca",
+    "population": 92599,
+    "priority": 1
+  },
+  {
+    "name": "Santa Monica",
+    "state": "California",
+    "slug": "santa-monica-ca",
+    "population": 92472,
+    "priority": 1
+  },
+  {
+    "name": "Hesperia",
+    "state": "California",
+    "slug": "hesperia-ca",
+    "population": 92147,
+    "priority": 1
+  },
+  {
+    "name": "Allen",
+    "state": "Texas",
+    "slug": "allen-tx",
+    "population": 92020,
+    "priority": 1
+  },
+  {
+    "name": "Rio Rancho",
+    "state": "New Mexico",
+    "slug": "rio-rancho-nm",
+    "population": 91956,
+    "priority": 1
+  },
+  {
+    "name": "Yuma",
+    "state": "Arizona",
+    "slug": "yuma-az",
+    "population": 91923,
+    "priority": 1
+  },
+  {
+    "name": "Westminster",
+    "state": "California",
+    "slug": "westminster-ca",
+    "population": 91739,
+    "priority": 1
+  },
+  {
+    "name": "Orem",
+    "state": "Utah",
+    "slug": "orem-ut",
+    "population": 91648,
+    "priority": 1
+  },
+  {
+    "name": "Lynn",
+    "state": "Massachusetts",
+    "slug": "lynn-ma",
+    "population": 91589,
+    "priority": 1
+  },
+  {
+    "name": "Redding",
+    "state": "California",
+    "slug": "redding-ca",
+    "population": 91119,
+    "priority": 1
+  },
+  {
+    "name": "Spokane Valley",
+    "state": "Washington",
+    "slug": "spokane-valley-wa",
+    "population": 91113,
+    "priority": 1
+  },
+  {
+    "name": "Miami Beach",
+    "state": "Florida",
+    "slug": "miami-beach-fl",
+    "population": 91026,
+    "priority": 1
+  },
+  {
+    "name": "League City",
+    "state": "Texas",
+    "slug": "league-city-tx",
+    "population": 90983,
+    "priority": 1
+  },
+  {
+    "name": "Lawrence",
+    "state": "Kansas",
+    "slug": "lawrence-ks",
+    "population": 90811,
+    "priority": 1
+  },
+  {
+    "name": "Santa Barbara",
+    "state": "California",
+    "slug": "santa-barbara-ca",
+    "population": 90412,
+    "priority": 1
+  },
+  {
+    "name": "Plantation",
+    "state": "Florida",
+    "slug": "plantation-fl",
+    "population": 90268,
+    "priority": 1
+  },
+  {
+    "name": "Sandy",
+    "state": "Utah",
+    "slug": "sandy-ut",
+    "population": 90231,
+    "priority": 1
+  },
+  {
+    "name": "Sunrise",
+    "state": "Florida",
+    "slug": "sunrise-fl",
+    "population": 90116,
+    "priority": 1
+  },
+  {
+    "name": "Macon",
+    "state": "Georgia",
+    "slug": "macon-ga",
+    "population": 89981,
+    "priority": 1
+  },
+  {
+    "name": "Longmont",
+    "state": "Colorado",
+    "slug": "longmont-co",
+    "population": 89919,
+    "priority": 1
+  },
+  {
+    "name": "Boca Raton",
+    "state": "Florida",
+    "slug": "boca-raton-fl",
+    "population": 89407,
+    "priority": 1
+  },
+  {
+    "name": "San Marcos",
+    "state": "California",
+    "slug": "san-marcos-ca",
+    "population": 89387,
+    "priority": 1
+  },
+  {
+    "name": "Greenville",
+    "state": "North Carolina",
+    "slug": "greenville-nc",
+    "population": 89130,
+    "priority": 1
+  },
+  {
+    "name": "Waukegan",
+    "state": "Illinois",
+    "slug": "waukegan-il",
+    "population": 88826,
+    "priority": 1
+  },
+  {
+    "name": "Fall River",
+    "state": "Massachusetts",
+    "slug": "fall-river-ma",
+    "population": 88697,
+    "priority": 1
+  },
+  {
+    "name": "Chico",
+    "state": "California",
+    "slug": "chico-ca",
+    "population": 88077,
+    "priority": 1
+  },
+  {
+    "name": "Newton",
+    "state": "Massachusetts",
+    "slug": "newton-ma",
+    "population": 87971,
+    "priority": 1
+  },
+  {
+    "name": "San Leandro",
+    "state": "California",
+    "slug": "san-leandro-ca",
+    "population": 87965,
+    "priority": 1
+  },
+  {
+    "name": "Reading",
+    "state": "Pennsylvania",
+    "slug": "reading-pa",
+    "population": 87893,
+    "priority": 1
+  },
+  {
+    "name": "Norwalk",
+    "state": "Connecticut",
+    "slug": "norwalk-ct",
+    "population": 87776,
+    "priority": 1
+  },
+  {
+    "name": "Fort Smith",
+    "state": "Arkansas",
+    "slug": "fort-smith-ar",
+    "population": 87650,
+    "priority": 1
+  },
+  {
+    "name": "Newport Beach",
+    "state": "California",
+    "slug": "newport-beach-ca",
+    "population": 87273,
+    "priority": 1
+  },
+  {
+    "name": "Asheville",
+    "state": "North Carolina",
+    "slug": "asheville-nc",
+    "population": 87236,
+    "priority": 1
+  },
+  {
+    "name": "Nashua",
+    "state": "New Hampshire",
+    "slug": "nashua-nh",
+    "population": 87137,
+    "priority": 1
+  },
+  {
+    "name": "Edmond",
+    "state": "Oklahoma",
+    "slug": "edmond-ok",
+    "population": 87004,
+    "priority": 1
+  },
+  {
+    "name": "Whittier",
+    "state": "California",
+    "slug": "whittier-ca",
+    "population": 86635,
+    "priority": 1
+  },
+  {
+    "name": "Nampa",
+    "state": "Idaho",
+    "slug": "nampa-id",
+    "population": 86518,
+    "priority": 1
+  },
+  {
+    "name": "Bloomington",
+    "state": "Minnesota",
+    "slug": "bloomington-mn",
+    "population": 86319,
+    "priority": 1
+  },
+  {
+    "name": "Deltona",
+    "state": "Florida",
+    "slug": "deltona-fl",
+    "population": 86290,
+    "priority": 1
+  },
+  {
+    "name": "Hawthorne",
+    "state": "California",
+    "slug": "hawthorne-ca",
+    "population": 86199,
+    "priority": 1
+  },
+  {
+    "name": "Duluth",
+    "state": "Minnesota",
+    "slug": "duluth-mn",
+    "population": 86128,
+    "priority": 1
+  },
+  {
+    "name": "Carmel",
+    "state": "Indiana",
+    "slug": "carmel-in",
+    "population": 85927,
+    "priority": 1
+  },
+  {
+    "name": "Suffolk",
+    "state": "Virginia",
+    "slug": "suffolk-va",
+    "population": 85728,
+    "priority": 1
+  },
+  {
+    "name": "Clifton",
+    "state": "New Jersey",
+    "slug": "clifton-nj",
+    "population": 85390,
+    "priority": 1
+  },
+  {
+    "name": "Citrus Heights",
+    "state": "California",
+    "slug": "citrus-heights-ca",
+    "population": 85285,
+    "priority": 1
+  },
+  {
+    "name": "Livermore",
+    "state": "California",
+    "slug": "livermore-ca",
+    "population": 85156,
+    "priority": 1
+  },
+  {
+    "name": "Tracy",
+    "state": "California",
+    "slug": "tracy-ca",
+    "population": 84691,
+    "priority": 1
+  },
+  {
+    "name": "Alhambra",
+    "state": "California",
+    "slug": "alhambra-ca",
+    "population": 84577,
+    "priority": 1
+  },
+  {
+    "name": "Kirkland",
+    "state": "Washington",
+    "slug": "kirkland-wa",
+    "population": 84430,
+    "priority": 1
+  },
+  {
+    "name": "Trenton",
+    "state": "New Jersey",
+    "slug": "trenton-nj",
+    "population": 84349,
+    "priority": 1
+  },
+  {
+    "name": "Ogden",
+    "state": "Utah",
+    "slug": "ogden-ut",
+    "population": 84249,
+    "priority": 1
+  },
+  {
+    "name": "Hoover",
+    "state": "Alabama",
+    "slug": "hoover-al",
+    "population": 84126,
+    "priority": 1
+  },
+  {
+    "name": "Cicero",
+    "state": "Illinois",
+    "slug": "cicero-il",
+    "population": 84103,
+    "priority": 1
+  },
+  {
+    "name": "Fishers",
+    "state": "Indiana",
+    "slug": "fishers-in",
+    "population": 83891,
+    "priority": 1
+  },
+  {
+    "name": "Sugar Land",
+    "state": "Texas",
+    "slug": "sugar-land-tx",
+    "population": 83860,
+    "priority": 1
+  },
+  {
+    "name": "Danbury",
+    "state": "Connecticut",
+    "slug": "danbury-ct",
+    "population": 83684,
+    "priority": 1
+  },
+  {
+    "name": "Meridian",
+    "state": "Idaho",
+    "slug": "meridian-id",
+    "population": 83596,
+    "priority": 1
+  },
+  {
+    "name": "Indio",
+    "state": "California",
+    "slug": "indio-ca",
+    "population": 83539,
+    "priority": 1
+  },
+  {
+    "name": "Concord",
+    "state": "North Carolina",
+    "slug": "concord-nc",
+    "population": 83506,
+    "priority": 1
+  },
+  {
+    "name": "Menifee",
+    "state": "California",
+    "slug": "menifee-ca",
+    "population": 83447,
+    "priority": 1
+  },
+  {
+    "name": "Champaign",
+    "state": "Illinois",
+    "slug": "champaign-il",
+    "population": 83424,
+    "priority": 1
+  },
+  {
+    "name": "Buena Park",
+    "state": "California",
+    "slug": "buena-park-ca",
+    "population": 82882,
+    "priority": 1
+  },
+  {
+    "name": "Troy",
+    "state": "Michigan",
+    "slug": "troy-mi",
+    "population": 82821,
+    "priority": 1
+  },
+  {
+    "name": "O'Fallon",
+    "state": "Missouri",
+    "slug": "o-fallon-mo",
+    "population": 82809,
+    "priority": 1
+  },
+  {
+    "name": "Johns Creek",
+    "state": "Georgia",
+    "slug": "johns-creek-ga",
+    "population": 82788,
+    "priority": 1
+  },
+  {
+    "name": "Bellingham",
+    "state": "Washington",
+    "slug": "bellingham-wa",
+    "population": 82631,
+    "priority": 1
+  },
+  {
+    "name": "Westland",
+    "state": "Michigan",
+    "slug": "westland-mi",
+    "population": 82578,
+    "priority": 1
+  },
+  {
+    "name": "Bloomington",
+    "state": "Indiana",
+    "slug": "bloomington-in",
+    "population": 82575,
+    "priority": 1
+  },
+  {
+    "name": "Sioux City",
+    "state": "Iowa",
+    "slug": "sioux-city-ia",
+    "population": 82459,
+    "priority": 1
+  },
+  {
+    "name": "Warwick",
+    "state": "Rhode Island",
+    "slug": "warwick-ri",
+    "population": 81971,
+    "priority": 1
+  },
+  {
+    "name": "Hemet",
+    "state": "California",
+    "slug": "hemet-ca",
+    "population": 81750,
+    "priority": 1
+  },
+  {
+    "name": "Longview",
+    "state": "Texas",
+    "slug": "longview-tx",
+    "population": 81443,
+    "priority": 1
+  },
+  {
+    "name": "Farmington Hills",
+    "state": "Michigan",
+    "slug": "farmington-hills-mi",
+    "population": 81295,
+    "priority": 1
+  },
+  {
+    "name": "Bend",
+    "state": "Oregon",
+    "slug": "bend-or",
+    "population": 81236,
+    "priority": 1
+  },
+  {
+    "name": "Lakewood",
+    "state": "California",
+    "slug": "lakewood-ca",
+    "population": 81121,
+    "priority": 1
+  },
+  {
+    "name": "Merced",
+    "state": "California",
+    "slug": "merced-ca",
+    "population": 81102,
+    "priority": 1
+  },
+  {
+    "name": "Mission",
+    "state": "Texas",
+    "slug": "mission-tx",
+    "population": 81050,
+    "priority": 1
+  },
+  {
+    "name": "Chino",
+    "state": "California",
+    "slug": "chino-ca",
+    "population": 80988,
+    "priority": 1
+  },
+  {
+    "name": "Redwood City",
+    "state": "California",
+    "slug": "redwood-city-ca",
+    "population": 80872,
+    "priority": 1
+  },
+  {
+    "name": "Edinburg",
+    "state": "Texas",
+    "slug": "edinburg-tx",
+    "population": 80836,
+    "priority": 1
+  },
+  {
+    "name": "Cranston",
+    "state": "Rhode Island",
+    "slug": "cranston-ri",
+    "population": 80566,
+    "priority": 1
+  },
+  {
+    "name": "Parma",
+    "state": "Ohio",
+    "slug": "parma-oh",
+    "population": 80429,
+    "priority": 1
+  },
+  {
+    "name": "New Rochelle",
+    "state": "New York",
+    "slug": "new-rochelle-ny",
+    "population": 79446,
+    "priority": 1
+  },
+  {
+    "name": "Lake Forest",
+    "state": "California",
+    "slug": "lake-forest-ca",
+    "population": 79312,
+    "priority": 1
+  },
+  {
+    "name": "Napa",
+    "state": "California",
+    "slug": "napa-ca",
+    "population": 79068,
+    "priority": 1
+  },
+  {
+    "name": "Hammond",
+    "state": "Indiana",
+    "slug": "hammond-in",
+    "population": 78967,
+    "priority": 1
+  },
+  {
+    "name": "Fayetteville",
+    "state": "Arkansas",
+    "slug": "fayetteville-ar",
+    "population": 78960,
+    "priority": 1
+  },
+  {
+    "name": "Bloomington",
+    "state": "Illinois",
+    "slug": "bloomington-il",
+    "population": 78902,
+    "priority": 1
+  },
+  {
+    "name": "Avondale",
+    "state": "Arizona",
+    "slug": "avondale-az",
+    "population": 78822,
+    "priority": 1
+  },
+  {
+    "name": "Somerville",
+    "state": "Massachusetts",
+    "slug": "somerville-ma",
+    "population": 78804,
+    "priority": 1
+  },
+  {
+    "name": "Palm Coast",
+    "state": "Florida",
+    "slug": "palm-coast-fl",
+    "population": 78740,
+    "priority": 1
+  },
+  {
+    "name": "Bryan",
+    "state": "Texas",
+    "slug": "bryan-tx",
+    "population": 78709,
+    "priority": 1
+  },
+  {
+    "name": "Gary",
+    "state": "Indiana",
+    "slug": "gary-in",
+    "population": 78450,
+    "priority": 1
+  },
+  {
+    "name": "Largo",
+    "state": "Florida",
+    "slug": "largo-fl",
+    "population": 78409,
+    "priority": 1
+  },
+  {
+    "name": "Brooklyn Park",
+    "state": "Minnesota",
+    "slug": "brooklyn-park-mn",
+    "population": 78373,
+    "priority": 1
+  },
+  {
+    "name": "Tustin",
+    "state": "California",
+    "slug": "tustin-ca",
+    "population": 78327,
+    "priority": 1
+  },
+  {
+    "name": "Racine",
+    "state": "Wisconsin",
+    "slug": "racine-wi",
+    "population": 78199,
+    "priority": 1
+  },
+  {
+    "name": "Deerfield Beach",
+    "state": "Florida",
+    "slug": "deerfield-beach-fl",
+    "population": 78041,
+    "priority": 1
+  },
+  {
+    "name": "Lynchburg",
+    "state": "Virginia",
+    "slug": "lynchburg-va",
+    "population": 78014,
+    "priority": 1
+  },
+  {
+    "name": "Mountain View",
+    "state": "California",
+    "slug": "mountain-view-ca",
+    "population": 77846,
+    "priority": 1
+  },
+  {
+    "name": "Medford",
+    "state": "Oregon",
+    "slug": "medford-or",
+    "population": 77677,
+    "priority": 1
+  },
+  {
+    "name": "Lawrence",
+    "state": "Massachusetts",
+    "slug": "lawrence-ma",
+    "population": 77657,
+    "priority": 1
+  },
+  {
+    "name": "Bellflower",
+    "state": "California",
+    "slug": "bellflower-ca",
+    "population": 77593,
+    "priority": 1
+  },
+  {
+    "name": "Melbourne",
+    "state": "Florida",
+    "slug": "melbourne-fl",
+    "population": 77508,
+    "priority": 1
+  },
+  {
+    "name": "St. Joseph",
+    "state": "Missouri",
+    "slug": "st-joseph-mo",
+    "population": 77147,
+    "priority": 1
+  },
+  {
+    "name": "Camden",
+    "state": "New Jersey",
+    "slug": "camden-nj",
+    "population": 76903,
+    "priority": 1
+  },
+  {
+    "name": "St. George",
+    "state": "Utah",
+    "slug": "st-george-ut",
+    "population": 76817,
+    "priority": 1
+  },
+  {
+    "name": "Kennewick",
+    "state": "Washington",
+    "slug": "kennewick-wa",
+    "population": 76762,
+    "priority": 1
+  },
+  {
+    "name": "Baldwin Park",
+    "state": "California",
+    "slug": "baldwin-park-ca",
+    "population": 76635,
+    "priority": 1
+  },
+  {
+    "name": "Chino Hills",
+    "state": "California",
+    "slug": "chino-hills-ca",
+    "population": 76572,
+    "priority": 1
+  },
+  {
+    "name": "Alameda",
+    "state": "California",
+    "slug": "alameda-ca",
+    "population": 76419,
+    "priority": 1
+  },
+  {
+    "name": "Albany",
+    "state": "Georgia",
+    "slug": "albany-ga",
+    "population": 76185,
+    "priority": 1
+  },
+  {
+    "name": "Arlington Heights",
+    "state": "Illinois",
+    "slug": "arlington-heights-il",
+    "population": 75994,
+    "priority": 1
+  },
+  {
+    "name": "Scranton",
+    "state": "Pennsylvania",
+    "slug": "scranton-pa",
+    "population": 75806,
+    "priority": 1
+  },
+  {
+    "name": "Evanston",
+    "state": "Illinois",
+    "slug": "evanston-il",
+    "population": 75570,
+    "priority": 1
+  },
+  {
+    "name": "Kalamazoo",
+    "state": "Michigan",
+    "slug": "kalamazoo-mi",
+    "population": 75548,
+    "priority": 1
+  },
+  {
+    "name": "Baytown",
+    "state": "Texas",
+    "slug": "baytown-tx",
+    "population": 75418,
+    "priority": 1
+  },
+  {
+    "name": "Upland",
+    "state": "California",
+    "slug": "upland-ca",
+    "population": 75413,
+    "priority": 1
+  },
+  {
+    "name": "Springdale",
+    "state": "Arkansas",
+    "slug": "springdale-ar",
+    "population": 75229,
+    "priority": 1
+  },
+  {
+    "name": "Bethlehem",
+    "state": "Pennsylvania",
+    "slug": "bethlehem-pa",
+    "population": 75018,
+    "priority": 1
+  },
+  {
+    "name": "Schaumburg",
+    "state": "Illinois",
+    "slug": "schaumburg-il",
+    "population": 74907,
+    "priority": 1
+  },
+  {
+    "name": "Mount Pleasant",
+    "state": "South Carolina",
+    "slug": "mount-pleasant-sc",
+    "population": 74885,
+    "priority": 1
+  },
+  {
+    "name": "Auburn",
+    "state": "Washington",
+    "slug": "auburn-wa",
+    "population": 74860,
+    "priority": 1
+  },
+  {
+    "name": "Decatur",
+    "state": "Illinois",
+    "slug": "decatur-il",
+    "population": 74710,
+    "priority": 1
+  },
+  {
+    "name": "San Ramon",
+    "state": "California",
+    "slug": "san-ramon-ca",
+    "population": 74513,
+    "priority": 1
+  },
+  {
+    "name": "Pleasanton",
+    "state": "California",
+    "slug": "pleasanton-ca",
+    "population": 74110,
+    "priority": 1
+  },
+  {
+    "name": "Wyoming",
+    "state": "Michigan",
+    "slug": "wyoming-mi",
+    "population": 74100,
+    "priority": 1
+  },
+  {
+    "name": "Lake Charles",
+    "state": "Louisiana",
+    "slug": "lake-charles-la",
+    "population": 74024,
+    "priority": 1
+  },
+  {
+    "name": "Plymouth",
+    "state": "Minnesota",
+    "slug": "plymouth-mn",
+    "population": 73987,
+    "priority": 1
+  },
+  {
+    "name": "Bolingbrook",
+    "state": "Illinois",
+    "slug": "bolingbrook-il",
+    "population": 73936,
+    "priority": 1
+  },
+  {
+    "name": "Pharr",
+    "state": "Texas",
+    "slug": "pharr-tx",
+    "population": 73790,
+    "priority": 1
+  },
+  {
+    "name": "Appleton",
+    "state": "Wisconsin",
+    "slug": "appleton-wi",
+    "population": 73596,
+    "priority": 1
+  },
+  {
+    "name": "Gastonia",
+    "state": "North Carolina",
+    "slug": "gastonia-nc",
+    "population": 73209,
+    "priority": 1
+  },
+  {
+    "name": "Folsom",
+    "state": "California",
+    "slug": "folsom-ca",
+    "population": 73098,
+    "priority": 1
+  },
+  {
+    "name": "Southfield",
+    "state": "Michigan",
+    "slug": "southfield-mi",
+    "population": 73006,
+    "priority": 1
+  },
+  {
+    "name": "Rochester Hills",
+    "state": "Michigan",
+    "slug": "rochester-hills-mi",
+    "population": 72952,
+    "priority": 1
+  },
+  {
+    "name": "New Britain",
+    "state": "Connecticut",
+    "slug": "new-britain-ct",
+    "population": 72939,
+    "priority": 1
+  },
+  {
+    "name": "Goodyear",
+    "state": "Arizona",
+    "slug": "goodyear-az",
+    "population": 72864,
+    "priority": 1
+  },
+  {
+    "name": "Canton",
+    "state": "Ohio",
+    "slug": "canton-oh",
+    "population": 72535,
+    "priority": 1
+  },
+  {
+    "name": "Warner Robins",
+    "state": "Georgia",
+    "slug": "warner-robins-ga",
+    "population": 72531,
+    "priority": 1
+  },
+  {
+    "name": "Union City",
+    "state": "California",
+    "slug": "union-city-ca",
+    "population": 72528,
+    "priority": 1
+  },
+  {
+    "name": "Perris",
+    "state": "California",
+    "slug": "perris-ca",
+    "population": 72326,
+    "priority": 1
+  },
+  {
+    "name": "Manteca",
+    "state": "California",
+    "slug": "manteca-ca",
+    "population": 71948,
+    "priority": 1
+  },
+  {
+    "name": "Iowa City",
+    "state": "Iowa",
+    "slug": "iowa-city-ia",
+    "population": 71591,
+    "priority": 1
+  },
+  {
+    "name": "Jonesboro",
+    "state": "Arkansas",
+    "slug": "jonesboro-ar",
+    "population": 71551,
+    "priority": 1
+  },
+  {
+    "name": "Wilmington",
+    "state": "Delaware",
+    "slug": "wilmington-de",
+    "population": 71525,
+    "priority": 1
+  },
+  {
+    "name": "Lynwood",
+    "state": "California",
+    "slug": "lynwood-ca",
+    "population": 71371,
+    "priority": 1
+  },
+  {
+    "name": "Loveland",
+    "state": "Colorado",
+    "slug": "loveland-co",
+    "population": 71334,
+    "priority": 1
+  },
+  {
+    "name": "Pawtucket",
+    "state": "Rhode Island",
+    "slug": "pawtucket-ri",
+    "population": 71172,
+    "priority": 1
+  },
+  {
+    "name": "Boynton Beach",
+    "state": "Florida",
+    "slug": "boynton-beach-fl",
+    "population": 71097,
+    "priority": 1
+  },
+  {
+    "name": "Waukesha",
+    "state": "Wisconsin",
+    "slug": "waukesha-wi",
+    "population": 71016,
+    "priority": 1
+  },
+  {
+    "name": "Gulfport",
+    "state": "Mississippi",
+    "slug": "gulfport-ms",
+    "population": 71012,
+    "priority": 1
+  },
+  {
+    "name": "Apple Valley",
+    "state": "California",
+    "slug": "apple-valley-ca",
+    "population": 70924,
+    "priority": 1
+  },
+  {
+    "name": "Passaic",
+    "state": "New Jersey",
+    "slug": "passaic-nj",
+    "population": 70868,
+    "priority": 1
+  },
+  {
+    "name": "Rapid City",
+    "state": "South Dakota",
+    "slug": "rapid-city-sd",
+    "population": 70812,
+    "priority": 1
+  },
+  {
+    "name": "Layton",
+    "state": "Utah",
+    "slug": "layton-ut",
+    "population": 70790,
+    "priority": 1
+  },
+  {
+    "name": "Lafayette",
+    "state": "Indiana",
+    "slug": "lafayette-in",
+    "population": 70373,
+    "priority": 1
+  },
+  {
+    "name": "Turlock",
+    "state": "California",
+    "slug": "turlock-ca",
+    "population": 70365,
+    "priority": 1
+  },
+  {
+    "name": "Muncie",
+    "state": "Indiana",
+    "slug": "muncie-in",
+    "population": 70316,
+    "priority": 1
+  },
+  {
+    "name": "Temple",
+    "state": "Texas",
+    "slug": "temple-tx",
+    "population": 70190,
+    "priority": 1
+  },
+  {
+    "name": "Missouri City",
+    "state": "Texas",
+    "slug": "missouri-city-tx",
+    "population": 70185,
+    "priority": 1
+  },
+  {
+    "name": "Redlands",
+    "state": "California",
+    "slug": "redlands-ca",
+    "population": 69999,
+    "priority": 1
+  },
+  {
+    "name": "Santa Fe",
+    "state": "New Mexico",
+    "slug": "santa-fe-nm",
+    "population": 69976,
+    "priority": 1
+  },
+  {
+    "name": "Lauderhill",
+    "state": "Florida",
+    "slug": "lauderhill-fl",
+    "population": 69813,
+    "priority": 1
+  },
+  {
+    "name": "Milpitas",
+    "state": "California",
+    "slug": "milpitas-ca",
+    "population": 69783,
+    "priority": 1
+  },
+  {
+    "name": "Palatine",
+    "state": "Illinois",
+    "slug": "palatine-il",
+    "population": 69350,
+    "priority": 1
+  },
+  {
+    "name": "Missoula",
+    "state": "Montana",
+    "slug": "missoula-mt",
+    "population": 69122,
+    "priority": 1
+  },
+  {
+    "name": "Rock Hill",
+    "state": "South Carolina",
+    "slug": "rock-hill-sc",
+    "population": 69103,
+    "priority": 1
+  },
+  {
+    "name": "Jacksonville",
+    "state": "North Carolina",
+    "slug": "jacksonville-nc",
+    "population": 69079,
+    "priority": 1
+  },
+  {
+    "name": "Franklin",
+    "state": "Tennessee",
+    "slug": "franklin-tn",
+    "population": 68886,
+    "priority": 1
+  },
+  {
+    "name": "Flagstaff",
+    "state": "Arizona",
+    "slug": "flagstaff-az",
+    "population": 68667,
+    "priority": 1
+  },
+  {
+    "name": "Flower Mound",
+    "state": "Texas",
+    "slug": "flower-mound-tx",
+    "population": 68609,
+    "priority": 1
+  },
+  {
+    "name": "Weston",
+    "state": "Florida",
+    "slug": "weston-fl",
+    "population": 68388,
+    "priority": 1
+  },
+  {
+    "name": "Waterloo",
+    "state": "Iowa",
+    "slug": "waterloo-ia",
+    "population": 68366,
+    "priority": 1
+  },
+  {
+    "name": "Union City",
+    "state": "New Jersey",
+    "slug": "union-city-nj",
+    "population": 68247,
+    "priority": 1
+  },
+  {
+    "name": "Mount Vernon",
+    "state": "New York",
+    "slug": "mount-vernon-ny",
+    "population": 68224,
+    "priority": 1
+  },
+  {
+    "name": "Fort Myers",
+    "state": "Florida",
+    "slug": "fort-myers-fl",
+    "population": 68190,
+    "priority": 1
+  },
+  {
+    "name": "Dothan",
+    "state": "Alabama",
+    "slug": "dothan-al",
+    "population": 68001,
+    "priority": 1
+  },
+  {
+    "name": "Rancho Cordova",
+    "state": "California",
+    "slug": "rancho-cordova-ca",
+    "population": 67911,
+    "priority": 1
+  },
+  {
+    "name": "Redondo Beach",
+    "state": "California",
+    "slug": "redondo-beach-ca",
+    "population": 67815,
+    "priority": 1
+  },
+  {
+    "name": "Jackson",
+    "state": "Tennessee",
+    "slug": "jackson-tn",
+    "population": 67685,
+    "priority": 1
+  },
+  {
+    "name": "Pasco",
+    "state": "Washington",
+    "slug": "pasco-wa",
+    "population": 67599,
+    "priority": 1
+  },
+  {
+    "name": "St. Charles",
+    "state": "Missouri",
+    "slug": "st-charles-mo",
+    "population": 67569,
+    "priority": 1
+  },
+  {
+    "name": "Eau Claire",
+    "state": "Wisconsin",
+    "slug": "eau-claire-wi",
+    "population": 67545,
+    "priority": 1
+  },
+  {
+    "name": "North Richland Hills",
+    "state": "Texas",
+    "slug": "north-richland-hills-tx",
+    "population": 67317,
+    "priority": 1
+  },
+  {
+    "name": "Bismarck",
+    "state": "North Dakota",
+    "slug": "bismarck-nd",
+    "population": 67034,
+    "priority": 1
+  },
+  {
+    "name": "Yorba Linda",
+    "state": "California",
+    "slug": "yorba-linda-ca",
+    "population": 67032,
+    "priority": 1
+  },
+  {
+    "name": "Kenner",
+    "state": "Louisiana",
+    "slug": "kenner-la",
+    "population": 66975,
+    "priority": 1
+  },
+  {
+    "name": "Walnut Creek",
+    "state": "California",
+    "slug": "walnut-creek-ca",
+    "population": 66900,
+    "priority": 1
+  },
+  {
+    "name": "Frederick",
+    "state": "Maryland",
+    "slug": "frederick-md",
+    "population": 66893,
+    "priority": 1
+  },
+  {
+    "name": "Oshkosh",
+    "state": "Wisconsin",
+    "slug": "oshkosh-wi",
+    "population": 66778,
+    "priority": 1
+  },
+  {
+    "name": "Pittsburg",
+    "state": "California",
+    "slug": "pittsburg-ca",
+    "population": 66695,
+    "priority": 1
+  },
+  {
+    "name": "Palo Alto",
+    "state": "California",
+    "slug": "palo-alto-ca",
+    "population": 66642,
+    "priority": 1
+  },
+  {
+    "name": "Bossier City",
+    "state": "Louisiana",
+    "slug": "bossier-city-la",
+    "population": 66333,
+    "priority": 1
+  },
+  {
+    "name": "Portland",
+    "state": "Maine",
+    "slug": "portland-me",
+    "population": 66318,
+    "priority": 1
+  },
+  {
+    "name": "St. Cloud",
+    "state": "Minnesota",
+    "slug": "st-cloud-mn",
+    "population": 66297,
+    "priority": 1
+  },
+  {
+    "name": "Davis",
+    "state": "California",
+    "slug": "davis-ca",
+    "population": 66205,
+    "priority": 1
+  },
+  {
+    "name": "South San Francisco",
+    "state": "California",
+    "slug": "south-san-francisco-ca",
+    "population": 66174,
+    "priority": 1
+  },
+  {
+    "name": "Camarillo",
+    "state": "California",
+    "slug": "camarillo-ca",
+    "population": 66086,
+    "priority": 1
+  },
+  {
+    "name": "North Little Rock",
+    "state": "Arkansas",
+    "slug": "north-little-rock-ar",
+    "population": 66075,
+    "priority": 1
+  },
+  {
+    "name": "Schenectady",
+    "state": "New York",
+    "slug": "schenectady-ny",
+    "population": 65902,
+    "priority": 1
+  },
+  {
+    "name": "Gaithersburg",
+    "state": "Maryland",
+    "slug": "gaithersburg-md",
+    "population": 65690,
+    "priority": 1
+  },
+  {
+    "name": "Harlingen",
+    "state": "Texas",
+    "slug": "harlingen-tx",
+    "population": 65665,
+    "priority": 1
+  },
+  {
+    "name": "Woodbury",
+    "state": "Minnesota",
+    "slug": "woodbury-mn",
+    "population": 65656,
+    "priority": 1
+  },
+  {
+    "name": "Eagan",
+    "state": "Minnesota",
+    "slug": "eagan-mn",
+    "population": 65453,
+    "priority": 1
+  },
+  {
+    "name": "Yuba City",
+    "state": "California",
+    "slug": "yuba-city-ca",
+    "population": 65416,
+    "priority": 1
+  },
+  {
+    "name": "Maple Grove",
+    "state": "Minnesota",
+    "slug": "maple-grove-mn",
+    "population": 65415,
+    "priority": 1
+  },
+  {
+    "name": "Youngstown",
+    "state": "Ohio",
+    "slug": "youngstown-oh",
+    "population": 65184,
+    "priority": 1
+  },
+  {
+    "name": "Skokie",
+    "state": "Illinois",
+    "slug": "skokie-il",
+    "population": 65176,
+    "priority": 1
+  },
+  {
+    "name": "Kissimmee",
+    "state": "Florida",
+    "slug": "kissimmee-fl",
+    "population": 65173,
+    "priority": 1
+  },
+  {
+    "name": "Johnson City",
+    "state": "Tennessee",
+    "slug": "johnson-city-tn",
+    "population": 65123,
+    "priority": 1
+  },
+  {
+    "name": "Victoria",
+    "state": "Texas",
+    "slug": "victoria-tx",
+    "population": 65098,
+    "priority": 1
+  },
+  {
+    "name": "San Clemente",
+    "state": "California",
+    "slug": "san-clemente-ca",
+    "population": 65040,
+    "priority": 1
+  },
+  {
+    "name": "Bayonne",
+    "state": "New Jersey",
+    "slug": "bayonne-nj",
+    "population": 65028,
+    "priority": 1
+  },
+  {
+    "name": "Laguna Niguel",
+    "state": "California",
+    "slug": "laguna-niguel-ca",
+    "population": 64652,
+    "priority": 1
+  },
+  {
+    "name": "East Orange",
+    "state": "New Jersey",
+    "slug": "east-orange-nj",
+    "population": 64544,
+    "priority": 1
+  },
+  {
+    "name": "Shawnee",
+    "state": "Kansas",
+    "slug": "shawnee-ks",
+    "population": 64323,
+    "priority": 1
+  },
+  {
+    "name": "Homestead",
+    "state": "Florida",
+    "slug": "homestead-fl",
+    "population": 64079,
+    "priority": 1
+  },
+  {
+    "name": "Rockville",
+    "state": "Maryland",
+    "slug": "rockville-md",
+    "population": 64072,
+    "priority": 1
+  },
+  {
+    "name": "Delray Beach",
+    "state": "Florida",
+    "slug": "delray-beach-fl",
+    "population": 64072,
+    "priority": 1
+  },
+  {
+    "name": "Janesville",
+    "state": "Wisconsin",
+    "slug": "janesville-wi",
+    "population": 63820,
+    "priority": 1
+  },
+  {
+    "name": "Conway",
+    "state": "Arkansas",
+    "slug": "conway-ar",
+    "population": 63816,
+    "priority": 1
+  },
+  {
+    "name": "Pico Rivera",
+    "state": "California",
+    "slug": "pico-rivera-ca",
+    "population": 63771,
+    "priority": 1
+  },
+  {
+    "name": "Lorain",
+    "state": "Ohio",
+    "slug": "lorain-oh",
+    "population": 63710,
+    "priority": 1
+  },
+  {
+    "name": "Montebello",
+    "state": "California",
+    "slug": "montebello-ca",
+    "population": 63495,
+    "priority": 1
+  },
+  {
+    "name": "Lodi",
+    "state": "California",
+    "slug": "lodi-ca",
+    "population": 63338,
+    "priority": 1
+  },
+  {
+    "name": "New Braunfels",
+    "state": "Texas",
+    "slug": "new-braunfels-tx",
+    "population": 63279,
+    "priority": 1
+  },
+  {
+    "name": "Marysville",
+    "state": "Washington",
+    "slug": "marysville-wa",
+    "population": 63269,
+    "priority": 1
+  },
+  {
+    "name": "Tamarac",
+    "state": "Florida",
+    "slug": "tamarac-fl",
+    "population": 63155,
+    "priority": 1
+  },
+  {
+    "name": "Madera",
+    "state": "California",
+    "slug": "madera-ca",
+    "population": 63105,
+    "priority": 1
+  },
+  {
+    "name": "Conroe",
+    "state": "Texas",
+    "slug": "conroe-tx",
+    "population": 63032,
+    "priority": 1
+  },
+  {
+    "name": "Santa Cruz",
+    "state": "California",
+    "slug": "santa-cruz-ca",
+    "population": 62864,
+    "priority": 1
+  },
+  {
+    "name": "Eden Prairie",
+    "state": "Minnesota",
+    "slug": "eden-prairie-mn",
+    "population": 62603,
+    "priority": 1
+  },
+  {
+    "name": "Cheyenne",
+    "state": "Wyoming",
+    "slug": "cheyenne-wy",
+    "population": 62448,
+    "priority": 1
+  },
+  {
+    "name": "Daytona Beach",
+    "state": "Florida",
+    "slug": "daytona-beach-fl",
+    "population": 62316,
+    "priority": 1
+  },
+  {
+    "name": "Alpharetta",
+    "state": "Georgia",
+    "slug": "alpharetta-ga",
+    "population": 62298,
+    "priority": 1
+  },
+  {
+    "name": "Hamilton",
+    "state": "Ohio",
+    "slug": "hamilton-oh",
+    "population": 62258,
+    "priority": 1
+  },
+  {
+    "name": "Waltham",
+    "state": "Massachusetts",
+    "slug": "waltham-ma",
+    "population": 62227,
+    "priority": 1
+  },
+  {
+    "name": "Coon Rapids",
+    "state": "Minnesota",
+    "slug": "coon-rapids-mn",
+    "population": 62103,
+    "priority": 1
+  },
+  {
+    "name": "Haverhill",
+    "state": "Massachusetts",
+    "slug": "haverhill-ma",
+    "population": 62088,
+    "priority": 1
+  },
+  {
+    "name": "Council Bluffs",
+    "state": "Iowa",
+    "slug": "council-bluffs-ia",
+    "population": 61969,
+    "priority": 1
+  },
+  {
+    "name": "Taylor",
+    "state": "Michigan",
+    "slug": "taylor-mi",
+    "population": 61817,
+    "priority": 1
+  },
+  {
+    "name": "Utica",
+    "state": "New York",
+    "slug": "utica-ny",
+    "population": 61808,
+    "priority": 1
+  },
+  {
+    "name": "Ames",
+    "state": "Iowa",
+    "slug": "ames-ia",
+    "population": 61792,
+    "priority": 1
+  },
+  {
+    "name": "La Habra",
+    "state": "California",
+    "slug": "la-habra-ca",
+    "population": 61653,
+    "priority": 1
+  },
+  {
+    "name": "Encinitas",
+    "state": "California",
+    "slug": "encinitas-ca",
+    "population": 61588,
+    "priority": 1
+  },
+  {
+    "name": "Bowling Green",
+    "state": "Kentucky",
+    "slug": "bowling-green-ky",
+    "population": 61488,
+    "priority": 1
+  },
+  {
+    "name": "Burnsville",
+    "state": "Minnesota",
+    "slug": "burnsville-mn",
+    "population": 61434,
+    "priority": 1
+  },
+  {
+    "name": "Greenville",
+    "state": "South Carolina",
+    "slug": "greenville-sc",
+    "population": 61397,
+    "priority": 1
+  },
+  {
+    "name": "West Des Moines",
+    "state": "Iowa",
+    "slug": "west-des-moines-ia",
+    "population": 61255,
+    "priority": 1
+  },
+  {
+    "name": "Cedar Park",
+    "state": "Texas",
+    "slug": "cedar-park-tx",
+    "population": 61238,
+    "priority": 1
+  },
+  {
+    "name": "Tulare",
+    "state": "California",
+    "slug": "tulare-ca",
+    "population": 61170,
+    "priority": 1
+  },
+  {
+    "name": "Monterey Park",
+    "state": "California",
+    "slug": "monterey-park-ca",
+    "population": 61085,
+    "priority": 1
+  },
+  {
+    "name": "Vineland",
+    "state": "New Jersey",
+    "slug": "vineland-nj",
+    "population": 61050,
+    "priority": 1
+  },
+  {
+    "name": "Terre Haute",
+    "state": "Indiana",
+    "slug": "terre-haute-in",
+    "population": 61025,
+    "priority": 1
+  },
+  {
+    "name": "North Miami",
+    "state": "Florida",
+    "slug": "north-miami-fl",
+    "population": 61007,
+    "priority": 1
+  },
+  {
+    "name": "Mansfield",
+    "state": "Texas",
+    "slug": "mansfield-tx",
+    "population": 60872,
+    "priority": 1
+  },
+  {
+    "name": "West Allis",
+    "state": "Wisconsin",
+    "slug": "west-allis-wi",
+    "population": 60697,
+    "priority": 1
+  },
+  {
+    "name": "Bristol",
+    "state": "Connecticut",
+    "slug": "bristol-ct",
+    "population": 60568,
+    "priority": 1
+  },
+  {
+    "name": "Taylorsville",
+    "state": "Utah",
+    "slug": "taylorsville-ut",
+    "population": 60519,
+    "priority": 1
+  },
+  {
+    "name": "Malden",
+    "state": "Massachusetts",
+    "slug": "malden-ma",
+    "population": 60509,
+    "priority": 1
+  },
+  {
+    "name": "Meriden",
+    "state": "Connecticut",
+    "slug": "meriden-ct",
+    "population": 60456,
+    "priority": 1
+  },
+  {
+    "name": "Blaine",
+    "state": "Minnesota",
+    "slug": "blaine-mn",
+    "population": 60407,
+    "priority": 1
+  },
+  {
+    "name": "Wellington",
+    "state": "Florida",
+    "slug": "wellington-fl",
+    "population": 60202,
+    "priority": 1
+  },
+  {
+    "name": "Cupertino",
+    "state": "California",
+    "slug": "cupertino-ca",
+    "population": 60189,
+    "priority": 1
+  },
+  {
+    "name": "Springfield",
+    "state": "Oregon",
+    "slug": "springfield-or",
+    "population": 60177,
+    "priority": 1
+  },
+  {
+    "name": "Rogers",
+    "state": "Arkansas",
+    "slug": "rogers-ar",
+    "population": 60112,
+    "priority": 1
+  },
+  {
+    "name": "St. Clair Shores",
+    "state": "Michigan",
+    "slug": "st-clair-shores-mi",
+    "population": 60070,
+    "priority": 1
+  },
+  {
+    "name": "Gardena",
+    "state": "California",
+    "slug": "gardena-ca",
+    "population": 59957,
+    "priority": 1
+  },
+  {
+    "name": "Pontiac",
+    "state": "Michigan",
+    "slug": "pontiac-mi",
+    "population": 59887,
+    "priority": 1
+  },
+  {
+    "name": "National City",
+    "state": "California",
+    "slug": "national-city-ca",
+    "population": 59834,
+    "priority": 1
+  },
+  {
+    "name": "Grand Junction",
+    "state": "Colorado",
+    "slug": "grand-junction-co",
+    "population": 59778,
+    "priority": 1
+  },
+  {
+    "name": "Rocklin",
+    "state": "California",
+    "slug": "rocklin-ca",
+    "population": 59738,
+    "priority": 1
+  },
+  {
+    "name": "Chapel Hill",
+    "state": "North Carolina",
+    "slug": "chapel-hill-nc",
+    "population": 59635,
+    "priority": 1
+  },
+  {
+    "name": "Casper",
+    "state": "Wyoming",
+    "slug": "casper-wy",
+    "population": 59628,
+    "priority": 1
+  },
+  {
+    "name": "Broomfield",
+    "state": "Colorado",
+    "slug": "broomfield-co",
+    "population": 59471,
+    "priority": 1
+  },
+  {
+    "name": "Petaluma",
+    "state": "California",
+    "slug": "petaluma-ca",
+    "population": 59440,
+    "priority": 1
+  },
+  {
+    "name": "South Jordan",
+    "state": "Utah",
+    "slug": "south-jordan-ut",
+    "population": 59366,
+    "priority": 1
+  },
+  {
+    "name": "Springfield",
+    "state": "Ohio",
+    "slug": "springfield-oh",
+    "population": 59357,
+    "priority": 1
+  },
+  {
+    "name": "Great Falls",
+    "state": "Montana",
+    "slug": "great-falls-mt",
+    "population": 59351,
+    "priority": 1
+  },
+  {
+    "name": "Lancaster",
+    "state": "Pennsylvania",
+    "slug": "lancaster-pa",
+    "population": 59325,
+    "priority": 1
+  },
+  {
+    "name": "North Port",
+    "state": "Florida",
+    "slug": "north-port-fl",
+    "population": 59212,
+    "priority": 1
+  },
+  {
+    "name": "Lakewood",
+    "state": "Washington",
+    "slug": "lakewood-wa",
+    "population": 59097,
+    "priority": 1
+  },
+  {
+    "name": "Marietta",
+    "state": "Georgia",
+    "slug": "marietta-ga",
+    "population": 59089,
+    "priority": 1
+  },
+  {
+    "name": "San Rafael",
+    "state": "California",
+    "slug": "san-rafael-ca",
+    "population": 58994,
+    "priority": 1
+  },
+  {
+    "name": "Royal Oak",
+    "state": "Michigan",
+    "slug": "royal-oak-mi",
+    "population": 58946,
+    "priority": 1
+  },
+  {
+    "name": "Des Plaines",
+    "state": "Illinois",
+    "slug": "des-plaines-il",
+    "population": 58918,
+    "priority": 1
+  },
+  {
+    "name": "Huntington Park",
+    "state": "California",
+    "slug": "huntington-park-ca",
+    "population": 58879,
+    "priority": 1
+  },
+  {
+    "name": "La Mesa",
+    "state": "California",
+    "slug": "la-mesa-ca",
+    "population": 58642,
+    "priority": 1
+  },
+  {
+    "name": "Orland Park",
+    "state": "Illinois",
+    "slug": "orland-park-il",
+    "population": 58590,
+    "priority": 1
+  },
+  {
+    "name": "Auburn",
+    "state": "Alabama",
+    "slug": "auburn-al",
+    "population": 58582,
+    "priority": 1
+  },
+  {
+    "name": "Lakeville",
+    "state": "Minnesota",
+    "slug": "lakeville-mn",
+    "population": 58562,
+    "priority": 1
+  },
+  {
+    "name": "Owensboro",
+    "state": "Kentucky",
+    "slug": "owensboro-ky",
+    "population": 58416,
+    "priority": 1
+  },
+  {
+    "name": "Moore",
+    "state": "Oklahoma",
+    "slug": "moore-ok",
+    "population": 58414,
+    "priority": 1
+  },
+  {
+    "name": "Jupiter",
+    "state": "Florida",
+    "slug": "jupiter-fl",
+    "population": 58298,
+    "priority": 1
+  },
+  {
+    "name": "Idaho Falls",
+    "state": "Idaho",
+    "slug": "idaho-falls-id",
+    "population": 58292,
+    "priority": 1
+  },
+  {
+    "name": "Dubuque",
+    "state": "Iowa",
+    "slug": "dubuque-ia",
+    "population": 58253,
+    "priority": 1
+  },
+  {
+    "name": "Bartlett",
+    "state": "Tennessee",
+    "slug": "bartlett-tn",
+    "population": 58226,
+    "priority": 1
+  },
+  {
+    "name": "Rowlett",
+    "state": "Texas",
+    "slug": "rowlett-tx",
+    "population": 58043,
+    "priority": 1
+  },
+  {
+    "name": "Novi",
+    "state": "Michigan",
+    "slug": "novi-mi",
+    "population": 57960,
+    "priority": 1
+  },
+  {
+    "name": "White Plains",
+    "state": "New York",
+    "slug": "white-plains-ny",
+    "population": 57866,
+    "priority": 1
+  },
+  {
+    "name": "Arcadia",
+    "state": "California",
+    "slug": "arcadia-ca",
+    "population": 57639,
+    "priority": 1
+  },
+  {
+    "name": "Redmond",
+    "state": "Washington",
+    "slug": "redmond-wa",
+    "population": 57530,
+    "priority": 1
+  },
+  {
+    "name": "Lake Elsinore",
+    "state": "California",
+    "slug": "lake-elsinore-ca",
+    "population": 57525,
+    "priority": 1
+  },
+  {
+    "name": "Ocala",
+    "state": "Florida",
+    "slug": "ocala-fl",
+    "population": 57468,
+    "priority": 1
+  },
+  {
+    "name": "Tinley Park",
+    "state": "Illinois",
+    "slug": "tinley-park-il",
+    "population": 57282,
+    "priority": 1
+  },
+  {
+    "name": "Port Orange",
+    "state": "Florida",
+    "slug": "port-orange-fl",
+    "population": 57203,
+    "priority": 1
+  },
+  {
+    "name": "Medford",
+    "state": "Massachusetts",
+    "slug": "medford-ma",
+    "population": 57170,
+    "priority": 1
+  },
+  {
+    "name": "Oak Lawn",
+    "state": "Illinois",
+    "slug": "oak-lawn-il",
+    "population": 57073,
+    "priority": 1
+  },
+  {
+    "name": "Rocky Mount",
+    "state": "North Carolina",
+    "slug": "rocky-mount-nc",
+    "population": 56954,
+    "priority": 1
+  },
+  {
+    "name": "Kokomo",
+    "state": "Indiana",
+    "slug": "kokomo-in",
+    "population": 56895,
+    "priority": 1
+  },
+  {
+    "name": "Coconut Creek",
+    "state": "Florida",
+    "slug": "coconut-creek-fl",
+    "population": 56792,
+    "priority": 1
+  },
+  {
+    "name": "Bowie",
+    "state": "Maryland",
+    "slug": "bowie-md",
+    "population": 56759,
+    "priority": 1
+  },
+  {
+    "name": "Berwyn",
+    "state": "Illinois",
+    "slug": "berwyn-il",
+    "population": 56758,
+    "priority": 1
+  },
+  {
+    "name": "Midwest City",
+    "state": "Oklahoma",
+    "slug": "midwest-city-ok",
+    "population": 56756,
+    "priority": 1
+  },
+  {
+    "name": "Fountain Valley",
+    "state": "California",
+    "slug": "fountain-valley-ca",
+    "population": 56707,
+    "priority": 1
+  },
+  {
+    "name": "Buckeye",
+    "state": "Arizona",
+    "slug": "buckeye-az",
+    "population": 56683,
+    "priority": 1
+  },
+  {
+    "name": "Dearborn Heights",
+    "state": "Michigan",
+    "slug": "dearborn-heights-mi",
+    "population": 56620,
+    "priority": 1
+  },
+  {
+    "name": "Woodland",
+    "state": "California",
+    "slug": "woodland-ca",
+    "population": 56590,
+    "priority": 1
+  },
+  {
+    "name": "Noblesville",
+    "state": "Indiana",
+    "slug": "noblesville-in",
+    "population": 56540,
+    "priority": 1
+  },
+  {
+    "name": "Valdosta",
+    "state": "Georgia",
+    "slug": "valdosta-ga",
+    "population": 56481,
+    "priority": 1
+  },
+  {
+    "name": "Diamond Bar",
+    "state": "California",
+    "slug": "diamond-bar-ca",
+    "population": 56449,
+    "priority": 1
+  },
+  {
+    "name": "Manhattan",
+    "state": "Kansas",
+    "slug": "manhattan-ks",
+    "population": 56143,
+    "priority": 1
+  },
+  {
+    "name": "Santee",
+    "state": "California",
+    "slug": "santee-ca",
+    "population": 56105,
+    "priority": 1
+  },
+  {
+    "name": "Taunton",
+    "state": "Massachusetts",
+    "slug": "taunton-ma",
+    "population": 56069,
+    "priority": 1
+  },
+  {
+    "name": "Sanford",
+    "state": "Florida",
+    "slug": "sanford-fl",
+    "population": 56002,
+    "priority": 1
+  },
+  {
+    "name": "Kettering",
+    "state": "Ohio",
+    "slug": "kettering-oh",
+    "population": 55870,
+    "priority": 1
+  },
+  {
+    "name": "New Brunswick",
+    "state": "New Jersey",
+    "slug": "new-brunswick-nj",
+    "population": 55831,
+    "priority": 1
+  },
+  {
+    "name": "Decatur",
+    "state": "Alabama",
+    "slug": "decatur-al",
+    "population": 55816,
+    "priority": 1
+  },
+  {
+    "name": "Chicopee",
+    "state": "Massachusetts",
+    "slug": "chicopee-ma",
+    "population": 55717,
+    "priority": 1
+  },
+  {
+    "name": "Anderson",
+    "state": "Indiana",
+    "slug": "anderson-in",
+    "population": 55670,
+    "priority": 1
+  },
+  {
+    "name": "Margate",
+    "state": "Florida",
+    "slug": "margate-fl",
+    "population": 55456,
+    "priority": 1
+  },
+  {
+    "name": "Weymouth Town",
+    "state": "Massachusetts",
+    "slug": "weymouth-town-ma",
+    "population": 55419,
+    "priority": 1
+  },
+  {
+    "name": "Hempstead",
+    "state": "New York",
+    "slug": "hempstead-ny",
+    "population": 55361,
+    "priority": 1
+  },
+  {
+    "name": "Corvallis",
+    "state": "Oregon",
+    "slug": "corvallis-or",
+    "population": 55298,
+    "priority": 1
+  },
+  {
+    "name": "Eastvale",
+    "state": "California",
+    "slug": "eastvale-ca",
+    "population": 55191,
+    "priority": 1
+  },
+  {
+    "name": "Porterville",
+    "state": "California",
+    "slug": "porterville-ca",
+    "population": 55174,
+    "priority": 1
+  },
+  {
+    "name": "West Haven",
+    "state": "Connecticut",
+    "slug": "west-haven-ct",
+    "population": 55046,
+    "priority": 1
+  },
+  {
+    "name": "Brentwood",
+    "state": "California",
+    "slug": "brentwood-ca",
+    "population": 55000,
+    "priority": 1
+  },
+  {
+    "name": "Paramount",
+    "state": "California",
+    "slug": "paramount-ca",
+    "population": 54980,
+    "priority": 1
+  },
+  {
+    "name": "Grand Forks",
+    "state": "North Dakota",
+    "slug": "grand-forks-nd",
+    "population": 54932,
+    "priority": 1
+  },
+  {
+    "name": "Georgetown",
+    "state": "Texas",
+    "slug": "georgetown-tx",
+    "population": 54898,
+    "priority": 1
+  },
+  {
+    "name": "St. Peters",
+    "state": "Missouri",
+    "slug": "st-peters-mo",
+    "population": 54842,
+    "priority": 1
+  },
+  {
+    "name": "Shoreline",
+    "state": "Washington",
+    "slug": "shoreline-wa",
+    "population": 54790,
+    "priority": 1
+  },
+  {
+    "name": "Mount Prospect",
+    "state": "Illinois",
+    "slug": "mount-prospect-il",
+    "population": 54771,
+    "priority": 1
+  },
+  {
+    "name": "Hanford",
+    "state": "California",
+    "slug": "hanford-ca",
+    "population": 54686,
+    "priority": 1
+  },
+  {
+    "name": "Normal",
+    "state": "Illinois",
+    "slug": "normal-il",
+    "population": 54664,
+    "priority": 1
+  },
+  {
+    "name": "Rosemead",
+    "state": "California",
+    "slug": "rosemead-ca",
+    "population": 54561,
+    "priority": 1
+  },
+  {
+    "name": "Lehi",
+    "state": "Utah",
+    "slug": "lehi-ut",
+    "population": 54382,
+    "priority": 1
+  },
+  {
+    "name": "Pocatello",
+    "state": "Idaho",
+    "slug": "pocatello-id",
+    "population": 54350,
+    "priority": 1
+  },
+  {
+    "name": "Highland",
+    "state": "California",
+    "slug": "highland-ca",
+    "population": 54291,
+    "priority": 1
+  },
+  {
+    "name": "Novato",
+    "state": "California",
+    "slug": "novato-ca",
+    "population": 54194,
+    "priority": 1
+  },
+  {
+    "name": "Port Arthur",
+    "state": "Texas",
+    "slug": "port-arthur-tx",
+    "population": 54135,
+    "priority": 1
+  },
+  {
+    "name": "Carson City",
+    "state": "Nevada",
+    "slug": "carson-city-nv",
+    "population": 54080,
+    "priority": 1
+  },
+  {
+    "name": "San Marcos",
+    "state": "Texas",
+    "slug": "san-marcos-tx",
+    "population": 54076,
+    "priority": 1
+  },
+  {
+    "name": "Hendersonville",
+    "state": "Tennessee",
+    "slug": "hendersonville-tn",
+    "population": 54068,
+    "priority": 1
+  },
+  {
+    "name": "Elyria",
+    "state": "Ohio",
+    "slug": "elyria-oh",
+    "population": 53956,
+    "priority": 1
+  },
+  {
+    "name": "Revere",
+    "state": "Massachusetts",
+    "slug": "revere-ma",
+    "population": 53756,
+    "priority": 1
+  },
+  {
+    "name": "Pflugerville",
+    "state": "Texas",
+    "slug": "pflugerville-tx",
+    "population": 53752,
+    "priority": 1
+  },
+  {
+    "name": "Greenwood",
+    "state": "Indiana",
+    "slug": "greenwood-in",
+    "population": 53665,
+    "priority": 1
+  },
+  {
+    "name": "Bellevue",
+    "state": "Nebraska",
+    "slug": "bellevue-ne",
+    "population": 53663,
+    "priority": 1
+  },
+  {
+    "name": "Wheaton",
+    "state": "Illinois",
+    "slug": "wheaton-il",
+    "population": 53648,
+    "priority": 1
+  },
+  {
+    "name": "Smyrna",
+    "state": "Georgia",
+    "slug": "smyrna-ga",
+    "population": 53438,
+    "priority": 1
+  },
+  {
+    "name": "Sarasota",
+    "state": "Florida",
+    "slug": "sarasota-fl",
+    "population": 53326,
+    "priority": 1
+  },
+  {
+    "name": "Blue Springs",
+    "state": "Missouri",
+    "slug": "blue-springs-mo",
+    "population": 53294,
+    "priority": 1
+  },
+  {
+    "name": "Colton",
+    "state": "California",
+    "slug": "colton-ca",
+    "population": 53243,
+    "priority": 1
+  },
+  {
+    "name": "Euless",
+    "state": "Texas",
+    "slug": "euless-tx",
+    "population": 53224,
+    "priority": 1
+  },
+  {
+    "name": "Castle Rock",
+    "state": "Colorado",
+    "slug": "castle-rock-co",
+    "population": 53063,
+    "priority": 1
+  },
+  {
+    "name": "Cathedral City",
+    "state": "California",
+    "slug": "cathedral-city-ca",
+    "population": 52977,
+    "priority": 1
+  },
+  {
+    "name": "Kingsport",
+    "state": "Tennessee",
+    "slug": "kingsport-tn",
+    "population": 52962,
+    "priority": 1
+  },
+  {
+    "name": "Lake Havasu City",
+    "state": "Arizona",
+    "slug": "lake-havasu-city-az",
+    "population": 52844,
+    "priority": 1
+  },
+  {
+    "name": "Pensacola",
+    "state": "Florida",
+    "slug": "pensacola-fl",
+    "population": 52703,
+    "priority": 1
+  },
+  {
+    "name": "Hoboken",
+    "state": "New Jersey",
+    "slug": "hoboken-nj",
+    "population": 52575,
+    "priority": 1
+  },
+  {
+    "name": "Yucaipa",
+    "state": "California",
+    "slug": "yucaipa-ca",
+    "population": 52536,
+    "priority": 1
+  },
+  {
+    "name": "Watsonville",
+    "state": "California",
+    "slug": "watsonville-ca",
+    "population": 52477,
+    "priority": 1
+  },
+  {
+    "name": "Richland",
+    "state": "Washington",
+    "slug": "richland-wa",
+    "population": 52413,
+    "priority": 1
+  },
+  {
+    "name": "Delano",
+    "state": "California",
+    "slug": "delano-ca",
+    "population": 52403,
+    "priority": 1
+  },
+  {
+    "name": "Hoffman Estates",
+    "state": "Illinois",
+    "slug": "hoffman-estates-il",
+    "population": 52398,
+    "priority": 1
+  },
+  {
+    "name": "Florissant",
+    "state": "Missouri",
+    "slug": "florissant-mo",
+    "population": 52363,
+    "priority": 1
+  },
+  {
+    "name": "Placentia",
+    "state": "California",
+    "slug": "placentia-ca",
+    "population": 52206,
+    "priority": 1
+  },
+  {
+    "name": "West New York",
+    "state": "New Jersey",
+    "slug": "west-new-york-nj",
+    "population": 52122,
+    "priority": 1
+  },
+  {
+    "name": "Dublin",
+    "state": "California",
+    "slug": "dublin-ca",
+    "population": 52105,
+    "priority": 1
+  },
+  {
+    "name": "Oak Park",
+    "state": "Illinois",
+    "slug": "oak-park-il",
+    "population": 52066,
+    "priority": 1
+  },
+  {
+    "name": "Peabody",
+    "state": "Massachusetts",
+    "slug": "peabody-ma",
+    "population": 52044,
+    "priority": 1
+  },
+  {
+    "name": "Perth Amboy",
+    "state": "New Jersey",
+    "slug": "perth-amboy-nj",
+    "population": 51982,
+    "priority": 1
+  },
+  {
+    "name": "Battle Creek",
+    "state": "Michigan",
+    "slug": "battle-creek-mi",
+    "population": 51848,
+    "priority": 1
+  },
+  {
+    "name": "Bradenton",
+    "state": "Florida",
+    "slug": "bradenton-fl",
+    "population": 51763,
+    "priority": 1
+  },
+  {
+    "name": "Gilroy",
+    "state": "California",
+    "slug": "gilroy-ca",
+    "population": 51701,
+    "priority": 1
+  },
+  {
+    "name": "Milford",
+    "state": "Connecticut",
+    "slug": "milford-ct",
+    "population": 51644,
+    "priority": 1
+  },
+  {
+    "name": "Albany",
+    "state": "Oregon",
+    "slug": "albany-or",
+    "population": 51583,
+    "priority": 1
+  },
+  {
+    "name": "Ankeny",
+    "state": "Iowa",
+    "slug": "ankeny-ia",
+    "population": 51567,
+    "priority": 1
+  },
+  {
+    "name": "La Crosse",
+    "state": "Wisconsin",
+    "slug": "la-crosse-wi",
+    "population": 51522,
+    "priority": 1
+  },
+  {
+    "name": "Burlington",
+    "state": "North Carolina",
+    "slug": "burlington-nc",
+    "population": 51510,
+    "priority": 1
+  },
+  {
+    "name": "DeSoto",
+    "state": "Texas",
+    "slug": "desoto-tx",
+    "population": 51483,
+    "priority": 1
+  },
+  {
+    "name": "Harrisonburg",
+    "state": "Virginia",
+    "slug": "harrisonburg-va",
+    "population": 51395,
+    "priority": 1
+  },
+  {
+    "name": "Minnetonka",
+    "state": "Minnesota",
+    "slug": "minnetonka-mn",
+    "population": 51368,
+    "priority": 1
+  },
+  {
+    "name": "Elkhart",
+    "state": "Indiana",
+    "slug": "elkhart-in",
+    "population": 51265,
+    "priority": 1
+  },
+  {
+    "name": "Lakewood",
+    "state": "Ohio",
+    "slug": "lakewood-oh",
+    "population": 51143,
+    "priority": 1
+  },
+  {
+    "name": "Glendora",
+    "state": "California",
+    "slug": "glendora-ca",
+    "population": 51074,
+    "priority": 1
+  },
+  {
+    "name": "Southaven",
+    "state": "Mississippi",
+    "slug": "southaven-ms",
+    "population": 50997,
+    "priority": 1
+  },
+  {
+    "name": "Charleston",
+    "state": "West Virginia",
+    "slug": "charleston-wv",
+    "population": 50821,
+    "priority": 1
+  },
+  {
+    "name": "Joplin",
+    "state": "Missouri",
+    "slug": "joplin-mo",
+    "population": 50789,
+    "priority": 1
+  },
+  {
+    "name": "Enid",
+    "state": "Oklahoma",
+    "slug": "enid-ok",
+    "population": 50725,
+    "priority": 1
+  },
+  {
+    "name": "Palm Beach Gardens",
+    "state": "Florida",
+    "slug": "palm-beach-gardens-fl",
+    "population": 50699,
+    "priority": 1
+  },
+  {
+    "name": "Brookhaven",
+    "state": "Georgia",
+    "slug": "brookhaven-ga",
+    "population": 50603,
+    "priority": 1
+  },
+  {
+    "name": "Plainfield",
+    "state": "New Jersey",
+    "slug": "plainfield-nj",
+    "population": 50588,
+    "priority": 1
+  },
+  {
+    "name": "Grand Island",
+    "state": "Nebraska",
+    "slug": "grand-island-ne",
+    "population": 50550,
+    "priority": 1
+  },
+  {
+    "name": "Palm Desert",
+    "state": "California",
+    "slug": "palm-desert-ca",
+    "population": 50508,
+    "priority": 1
+  },
+  {
+    "name": "Huntersville",
+    "state": "North Carolina",
+    "slug": "huntersville-nc",
+    "population": 50458,
+    "priority": 1
+  },
+  {
+    "name": "Tigard",
+    "state": "Oregon",
+    "slug": "tigard-or",
+    "population": 50444,
+    "priority": 1
+  },
+  {
+    "name": "Lenexa",
+    "state": "Kansas",
+    "slug": "lenexa-ks",
+    "population": 50344,
+    "priority": 1
+  },
+  {
+    "name": "Saginaw",
+    "state": "Michigan",
+    "slug": "saginaw-mi",
+    "population": 50303,
+    "priority": 1
+  },
+  {
+    "name": "Kentwood",
+    "state": "Michigan",
+    "slug": "kentwood-mi",
+    "population": 50233,
+    "priority": 1
+  },
+  {
+    "name": "Doral",
+    "state": "Florida",
+    "slug": "doral-fl",
+    "population": 50213,
+    "priority": 1
+  },
+  {
+    "name": "Apple Valley",
+    "state": "Minnesota",
+    "slug": "apple-valley-mn",
+    "population": 50201,
+    "priority": 1
+  },
+  {
+    "name": "Grapevine",
+    "state": "Texas",
+    "slug": "grapevine-tx",
+    "population": 50195,
+    "priority": 1
+  },
+  {
+    "name": "Aliso Viejo",
+    "state": "California",
+    "slug": "aliso-viejo-ca",
+    "population": 50175,
+    "priority": 1
+  },
+  {
+    "name": "Sammamish",
+    "state": "Washington",
+    "slug": "sammamish-wa",
+    "population": 50169,
+    "priority": 1
+  },
+  {
+    "name": "Casa Grande",
+    "state": "Arizona",
+    "slug": "casa-grande-az",
+    "population": 50111,
+    "priority": 1
+  },
+  {
+    "name": "Pinellas Park",
+    "state": "Florida",
+    "slug": "pinellas-park-fl",
+    "population": 49998,
+    "priority": 1
+  },
+  {
+    "name": "Troy",
+    "state": "New York",
+    "slug": "troy-ny",
+    "population": 49974,
+    "priority": 1
+  },
+  {
+    "name": "West Sacramento",
+    "state": "California",
+    "slug": "west-sacramento-ca",
+    "population": 49891,
+    "priority": 1
+  },
+  {
+    "name": "Burien",
+    "state": "Washington",
+    "slug": "burien-wa",
+    "population": 49858,
+    "priority": 1
+  },
+  {
+    "name": "Commerce City",
+    "state": "Colorado",
+    "slug": "commerce-city-co",
+    "population": 49799,
+    "priority": 1
+  },
+  {
+    "name": "Monroe",
+    "state": "Louisiana",
+    "slug": "monroe-la",
+    "population": 49761,
+    "priority": 1
+  },
+  {
+    "name": "Cerritos",
+    "state": "California",
+    "slug": "cerritos-ca",
+    "population": 49707,
+    "priority": 1
+  },
+  {
+    "name": "Downers Grove",
+    "state": "Illinois",
+    "slug": "downers-grove-il",
+    "population": 49670,
+    "priority": 1
+  },
+  {
+    "name": "Coral Gables",
+    "state": "Florida",
+    "slug": "coral-gables-fl",
+    "population": 49631,
+    "priority": 1
+  },
+  {
+    "name": "Wilson",
+    "state": "North Carolina",
+    "slug": "wilson-nc",
+    "population": 49628,
+    "priority": 1
+  },
+  {
+    "name": "Niagara Falls",
+    "state": "New York",
+    "slug": "niagara-falls-ny",
+    "population": 49468,
+    "priority": 1
+  },
+  {
+    "name": "Poway",
+    "state": "California",
+    "slug": "poway-ca",
+    "population": 49417,
+    "priority": 1
+  },
+  {
+    "name": "Edina",
+    "state": "Minnesota",
+    "slug": "edina-mn",
+    "population": 49376,
+    "priority": 1
+  },
+  {
+    "name": "Cuyahoga Falls",
+    "state": "Ohio",
+    "slug": "cuyahoga-falls-oh",
+    "population": 49267,
+    "priority": 1
+  },
+  {
+    "name": "Rancho Santa Margarita",
+    "state": "California",
+    "slug": "rancho-santa-margarita-ca",
+    "population": 49228,
+    "priority": 1
+  },
+  {
+    "name": "Harrisburg",
+    "state": "Pennsylvania",
+    "slug": "harrisburg-pa",
+    "population": 49188,
+    "priority": 1
+  },
+  {
+    "name": "Huntington",
+    "state": "West Virginia",
+    "slug": "huntington-wv",
+    "population": 49177,
+    "priority": 1
+  },
+  {
+    "name": "La Mirada",
+    "state": "California",
+    "slug": "la-mirada-ca",
+    "population": 49133,
+    "priority": 1
+  },
+  {
+    "name": "Cypress",
+    "state": "California",
+    "slug": "cypress-ca",
+    "population": 49087,
+    "priority": 1
+  },
+  {
+    "name": "Caldwell",
+    "state": "Idaho",
+    "slug": "caldwell-id",
+    "population": 48957,
+    "priority": 1
+  },
+  {
+    "name": "Logan",
+    "state": "Utah",
+    "slug": "logan-ut",
+    "population": 48913,
+    "priority": 1
+  },
+  {
+    "name": "Galveston",
+    "state": "Texas",
+    "slug": "galveston-tx",
+    "population": 48733,
+    "priority": 1
+  },
+  {
+    "name": "Sheboygan",
+    "state": "Wisconsin",
+    "slug": "sheboygan-wi",
+    "population": 48725,
+    "priority": 1
+  },
+  {
+    "name": "Middletown",
+    "state": "Ohio",
+    "slug": "middletown-oh",
+    "population": 48630,
+    "priority": 1
+  },
+  {
+    "name": "Murray",
+    "state": "Utah",
+    "slug": "murray-ut",
+    "population": 48612,
+    "priority": 1
+  },
+  {
+    "name": "Roswell",
+    "state": "New Mexico",
+    "slug": "roswell-nm",
+    "population": 48611,
+    "priority": 1
+  },
+  {
+    "name": "Parker",
+    "state": "Colorado",
+    "slug": "parker-co",
+    "population": 48608,
+    "priority": 1
+  },
+  {
+    "name": "Bedford",
+    "state": "Texas",
+    "slug": "bedford-tx",
+    "population": 48592,
+    "priority": 1
+  },
+  {
+    "name": "East Lansing",
+    "state": "Michigan",
+    "slug": "east-lansing-mi",
+    "population": 48554,
+    "priority": 1
+  },
+  {
+    "name": "Methuen",
+    "state": "Massachusetts",
+    "slug": "methuen-ma",
+    "population": 48514,
+    "priority": 1
+  },
+  {
+    "name": "Covina",
+    "state": "California",
+    "slug": "covina-ca",
+    "population": 48508,
+    "priority": 1
+  },
+  {
+    "name": "Alexandria",
+    "state": "Louisiana",
+    "slug": "alexandria-la",
+    "population": 48426,
+    "priority": 1
+  },
+  {
+    "name": "Olympia",
+    "state": "Washington",
+    "slug": "olympia-wa",
+    "population": 48338,
+    "priority": 1
+  },
+  {
+    "name": "Euclid",
+    "state": "Ohio",
+    "slug": "euclid-oh",
+    "population": 48139,
+    "priority": 1
+  },
+  {
+    "name": "Mishawaka",
+    "state": "Indiana",
+    "slug": "mishawaka-in",
+    "population": 47989,
+    "priority": 1
+  },
+  {
+    "name": "Salina",
+    "state": "Kansas",
+    "slug": "salina-ks",
+    "population": 47846,
+    "priority": 1
+  },
+  {
+    "name": "Azusa",
+    "state": "California",
+    "slug": "azusa-ca",
+    "population": 47842,
+    "priority": 1
+  },
+  {
+    "name": "Newark",
+    "state": "Ohio",
+    "slug": "newark-oh",
+    "population": 47777,
+    "priority": 1
+  },
+  {
+    "name": "Chesterfield",
+    "state": "Missouri",
+    "slug": "chesterfield-mo",
+    "population": 47749,
+    "priority": 1
+  },
+  {
+    "name": "Leesburg",
+    "state": "Virginia",
+    "slug": "leesburg-va",
+    "population": 47673,
+    "priority": 1
+  },
+  {
+    "name": "Dunwoody",
+    "state": "Georgia",
+    "slug": "dunwoody-ga",
+    "population": 47591,
+    "priority": 1
+  },
+  {
+    "name": "Hattiesburg",
+    "state": "Mississippi",
+    "slug": "hattiesburg-ms",
+    "population": 47556,
+    "priority": 1
+  },
+  {
+    "name": "Roseville",
+    "state": "Michigan",
+    "slug": "roseville-mi",
+    "population": 47555,
+    "priority": 1
+  },
+  {
+    "name": "Bonita Springs",
+    "state": "Florida",
+    "slug": "bonita-springs-fl",
+    "population": 47547,
+    "priority": 1
+  },
+  {
+    "name": "Portage",
+    "state": "Michigan",
+    "slug": "portage-mi",
+    "population": 47523,
+    "priority": 1
+  },
+  {
+    "name": "St. Louis Park",
+    "state": "Minnesota",
+    "slug": "st-louis-park-mn",
+    "population": 47411,
+    "priority": 1
+  },
+  {
+    "name": "Collierville",
+    "state": "Tennessee",
+    "slug": "collierville-tn",
+    "population": 47333,
+    "priority": 1
+  },
+  {
+    "name": "Middletown",
+    "state": "Connecticut",
+    "slug": "middletown-ct",
+    "population": 47333,
+    "priority": 1
+  },
+  {
+    "name": "Stillwater",
+    "state": "Oklahoma",
+    "slug": "stillwater-ok",
+    "population": 47186,
+    "priority": 1
+  },
+  {
+    "name": "East Providence",
+    "state": "Rhode Island",
+    "slug": "east-providence-ri",
+    "population": 47149,
+    "priority": 1
+  },
+  {
+    "name": "Lawrence",
+    "state": "Indiana",
+    "slug": "lawrence-in",
+    "population": 47135,
+    "priority": 1
+  },
+  {
+    "name": "Wauwatosa",
+    "state": "Wisconsin",
+    "slug": "wauwatosa-wi",
+    "population": 47134,
+    "priority": 1
+  },
+  {
+    "name": "Mentor",
+    "state": "Ohio",
+    "slug": "mentor-oh",
+    "population": 46979,
+    "priority": 1
+  },
+  {
+    "name": "Ceres",
+    "state": "California",
+    "slug": "ceres-ca",
+    "population": 46714,
+    "priority": 1
+  },
+  {
+    "name": "Cedar Hill",
+    "state": "Texas",
+    "slug": "cedar-hill-tx",
+    "population": 46663,
+    "priority": 1
+  },
+  {
+    "name": "Mansfield",
+    "state": "Ohio",
+    "slug": "mansfield-oh",
+    "population": 46454,
+    "priority": 1
+  },
+  {
+    "name": "Binghamton",
+    "state": "New York",
+    "slug": "binghamton-ny",
+    "population": 46444,
+    "priority": 1
+  },
+  {
+    "name": "Coeur d'Alene",
+    "state": "Idaho",
+    "slug": "coeur-d-alene-id",
+    "population": 46402,
+    "priority": 1
+  },
+  {
+    "name": "San Luis Obispo",
+    "state": "California",
+    "slug": "san-luis-obispo-ca",
+    "population": 46377,
+    "priority": 1
+  },
+  {
+    "name": "Minot",
+    "state": "North Dakota",
+    "slug": "minot-nd",
+    "population": 46321,
+    "priority": 1
+  },
+  {
+    "name": "Palm Springs",
+    "state": "California",
+    "slug": "palm-springs-ca",
+    "population": 46281,
+    "priority": 1
+  },
+  {
+    "name": "Pine Bluff",
+    "state": "Arkansas",
+    "slug": "pine-bluff-ar",
+    "population": 46094,
+    "priority": 1
+  },
+  {
+    "name": "Texas City",
+    "state": "Texas",
+    "slug": "texas-city-tx",
+    "population": 46081,
+    "priority": 1
+  },
+  {
+    "name": "Summerville",
+    "state": "South Carolina",
+    "slug": "summerville-sc",
+    "population": 46074,
+    "priority": 1
+  },
+  {
+    "name": "Twin Falls",
+    "state": "Idaho",
+    "slug": "twin-falls-id",
+    "population": 45981,
+    "priority": 1
+  },
+  {
+    "name": "Jeffersonville",
+    "state": "Indiana",
+    "slug": "jeffersonville-in",
+    "population": 45929,
+    "priority": 1
+  },
+  {
+    "name": "San Jacinto",
+    "state": "California",
+    "slug": "san-jacinto-ca",
+    "population": 45851,
+    "priority": 1
+  },
+  {
+    "name": "Madison",
+    "state": "Alabama",
+    "slug": "madison-al",
+    "population": 45799,
+    "priority": 1
+  },
+  {
+    "name": "Altoona",
+    "state": "Pennsylvania",
+    "slug": "altoona-pa",
+    "population": 45796,
+    "priority": 1
+  },
+  {
+    "name": "Columbus",
+    "state": "Indiana",
+    "slug": "columbus-in",
+    "population": 45775,
+    "priority": 1
+  },
+  {
+    "name": "Beavercreek",
+    "state": "Ohio",
+    "slug": "beavercreek-oh",
+    "population": 45712,
+    "priority": 1
+  },
+  {
+    "name": "Apopka",
+    "state": "Florida",
+    "slug": "apopka-fl",
+    "population": 45587,
+    "priority": 1
+  },
+  {
+    "name": "Elmhurst",
+    "state": "Illinois",
+    "slug": "elmhurst-il",
+    "population": 45556,
+    "priority": 1
+  },
+  {
+    "name": "Maricopa",
+    "state": "Arizona",
+    "slug": "maricopa-az",
+    "population": 45508,
+    "priority": 1
+  },
+  {
+    "name": "Farmington",
+    "state": "New Mexico",
+    "slug": "farmington-nm",
+    "population": 45426,
+    "priority": 1
+  },
+  {
+    "name": "Glenview",
+    "state": "Illinois",
+    "slug": "glenview-il",
+    "population": 45417,
+    "priority": 1
+  },
+  {
+    "name": "Cleveland Heights",
+    "state": "Ohio",
+    "slug": "cleveland-heights-oh",
+    "population": 45394,
+    "priority": 1
+  },
+  {
+    "name": "Draper",
+    "state": "Utah",
+    "slug": "draper-ut",
+    "population": 45285,
+    "priority": 1
+  },
+  {
+    "name": "Lincoln",
+    "state": "California",
+    "slug": "lincoln-ca",
+    "population": 45237,
+    "priority": 1
+  },
+  {
+    "name": "Sierra Vista",
+    "state": "Arizona",
+    "slug": "sierra-vista-az",
+    "population": 45129,
+    "priority": 1
+  },
+  {
+    "name": "Lacey",
+    "state": "Washington",
+    "slug": "lacey-wa",
+    "population": 44919,
+    "priority": 1
+  },
+  {
+    "name": "Biloxi",
+    "state": "Mississippi",
+    "slug": "biloxi-ms",
+    "population": 44820,
+    "priority": 1
+  },
+  {
+    "name": "Strongsville",
+    "state": "Ohio",
+    "slug": "strongsville-oh",
+    "population": 44730,
+    "priority": 1
+  },
+  {
+    "name": "Barnstable Town",
+    "state": "Massachusetts",
+    "slug": "barnstable-town-ma",
+    "population": 44641,
+    "priority": 1
+  },
+  {
+    "name": "Wylie",
+    "state": "Texas",
+    "slug": "wylie-tx",
+    "population": 44575,
+    "priority": 1
+  },
+  {
+    "name": "Sayreville",
+    "state": "New Jersey",
+    "slug": "sayreville-nj",
+    "population": 44412,
+    "priority": 1
+  },
+  {
+    "name": "Kannapolis",
+    "state": "North Carolina",
+    "slug": "kannapolis-nc",
+    "population": 44359,
+    "priority": 1
+  },
+  {
+    "name": "Charlottesville",
+    "state": "Virginia",
+    "slug": "charlottesville-va",
+    "population": 44349,
+    "priority": 1
+  },
+  {
+    "name": "Littleton",
+    "state": "Colorado",
+    "slug": "littleton-co",
+    "population": 44275,
+    "priority": 1
+  },
+  {
+    "name": "Titusville",
+    "state": "Florida",
+    "slug": "titusville-fl",
+    "population": 44206,
+    "priority": 1
+  },
+  {
+    "name": "Hackensack",
+    "state": "New Jersey",
+    "slug": "hackensack-nj",
+    "population": 44113,
+    "priority": 1
+  },
+  {
+    "name": "Newark",
+    "state": "California",
+    "slug": "newark-ca",
+    "population": 44096,
+    "priority": 1
+  },
+  {
+    "name": "Pittsfield",
+    "state": "Massachusetts",
+    "slug": "pittsfield-ma",
+    "population": 44057,
+    "priority": 1
+  },
+  {
+    "name": "York",
+    "state": "Pennsylvania",
+    "slug": "york-pa",
+    "population": 43935,
+    "priority": 1
+  },
+  {
+    "name": "Lombard",
+    "state": "Illinois",
+    "slug": "lombard-il",
+    "population": 43907,
+    "priority": 1
+  },
+  {
+    "name": "Attleboro",
+    "state": "Massachusetts",
+    "slug": "attleboro-ma",
+    "population": 43886,
+    "priority": 1
+  },
+  {
+    "name": "DeKalb",
+    "state": "Illinois",
+    "slug": "dekalb-il",
+    "population": 43849,
+    "priority": 1
+  },
+  {
+    "name": "Blacksburg",
+    "state": "Virginia",
+    "slug": "blacksburg-va",
+    "population": 43609,
+    "priority": 1
+  },
+  {
+    "name": "Dublin",
+    "state": "Ohio",
+    "slug": "dublin-oh",
+    "population": 43607,
+    "priority": 1
+  },
+  {
+    "name": "Haltom City",
+    "state": "Texas",
+    "slug": "haltom-city-tx",
+    "population": 43580,
+    "priority": 1
+  },
+  {
+    "name": "Lompoc",
+    "state": "California",
+    "slug": "lompoc-ca",
+    "population": 43509,
+    "priority": 1
+  },
+  {
+    "name": "El Centro",
+    "state": "California",
+    "slug": "el-centro-ca",
+    "population": 43363,
+    "priority": 1
+  },
+  {
+    "name": "Danville",
+    "state": "California",
+    "slug": "danville-ca",
+    "population": 43341,
+    "priority": 1
+  },
+  {
+    "name": "Jefferson City",
+    "state": "Missouri",
+    "slug": "jefferson-city-mo",
+    "population": 43330,
+    "priority": 1
+  },
+  {
+    "name": "Cutler Bay",
+    "state": "Florida",
+    "slug": "cutler-bay-fl",
+    "population": 43328,
+    "priority": 1
+  },
+  {
+    "name": "Oakland Park",
+    "state": "Florida",
+    "slug": "oakland-park-fl",
+    "population": 43286,
+    "priority": 1
+  },
+  {
+    "name": "North Miami Beach",
+    "state": "Florida",
+    "slug": "north-miami-beach-fl",
+    "population": 43250,
+    "priority": 1
+  },
+  {
+    "name": "Freeport",
+    "state": "New York",
+    "slug": "freeport-ny",
+    "population": 43167,
+    "priority": 1
+  },
+  {
+    "name": "Moline",
+    "state": "Illinois",
+    "slug": "moline-il",
+    "population": 43116,
+    "priority": 1
+  },
+  {
+    "name": "Coachella",
+    "state": "California",
+    "slug": "coachella-ca",
+    "population": 43092,
+    "priority": 1
+  },
+  {
+    "name": "Fort Pierce",
+    "state": "Florida",
+    "slug": "fort-pierce-fl",
+    "population": 43074,
+    "priority": 1
+  },
+  {
+    "name": "Smyrna",
+    "state": "Tennessee",
+    "slug": "smyrna-tn",
+    "population": 43060,
+    "priority": 1
+  },
+  {
+    "name": "Bountiful",
+    "state": "Utah",
+    "slug": "bountiful-ut",
+    "population": 43023,
+    "priority": 1
+  },
+  {
+    "name": "Fond du Lac",
+    "state": "Wisconsin",
+    "slug": "fond-du-lac-wi",
+    "population": 42970,
+    "priority": 1
+  },
+  {
+    "name": "Everett",
+    "state": "Massachusetts",
+    "slug": "everett-ma",
+    "population": 42935,
+    "priority": 1
+  },
+  {
+    "name": "Danville",
+    "state": "Virginia",
+    "slug": "danville-va",
+    "population": 42907,
+    "priority": 1
+  },
+  {
+    "name": "Keller",
+    "state": "Texas",
+    "slug": "keller-tx",
+    "population": 42907,
+    "priority": 1
+  },
+  {
+    "name": "Belleville",
+    "state": "Illinois",
+    "slug": "belleville-il",
+    "population": 42895,
+    "priority": 1
+  },
+  {
+    "name": "Bell Gardens",
+    "state": "California",
+    "slug": "bell-gardens-ca",
+    "population": 42889,
+    "priority": 1
+  },
+  {
+    "name": "Cleveland",
+    "state": "Tennessee",
+    "slug": "cleveland-tn",
+    "population": 42774,
+    "priority": 1
+  },
+  {
+    "name": "North Lauderdale",
+    "state": "Florida",
+    "slug": "north-lauderdale-fl",
+    "population": 42757,
+    "priority": 1
+  },
+  {
+    "name": "Fairfield",
+    "state": "Ohio",
+    "slug": "fairfield-oh",
+    "population": 42635,
+    "priority": 1
+  },
+  {
+    "name": "Salem",
+    "state": "Massachusetts",
+    "slug": "salem-ma",
+    "population": 42544,
+    "priority": 1
+  },
+  {
+    "name": "Rancho Palos Verdes",
+    "state": "California",
+    "slug": "rancho-palos-verdes-ca",
+    "population": 42448,
+    "priority": 1
+  },
+  {
+    "name": "San Bruno",
+    "state": "California",
+    "slug": "san-bruno-ca",
+    "population": 42443,
+    "priority": 1
+  },
+  {
+    "name": "Concord",
+    "state": "New Hampshire",
+    "slug": "concord-nh",
+    "population": 42419,
+    "priority": 1
+  },
+  {
+    "name": "Burlington",
+    "state": "Vermont",
+    "slug": "burlington-vt",
+    "population": 42284,
+    "priority": 1
+  },
+  {
+    "name": "Apex",
+    "state": "North Carolina",
+    "slug": "apex-nc",
+    "population": 42214,
+    "priority": 1
+  },
+  {
+    "name": "Midland",
+    "state": "Michigan",
+    "slug": "midland-mi",
+    "population": 42181,
+    "priority": 1
+  },
+  {
+    "name": "Altamonte Springs",
+    "state": "Florida",
+    "slug": "altamonte-springs-fl",
+    "population": 42150,
+    "priority": 1
+  },
+  {
+    "name": "Hutchinson",
+    "state": "Kansas",
+    "slug": "hutchinson-ks",
+    "population": 41889,
+    "priority": 1
+  },
+  {
+    "name": "Buffalo Grove",
+    "state": "Illinois",
+    "slug": "buffalo-grove-il",
+    "population": 41778,
+    "priority": 1
+  },
+  {
+    "name": "Urbandale",
+    "state": "Iowa",
+    "slug": "urbandale-ia",
+    "population": 41776,
+    "priority": 1
+  },
+  {
+    "name": "State College",
+    "state": "Pennsylvania",
+    "slug": "state-college-pa",
+    "population": 41757,
+    "priority": 1
+  },
+  {
+    "name": "Urbana",
+    "state": "Illinois",
+    "slug": "urbana-il",
+    "population": 41752,
+    "priority": 1
+  },
+  {
+    "name": "Plainfield",
+    "state": "Illinois",
+    "slug": "plainfield-il",
+    "population": 41734,
+    "priority": 1
+  },
+  {
+    "name": "Manassas",
+    "state": "Virginia",
+    "slug": "manassas-va",
+    "population": 41705,
+    "priority": 1
+  },
+  {
+    "name": "Bartlett",
+    "state": "Illinois",
+    "slug": "bartlett-il",
+    "population": 41679,
+    "priority": 1
+  },
+  {
+    "name": "Kearny",
+    "state": "New Jersey",
+    "slug": "kearny-nj",
+    "population": 41664,
+    "priority": 1
+  },
+  {
+    "name": "Oro Valley",
+    "state": "Arizona",
+    "slug": "oro-valley-az",
+    "population": 41627,
+    "priority": 1
+  },
+  {
+    "name": "Findlay",
+    "state": "Ohio",
+    "slug": "findlay-oh",
+    "population": 41512,
+    "priority": 1
+  },
+  {
+    "name": "Rohnert Park",
+    "state": "California",
+    "slug": "rohnert-park-ca",
+    "population": 41398,
+    "priority": 1
+  },
+  {
+    "name": "Westfield",
+    "state": "Massachusetts",
+    "slug": "westfield-ma",
+    "population": 41301,
+    "priority": 1
+  },
+  {
+    "name": "Linden",
+    "state": "New Jersey",
+    "slug": "linden-nj",
+    "population": 41301,
+    "priority": 1
+  },
+  {
+    "name": "Sumter",
+    "state": "South Carolina",
+    "slug": "sumter-sc",
+    "population": 41190,
+    "priority": 1
+  },
+  {
+    "name": "Wilkes-Barre",
+    "state": "Pennsylvania",
+    "slug": "wilkes-barre-pa",
+    "population": 41108,
+    "priority": 1
+  },
+  {
+    "name": "Woonsocket",
+    "state": "Rhode Island",
+    "slug": "woonsocket-ri",
+    "population": 41026,
+    "priority": 1
+  },
+  {
+    "name": "Leominster",
+    "state": "Massachusetts",
+    "slug": "leominster-ma",
+    "population": 41002,
+    "priority": 1
+  },
+  {
+    "name": "Shelton",
+    "state": "Connecticut",
+    "slug": "shelton-ct",
+    "population": 40999,
+    "priority": 1
+  },
+  {
+    "name": "Brea",
+    "state": "California",
+    "slug": "brea-ca",
+    "population": 40963,
+    "priority": 1
+  },
+  {
+    "name": "Covington",
+    "state": "Kentucky",
+    "slug": "covington-ky",
+    "population": 40956,
+    "priority": 1
+  },
+  {
+    "name": "Rockwall",
+    "state": "Texas",
+    "slug": "rockwall-tx",
+    "population": 40922,
+    "priority": 1
+  },
+  {
+    "name": "Meridian",
+    "state": "Mississippi",
+    "slug": "meridian-ms",
+    "population": 40921,
+    "priority": 1
+  },
+  {
+    "name": "Riverton",
+    "state": "Utah",
+    "slug": "riverton-ut",
+    "population": 40921,
+    "priority": 1
+  },
+  {
+    "name": "St. Cloud",
+    "state": "Florida",
+    "slug": "st-cloud-fl",
+    "population": 40918,
+    "priority": 1
+  },
+  {
+    "name": "Quincy",
+    "state": "Illinois",
+    "slug": "quincy-il",
+    "population": 40915,
+    "priority": 1
+  },
+  {
+    "name": "Morgan Hill",
+    "state": "California",
+    "slug": "morgan-hill-ca",
+    "population": 40836,
+    "priority": 1
+  },
+  {
+    "name": "Warren",
+    "state": "Ohio",
+    "slug": "warren-oh",
+    "population": 40768,
+    "priority": 1
+  },
+  {
+    "name": "Edmonds",
+    "state": "Washington",
+    "slug": "edmonds-wa",
+    "population": 40727,
+    "priority": 1
+  },
+  {
+    "name": "Burleson",
+    "state": "Texas",
+    "slug": "burleson-tx",
+    "population": 40714,
+    "priority": 1
+  },
+  {
+    "name": "Beverly",
+    "state": "Massachusetts",
+    "slug": "beverly-ma",
+    "population": 40664,
+    "priority": 1
+  },
+  {
+    "name": "Mankato",
+    "state": "Minnesota",
+    "slug": "mankato-mn",
+    "population": 40641,
+    "priority": 1
+  },
+  {
+    "name": "Hagerstown",
+    "state": "Maryland",
+    "slug": "hagerstown-md",
+    "population": 40612,
+    "priority": 1
+  },
+  {
+    "name": "Prescott",
+    "state": "Arizona",
+    "slug": "prescott-az",
+    "population": 40590,
+    "priority": 1
+  },
+  {
+    "name": "Campbell",
+    "state": "California",
+    "slug": "campbell-ca",
+    "population": 40584,
+    "priority": 1
+  },
+  {
+    "name": "Cedar Falls",
+    "state": "Iowa",
+    "slug": "cedar-falls-ia",
+    "population": 40566,
+    "priority": 1
+  },
+  {
+    "name": "Beaumont",
+    "state": "California",
+    "slug": "beaumont-ca",
+    "population": 40481,
+    "priority": 1
+  },
+  {
+    "name": "La Puente",
+    "state": "California",
+    "slug": "la-puente-ca",
+    "population": 40435,
+    "priority": 1
+  },
+  {
+    "name": "Crystal Lake",
+    "state": "Illinois",
+    "slug": "crystal-lake-il",
+    "population": 40388,
+    "priority": 1
+  },
+  {
+    "name": "Fitchburg",
+    "state": "Massachusetts",
+    "slug": "fitchburg-ma",
+    "population": 40383,
+    "priority": 1
+  },
+  {
+    "name": "Carol Stream",
+    "state": "Illinois",
+    "slug": "carol-stream-il",
+    "population": 40379,
+    "priority": 1
+  },
+  {
+    "name": "Hickory",
+    "state": "North Carolina",
+    "slug": "hickory-nc",
+    "population": 40361,
+    "priority": 1
+  },
+  {
+    "name": "Streamwood",
+    "state": "Illinois",
+    "slug": "streamwood-il",
+    "population": 40351,
+    "priority": 1
+  },
+  {
+    "name": "Norwich",
+    "state": "Connecticut",
+    "slug": "norwich-ct",
+    "population": 40347,
+    "priority": 1
+  },
+  {
+    "name": "Coppell",
+    "state": "Texas",
+    "slug": "coppell-tx",
+    "population": 40342,
+    "priority": 1
+  },
+  {
+    "name": "San Gabriel",
+    "state": "California",
+    "slug": "san-gabriel-ca",
+    "population": 40275,
+    "priority": 1
+  },
+  {
+    "name": "Holyoke",
+    "state": "Massachusetts",
+    "slug": "holyoke-ma",
+    "population": 40249,
+    "priority": 1
+  },
+  {
+    "name": "Bentonville",
+    "state": "Arkansas",
+    "slug": "bentonville-ar",
+    "population": 40167,
+    "priority": 1
+  },
+  {
+    "name": "Florence",
+    "state": "Alabama",
+    "slug": "florence-al",
+    "population": 40059,
+    "priority": 1
+  },
+  {
+    "name": "Peachtree Corners",
+    "state": "Georgia",
+    "slug": "peachtree-corners-ga",
+    "population": 40059,
+    "priority": 1
+  },
+  {
+    "name": "Brentwood",
+    "state": "Tennessee",
+    "slug": "brentwood-tn",
+    "population": 40021,
+    "priority": 1
+  },
+  {
+    "name": "Bozeman",
+    "state": "Montana",
+    "slug": "bozeman-mt",
+    "population": 39860,
+    "priority": 1
+  },
+  {
+    "name": "New Berlin",
+    "state": "Wisconsin",
+    "slug": "new-berlin-wi",
+    "population": 39834,
+    "priority": 1
+  },
+  {
+    "name": "Goose Creek",
+    "state": "South Carolina",
+    "slug": "goose-creek-sc",
+    "population": 39823,
+    "priority": 1
+  },
+  {
+    "name": "Huntsville",
+    "state": "Texas",
+    "slug": "huntsville-tx",
+    "population": 39795,
+    "priority": 1
+  },
+  {
+    "name": "Prescott Valley",
+    "state": "Arizona",
+    "slug": "prescott-valley-az",
+    "population": 39791,
+    "priority": 1
+  },
+  {
+    "name": "Maplewood",
+    "state": "Minnesota",
+    "slug": "maplewood-mn",
+    "population": 39765,
+    "priority": 1
+  },
+  {
+    "name": "Romeoville",
+    "state": "Illinois",
+    "slug": "romeoville-il",
+    "population": 39650,
+    "priority": 1
+  },
+  {
+    "name": "Duncanville",
+    "state": "Texas",
+    "slug": "duncanville-tx",
+    "population": 39605,
+    "priority": 1
+  },
+  {
+    "name": "Atlantic City",
+    "state": "New Jersey",
+    "slug": "atlantic-city-nj",
+    "population": 39551,
+    "priority": 1
+  },
+  {
+    "name": "Clovis",
+    "state": "New Mexico",
+    "slug": "clovis-nm",
+    "population": 39508,
+    "priority": 1
+  },
+  {
+    "name": "The Colony",
+    "state": "Texas",
+    "slug": "the-colony-tx",
+    "population": 39458,
+    "priority": 1
+  },
+  {
+    "name": "Culver City",
+    "state": "California",
+    "slug": "culver-city-ca",
+    "population": 39428,
+    "priority": 1
+  },
+  {
+    "name": "Marlborough",
+    "state": "Massachusetts",
+    "slug": "marlborough-ma",
+    "population": 39414,
+    "priority": 1
+  },
+  {
+    "name": "Hilton Head Island",
+    "state": "South Carolina",
+    "slug": "hilton-head-island-sc",
+    "population": 39412,
+    "priority": 1
+  },
+  {
+    "name": "Moorhead",
+    "state": "Minnesota",
+    "slug": "moorhead-mn",
+    "population": 39398,
+    "priority": 1
+  },
+  {
+    "name": "Calexico",
+    "state": "California",
+    "slug": "calexico-ca",
+    "population": 39389,
+    "priority": 1
+  },
+  {
+    "name": "Bullhead City",
+    "state": "Arizona",
+    "slug": "bullhead-city-az",
+    "population": 39383,
+    "priority": 1
+  },
+  {
+    "name": "Germantown",
+    "state": "Tennessee",
+    "slug": "germantown-tn",
+    "population": 39375,
+    "priority": 1
+  },
+  {
+    "name": "La Quinta",
+    "state": "California",
+    "slug": "la-quinta-ca",
+    "population": 39331,
+    "priority": 1
+  },
+  {
+    "name": "Lancaster",
+    "state": "Ohio",
+    "slug": "lancaster-oh",
+    "population": 39325,
+    "priority": 1
+  },
+  {
+    "name": "Wausau",
+    "state": "Wisconsin",
+    "slug": "wausau-wi",
+    "population": 39309,
+    "priority": 1
+  },
+  {
+    "name": "Sherman",
+    "state": "Texas",
+    "slug": "sherman-tx",
+    "population": 39296,
+    "priority": 1
+  },
+  {
+    "name": "Ocoee",
+    "state": "Florida",
+    "slug": "ocoee-fl",
+    "population": 39172,
+    "priority": 1
+  },
+  {
+    "name": "Shakopee",
+    "state": "Minnesota",
+    "slug": "shakopee-mn",
+    "population": 39167,
+    "priority": 1
+  },
+  {
+    "name": "Woburn",
+    "state": "Massachusetts",
+    "slug": "woburn-ma",
+    "population": 39083,
+    "priority": 1
+  },
+  {
+    "name": "Bremerton",
+    "state": "Washington",
+    "slug": "bremerton-wa",
+    "population": 39056,
+    "priority": 1
+  },
+  {
+    "name": "Rock Island",
+    "state": "Illinois",
+    "slug": "rock-island-il",
+    "population": 38877,
+    "priority": 1
+  },
+  {
+    "name": "Muskogee",
+    "state": "Oklahoma",
+    "slug": "muskogee-ok",
+    "population": 38863,
+    "priority": 1
+  },
+  {
+    "name": "Cape Girardeau",
+    "state": "Missouri",
+    "slug": "cape-girardeau-mo",
+    "population": 38816,
+    "priority": 1
+  },
+  {
+    "name": "Annapolis",
+    "state": "Maryland",
+    "slug": "annapolis-md",
+    "population": 38722,
+    "priority": 1
+  },
+  {
+    "name": "Greenacres",
+    "state": "Florida",
+    "slug": "greenacres-fl",
+    "population": 38696,
+    "priority": 1
+  },
+  {
+    "name": "Ormond Beach",
+    "state": "Florida",
+    "slug": "ormond-beach-fl",
+    "population": 38661,
+    "priority": 1
+  },
+  {
+    "name": "Hallandale Beach",
+    "state": "Florida",
+    "slug": "hallandale-beach-fl",
+    "population": 38632,
+    "priority": 1
+  },
+  {
+    "name": "Stanton",
+    "state": "California",
+    "slug": "stanton-ca",
+    "population": 38623,
+    "priority": 1
+  },
+  {
+    "name": "Puyallup",
+    "state": "Washington",
+    "slug": "puyallup-wa",
+    "population": 38609,
+    "priority": 1
+  },
+  {
+    "name": "Pacifica",
+    "state": "California",
+    "slug": "pacifica-ca",
+    "population": 38606,
+    "priority": 1
+  },
+  {
+    "name": "Hanover Park",
+    "state": "Illinois",
+    "slug": "hanover-park-il",
+    "population": 38510,
+    "priority": 1
+  },
+  {
+    "name": "Hurst",
+    "state": "Texas",
+    "slug": "hurst-tx",
+    "population": 38448,
+    "priority": 1
+  },
+  {
+    "name": "Lima",
+    "state": "Ohio",
+    "slug": "lima-oh",
+    "population": 38355,
+    "priority": 1
+  },
+  {
+    "name": "Marana",
+    "state": "Arizona",
+    "slug": "marana-az",
+    "population": 38290,
+    "priority": 1
+  },
+  {
+    "name": "Carpentersville",
+    "state": "Illinois",
+    "slug": "carpentersville-il",
+    "population": 38241,
+    "priority": 1
+  },
+  {
+    "name": "Oakley",
+    "state": "California",
+    "slug": "oakley-ca",
+    "population": 38194,
+    "priority": 1
+  },
+  {
+    "name": "Huber Heights",
+    "state": "Ohio",
+    "slug": "huber-heights-oh",
+    "population": 38142,
+    "priority": 1
+  },
+  {
+    "name": "Lancaster",
+    "state": "Texas",
+    "slug": "lancaster-tx",
+    "population": 38071,
+    "priority": 1
+  },
+  {
+    "name": "Montclair",
+    "state": "California",
+    "slug": "montclair-ca",
+    "population": 38027,
+    "priority": 1
+  },
+  {
+    "name": "Wheeling",
+    "state": "Illinois",
+    "slug": "wheeling-il",
+    "population": 38015,
+    "priority": 1
+  },
+  {
+    "name": "Brookfield",
+    "state": "Wisconsin",
+    "slug": "brookfield-wi",
+    "population": 37999,
+    "priority": 1
+  },
+  {
+    "name": "Park Ridge",
+    "state": "Illinois",
+    "slug": "park-ridge-il",
+    "population": 37839,
+    "priority": 1
+  },
+  {
+    "name": "Florence",
+    "state": "South Carolina",
+    "slug": "florence-sc",
+    "population": 37792,
+    "priority": 1
+  },
+  {
+    "name": "Roy",
+    "state": "Utah",
+    "slug": "roy-ut",
+    "population": 37733,
+    "priority": 1
+  },
+  {
+    "name": "Winter Garden",
+    "state": "Florida",
+    "slug": "winter-garden-fl",
+    "population": 37711,
+    "priority": 1
+  },
+  {
+    "name": "Chelsea",
+    "state": "Massachusetts",
+    "slug": "chelsea-ma",
+    "population": 37670,
+    "priority": 1
+  },
+  {
+    "name": "Valley Stream",
+    "state": "New York",
+    "slug": "valley-stream-ny",
+    "population": 37659,
+    "priority": 1
+  },
+  {
+    "name": "Spartanburg",
+    "state": "South Carolina",
+    "slug": "spartanburg-sc",
+    "population": 37647,
+    "priority": 1
+  },
+  {
+    "name": "Lake Oswego",
+    "state": "Oregon",
+    "slug": "lake-oswego-or",
+    "population": 37610,
+    "priority": 1
+  },
+  {
+    "name": "Friendswood",
+    "state": "Texas",
+    "slug": "friendswood-tx",
+    "population": 37587,
+    "priority": 1
+  },
+  {
+    "name": "Westerville",
+    "state": "Ohio",
+    "slug": "westerville-oh",
+    "population": 37530,
+    "priority": 1
+  },
+  {
+    "name": "Northglenn",
+    "state": "Colorado",
+    "slug": "northglenn-co",
+    "population": 37499,
+    "priority": 1
+  },
+  {
+    "name": "Phenix City",
+    "state": "Alabama",
+    "slug": "phenix-city-al",
+    "population": 37498,
+    "priority": 1
+  },
+  {
+    "name": "Grove City",
+    "state": "Ohio",
+    "slug": "grove-city-oh",
+    "population": 37490,
+    "priority": 1
+  },
+  {
+    "name": "Texarkana",
+    "state": "Texas",
+    "slug": "texarkana-tx",
+    "population": 37442,
+    "priority": 1
+  },
+  {
+    "name": "Addison",
+    "state": "Illinois",
+    "slug": "addison-il",
+    "population": 37385,
+    "priority": 1
+  },
+  {
+    "name": "Dover",
+    "state": "Delaware",
+    "slug": "dover-de",
+    "population": 37366,
+    "priority": 1
+  },
+  {
+    "name": "Lincoln Park",
+    "state": "Michigan",
+    "slug": "lincoln-park-mi",
+    "population": 37313,
+    "priority": 1
+  },
+  {
+    "name": "Calumet City",
+    "state": "Illinois",
+    "slug": "calumet-city-il",
+    "population": 37240,
+    "priority": 1
+  },
+  {
+    "name": "Muskegon",
+    "state": "Michigan",
+    "slug": "muskegon-mi",
+    "population": 37213,
+    "priority": 1
+  },
+  {
+    "name": "Aventura",
+    "state": "Florida",
+    "slug": "aventura-fl",
+    "population": 37199,
+    "priority": 1
+  },
+  {
+    "name": "Martinez",
+    "state": "California",
+    "slug": "martinez-ca",
+    "population": 37165,
+    "priority": 1
+  },
+  {
+    "name": "Greenfield",
+    "state": "Wisconsin",
+    "slug": "greenfield-wi",
+    "population": 37159,
+    "priority": 1
+  },
+  {
+    "name": "Apache Junction",
+    "state": "Arizona",
+    "slug": "apache-junction-az",
+    "population": 37130,
+    "priority": 1
+  },
+  {
+    "name": "Monrovia",
+    "state": "California",
+    "slug": "monrovia-ca",
+    "population": 37101,
+    "priority": 1
+  },
+  {
+    "name": "Weslaco",
+    "state": "Texas",
+    "slug": "weslaco-tx",
+    "population": 37093,
+    "priority": 1
+  },
+  {
+    "name": "Keizer",
+    "state": "Oregon",
+    "slug": "keizer-or",
+    "population": 37064,
+    "priority": 1
+  },
+  {
+    "name": "Spanish Fork",
+    "state": "Utah",
+    "slug": "spanish-fork-ut",
+    "population": 36956,
+    "priority": 1
+  },
+  {
+    "name": "Beloit",
+    "state": "Wisconsin",
+    "slug": "beloit-wi",
+    "population": 36888,
+    "priority": 1
+  },
+  {
+    "name": "Panama City",
+    "state": "Florida",
+    "slug": "panama-city-fl",
+    "population": 36877,
     "priority": 1
   }
-] 
+]
