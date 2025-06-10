@@ -143,12 +143,14 @@
         <h2>Top 5 Financial Advisors in {{cityName}}</h2>
         <div class="advisors__list">
           {{#advisors}}
-          <a href="#" class="advisor-card">
+          <a href="{{url}}" target="_blank" class="advisor-card">
             <div class="advisor-card__info">
               <div class="advisor-card__header">
                 <div class="advisor-card__name">{{name}}</div>
                 <div class="advisor-card__rating">
-                  <span class="advisor-card__stars">★★★★★</span>
+                  {{#stars}}
+                  <span class="advisor-card__stars">★</span>
+                  {{/stars}}
                   <span class="advisor-card__rating-value">{{rating}}</span>
                 </div>
               </div>

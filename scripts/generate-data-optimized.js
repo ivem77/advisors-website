@@ -3,8 +3,8 @@ const { generateAllCityContent, validateDataStructure, RATE_LIMIT_DELAY } = requ
 
 function getNearbyLocations(state) {
   const locationList = fs.readJsonSync('./data/cities.json');
-  const stateCities = locationList.filter(location => location.state === state);
-  return stateCities.slice(0, 8);
+  const stateCitiesByPopulationDesc = locationList.filter(location => location.state === state).sort((a, b) => b.population - a.population);
+  return stateCitiesByPopulationDesc.slice(0, 8);
 }
 
 async function generateCityDataOptimized(city) {
@@ -20,7 +20,7 @@ async function generateCityDataOptimized(city) {
     console.log('🔍 Validating data consistency...');
     
     // Validate that we got all required data
-    if (!allContent.advisors || !allContent.stats || !allContent.landscape || !allContent.insights) {
+    if (!allContent.landscape || !allContent.insights) {
       throw new Error('Missing required data sections from API response');
     }
     
@@ -83,7 +83,7 @@ async function generateAllCityDataOptimized() {
   }
   
   try {
-    const cities = await fs.readJson('./data/cities.json');
+    const cities = (await fs.readJson('./data/cities.json')).filter(c => c.state === 'California');
     console.log(`📋 Found ${cities.length} cities to process`);
     console.log(`💰 Estimated cost reduction: ${cities.length * 3} fewer API calls vs original method\n`);
     

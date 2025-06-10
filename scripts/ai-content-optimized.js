@@ -1,5 +1,6 @@
 require('dotenv').config();
 const OpenAI = require('openai');
+const getAdvisors = require('./advisor-fetcher');
 
 // Initialize OpenAI client
 const openai = new OpenAI({
@@ -57,7 +58,7 @@ async function generateAllCityContent(cityName, state, population) {
   console.log(`🤖 Generating ALL content for ${cityName}, ${state} in single API call...`);
   
   // Condensed prompt that generates everything at once
-  const prompt = `Generate complete financial advisor data for ${cityName}, ${state} in a single response.
+  const prompt = `Generate complete landscape data for ${cityName}, ${state} in a single response.
 
 REQUIREMENTS:
 - Generate high-quality, structured JSON response
@@ -89,50 +90,11 @@ POPULATION FORMATTING REQUIREMENTS:
 
 Return ONLY this JSON structure:
 {
-  "advisors": [
-    {
-      "name": "Full Name",
-      "firm": "Major Firm",
-      "rating": "4.8",
-      "specializations": ["Retirement Planning", "Tax Planning"],
-      "bio": "Brief 40-word professional bio"
-    },
-    {
-      "name": "Second Name",
-      "firm": "Another Major Firm", 
-      "rating": "4.7",
-      "specializations": ["Wealth Management", "Investment Strategies"],
-      "bio": "Another brief professional bio"
-    },
-    {
-      "name": "Third Name",
-      "firm": "Third Major Firm",
-      "rating": "4.9", 
-      "specializations": ["Estate Planning", "Portfolio Management"],
-      "bio": "Third brief professional bio"
-    },
-    {
-      "name": "Fourth Name",
-      "firm": "Fourth Major Firm",
-      "rating": "4.6",
-      "specializations": ["Financial Planning", "Risk Management"], 
-      "bio": "Fourth brief professional bio"
-    },
-    {
-      "name": "Fifth Name",
-      "firm": "Fifth Major Firm",
-      "rating": "4.8",
-      "specializations": ["Tax Planning", "Retirement Planning"],
-      "bio": "Fifth brief professional bio"
-    }
-  ],
   "stats": {
     "registeredAdvisors": "1,200+",
-    "averagePortfolio": "$1.1M", 
-    "averageAumFee": "0.95%",
     "averageRating": "4.6/5.0"
-  },
-  "landscape": {
+  },  
+"landscape": {
     "heroDescription": "Brief description",
     "landscapeDescription": "2-sentence economic overview",
     "majorIndustries": "Industry1, Industry2, Industry3",
@@ -207,7 +169,7 @@ Return ONLY this JSON structure:
       const allData = JSON.parse(jsonStr);
       
       // Validate structure
-      if (!allData.advisors || !allData.stats || !allData.landscape || !allData.insights) {
+      if (!allData.landscape || !allData.insights) {
         throw new Error('Missing required data sections');
       }
       
@@ -250,11 +212,38 @@ Return ONLY this JSON structure:
           }
         }
       }
-      
+
+      console.log(`🤖 Fetching advisors for ${cityName}, ${state}...`);
+      allData.advisors = await getAdvisors(cityName, state);
+      console.log(`✅ Advisors fetched for ${cityName}, ${state}`);
+
+      const numberOfAdvisorsEstimate = Math.max(
+        Math.floor(population / 1000),
+        allData.advisors.length
+      );
+
+      // Format number with commas
+      const formatNumber = (num) => num.toLocaleString();
+
+      const roundedEstimate =
+        numberOfAdvisorsEstimate > 1000
+          ? Math.floor(numberOfAdvisorsEstimate / 100) * 100
+          : Math.floor(numberOfAdvisorsEstimate / 10) * 10;
+
+      const prettyNumberOfAdvisorsEstimate = `${formatNumber(roundedEstimate)}+`;
+      console.log("Setting number of advisors: " + prettyNumberOfAdvisorsEstimate);
+      allData.stats.registeredAdvisors = prettyNumberOfAdvisorsEstimate;
+
+
+      const averageAdvisorRating = allData.advisors.reduce((acc, advisor) => acc + advisor.rating, 0) / allData.advisors.length;
+      console.log(" Setting average rating: " + averageAdvisorRating);
+      allData.stats.averageRating = `${averageAdvisorRating.toFixed(1)}/5.0`;
+
       console.log(`✅ Generated all content for ${cityName} in single API call (attempt ${attempt})`);
       return allData;
       
     } catch (error) {
+      console.log(allData);
       console.error(`❌ Attempt ${attempt} failed for ${cityName}:`, error.message);
       
       if (attempt >= MAX_RETRIES) {
@@ -269,37 +258,8 @@ Return ONLY this JSON structure:
   }
 }
 
-// Legacy function wrappers for backward compatibility
-async function generateAdvisors(cityName, state, count = 5) {
-  console.log(`⚠️ Using legacy generateAdvisors - consider using generateAllCityContent for better efficiency`);
-  const allContent = await generateAllCityContent(cityName, state, '1000000');
-  return allContent.advisors.slice(0, count);
-}
-
-async function generateCityStats(cityName, state, population) {
-  console.log(`⚠️ Using legacy generateCityStats - consider using generateAllCityContent for better efficiency`);
-  const allContent = await generateAllCityContent(cityName, state, population);
-  return allContent.stats;
-}
-
-async function generateLandscapeData(cityName, state, population) {
-  console.log(`⚠️ Using legacy generateLandscapeData - consider using generateAllCityContent for better efficiency`);
-  const allContent = await generateAllCityContent(cityName, state, population);
-  return allContent.landscape;
-}
-
-async function generateMarketInsights(cityName, state, medianIncome) {
-  console.log(`⚠️ Using legacy generateMarketInsights - consider using generateAllCityContent for better efficiency`);
-  const allContent = await generateAllCityContent(cityName, state, '1000000');
-  return allContent.insights;
-}
-
 module.exports = {
   generateAllCityContent, // New optimized function
-  generateAdvisors,
-  generateCityStats, 
-  generateLandscapeData,
-  generateMarketInsights,
   validateDataStructure,
   validateCrossCityData,
   rateLimitedApiCall,

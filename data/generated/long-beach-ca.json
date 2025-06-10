@@ -1,0 +1,172 @@
+{
+  "cityName": "Long Beach",
+  "state": "California",
+  "slug": "long-beach-ca",
+  "population": "469K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Long Beach",
+  "metaDescription": "Find top-rated financial advisors in Long Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "TSG Wealth Management - Long Beach",
+      "url": "https://tsgwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Randall Wealth Management Group",
+      "url": "https://www.randallwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael A Shafer, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-shafer?y_source=1_MTEzMzU4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Pearl Financial, Inc",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xEXJMEx3YAR6k9rZvMdxSs",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Scalco Financial",
+      "url": "http://scalcofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "heroDescription": "Long Beach, California, is a vibrant coastal city known for its diverse culture and economic opportunities.",
+  "landscapeDescription": "Long Beach boasts a robust economy driven by trade, healthcare, and tourism. Its strategic port location enhances its status as a key player in international commerce.",
+  "majorIndustries": "Trade, Healthcare, Tourism",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "Long Beach requires tailored financial planning due to its diverse economy and coastal risks.",
+  "citySpecificRiskAdvice": "Long Beach's economy is heavily reliant on trade and tourism, making it vulnerable to global market shifts. The real estate market faces bubble risks due to rising prices and limited inventory. Additionally, the city is prone to natural disasters like earthquakes and flooding, necessitating robus...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Long Beach's economy has shown a steady growth rate of 3.5% annually, driven by increased trade and tourism activities."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Long Beach is approximately $78,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Long Beach are increasingly specializing in real estate and retirement planning due to market dynamics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Long Beach is approximately 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Long Beach has risen to $800,000, indicating a competitive real estate market with limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Long Beach's business climate is favorable, with various incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "460+",
+  "averageRating": "5.0/5.0",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}
