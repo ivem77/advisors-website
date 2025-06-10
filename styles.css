@@ -301,9 +301,6 @@ html, body {
   justify-items: stretch;
   align-items: stretch;
   margin-bottom: 64px;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
 }
 @media (max-width: 600px) {
   .stats__cards {
