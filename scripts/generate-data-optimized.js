@@ -83,7 +83,7 @@ async function generateAllCityDataOptimized() {
   }
   
   try {
-    const cities = (await fs.readJson('./data/cities.json')).filter(c => c.state === 'California');
+    const cities = (await fs.readJson('./data/cities.json'));
     console.log(`📋 Found ${cities.length} cities to process`);
     console.log(`💰 Estimated cost reduction: ${cities.length * 3} fewer API calls vs original method\n`);
     

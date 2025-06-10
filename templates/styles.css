@@ -530,17 +530,12 @@ html, body {
 /* Removed advisor portrait styles */
 .advisor-card__info {
   width: 100%;
-  display: flex;
-  flex-direction: row;
-  gap: 24px;
-  align-items: flex-start;
 }
 .advisor-card__header {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
-  flex: 0 0 25%;
   min-width: 0;
 }
 .advisor-card__name {
@@ -550,7 +545,6 @@ html, body {
 }
 /* Removed advisor firm styles */
 .advisor-card__rating {
-  display: flex;
   align-items: center;
   gap: 8px;
 }
@@ -564,7 +558,6 @@ html, body {
   color: var(--color-black);
 }
 .advisor-card__desc {
-  display: flex;
   flex-direction: column;
   gap: 8px;
   flex: 1;

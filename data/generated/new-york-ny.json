@@ -1,0 +1,172 @@
+{
+  "cityName": "New York",
+  "state": "New York",
+  "slug": "new-york-ny",
+  "population": "8.4M (metro: 19.9M)",
+  "pageTitle": "Best Financial Advisors in New York",
+  "metaDescription": "Find top-rated financial advisors in New York. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Francis Financial, Inc.",
+      "url": "https://francisfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Wealthspire Advisors",
+      "url": "http://www.wealthspire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Park Avenue Financial Advisors",
+      "url": "https://www.parkavenuefinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Christopher Street Financial",
+      "url": "http://www.christopherstreet.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Source Financial Advisors",
+      "url": "https://www.sourcefa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "heroDescription": "New York City, the largest city in the U.S., is a global hub for finance, culture, and innovation.",
+  "landscapeDescription": "In 2023, New York's economy remains robust, driven by finance, technology, and tourism. The city is home to a diverse workforce and a vibrant entrepreneurial ecosystem.",
+  "majorIndustries": "Finance, Technology, Tourism",
+  "medianIncome": "$67,046",
+  "uniqueNeeds": "High demand for affordable housing and diverse job opportunities.",
+  "citySpecificRiskAdvice": "New York's finance sector concentration poses risks; diversify into tech and healthcare. Housing market faces bubble concerns due to high demand and limited supply. Prepare for natural disasters like hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New York's GDP growth is projected at 3.2%, driven by a resurgence in tourism and tech investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in NYC is $67,046, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in NYC are increasingly specializing in tech investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), NYC's cost of living remains high, with housing costs significantly impacting overall expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), NYC's real estate market shows signs of cooling, but prices remain elevated due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), NYC's business climate is competitive, with a focus on innovation and sustainability."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "8,400+",
+  "averageRating": "5.0/5.0",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york-ny",
+      "population": 8405837,
+      "priority": 1
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo-ny",
+      "population": 258959,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester-ny",
+      "population": 210358,
+      "priority": 1
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers-ny",
+      "population": 199766,
+      "priority": 1
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse-ny",
+      "population": 144669,
+      "priority": 1
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany-ny",
+      "population": 98424,
+      "priority": 1
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle-ny",
+      "population": 79446,
+      "priority": 1
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon-ny",
+      "population": 68224,
+      "priority": 1
+    }
+  ]
+}

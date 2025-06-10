@@ -73,13 +73,13 @@ Houston: 2,288,250 population (metro: 7.3M), 26 Fortune 500 companies, major emp
 Austin: 964,177 population (metro: 2.4M), 3 Fortune 500 companies, major employers: Dell, UT, Apple
 
 SPECIFIC RISK MANAGEMENT REQUIREMENTS for citySpecificRiskAdvice field:
-- 200-300 characters of comprehensive, location-specific risk advice
+- 150-250 characters of comprehensive, location-specific risk advice
 - Include specific industry concentration risks (tech, energy, finance)
 - Address real estate/housing market risks and bubble concerns  
 - Mention weather/natural disaster risks (hurricanes, tornadoes, flooding)
 - Include economic diversification recommendations
 - Use real data and specific local factors
-- Examples: "Austin's tech concentration requires diversification beyond growth stocks. Rapid housing appreciation creates bubble risk - consider geographic investment spread. Severe weather including tornadoes demands adequate insurance coverage and 6-month emergency funds."
+- Examples: "Austin's tech concentration requires diversification beyond growth stocks. Rapid housing appreciation creates bubble risk - consider geographic investment spread."
 
 POPULATION FORMATTING REQUIREMENTS:
 - Format as "X.XM (metro: X.XM)" using verified data above
@@ -101,7 +101,7 @@ Return ONLY this JSON structure:
     "population": "1.3M (metro: 7.8M)",
     "medianIncome": "$XX,XXX",
     "uniqueNeeds": "Under 200 chars",
-    "citySpecificRiskAdvice": "200-300 character comprehensive risk advice specific to ${cityName}. Include: industry concentration risks, real estate risks, natural disaster risks, economic risks. Be specific and data-driven."
+    "citySpecificRiskAdvice": "150-200 character comprehensive risk advice specific to ${cityName}. Include: industry concentration risks, real estate risks, natural disaster risks, economic risks. Be specific and data-driven."
   },
   "insights": {
     "insights": [
@@ -192,15 +192,15 @@ Return ONLY this JSON structure:
         }
       }
       
-      if (allData.landscape.citySpecificRiskAdvice.length > 300) {
+      if (allData.landscape.citySpecificRiskAdvice.length > 250) {
         if (attempt < MAX_RETRIES) {
           console.warn(`⚠️ Attempt ${attempt}: Risk advice too long, retrying...`);
           attempt++;
           continue;
         } else {
           // Truncate instead of failing
-          allData.landscape.citySpecificRiskAdvice = allData.landscape.citySpecificRiskAdvice.substring(0, 297) + '...';
-          console.warn(`⚠️ Truncated citySpecificRiskAdvice to fit 300 char limit`);
+          allData.landscape.citySpecificRiskAdvice = allData.landscape.citySpecificRiskAdvice.substring(0, 250) + '...';
+          console.warn(`⚠️ Truncated citySpecificRiskAdvice to fit 250 char limit`);
         }
       }
       
