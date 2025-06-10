@@ -8,53 +8,28 @@
   "advisors": [
     {
       "name": "John Smith",
-      "firm": "Wealth Management Group",
       "rating": "4.8",
-      "specializations": [
-        "Retirement Planning",
-        "Tax Planning"
-      ],
-      "bio": "John has over 15 years of experience in financial advisory, specializing in retirement and tax strategies tailored for high-net-worth individuals."
+      "reviewSummary": "\"John's expertise in energy sector financial planning has been invaluable. His understanding of complex compensation packages and volatile market conditions helped us create a solid financial foundation.\""
     },
     {
       "name": "Emily Johnson",
-      "firm": "Investment Strategies LLC",
       "rating": "4.7",
-      "specializations": [
-        "Wealth Management",
-        "Investment Strategies"
-      ],
-      "bio": "Emily is a seasoned advisor with a focus on wealth management and investment strategies, helping clients achieve their financial goals through tailored solutions."
+      "reviewSummary": "\"Emily's wealth management strategies are perfectly suited for Houston's diverse economy. Her investment approach helped us navigate market fluctuations while building long-term wealth.\""
     },
     {
       "name": "Michael Brown",
-      "firm": "Estate Planning Experts",
       "rating": "4.9",
-      "specializations": [
-        "Estate Planning",
-        "Portfolio Management"
-      ],
-      "bio": "Michael specializes in estate planning and portfolio management, ensuring clients' assets are protected and grow efficiently for future generations."
+      "reviewSummary": "\"Michael's estate planning expertise provided comprehensive protection for our assets. His portfolio management skills have consistently delivered strong returns even during economic uncertainty.\""
     },
     {
       "name": "Sarah Davis",
-      "firm": "Risk Management Advisors",
       "rating": "4.6",
-      "specializations": [
-        "Financial Planning",
-        "Risk Management"
-      ],
-      "bio": "With a strong background in financial planning and risk management, Sarah helps clients navigate complex financial landscapes with confidence."
+      "reviewSummary": "\"Sarah's risk management approach was exactly what we needed in Houston's volatile energy market. Her financial planning strategies helped us prepare for both opportunities and challenges.\""
     },
     {
       "name": "David Wilson",
-      "firm": "Tax Solutions Inc.",
       "rating": "4.8",
-      "specializations": [
-        "Tax Planning",
-        "Retirement Planning"
-      ],
-      "bio": "David is an expert in tax planning and retirement strategies, dedicated to maximizing clients' financial outcomes through informed decision-making."
+      "reviewSummary": "\"David's tax planning expertise saved us significantly on our complex energy industry compensation. His retirement planning strategies are well-suited for Houston professionals.\""
     }
   ],
   "heroDescription": "Houston is a thriving financial hub with diverse economic opportunities.",

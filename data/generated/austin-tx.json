@@ -8,53 +8,28 @@
   "advisors": [
     {
       "name": "John Smith",
-      "firm": "Wealth Management Group",
       "rating": "4.8",
-      "specializations": [
-        "Retirement Planning",
-        "Tax Planning"
-      ],
-      "bio": "John has over 15 years of experience in financial planning, focusing on retirement strategies and tax efficiency for individuals and families."
+      "reviewSummary": "\"John's retirement planning expertise transformed our financial outlook. His personalized approach and deep understanding of tax-efficient strategies helped us maximize our retirement savings while minimizing our tax burden.\""
     },
     {
       "name": "Emily Johnson",
-      "firm": "Investment Solutions LLC",
       "rating": "4.7",
-      "specializations": [
-        "Wealth Management",
-        "Investment Strategies"
-      ],
-      "bio": "Emily specializes in creating tailored investment strategies that align with clients' financial goals and risk tolerance."
+      "reviewSummary": "\"Emily's investment strategies have consistently delivered results. Her ability to align our portfolio with our risk tolerance while pursuing growth has been exceptional. We feel confident about our financial future.\""
     },
     {
       "name": "Michael Brown",
-      "firm": "Legacy Advisors",
       "rating": "4.9",
-      "specializations": [
-        "Estate Planning",
-        "Portfolio Management"
-      ],
-      "bio": "Michael is a certified financial planner dedicated to helping clients manage their estates and optimize portfolio performance."
+      "reviewSummary": "\"Michael's estate planning guidance provided peace of mind for our family. His thorough approach to portfolio management and wealth transfer strategies ensures our legacy is protected for future generations.\""
     },
     {
       "name": "Sarah Davis",
-      "firm": "Financial Freedom Advisors",
       "rating": "4.6",
-      "specializations": [
-        "Financial Planning",
-        "Risk Management"
-      ],
-      "bio": "With a focus on comprehensive financial planning, Sarah helps clients navigate risks and achieve their financial objectives."
+      "reviewSummary": "\"Sarah's comprehensive financial planning approach helped us navigate complex financial decisions. Her expertise in risk management and ongoing support have been invaluable to achieving our financial goals.\""
     },
     {
       "name": "David Wilson",
-      "firm": "Prosperity Partners",
       "rating": "4.8",
-      "specializations": [
-        "Tax Planning",
-        "Retirement Planning"
-      ],
-      "bio": "David combines his expertise in tax planning with retirement strategies to help clients maximize their financial outcomes."
+      "reviewSummary": "\"David's combination of tax planning and retirement strategies saved us thousands annually. His proactive approach and attention to detail make him an exceptional advisor we trust completely.\""
     }
   ],
   "heroDescription": "Austin is a vibrant city known for its tech innovation and cultural diversity.",

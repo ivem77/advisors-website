@@ -8,53 +8,28 @@
   "advisors": [
     {
       "name": "John Smith",
-      "firm": "Wealth Management Group",
       "rating": "4.8",
-      "specializations": [
-        "Retirement Planning",
-        "Tax Planning"
-      ],
-      "bio": "John has over 15 years of experience in financial advising, focusing on retirement and tax strategies for high-net-worth individuals."
+      "reviewSummary": "\"John's expertise in corporate finance and executive compensation planning has been exceptional. His strategies for stock options and deferred compensation perfectly suited our Dallas-based corporate needs.\""
     },
     {
       "name": "Emily Johnson",
-      "firm": "Investment Solutions Inc.",
       "rating": "4.7",
-      "specializations": [
-        "Wealth Management",
-        "Investment Strategies"
-      ],
-      "bio": "Emily specializes in wealth management and investment strategies, helping clients grow and protect their assets for future generations."
+      "reviewSummary": "\"Emily's wealth management approach combines local market knowledge with sophisticated investment strategies. Her understanding of Dallas real estate and business opportunities has enhanced our portfolio significantly.\""
     },
     {
       "name": "Michael Brown",
-      "firm": "Legacy Financial Advisors",
       "rating": "4.9",
-      "specializations": [
-        "Estate Planning",
-        "Portfolio Management"
-      ],
-      "bio": "With a focus on estate planning and portfolio management, Michael offers tailored solutions to ensure financial security for families."
+      "reviewSummary": "\"Michael's estate planning services are comprehensive and forward-thinking. His portfolio management has consistently outperformed benchmarks while managing risk appropriately for our family's needs.\""
     },
     {
       "name": "Sarah Davis",
-      "firm": "Secure Future Advisors",
       "rating": "4.6",
-      "specializations": [
-        "Financial Planning",
-        "Risk Management"
-      ],
-      "bio": "Sarah provides comprehensive financial planning and risk management services, guiding clients through complex financial landscapes."
+      "reviewSummary": "\"Sarah's financial planning expertise helped us navigate Dallas's competitive business environment. Her risk management strategies have protected our assets during economic uncertainty.\""
     },
     {
       "name": "David Wilson",
-      "firm": "Premier Financial Services",
       "rating": "4.8",
-      "specializations": [
-        "Tax Planning",
-        "Retirement Planning"
-      ],
-      "bio": "David is an expert in tax planning and retirement strategies, dedicated to maximizing clients' financial outcomes and minimizing liabilities."
+      "reviewSummary": "\"David's tax planning knowledge, especially with Texas's favorable tax environment, has saved us substantial amounts. His retirement planning strategies are perfectly tailored for Dallas professionals.\""
     }
   ],
   "heroDescription": "Dallas is a thriving financial hub with a diverse economy.",
