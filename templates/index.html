@@ -136,27 +136,20 @@
       <h2>Top 5 Financial Advisors in {{cityName}}</h2>
       <div class="advisors__list">
         {{#advisors}}
-        <div class="advisor-card">
-          <div class="advisor-card__portrait"></div>
+        <a href="#" class="advisor-card">
           <div class="advisor-card__info">
             <div class="advisor-card__header">
               <div class="advisor-card__name">{{name}}</div>
-              <div class="advisor-card__firm">{{firm}}</div>
               <div class="advisor-card__rating">
                 <span class="advisor-card__stars">★★★★★</span>
                 <span class="advisor-card__rating-value">{{rating}}</span>
               </div>
             </div>
             <div class="advisor-card__desc">
-              <div class="advisor-card__specializations">
-                {{#specializations}}
-                <span class="advisor-card__specialization">{{.}}</span>
-                {{/specializations}}
-              </div>
-              <div class="advisor-card__bio">{{bio}}</div>
+              <div class="advisor-card__bio">{{reviewSummary}}</div>
             </div>
           </div>
-        </div>
+        </a>
         {{/advisors}}
         <!-- Mezzi Banner -->
         <div class="advisor-card mezzi-banner">

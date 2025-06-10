@@ -300,7 +300,6 @@ html, body {
   gap: 24px;
   justify-items: stretch;
   align-items: stretch;
-  margin-bottom: 64px;
 }
 @media (max-width: 600px) {
   .stats__cards {
@@ -505,43 +504,50 @@ html, body {
 }
 .advisor-card {
   display: flex;
-  gap: 24px;
   background: var(--color-card);
   border: 1px solid var(--color-card-border);
   border-radius: 20px;
   box-shadow: var(--shadow-card);
   padding: 32px;
   width: auto;
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition);
+  cursor: pointer;
 }
-.advisor-card__portrait {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  background: var(--color-grey);
-  flex-shrink: 0;
+
+.advisor-card:hover,
+.advisor-card:focus {
+  transform: var(--transform-hover);
+  box-shadow: 0 8px 25px rgba(6, 5, 15, 0.15);
+  border-color: var(--color-primary);
 }
+
+.advisor-card:active {
+  transform: translateY(0);
+}
+/* Removed advisor portrait styles */
 .advisor-card__info {
-  flex: 1;
+  width: 100%;
   display: flex;
-  flex-direction: column;
-  gap: 16px;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
 }
 .advisor-card__header {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 2px;
+  gap: 8px;
+  flex: 0 0 25%;
+  min-width: 0;
 }
 .advisor-card__name {
   font-size: 20px;
   font-weight: 700;
   color: var(--color-black);
 }
-.advisor-card__firm {
-  font-size: 15px;
-  font-weight: 500;
-  color: rgba(20,29,57,0.55);
-}
+/* Removed advisor firm styles */
 .advisor-card__rating {
   display: flex;
   align-items: center;
@@ -560,23 +566,12 @@ html, body {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  flex: 1;
+  min-width: 0;
 }
-.advisor-card__specializations {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-.advisor-card__specialization {
-  background: var(--color-special-bg);
-  color: var(--color-special-text);
-  border-radius: var(--radius-sm);
-  padding: 8px 16px;
-  font-size: 15px;
-  font-weight: 500;
-  white-space: nowrap;
-}
+/* Removed advisor specialization styles */
 .advisor-card__bio {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 /* Guidance */
@@ -968,7 +963,17 @@ html, body {
   }
   .advisor-card {
     flex-direction: column;
-    align-items: left;
+    align-items: flex-start;
+  }
+  .advisor-card__info {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .advisor-card__header {
+    flex: none;
+  }
+  .advisor-card__desc {
+    flex: none;
   }
   .footer__content {
     flex-direction: column;
