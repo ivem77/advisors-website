@@ -1,0 +1,164 @@
+{
+  "cityName": "Las Vegas",
+  "state": "Nevada",
+  "slug": "las-vegas-nv",
+  "population": "603K (metro: 2.3M)",
+  "pageTitle": "Best Financial Advisors in Las Vegas",
+  "metaDescription": "Find top-rated financial advisors in Las Vegas. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Arista Wealth Management",
+      "url": "https://aristawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "AIO Fee Only Financial Advisors",
+      "url": "https://aiofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "WestPac® Wealth Partners (Las Vegas)",
+      "url": "https://www.westpacwealth.com/westpac-las-vegas",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Allworth Financial",
+      "url": "https://allworthfinancial.com/find-a-location/las-vegas",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Asset Preservation Wealth & Tax, Financial Advisors",
+      "url": "https://www.apsitaxes.com/location/summerlin-nv?utm_source=google&utm_medium=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Las Vegas is a vibrant city known for its entertainment, tourism, and growing tech sector.",
+  "landscapeDescription": "Las Vegas boasts a diverse economy driven by tourism, hospitality, and emerging tech industries. The city is experiencing growth in population and business investment.",
+  "majorIndustries": "Tourism, Hospitality, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Las Vegas requires tailored financial strategies due to its unique tourism-driven economy and fluctuating housing market.",
+  "citySpecificRiskAdvice": "Las Vegas's heavy reliance on tourism poses economic risks; housing market volatility and potential flooding require diversification in investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Las Vegas has seen a 4% GDP growth, driven by tourism recovery and tech sector expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Las Vegas is approximately $60,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Las Vegas are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Las Vegas is 5% lower than the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Las Vegas housing market is experiencing rapid appreciation, with median home prices rising by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Las Vegas is ranked among the top cities for business growth, particularly in hospitality and tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "600+",
+  "nearbyLocations": [
+    {
+      "name": "Las Vegas",
+      "state": "Nevada",
+      "slug": "las-vegas-nv",
+      "population": 603488,
+      "priority": 1
+    },
+    {
+      "name": "Henderson",
+      "state": "Nevada",
+      "slug": "henderson-nv",
+      "population": 270811,
+      "priority": 1
+    },
+    {
+      "name": "Reno",
+      "state": "Nevada",
+      "slug": "reno-nv",
+      "population": 233294,
+      "priority": 1
+    },
+    {
+      "name": "North Las Vegas",
+      "state": "Nevada",
+      "slug": "north-las-vegas-nv",
+      "population": 226877,
+      "priority": 1
+    },
+    {
+      "name": "Sparks",
+      "state": "Nevada",
+      "slug": "sparks-nv",
+      "population": 93282,
+      "priority": 1
+    },
+    {
+      "name": "Carson City",
+      "state": "Nevada",
+      "slug": "carson-city-nv",
+      "population": 54080,
+      "priority": 1
+    }
+  ]
+}

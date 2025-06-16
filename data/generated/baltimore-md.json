@@ -1,0 +1,171 @@
+{
+  "cityName": "Baltimore",
+  "state": "Maryland",
+  "slug": "baltimore-md",
+  "population": "622K (metro: 2.8M)",
+  "pageTitle": "Best Financial Advisors in Baltimore",
+  "metaDescription": "Find top-rated financial advisors in Baltimore. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Northbrook Financial",
+      "url": "http://northbrookfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 52
+    },
+    {
+      "name": "Abel Financial: Certified Financial Planner Baltimore",
+      "url": "http://www.abel-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/md/baltimore-md",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Brown Capital Management Inc",
+      "url": "http://www.browncapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Towson Wealth Management",
+      "url": "http://www.towsonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Baltimore, Maryland, a historic port city, blends rich culture with a diverse economy.",
+  "landscapeDescription": "Baltimore's economy is driven by healthcare, education, and technology sectors. The city is experiencing growth in biotech and cybersecurity.",
+  "majorIndustries": "Healthcare, Education, Technology",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Baltimore requires investment in tech diversification and affordable housing solutions.",
+  "citySpecificRiskAdvice": "Baltimore's tech sector needs diversification to mitigate risks. Real estate faces affordability challenges and potential bubbles. Flooding is a concern; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Baltimore's GDP growth rate is projected at 3.1%, bolstered by healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Baltimore is $76,000, reflecting economic disparities across neighborhoods."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Baltimore are increasingly specializing in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Baltimore's cost of living is rising, particularly in housing and healthcare, impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Baltimore is $290,000, with a competitive market and increasing demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Baltimore's business climate is improving, with incentives for startups and established firms in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "620+",
+  "nearbyLocations": [
+    {
+      "name": "Baltimore",
+      "state": "Maryland",
+      "slug": "baltimore-md",
+      "population": 622104,
+      "priority": 1
+    },
+    {
+      "name": "Frederick",
+      "state": "Maryland",
+      "slug": "frederick-md",
+      "population": 66893,
+      "priority": 1
+    },
+    {
+      "name": "Gaithersburg",
+      "state": "Maryland",
+      "slug": "gaithersburg-md",
+      "population": 65690,
+      "priority": 1
+    },
+    {
+      "name": "Rockville",
+      "state": "Maryland",
+      "slug": "rockville-md",
+      "population": 64072,
+      "priority": 1
+    },
+    {
+      "name": "Bowie",
+      "state": "Maryland",
+      "slug": "bowie-md",
+      "population": 56759,
+      "priority": 1
+    },
+    {
+      "name": "Hagerstown",
+      "state": "Maryland",
+      "slug": "hagerstown-md",
+      "population": 40612,
+      "priority": 1
+    },
+    {
+      "name": "Annapolis",
+      "state": "Maryland",
+      "slug": "annapolis-md",
+      "population": 38722,
+      "priority": 1
+    }
+  ]
+}

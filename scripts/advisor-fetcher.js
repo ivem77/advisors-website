@@ -5,23 +5,59 @@ const API_KEY = process.env.GOOGLE_API_KEY;
 
 async function getAdvisors(city, state) {
   const query = `financial advisor in ${city}, ${state}`;
-  const res = await fetch(`https://maps.googleapis.com/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${API_KEY}`);
+  let allResults = [];
+  let nextPageToken = null;
 
-  if (!res.ok) {
-    console.error(`HTTP error ${res.status} for city: ${city}`);
-    return [];
-  }
+  do {
+    const url = nextPageToken
+      ? `https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=${nextPageToken}&key=${API_KEY}`
+      : `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${API_KEY}`;
 
-  const data = await res.json();
+    const res = await fetch(url);
 
-  if (!data.results || data.results.length === 0) {
+    if (!res.ok) {
+      console.error(`HTTP error ${res.status} for city: ${city}`);
+      break;
+    }
+
+    const data = await res.json();
+
+    if (!data.results) {
+      console.error(`No results found for city: ${city}`);
+      break;
+    }
+
+    allResults = allResults.concat(data.results);
+    nextPageToken = data.next_page_token;
+
+    // Google requires a short delay before using next_page_token
+    if (nextPageToken) {
+      await new Promise(resolve => setTimeout(resolve, 2000));
+    }
+
+  } while (nextPageToken);
+
+  if (allResults.length === 0) {
     console.error(`No results found for city: ${city}`);
     return [];
   }
 
-  console.log("Advisors found: ", data.results.length);
+  console.log("Total advisors found across all pages: ", allResults.length);
 
-  const topPlaces = data.results.sort((a, b) => b.rating - a.rating).slice(0, 5);
+  // Calculate average rating across all results
+  const placesWithRatings = allResults.filter(place => place.rating);
+  const ratingsSum = placesWithRatings.reduce((sum, place) => sum + place.rating, 0);
+  const averageRating = placesWithRatings.length > 0 ? ratingsSum / placesWithRatings.length : 0;
+
+  console.log(`Number of advisors found: ${allResults.length}`);
+  console.log(`Average rating for ${city}, ${state}: ${averageRating.toFixed(2)}`);
+
+  // Get top 5 highest rated places
+  const topPlaces = allResults
+    .filter(place => place.rating) // Only include places with ratings
+    .sort((a, b) => b.rating - a.rating)
+    .slice(0, 5);
+
   const output = [];
 
   for (const place of topPlaces) {
@@ -35,11 +71,16 @@ async function getAdvisors(city, state) {
       name: place.name,
       url: detailsData.result.website || `https://www.google.com/maps/place/?q=place_id:${place.place_id}`,
       rating: place.rating,
-      stars: Array.from({ length: place.rating })
+      stars: Array.from({ length: place.rating }),
+      reviewCount: place.user_ratings_total || 0
     });
   }
 
-  return output;
+  return {
+    advisors: output,
+    totalFound: allResults.length,
+    averageRating: parseFloat(averageRating.toFixed(1))
+  };
 }
 
 module.exports = getAdvisors;

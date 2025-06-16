@@ -16,7 +16,8 @@
         null,
         null,
         null
-      ]
+      ],
+      "reviewCount": 37
     },
     {
       "name": "Wealthspire Advisors",
@@ -28,7 +29,8 @@
         null,
         null,
         null
-      ]
+      ],
+      "reviewCount": 42
     },
     {
       "name": "Park Avenue Financial Advisors",
@@ -40,11 +42,12 @@
         null,
         null,
         null
-      ]
+      ],
+      "reviewCount": 1
     },
     {
-      "name": "Christopher Street Financial",
-      "url": "http://www.christopherstreet.com/",
+      "name": "Wharton Wealth Planning",
+      "url": "http://www.whartonwealthplanning.com/",
       "rating": 5,
       "stars": [
         null,
@@ -52,11 +55,12 @@
         null,
         null,
         null
-      ]
+      ],
+      "reviewCount": 11
     },
     {
-      "name": "Source Financial Advisors",
-      "url": "https://www.sourcefa.com/",
+      "name": "Savant Wealth Management",
+      "url": "https://www.savantwealth.com/new-york-new-york",
       "rating": 5,
       "stars": [
         null,
@@ -64,30 +68,31 @@
         null,
         null,
         null
-      ]
+      ],
+      "reviewCount": 3
     }
   ],
   "heroDescription": "New York City, the largest city in the U.S., is a global hub for finance, culture, and innovation.",
-  "landscapeDescription": "In 2023, New York's economy remains robust, driven by finance, technology, and tourism. The city is home to a diverse workforce and a vibrant entrepreneurial ecosystem.",
-  "majorIndustries": "Finance, Technology, Tourism",
-  "medianIncome": "$67,046",
-  "uniqueNeeds": "High demand for affordable housing and diverse job opportunities.",
-  "citySpecificRiskAdvice": "New York's finance sector concentration poses risks; diversify into tech and healthcare. Housing market faces bubble concerns due to high demand and limited supply. Prepare for natural disasters like hurricanes and flooding.",
+  "landscapeDescription": "With a diverse economy, NYC is a leader in finance, technology, and media. The city continues to attract talent and investment.",
+  "majorIndustries": "Finance, Technology, Media",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "High demand for affordable housing and financial services tailored to diverse populations.",
+  "citySpecificRiskAdvice": "NYC's finance and tech sectors face volatility; housing market shows bubble risks. Prepare for hurricanes and flooding; diversify investments.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to BEA (2023), New York's GDP growth is projected at 3.2%, driven by a resurgence in tourism and tech investments."
+          "description": "According to BEA (2023), NYC's GDP growth is projected at 3.5%, driven by tech and finance sectors."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to Census (2023), the median household income in NYC is $67,046, reflecting a diverse economic landscape."
+          "description": "According to Census (2023), the median income in NYC is approximately $70,000, reflecting economic disparities."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Based on BLS (2023), financial advisors in NYC are increasingly specializing in tech investments and real estate."
+          "description": "Based on BLS (2023), financial advisors in NYC increasingly specialize in wealth management and retirement planning."
         }
       ]
     },
@@ -96,7 +101,7 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to BLS (2024), NYC's cost of living remains high, with housing costs significantly impacting overall expenses."
+          "description": "According to BLS (2024), NYC's cost of living remains high, with housing and transportation being major expenses."
         },
         {
           "title": "Real Estate Market",
@@ -104,13 +109,14 @@
         },
         {
           "title": "Business Environment",
-          "description": "According to Fortune (2024), NYC's business climate is competitive, with a focus on innovation and sustainability."
+          "description": "According to Fortune (2024), NYC's business climate is robust, though regulatory challenges persist for startups."
         }
       ]
     }
   ],
-  "registeredAdvisors": "8,400+",
-  "averageRating": "5.0/5.0",
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "8,400+",
   "nearbyLocations": [
     {
       "name": "New York",

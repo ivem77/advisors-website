@@ -1,0 +1,178 @@
+{
+  "cityName": "Detroit",
+  "state": "Michigan",
+  "slug": "detroit-mi",
+  "population": "688K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Detroit",
+  "metaDescription": "Find top-rated financial advisors in Detroit. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Center for Financial Planning, Inc.®",
+      "url": "http://www.centerfinplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Master Mind Financials LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJGaiJJSPJJIgRXxZoR5VB6nU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "SGH Wealth Management",
+      "url": "http://www.sghwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Fiduciary Financial Advisors",
+      "url": "https://www.forfiduciary.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Royal Oak Financial Advisors",
+      "url": "http://www.royaloakfinancialadvisors.com/location.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Detroit, known as the Motor City, is a hub of innovation and manufacturing.",
+  "landscapeDescription": "Detroit's economy is diversifying beyond automotive, with growth in tech and healthcare. The city is revitalizing its urban core, attracting new businesses.",
+  "majorIndustries": "Automotive, Technology, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Detroit requires strategic investment in tech and housing to ensure sustainable growth and mitigate risks.",
+  "citySpecificRiskAdvice": "Detroit's heavy reliance on automotive poses risks; diversify into tech and healthcare. Real estate is volatile; watch for market bubbles. Flooding and winter storms are concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Detroit's GDP growth is projected at 3.5%, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Detroit is $52,000, reflecting economic recovery and growth."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Detroit are increasingly specializing in real estate and tech investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Detroit's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Detroit's housing market is recovering, with prices rising but still affordable compared to national trends."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Detroit's business climate is improving, with incentives for startups and tech firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "680+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

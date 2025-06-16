@@ -1,0 +1,178 @@
+{
+  "cityName": "Austin",
+  "state": "Texas",
+  "slug": "austin-tx",
+  "population": "964K (metro: 2.4M)",
+  "pageTitle": "Best Financial Advisors in Austin",
+  "metaDescription": "Find top-rated financial advisors in Austin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "49 Financial",
+      "url": "http://www.49financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 273
+    },
+    {
+      "name": "Strategic Capital - Wealth Management Austin",
+      "url": "http://strat-capital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 99
+    },
+    {
+      "name": "Tuyyo Planning Group, LLC",
+      "url": "https://tuyyoplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 25
+    },
+    {
+      "name": "Austin Private Wealth",
+      "url": "https://austinprivatewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "The Art of Finance",
+      "url": "http://theartoffinance.biz/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    }
+  ],
+  "heroDescription": "Austin, Texas, is a vibrant tech hub known for its music scene and cultural diversity.",
+  "landscapeDescription": "Austin's economy is driven by technology, education, and health services. The city has seen rapid growth, attracting businesses and residents alike.",
+  "majorIndustries": "Technology, Education, Health Services",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Austin's tech-driven economy requires tailored investment strategies and risk management.",
+  "citySpecificRiskAdvice": "Austin's tech concentration poses risks; diversify investments to mitigate downturns. Rapid housing growth raises bubble concerns. Monitor flooding and tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Austin's GDP growth rate is 5.2%, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Austin is $75,000, reflecting its growing affluence."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Austin increasingly specialize in tech investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Austin has risen by 3.5% due to housing demand and inflation."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Austin have increased by 10% year-over-year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Austin ranks as one of the top cities for startups, fostering a dynamic business climate."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "880+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "San Francisco",
+  "state": "California",
+  "slug": "san-francisco-ca",
+  "population": "837K (metro: 4.7M)",
+  "pageTitle": "Best Financial Advisors in San Francisco",
+  "metaDescription": "Find top-rated financial advisors in San Francisco. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Zen",
+      "url": "http://www.financialzen.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "RHS Financial",
+      "url": "https://rhsfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "The Advisory Group of San Francisco",
+      "url": "https://advisorygroupsf.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "True Root Financial",
+      "url": "http://www.truerootfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Monroe Wealth Management",
+      "url": "http://monroewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    }
+  ],
+  "heroDescription": "San Francisco, a vibrant city known for its iconic Golden Gate Bridge and tech innovation.",
+  "landscapeDescription": "San Francisco's economy thrives on technology, finance, and tourism, making it a global hub for innovation. The city is characterized by high living costs and a dynamic job market.",
+  "majorIndustries": "Technology, Finance, Tourism",
+  "medianIncome": "$112,000",
+  "uniqueNeeds": "High demand for affordable housing and sustainable development.",
+  "citySpecificRiskAdvice": "San Francisco's tech-heavy economy risks volatility; housing market bubbles are a concern. Prepare for earthquakes and diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Francisco's GDP growth is driven by tech and finance, showing resilience despite market fluctuations."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Francisco is $112,000, reflecting a high standard of living but also significant income disparity."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Francisco increasingly focus on tech investments and sustainable finance strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), San Francisco's cost of living remains among the highest in the U.S., driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in San Francisco shows signs of cooling, yet prices remain elevated due to limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Francisco's business climate is robust, attracting startups and established firms, particularly in tech and finance."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "830+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

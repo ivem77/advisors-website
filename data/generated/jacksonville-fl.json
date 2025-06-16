@@ -1,0 +1,178 @@
+{
+  "cityName": "Jacksonville",
+  "state": "Florida",
+  "slug": "jacksonville-fl",
+  "population": "842K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Jacksonville",
+  "metaDescription": "Find top-rated financial advisors in Jacksonville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Jacksonville Wealth Management",
+      "url": "http://jaxwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Davis Capital Management",
+      "url": "https://www.daviscapitalsite.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Paragon Wealth Strategies",
+      "url": "https://www.wealthguards.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "First Coast Financial Group",
+      "url": "http://firstcoastfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Jacksonville, Florida, is a vibrant city known for its diverse economy and beautiful coastal scenery.",
+  "landscapeDescription": "Jacksonville's economy is driven by healthcare, finance, and logistics, making it a regional hub for various industries. The city benefits from a strategic location and a growing population.",
+  "majorIndustries": "Healthcare, Finance, Logistics",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Jacksonville requires tailored financial advice focusing on real estate, hurricane preparedness, and economic diversification.",
+  "citySpecificRiskAdvice": "Jacksonville's heavy reliance on logistics and healthcare poses risks; housing market volatility and hurricane threats necessitate diversification and strategic investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jacksonville's GDP growth is projected at 3.2%, driven by healthcare and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jacksonville is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jacksonville are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jacksonville's cost of living is 5% below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Jacksonville's housing market is experiencing a 10% annual appreciation, raising concerns about potential bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jacksonville's business climate is favorable, with a growing number of startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "840+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Charlotte",
+  "state": "North Carolina",
+  "slug": "charlotte-nc",
+  "population": "792K (metro: 2.6M)",
+  "pageTitle": "Best Financial Advisors in Charlotte",
+  "metaDescription": "Find top-rated financial advisors in Charlotte. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Alloy Wealth Management",
+      "url": "https://www.alloywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 154
+    },
+    {
+      "name": "Calamita Wealth Management - Financial Advisors & Financial Planners - Charlotte, NC",
+      "url": "https://calamitawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Serenity Wealth Management, Charlotte Fiduciary Financial Advisors",
+      "url": "https://www.serenitywmnc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Blue Financial",
+      "url": "https://www.bluefinancialinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "NewtonWealthManagement",
+      "url": "https://newtonwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    }
+  ],
+  "heroDescription": "Charlotte, NC, is a vibrant city known for its banking sector and growing tech industry.",
+  "landscapeDescription": "Charlotte boasts a diverse economy with a strong financial sector, particularly banking. The city is also expanding in technology and energy sectors.",
+  "majorIndustries": "Banking, Technology, Energy",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Charlotte's growth demands attention to housing affordability and infrastructure development.",
+  "citySpecificRiskAdvice": "Charlotte's banking focus poses risks; diversify into tech and energy. Real estate prices may bubble; monitor market trends. Prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Charlotte's economy grew by 4.2% last year, driven by finance and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Charlotte is $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Charlotte increasingly specialize in retirement and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Charlotte's cost of living is 5% below the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Charlotte's housing market is competitive, with prices rising 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Charlotte ranks as a top city for business growth, particularly in finance and tech."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "790+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

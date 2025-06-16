@@ -1,0 +1,157 @@
+{
+  "cityName": "Louisville/Jefferson County",
+  "state": "Kentucky",
+  "slug": "louisville-jefferson-county-ky",
+  "population": "609K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Louisville/Jefferson County",
+  "metaDescription": "Find top-rated financial advisors in Louisville/Jefferson County. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Centerline Wealth Advisors",
+      "url": "http://www.centerlinewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Accredited Wealth Management",
+      "url": "http://accreditedwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 36
+    },
+    {
+      "name": "Commonwealth Capital Management, LLC",
+      "url": "http://www.ccmresource.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Warren Wealth Management & Tax Planning",
+      "url": "http://www.warren-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Rich Wealth Management, LLC",
+      "url": "http://richwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    }
+  ],
+  "heroDescription": "Louisville/Jefferson County is a vibrant city known for its rich history and diverse culture.",
+  "landscapeDescription": "The economy is driven by healthcare, manufacturing, and logistics. The city serves as a major transportation hub with a growing tech sector.",
+  "majorIndustries": "Healthcare, Manufacturing, Logistics",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Louisville requires a focus on healthcare innovation and sustainable urban development.",
+  "citySpecificRiskAdvice": "Louisville's healthcare sector is strong but needs diversification. Real estate faces affordability issues, and flooding is a concern. Explore economic diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Louisville's GDP growth is projected at 3.2%, driven by healthcare and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Louisville is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Louisville are increasingly focusing on retirement planning and healthcare investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Louisville's cost of living is 8% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Louisville have increased by 5% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Louisville's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "600+",
+  "nearbyLocations": [
+    {
+      "name": "Louisville/Jefferson County",
+      "state": "Kentucky",
+      "slug": "louisville-jefferson-county-ky",
+      "population": 609893,
+      "priority": 1
+    },
+    {
+      "name": "Lexington-Fayette",
+      "state": "Kentucky",
+      "slug": "lexington-fayette-ky",
+      "population": 308428,
+      "priority": 1
+    },
+    {
+      "name": "Bowling Green",
+      "state": "Kentucky",
+      "slug": "bowling-green-ky",
+      "population": 61488,
+      "priority": 1
+    },
+    {
+      "name": "Owensboro",
+      "state": "Kentucky",
+      "slug": "owensboro-ky",
+      "population": 58416,
+      "priority": 1
+    },
+    {
+      "name": "Covington",
+      "state": "Kentucky",
+      "slug": "covington-ky",
+      "population": 40956,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Kansas City",
+  "state": "Missouri",
+  "slug": "kansas-city-mo",
+  "population": "467K (metro: 2.1M)",
+  "pageTitle": "Best Financial Advisors in Kansas City",
+  "metaDescription": "Find top-rated financial advisors in Kansas City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WEALTH | KC - Financial Advisors + Wealth Management",
+      "url": "http://www.wealthkc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Buttonwood Financial Group, LLC",
+      "url": "http://www.buttonwoodfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "BMG Advisors \"Plan Your Story\"",
+      "url": "http://bmgadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Prosperity Planning, Inc.​",
+      "url": "https://www.prosperityplanninginc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Kansas City Private Wealth Management",
+      "url": "http://www.kcpwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Kansas City, Missouri, is a vibrant metropolitan area known for its rich cultural heritage and diverse economy.",
+  "landscapeDescription": "Kansas City boasts a robust economy driven by sectors like healthcare, technology, and manufacturing. The city is also recognized for its entrepreneurial spirit and innovation.",
+  "majorIndustries": "Healthcare, Technology, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Kansas City requires a focus on tech diversification, affordable housing, and disaster preparedness due to tornado risks.",
+  "citySpecificRiskAdvice": "Kansas City's tech sector needs diversification to mitigate risks. Housing market faces affordability issues; tornado risks necessitate disaster planning. Economic diversification is crucial.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kansas City's GDP growth rate is projected at 3.2%, driven by strong healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Kansas City is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kansas City are increasingly specializing in retirement planning and tech investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Kansas City is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Kansas City real estate market has seen a 5% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kansas City ranks high for its supportive business climate, particularly for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "460+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

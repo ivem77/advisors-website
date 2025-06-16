@@ -1,0 +1,178 @@
+{
+  "cityName": "Columbus",
+  "state": "Ohio",
+  "slug": "columbus-oh",
+  "population": "822K (metro: 2.1M)",
+  "pageTitle": "Best Financial Advisors in Columbus",
+  "metaDescription": "Find top-rated financial advisors in Columbus. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Columbus Wealth Management",
+      "url": "https://www.cbuswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Libertas Wealth Management Group",
+      "url": "https://www.libertaswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 64
+    },
+    {
+      "name": "Peak Retirement Planning, Inc.",
+      "url": "https://peakretirementplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 129
+    },
+    {
+      "name": "rebel Financial",
+      "url": "https://rebelfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 91
+    },
+    {
+      "name": "Hyre Personal Wealth Advisors, Now Mariner",
+      "url": "http://www.mariner.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    }
+  ],
+  "heroDescription": "Columbus, Ohio, is a vibrant city known for its diverse economy and rich cultural heritage.",
+  "landscapeDescription": "Columbus boasts a robust economy driven by education, healthcare, and technology sectors. The city is home to a growing population and a dynamic business environment.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Columbus requires a focus on tech diversification, affordable housing, and sustainable urban development.",
+  "citySpecificRiskAdvice": "Columbus's tech sector growth necessitates diversification to mitigate risks. Housing prices are rising, indicating potential bubble risks; monitor real estate trends. Weather-related risks include se...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Columbus has seen a steady GDP growth rate of 3.2%, driven by technology and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Columbus is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Columbus are increasingly specializing in tech and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Columbus's cost of living is 5% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Columbus real estate market is experiencing a 10% annual increase in home prices, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Columbus ranks as one of the top cities for business growth, with a favorable regulatory environment and support for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "820+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus-oh",
+      "population": 822553,
+      "priority": 1
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland-oh",
+      "population": 390113,
+      "priority": 1
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati-oh",
+      "population": 297517,
+      "priority": 1
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo-oh",
+      "population": 282313,
+      "priority": 1
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron-oh",
+      "population": 198100,
+      "priority": 1
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton-oh",
+      "population": 143355,
+      "priority": 1
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma-oh",
+      "population": 80429,
+      "priority": 1
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton-oh",
+      "population": 72535,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Sacramento",
+  "state": "California",
+  "slug": "sacramento-ca",
+  "population": "479K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Sacramento",
+  "metaDescription": "Find top-rated financial advisors in Sacramento. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Towerpoint Wealth",
+      "url": "https://www.towerpointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 87
+    },
+    {
+      "name": "Dominick Anton Financial Advisor at Twin Rivers Wealth Management",
+      "url": "http://www.dominickantoncfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 43
+    },
+    {
+      "name": "Josh Albert, CFP®",
+      "url": "https://www.northwesternmutual.com/financial/advisor/josh-albert/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Encompass Wealth Advisers",
+      "url": "https://www.encompassadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Twin Rivers Wealth Management",
+      "url": "http://www.tr-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Sacramento, the capital of California, is a vibrant city known for its rich history and diverse culture.",
+  "landscapeDescription": "Sacramento's economy is driven by government, healthcare, and education sectors. The city is experiencing growth in technology and green industries.",
+  "majorIndustries": "Government, Healthcare, Education, Technology, Agriculture",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Sacramento requires strategies for sustainable growth, housing affordability, and infrastructure improvements.",
+  "citySpecificRiskAdvice": "Sacramento's tech sector growth poses concentration risks; housing market shows bubble signs. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sacramento's GDP growth rate is projected at 3.2%, driven by public sector and tech advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Sacramento is $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sacramento are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sacramento's cost of living has risen by 4.5% over the past year, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Sacramento's housing market is competitive, with median home prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sacramento is ranked as a top city for startups due to its supportive policies and access to venture capital."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "470+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "cityName": "Albuquerque",
+  "state": "New Mexico",
+  "slug": "albuquerque-nm",
+  "population": "556K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Albuquerque",
+  "metaDescription": "Find top-rated financial advisors in Albuquerque. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Oakmont Advisory Group - Fiduciary Financial Advisor, Albuquerque, NM",
+      "url": "https://oakmontadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Legacy Financial Group",
+      "url": "http://www.legacyfg.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Portfolio Wealth Advisors",
+      "url": "http://www.portfoliollc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Intelligent Investing Inc.",
+      "url": "https://mynmfp.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "TruePath Financial Planning",
+      "url": "https://www.truepathfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Albuquerque, New Mexico, is a vibrant city known for its rich cultural heritage and stunning desert landscapes.",
+  "landscapeDescription": "Albuquerque's economy is diverse, with significant contributions from technology, tourism, and healthcare. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Technology, Tourism, Healthcare",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Albuquerque requires focus on tech diversification, housing affordability, and sustainable tourism development.",
+  "citySpecificRiskAdvice": "Albuquerque's tech sector needs diversification to mitigate volatility. Real estate faces affordability issues; monitor for bubble risks. Prepare for droughts and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Albuquerque's GDP growth is projected at 3.2%, driven by tech and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Albuquerque is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Albuquerque are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Albuquerque's cost of living is 5% below the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Albuquerque's housing market is competitive, with median home prices rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Albuquerque's business climate is improving, with incentives for startups and tech companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "550+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque-nm",
+      "population": 556495,
+      "priority": 1
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces-nm",
+      "population": 101324,
+      "priority": 1
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho-nm",
+      "population": 91956,
+      "priority": 1
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe-nm",
+      "population": 69976,
+      "priority": 1
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell-nm",
+      "population": 48611,
+      "priority": 1
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington-nm",
+      "population": 45426,
+      "priority": 1
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis-nm",
+      "population": 39508,
+      "priority": 1
+    }
+  ]
+}

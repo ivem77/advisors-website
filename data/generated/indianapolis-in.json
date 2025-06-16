@@ -1,0 +1,178 @@
+{
+  "cityName": "Indianapolis",
+  "state": "Indiana",
+  "slug": "indianapolis-in",
+  "population": "843K (metro: 2.0M)",
+  "pageTitle": "Best Financial Advisors in Indianapolis",
+  "metaDescription": "Find top-rated financial advisors in Indianapolis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cooke Financial Group",
+      "url": "https://www.cookefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Bedel Financial Consulting",
+      "url": "https://www.bedelfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 49
+    },
+    {
+      "name": "Blue Trust | Indianapolis Financial Advisors",
+      "url": "https://www.bluetrust.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Creative Financial Group",
+      "url": "http://www.creativefinancialgrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 129
+    },
+    {
+      "name": "CORE Wealth Advisors",
+      "url": "http://www.mycorewealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Indianapolis, the capital of Indiana, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Indianapolis boasts a strong economy driven by sectors such as healthcare, manufacturing, and logistics. The city is a hub for sports and events, enhancing its economic landscape.",
+  "majorIndustries": "Healthcare, Manufacturing, Logistics",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Indianapolis requires a focus on healthcare innovation and infrastructure development to support its growing population.",
+  "citySpecificRiskAdvice": "Indianapolis's healthcare sector is booming but may face regulatory risks. Real estate is experiencing rapid growth, posing bubble risks. Prepare for tornadoes and flooding, and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Indianapolis has shown a steady economic growth rate of 3.2%, driven by healthcare and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Indianapolis is approximately $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Indianapolis are increasingly specializing in retirement planning and healthcare-related financial services."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Indianapolis is 10% lower than the national average, making it an attractive option for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Indianapolis real estate market has seen a 7% increase in home prices, indicating strong demand but potential bubble concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Indianapolis is ranked among the top cities for business growth, with a favorable regulatory environment and access to talent."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "840+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

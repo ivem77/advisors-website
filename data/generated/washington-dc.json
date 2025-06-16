@@ -1,0 +1,129 @@
+{
+  "cityName": "Washington",
+  "state": "District of Columbia",
+  "slug": "washington-dc",
+  "population": "646K (metro: 2.9M)",
+  "pageTitle": "Best Financial Advisors in Washington",
+  "metaDescription": "Find top-rated financial advisors in Washington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Illumint by Kevin Mahoney, CFP®",
+      "url": "https://illumintfc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Monumental Financial Planning",
+      "url": "https://www.ameripriseadvisors.com/team/monumental-financial-planning/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Quantum Financial Advisors",
+      "url": "http://www.qfainc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RBC Wealth Management Branch - Washington DC",
+      "url": "https://us.rbcwealthmanagement.com/washingtondc?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Advisor For You",
+      "url": "http://www.financialadvisorforyou.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Washington, D.C. is the capital of the United States, known for its rich history and vibrant culture.",
+  "landscapeDescription": "The economy of Washington, D.C. is driven by government, education, and healthcare sectors. The city also has a growing tech industry, contributing to its economic diversity.",
+  "majorIndustries": "Government, Education, Healthcare, Technology",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "D.C. requires tailored financial strategies due to its unique economic landscape and regulatory environment.",
+  "citySpecificRiskAdvice": "D.C.'s tech sector needs diversification to mitigate risks. Real estate prices are high, indicating bubble potential. Be aware of flooding and political risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), D.C.'s economy grew by 3.2% last year, driven by federal spending and tech investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in D.C. is $82,000, reflecting a diverse and affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in D.C. are increasingly specializing in government employee benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in D.C. is 30% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in D.C. is $650,000, with a competitive rental market reflecting high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), D.C. ranks high for startups due to its access to federal contracts and a skilled workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "640+",
+  "nearbyLocations": [
+    {
+      "name": "Washington",
+      "state": "District of Columbia",
+      "slug": "washington-dc",
+      "population": 646449,
+      "priority": 1
+    }
+  ]
+}

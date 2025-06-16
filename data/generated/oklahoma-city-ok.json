@@ -1,0 +1,178 @@
+{
+  "cityName": "Oklahoma City",
+  "state": "Oklahoma",
+  "slug": "oklahoma-city-ok",
+  "population": "610K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Oklahoma City",
+  "metaDescription": "Find top-rated financial advisors in Oklahoma City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Credent Wealth Management - Oklahoma City Fee-Only Financial Planner",
+      "url": "https://www.credentwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Castlepoint Wealth Advisors",
+      "url": "http://castlepointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Arrow Investment Management",
+      "url": "https://www.arrowinvestmentmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Vault Wealth Strategies, LLC",
+      "url": "http://www.vaultwealth.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Staton Financial Group Inc.",
+      "url": "http://statonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 106
+    }
+  ],
+  "heroDescription": "Oklahoma City is a vibrant urban center known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 610,613, Oklahoma City boasts a growing economy driven by sectors like energy, healthcare, and aviation. The city is increasingly attracting tech startups and investments.",
+  "majorIndustries": "Energy, Healthcare, Aviation",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Oklahoma City requires a focus on diversifying its economy and enhancing infrastructure to support growth.",
+  "citySpecificRiskAdvice": "Oklahoma City's energy sector poses concentration risks; housing market shows signs of volatility. Tornadoes and flooding are significant weather threats. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Oklahoma City's economy is expanding with a projected growth rate of 3.5% in 2024, driven by energy and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Oklahoma City is approximately $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Oklahoma City are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Oklahoma City's cost of living is 10% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Oklahoma City is experiencing a 5% annual appreciation, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Oklahoma City ranks high for business friendliness, with incentives for startups and a supportive entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "610+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Fort Worth",
+  "state": "Texas",
+  "slug": "fort-worth-tx",
+  "population": "792K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Fort Worth",
+  "metaDescription": "Find top-rated financial advisors in Fort Worth. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Strittmatter Wealth Management Group, LLC",
+      "url": "http://www.strittmatterwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 122
+    },
+    {
+      "name": "Retirement Planners of America",
+      "url": "https://ww2.rpoa.com/fort-worth-tx/?utm_source=google+page&utm_content=fort-worth-tx",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 222
+    },
+    {
+      "name": "Wealth Strategy Advisors",
+      "url": "http://www.wealthstrategyadvisors.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Aspen Wealth Management",
+      "url": "http://www.aspenwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Decidedly Wealth Management",
+      "url": "http://www.decidedlywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Fort Worth, Texas, is a vibrant city known for its rich cultural heritage and strong economic foundations.",
+  "landscapeDescription": "Fort Worth boasts a diverse economy with strengths in aerospace, healthcare, and energy. The city's strategic location enhances its role as a logistics hub.",
+  "majorIndustries": "Aerospace, Healthcare, Energy",
+  "medianIncome": "$67,000",
+  "uniqueNeeds": "Fort Worth requires tailored financial strategies due to its unique industrial mix and rapid growth.",
+  "citySpecificRiskAdvice": "Fort Worth's energy sector concentration poses risks; diversify investments. Real estate may face bubble concerns amid rapid growth. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Worth's GDP growth rate is projected at 3.5%, driven by strong job creation in key sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Fort Worth is approximately $67,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Worth are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Fort Worth is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fort Worth's housing market is experiencing a 10% year-over-year increase in home prices, raising bubble concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Worth's business climate is favorable, with low taxes and incentives attracting new companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "790+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

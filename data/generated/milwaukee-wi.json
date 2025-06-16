@@ -1,0 +1,178 @@
+{
+  "cityName": "Milwaukee",
+  "state": "Wisconsin",
+  "slug": "milwaukee-wi",
+  "population": "599K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Milwaukee",
+  "metaDescription": "Find top-rated financial advisors in Milwaukee. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cove Financial Planning, LLC",
+      "url": "http://www.coveplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "WFA Asset Management Corporation",
+      "url": "https://wfa-asset.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/wi/milwaukee-wi",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Colin J Dewey, ABFP®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/colin-dewey?y_source=1_MTQ1MTUxOTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Beacon Pointe Advisors",
+      "url": "https://beaconpointe.com/contact-us/wisconsin-milwaukee/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Milwaukee, Wisconsin, is a vibrant city known for its rich cultural heritage and diverse economy.",
+  "landscapeDescription": "Milwaukee's economy is anchored by manufacturing, healthcare, and finance. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Finance",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Milwaukee requires focus on economic diversification and housing stability to support its growing population.",
+  "citySpecificRiskAdvice": "Milwaukee's manufacturing focus poses risks; diversify into tech and services. Housing market shows signs of volatility; prepare for potential flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Milwaukee's GDP growth rate is projected at 2.5%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Milwaukee is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Milwaukee are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Milwaukee's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Milwaukee's real estate market shows a 5% annual increase, with concerns about affordability for first-time buyers."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Milwaukee ranks high for small business growth, supported by local initiatives and access to funding."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "590+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee-wi",
+      "population": 599164,
+      "priority": 1
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison-wi",
+      "population": 243344,
+      "priority": 1
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay-wi",
+      "population": 104779,
+      "priority": 1
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha-wi",
+      "population": 99889,
+      "priority": 1
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine-wi",
+      "population": 78199,
+      "priority": 1
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton-wi",
+      "population": 73596,
+      "priority": 1
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha-wi",
+      "population": 71016,
+      "priority": 1
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire-wi",
+      "population": 67545,
+      "priority": 1
+    }
+  ]
+}

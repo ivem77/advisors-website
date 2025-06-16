@@ -56,8 +56,6 @@ async function generateCityDataOptimized(city) {
     await fs.writeJson(`./data/generated/${city.slug}.json`, cityData, { spaces: 2 });
     
     console.log(`✅ Generated optimized data for ${city.name}`);
-    console.log(`📊 Stats: ${allContent.stats.registeredAdvisors} advisors, ${allContent.stats.averagePortfolio} avg portfolio`);
-    console.log(`👥 Advisors: ${allContent.advisors.length} profiles created`);
     console.log(`🔍 Validation: All consistency checks passed`);
     console.log(`💾 Saved to: data/generated/${city.slug}.json`);
     console.log(`💰 Cost: 1 API call instead of 4-12!`);

@@ -1,0 +1,178 @@
+{
+  "cityName": "Houston",
+  "state": "Texas",
+  "slug": "houston-tx",
+  "population": "2.3M (metro: 7.3M)",
+  "pageTitle": "Best Financial Advisors in Houston",
+  "metaDescription": "Find top-rated financial advisors in Houston. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wilson Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/wilson-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 278
+    },
+    {
+      "name": "Financial Synergies Wealth Advisors",
+      "url": "https://www.finsyn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "49 Financial - Houston Office",
+      "url": "http://www.49financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 74
+    },
+    {
+      "name": "MDT Financial Advisors, LLC",
+      "url": "http://www.mdtfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Advisor Houston",
+      "url": "http://www.financialadvisorhouston.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Houston, Texas, is a vibrant metropolis known for its diverse economy and cultural richness.",
+  "landscapeDescription": "Houston's economy is driven by energy, healthcare, and aerospace sectors. The city hosts 26 Fortune 500 companies, showcasing its robust business environment.",
+  "majorIndustries": "Energy, Healthcare, Aerospace",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Houston's diverse economy requires tailored financial strategies to address industry-specific risks.",
+  "citySpecificRiskAdvice": "Houston's energy sector concentration poses risks; real estate may face bubble concerns. Prepare for hurricanes and flooding. Diversify investments across industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Houston's GDP growth outpaced national averages, driven by energy and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Houston is $62,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Houston increasingly specialize in energy and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Houston's cost of living remains below the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Houston's real estate market shows steady appreciation, but concerns about potential bubbles are rising."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Houston's business climate is favorable, with a strong entrepreneurial spirit and supportive infrastructure."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "2,100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

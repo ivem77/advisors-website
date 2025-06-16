@@ -73,7 +73,7 @@ Houston: 2,288,250 population (metro: 7.3M), 26 Fortune 500 companies, major emp
 Austin: 964,177 population (metro: 2.4M), 3 Fortune 500 companies, major employers: Dell, UT, Apple
 
 SPECIFIC RISK MANAGEMENT REQUIREMENTS for citySpecificRiskAdvice field:
-- 150-250 characters of comprehensive, location-specific risk advice
+- 150-175 characters of comprehensive, location-specific risk advice
 - Include specific industry concentration risks (tech, energy, finance)
 - Address real estate/housing market risks and bubble concerns  
 - Mention weather/natural disaster risks (hurricanes, tornadoes, flooding)
@@ -101,7 +101,7 @@ Return ONLY this JSON structure:
     "population": "1.3M (metro: 7.8M)",
     "medianIncome": "$XX,XXX",
     "uniqueNeeds": "Under 200 chars",
-    "citySpecificRiskAdvice": "150-200 character comprehensive risk advice specific to ${cityName}. Include: industry concentration risks, real estate risks, natural disaster risks, economic risks. Be specific and data-driven."
+    "citySpecificRiskAdvice": "Under 200 characters. Risk advice specific to ${cityName}. Include: industry concentration risks, real estate risks, natural disaster risks, economic risks. Be specific and data-driven."
   },
   "insights": {
     "insights": [
@@ -192,15 +192,15 @@ Return ONLY this JSON structure:
         }
       }
       
-      if (allData.landscape.citySpecificRiskAdvice.length > 250) {
+      if (allData.landscape.citySpecificRiskAdvice.length > 200) {
         if (attempt < MAX_RETRIES) {
           console.warn(`⚠️ Attempt ${attempt}: Risk advice too long, retrying...`);
           attempt++;
           continue;
         } else {
           // Truncate instead of failing
-          allData.landscape.citySpecificRiskAdvice = allData.landscape.citySpecificRiskAdvice.substring(0, 250) + '...';
-          console.warn(`⚠️ Truncated citySpecificRiskAdvice to fit 250 char limit`);
+          allData.landscape.citySpecificRiskAdvice = allData.landscape.citySpecificRiskAdvice.substring(0, 200) + '...';
+          console.warn(`⚠️ Truncated citySpecificRiskAdvice to fit 200 char limit`);
         }
       }
       
@@ -214,13 +214,20 @@ Return ONLY this JSON structure:
       }
 
       console.log(`🤖 Fetching advisors for ${cityName}, ${state}...`);
-      allData.advisors = await getAdvisors(cityName, state);
+      const advisorsData = await getAdvisors(cityName, state);
       console.log(`✅ Advisors fetched for ${cityName}, ${state}`);
+
+      console.log("population:", population, typeof population);
+      console.log("advisorsData.totalFound:", advisorsData?.totalFound, typeof advisorsData?.totalFound);
 
       const numberOfAdvisorsEstimate = Math.max(
         Math.floor(population / 1000),
-        allData.advisors.length
+        advisorsData.totalFound
       );
+
+      console.log("population / 1000:", population / 1000);
+      console.log("Math.floor(population / 1000):", Math.floor(population / 1000));
+      console.log("Final numberOfAdvisorsEstimate:", numberOfAdvisorsEstimate);
 
       // Format number with commas
       const formatNumber = (num) => num.toLocaleString();
@@ -232,14 +239,11 @@ Return ONLY this JSON structure:
 
       const prettyNumberOfAdvisorsEstimate = `${formatNumber(roundedEstimate)}+`;
       console.log("Setting number of advisors: " + prettyNumberOfAdvisorsEstimate);
-      allData.stats.registeredAdvisors = prettyNumberOfAdvisorsEstimate;
-
-
-      const averageAdvisorRating = allData.advisors.reduce((acc, advisor) => acc + advisor.rating, 0) / allData.advisors.length;
-      console.log(" Setting average rating: " + averageAdvisorRating);
-      allData.stats.averageRating = `${averageAdvisorRating.toFixed(1)}/5.0`;
+      allData.stats.advisorsEstimate = prettyNumberOfAdvisorsEstimate;
 
       console.log(`✅ Generated all content for ${cityName} in single API call (attempt ${attempt})`);
+      allData.advisors = advisorsData.advisors;
+      allData.stats.averageRating = advisorsData.averageRating;
       return allData;
       
     } catch (error) {

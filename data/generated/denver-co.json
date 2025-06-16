@@ -1,0 +1,178 @@
+{
+  "cityName": "Denver",
+  "state": "Colorado",
+  "slug": "denver-co",
+  "population": "649K (metro: 3.1M)",
+  "pageTitle": "Best Financial Advisors in Denver",
+  "metaDescription": "Find top-rated financial advisors in Denver. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Colorado Wealth Group",
+      "url": "https://coloradowealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    },
+    {
+      "name": "Schutte Financial",
+      "url": "https://www.schuttefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Dechtman Wealth Management",
+      "url": "https://dechtmanwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 130
+    },
+    {
+      "name": "SHJ Wealth Advisors",
+      "url": "https://shjwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Mercer Advisors, LLC - formerly Transitions Wealth Management, LLC",
+      "url": "http://www.transitionswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    }
+  ],
+  "heroDescription": "Denver, the Mile High City, is known for its vibrant culture and outdoor lifestyle.",
+  "landscapeDescription": "Denver's economy is diverse, driven by technology, healthcare, and tourism. The city is a hub for startups and established companies alike.",
+  "majorIndustries": "Technology, Healthcare, Tourism",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Denver requires a focus on sustainable growth and infrastructure to support its expanding population.",
+  "citySpecificRiskAdvice": "Denver's tech sector is booming, but housing prices pose bubble risks. Natural disasters like wildfires and flooding are concerns; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Denver's GDP growth rate is projected at 4.2%, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Denver is $70,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Denver increasingly specialize in tech investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Denver's cost of living has risen by 5% due to housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Denver is $550,000, with a 10% increase year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Denver ranks as one of the top cities for startups, with a supportive business ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "640+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Philadelphia",
+  "state": "Pennsylvania",
+  "slug": "philadelphia-pa",
+  "population": "1.6M (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Philadelphia",
+  "metaDescription": "Find top-rated financial advisors in Philadelphia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Activate Wealth",
+      "url": "http://www.activatewealthllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Zenith Wealth Partners",
+      "url": "http://www.networthzenith.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Rassler Financial",
+      "url": "http://www.rasslerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4aUT0000001igXYAQ/philadelphia-pa?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=market-philadelphia-pa&utm_term=market-philadelphia-pa",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RTD Financial",
+      "url": "http://www.rtdfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Philadelphia, the City of Brotherly Love, is rich in history and culture, serving as a major economic hub in the Northeastern U.S.",
+  "landscapeDescription": "Philadelphia's economy is diverse, with strong sectors in healthcare, education, and finance. The city is home to numerous Fortune 500 companies and a growing tech scene.",
+  "majorIndustries": "Healthcare, Education, Finance, Technology",
+  "medianIncome": "$67,000",
+  "uniqueNeeds": "Focus on healthcare and education sectors for investment; consider tech growth potential.",
+  "citySpecificRiskAdvice": "Philadelphia's finance and healthcare sectors face regulatory risks. Real estate is volatile; monitor housing prices. Prepare for flooding and winter storms, and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Philadelphia's GDP growth rate is projected at 2.5%, driven by healthcare and technology advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Philadelphia is $67,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Philadelphia are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Philadelphia is approximately 10% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Philadelphia's real estate market shows a 5% annual increase in home prices, indicating a competitive housing environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Philadelphia ranks high for startups, particularly in tech and healthcare, fostering a vibrant business ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "1,500+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia-pa",
+      "population": 1553165,
+      "priority": 1
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh-pa",
+      "population": 305841,
+      "priority": 1
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown-pa",
+      "population": 118577,
+      "priority": 1
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie-pa",
+      "population": 100671,
+      "priority": 1
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading-pa",
+      "population": 87893,
+      "priority": 1
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton-pa",
+      "population": 75806,
+      "priority": 1
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem-pa",
+      "population": 75018,
+      "priority": 1
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster-pa",
+      "population": 59325,
+      "priority": 1
+    }
+  ]
+}

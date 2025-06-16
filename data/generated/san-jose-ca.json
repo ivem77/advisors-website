@@ -1,0 +1,178 @@
+{
+  "cityName": "San Jose",
+  "state": "California",
+  "slug": "san-jose-ca",
+  "population": "998K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in San Jose",
+  "metaDescription": "Find top-rated financial advisors in San Jose. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Investy Financial Services",
+      "url": "http://investyfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Silicon Valley Financial Group",
+      "url": "http://www.svfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Financial Journey Partners",
+      "url": "https://www.financialjourney.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Modern Wealth Management - Campbell",
+      "url": "https://modwm.com/locations/campbell-ca/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Flournoy Wealth Management",
+      "url": "https://www.flournoywealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "San Jose, the heart of Silicon Valley, is a tech-driven city with a diverse economy.",
+  "landscapeDescription": "With a population of 998,537, San Jose is a leading tech hub, fostering innovation and entrepreneurship. The economy is bolstered by a strong presence of technology firms and startups.",
+  "majorIndustries": "Technology, Manufacturing, Retail",
+  "medianIncome": "$116,000",
+  "uniqueNeeds": "High demand for tech talent and affordable housing solutions.",
+  "citySpecificRiskAdvice": "San Jose's tech focus poses risks of market volatility; housing prices may bubble. Diversify investments and prepare for earthquakes and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Jose's economy grew by 5.2%, driven by tech sector expansion and increased consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in San Jose is $116,000, reflecting the high cost of living and tech industry salaries."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Jose increasingly specialize in tech startups and wealth management for high-income individuals."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in San Jose is 30% higher than the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in San Jose is $1.3 million, indicating a competitive and high-demand real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Jose ranks highly for business innovation, attracting venture capital and fostering a startup-friendly ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "990+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

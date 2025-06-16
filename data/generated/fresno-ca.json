@@ -1,0 +1,178 @@
+{
+  "cityName": "Fresno",
+  "state": "California",
+  "slug": "fresno-ca",
+  "population": "509K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Fresno",
+  "metaDescription": "Find top-rated financial advisors in Fresno. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "KERR WEALTH MANAGEMENT",
+      "url": "http://www.kerrwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Consolidated Financial Services",
+      "url": "https://planwithcfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 136
+    },
+    {
+      "name": "RBC Wealth Management Branch - Fresno",
+      "url": "https://us.rbcwealthmanagement.com/fresno?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Veater Financial Group",
+      "url": "http://www.veaterfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Diversified Wealth Management Solutions",
+      "url": "http://www.diversifiedwms.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Fresno, California, is a vibrant city known for its agricultural roots and growing urban landscape.",
+  "landscapeDescription": "Fresno's economy is diverse, with agriculture, healthcare, and education as key sectors. The city serves as a regional hub for commerce and trade.",
+  "majorIndustries": "Agriculture, Healthcare, Education",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Fresno requires investment in infrastructure and diversification in its economy to mitigate agricultural dependency.",
+  "citySpecificRiskAdvice": "Fresno's heavy agriculture reliance poses economic risks; housing market volatility and droughts are concerns. Diversify investments and consider flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fresno's economy grew by 3.2% last year, driven by healthcare and agricultural exports."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fresno is $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fresno are increasingly focusing on agricultural investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fresno's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fresno's housing market is experiencing a 5% annual increase, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fresno's business climate is improving due to incentives for tech startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "500+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

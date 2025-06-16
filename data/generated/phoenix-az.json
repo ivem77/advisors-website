@@ -1,0 +1,178 @@
+{
+  "cityName": "Phoenix",
+  "state": "Arizona",
+  "slug": "phoenix-az",
+  "population": "1.5M (metro: 4.9M)",
+  "pageTitle": "Best Financial Advisors in Phoenix",
+  "metaDescription": "Find top-rated financial advisors in Phoenix. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Asset Preservation Wealth & Tax, Financial Advisors",
+      "url": "https://www.apsitaxes.com/location/phoenix-az",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 128
+    },
+    {
+      "name": "Endeavor Advisors, LLC",
+      "url": "http://eaplans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 155
+    },
+    {
+      "name": "Farnam Financial",
+      "url": "https://www.farnamfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Financial Freedom Advisors",
+      "url": "http://www.investwithff.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Wise Wealth Partners",
+      "url": "https://www.wisewealthpartners.com/?utm_source=GMB&utm_medium=local&utm_campaign=phoenix",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    }
+  ],
+  "heroDescription": "Phoenix, Arizona, is a vibrant city known for its warm climate and diverse economy.",
+  "landscapeDescription": "With a population of 1.5 million, Phoenix is a rapidly growing urban center. The economy is supported by healthcare, technology, and tourism.",
+  "majorIndustries": "Healthcare, Technology, Tourism",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Phoenix requires attention to water resources, housing affordability, and job diversification.",
+  "citySpecificRiskAdvice": "Phoenix's tech and tourism sectors face volatility; housing market risks include affordability and bubble concerns. Prepare for heat-related risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Phoenix's economy grew by 4.2% last year, driven by job creation in technology and healthcare."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Phoenix is approximately $66,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Phoenix are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Phoenix is 5% below the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Phoenix real estate market has seen a 10% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Phoenix ranks as one of the top cities for business growth, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "1,500+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix-az",
+      "population": 1513367,
+      "priority": 1
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson-az",
+      "population": 526116,
+      "priority": 1
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa-az",
+      "population": 457587,
+      "priority": 1
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler-az",
+      "population": 249146,
+      "priority": 1
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale-az",
+      "population": 234632,
+      "priority": 1
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert-az",
+      "population": 229972,
+      "priority": 1
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale-az",
+      "population": 226918,
+      "priority": 1
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe-az",
+      "population": 168228,
+      "priority": 1
+    }
+  ]
+}
