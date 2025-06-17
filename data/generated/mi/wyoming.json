@@ -1,0 +1,186 @@
+{
+  "cityName": "Wyoming",
+  "state": "Michigan",
+  "slug": "wyoming",
+  "population": "74K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Wyoming",
+  "metaDescription": "Find top-rated financial advisors in Wyoming. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Brenda S Kading-Payne, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brenda-kading-payne?y_source=1_NjQxODk1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David J Hibschman, CFP®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-hibschman?y_source=1_NjQxNjc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott Kline",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-kline?y_source=1_OTY4ODQzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "True Wealth Retirement Partners",
+      "url": "https://truewealthrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "JVL Wealth Strategies",
+      "url": "https://jvlwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Wyoming, Michigan is a vibrant city known for its diverse economy and strong community.",
+  "landscapeDescription": "Wyoming has a population of 74,100 and is part of the Grand Rapids metropolitan area. The city features a mix of manufacturing, retail, and healthcare industries.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Wyoming requires tailored financial strategies to address its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Wyoming's manufacturing sector faces economic volatility; diversify investments. Real estate may see fluctuations; monitor housing trends. Prepare for winter weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wyoming's economy is growing steadily, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wyoming is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wyoming are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wyoming's cost of living is below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Wyoming is stable, with moderate price growth and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wyoming's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

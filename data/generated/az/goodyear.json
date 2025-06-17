@@ -1,0 +1,186 @@
+{
+  "cityName": "Goodyear",
+  "state": "Arizona",
+  "slug": "goodyear",
+  "population": "1.7M (metro: 5.0M)",
+  "pageTitle": "Best Financial Advisors in Goodyear",
+  "metaDescription": "Find top-rated financial advisors in Goodyear. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Asset Preservation Wealth & Tax, Financial Advisors",
+      "url": "https://www.apsitaxes.com/location/goodyear-az?utm_source=google+business+profile&utm_medium=organic&utm_campaign=website+link",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Legacy Advisors - Raymond James",
+      "url": "http://raymondjames.com/legacy",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott M Wallace",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-wallace?y_source=1_OTY2ODY2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bruce A Wall Jr, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bruce-wall?y_source=1_MjM3MzI5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jodie L Edmunds, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jodie-edmunds?y_source=1_OTY2Mjc4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Goodyear, Arizona, is a rapidly growing city known for its family-friendly atmosphere and outdoor recreational opportunities.",
+  "landscapeDescription": "With a population of 72,864, Goodyear is part of the Phoenix metropolitan area, experiencing significant economic growth driven by diverse industries. The city is becoming a hub for logistics, healthcare, and retail.",
+  "majorIndustries": "Logistics, Healthcare, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Goodyear requires tailored financial advice focusing on growth management and real estate stability.",
+  "citySpecificRiskAdvice": "Goodyear's growth in logistics poses risks from economic downturns; real estate prices may bubble. Prepare for extreme heat and flooding risks. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Goodyear's economy is expanding, with a projected growth rate of 4.5% annually, driven by logistics and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Goodyear is $70,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Goodyear are increasingly focusing on real estate and retirement planning due to demographic shifts."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Goodyear's cost of living is approximately 5% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Goodyear's real estate market is competitive, with home values rising by 10% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Goodyear's business climate is favorable, with low taxes and incentives for new businesses contributing to its growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

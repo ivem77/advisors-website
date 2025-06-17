@@ -1,0 +1,186 @@
+{
+  "cityName": "Somerville",
+  "state": "Massachusetts",
+  "slug": "somerville",
+  "population": "78804 (metro: 4.9M)",
+  "pageTitle": "Best Financial Advisors in Somerville",
+  "metaDescription": "Find top-rated financial advisors in Somerville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Premium Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ4S0NYNpw44kRTqX-GDZD13I",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Beyond Your Hammock",
+      "url": "https://beyondyourhammock.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Shervin Sadr - Financial Planner",
+      "url": "http://baystatefinancialseaport.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Northeast Wealth Planners",
+      "url": "http://www.northeastwealthplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sandra Gilpatrick, CFP®, Wealth Consultant",
+      "url": "http://www.sandragilpatrick.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Somerville, MA, is a vibrant urban community known for its rich history, diverse culture, and thriving arts scene.",
+  "landscapeDescription": "With a population of 78,804, Somerville is part of the Greater Boston area, benefiting from a robust economy driven by technology, education, and healthcare sectors.",
+  "majorIndustries": "Technology, Education, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Somerville requires tailored financial strategies to address its unique urban challenges and opportunities.",
+  "citySpecificRiskAdvice": "Somerville's tech sector concentration poses risks; housing market volatility may indicate a bubble. Flooding is a concern; diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Somerville's economy is growing, driven by innovation and a strong labor market."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Somerville is $85,000, reflecting a well-educated workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Somerville are increasingly focusing on tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Somerville is above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Somerville's real estate market is competitive, with prices rising due to demand and limited supply."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Somerville's business climate is favorable, with support for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    }
+  ]
+}

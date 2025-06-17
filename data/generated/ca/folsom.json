@@ -1,0 +1,186 @@
+{
+  "cityName": "Folsom",
+  "state": "California",
+  "slug": "folsom",
+  "population": "73K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Folsom",
+  "metaDescription": "Find top-rated financial advisors in Folsom. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Wilczewski, CFP®|RICP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-wilczewski?y_source=1_ODE5NzkxMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Allworth Financial",
+      "url": "https://allworthfinancial.com/find-a-location/folsom?c3ch=business-listing&c3nid=google-my-business&utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Lake Tahoe Wealth Management, Inc.",
+      "url": "https://www.laketahoewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Leslie Roper Day & Associates",
+      "url": "http://www.leslieroperday.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Erin N Drennon, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/erin-drennon?y_source=1_MTAxNDA1NjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Folsom, California, is a vibrant city known for its rich history, outdoor recreation, and growing economy.",
+  "landscapeDescription": "Folsom boasts a diverse economy with strong technology and retail sectors. The city continues to attract new businesses and residents due to its quality of life.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Folsom requires tailored financial strategies to accommodate its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Folsom's tech focus necessitates diversification to mitigate market volatility. Real estate prices are rising, indicating potential bubble risks. Flooding is a concern; consider geographic investment ...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Folsom's economy has grown by 4% annually, driven by technology and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Folsom is $100,000, reflecting a well-educated workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Folsom are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Folsom's cost of living is 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Folsom's housing market is competitive, with home prices increasing by 10% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Folsom's business climate is favorable, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

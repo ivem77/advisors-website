@@ -1,0 +1,186 @@
+{
+  "cityName": "Tustin",
+  "state": "California",
+  "slug": "tustin",
+  "population": "78.3K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Tustin",
+  "metaDescription": "Find top-rated financial advisors in Tustin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Lee Norton, ChFC®|RICP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lee-norton?y_source=1_OTY1MzU3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sterling Wealth Partners",
+      "url": "http://www.sterlingwpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Haro Financial Services",
+      "url": "https://www.edwardharofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Parsonex Financial Services, Inc. - Tustin Office - John McCarthy, Branch President",
+      "url": "http://parsonex.com/tustin-ca/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Derick M Roberts",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/derick-roberts?y_source=1_ODYyMDQxNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Tustin, California, is a vibrant city in Orange County known for its rich history and diverse community.",
+  "landscapeDescription": "Tustin's economy is characterized by a mix of retail, healthcare, and technology sectors. The city benefits from its proximity to major metropolitan areas, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Tustin requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Tustin's tech sector growth necessitates diversification to mitigate volatility. Real estate prices are rising, posing bubble risks. Prepare for potential flooding and ensure economic resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tustin's economy is expanding, driven by retail and healthcare sectors, with a projected growth rate of 3.5% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Tustin's median household income is $85,000, reflecting a diverse economic base and a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tustin are increasingly specializing in real estate and tech investments to cater to local market demands."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tustin's cost of living is approximately 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Tustin's real estate market is competitive, with home prices rising by 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tustin's business climate is favorable, with supportive local policies and a growing number of startups in the tech sector."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

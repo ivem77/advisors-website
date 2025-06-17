@@ -1,0 +1,186 @@
+{
+  "cityName": "Brooklyn Park",
+  "state": "Minnesota",
+  "slug": "brooklyn-park",
+  "population": "78373",
+  "pageTitle": "Best Financial Advisors in Brooklyn Park",
+  "metaDescription": "Find top-rated financial advisors in Brooklyn Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Andrew Schneider - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/andrew.j.schneider/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Dorval & Chorne Financial",
+      "url": "http://www.dorvalchorne.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jayme M Kruse, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jayme-kruse?y_source=1_OTE5OTUwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "TopLine Investment Services",
+      "url": "http://www.toplineinvestments.com/location.cfm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "M2 Financial Group",
+      "url": "https://www.m2financialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Brooklyn Park, Minnesota, is a vibrant suburb of the Twin Cities, known for its parks and diverse community.",
+  "landscapeDescription": "The city has a growing economy driven by retail, healthcare, and manufacturing sectors. With a population of 78,373, it offers a blend of suburban living and urban amenities.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Brooklyn Park requires tailored financial advice due to its diverse population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Brooklyn Park's retail and healthcare focus necessitates diversification to mitigate economic downturns. Housing market volatility and potential flooding risks should be considered in investment strat...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Brooklyn Park's economy is expanding, with a focus on retail and healthcare sectors driving job growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Brooklyn Park is approximately $76,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Brooklyn Park are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Brooklyn Park is competitive, with housing costs being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Brooklyn Park is experiencing steady growth, with home values appreciating steadily."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Brooklyn Park has a favorable business climate, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

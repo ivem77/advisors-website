@@ -1,0 +1,186 @@
+{
+  "cityName": "St. Joseph",
+  "state": "Missouri",
+  "slug": "st-joseph",
+  "population": "77K (metro: 77147)",
+  "pageTitle": "Best Financial Advisors in St. Joseph",
+  "metaDescription": "Find top-rated financial advisors in St. Joseph. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Gertsema Wealth Advisors",
+      "url": "https://www.gertsema.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: James W Jones",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-jones?y_source=1_NjQxNTYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Heritage Investments",
+      "url": "http://www.heritage-inv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Logan Financial Services",
+      "url": "http://www.curtlogan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Colton G Saunders, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/colton-saunders?y_source=1_MTIwMzU2ODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "St. Joseph, Missouri, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "St. Joseph's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city is strategically located along major highways, enhancing its logistical advantages.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "St. Joseph requires economic diversification and infrastructure improvements to support growth.",
+  "citySpecificRiskAdvice": "St. Joseph's manufacturing focus poses economic risks; housing market stability is crucial amid tornado threats. Diversify investments to mitigate local downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Joseph's GDP growth rate has shown resilience, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Joseph is approximately $52,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Joseph are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), St. Joseph's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in St. Joseph is stable, with moderate price growth and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Joseph's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city",
+      "population": 467007,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis",
+      "population": 318416,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield",
+      "population": 164122,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence",
+      "population": 117240,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia",
+      "population": 115276,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit",
+      "population": 93184,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon",
+      "population": 82809,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph",
+      "population": 77147,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Kalamazoo",
+  "state": "Michigan",
+  "slug": "kalamazoo",
+  "population": "75.5K (metro: 250K)",
+  "pageTitle": "Best Financial Advisors in Kalamazoo",
+  "metaDescription": "Find top-rated financial advisors in Kalamazoo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CWS Financial Advisors, LLC",
+      "url": "http://www.cwsfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "HFG Financial Group LLC",
+      "url": "http://hfgfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Daus Financial Group",
+      "url": "http://www.dausfinancial.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "Harvard Financial Advisors",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJkXOkP-d2F4gRlRxHJI-iuH0",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Zhang Financial",
+      "url": "http://www.zhangfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    }
+  ],
+  "heroDescription": "Kalamazoo is a vibrant city in Michigan known for its rich history and diverse economy.",
+  "landscapeDescription": "Kalamazoo's economy is supported by healthcare, education, and manufacturing sectors. The city is strategically located between major urban centers, enhancing its economic potential.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Kalamazoo requires tailored financial strategies due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Kalamazoo's healthcare and education sectors dominate, risking over-reliance. Real estate may face volatility; consider diversification. Weather risks include snowstorms and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kalamazoo's economy has shown steady growth, particularly in healthcare and education sectors, contributing to job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Kalamazoo is approximately $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kalamazoo are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kalamazoo's cost of living is lower than the national average, making it an attractive location for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Kalamazoo real estate market is experiencing moderate growth, with home prices rising steadily but still affordable."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kalamazoo offers a supportive business climate with resources for startups, particularly in healthcare and technology."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

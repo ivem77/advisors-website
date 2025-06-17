@@ -1,0 +1,186 @@
+{
+  "cityName": "New Britain",
+  "state": "Connecticut",
+  "slug": "new-britain",
+  "population": "72.9K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in New Britain",
+  "metaDescription": "Find top-rated financial advisors in New Britain. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "James Beyer, AIF®, CLTC® | Financial Advisor Integrity Wealth",
+      "url": "https://www.integritywealthretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 368
+    },
+    {
+      "name": "J & J Financial Associates Llc",
+      "url": "http://www.jjtax.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Connecticut Wealth Management, LLC",
+      "url": "http://www.ctwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jim Collins - Financial Advisor - CFP",
+      "url": "https://www.ioninvestments.com/James--Collins,-CFPsup-sup.e1245630.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Boundless Financial Solutions",
+      "url": "http://www.boundlessfinancialsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "New Britain, Connecticut, is a vibrant city with a rich industrial history and a growing economy.",
+  "landscapeDescription": "Home to diverse industries, New Britain has a stable economic foundation. The city benefits from its proximity to Hartford and a skilled workforce.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Focus on economic diversification and sustainable development to enhance growth and resilience.",
+  "citySpecificRiskAdvice": "New Britain's manufacturing focus poses risks; diversify into tech and healthcare. Real estate prices are rising, indicating potential bubble risks. Prepare for winter storms and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Britain's economy has shown a steady growth rate of 3% annually, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Britain is $65,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Britain are increasingly focusing on retirement planning and investment strategies for middle-income families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), New Britain's cost of living is approximately 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in New Britain is experiencing a 5% annual increase in home values, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Britain has a favorable business climate, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Bridgeport",
+      "state": "Connecticut",
+      "slug": "bridgeport",
+      "population": 147216,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Haven",
+      "state": "Connecticut",
+      "slug": "new-haven",
+      "population": 130660,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Stamford",
+      "state": "Connecticut",
+      "slug": "stamford",
+      "population": 126456,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Hartford",
+      "state": "Connecticut",
+      "slug": "hartford",
+      "population": 125017,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Waterbury",
+      "state": "Connecticut",
+      "slug": "waterbury",
+      "population": 109676,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Norwalk",
+      "state": "Connecticut",
+      "slug": "norwalk",
+      "population": 87776,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Danbury",
+      "state": "Connecticut",
+      "slug": "danbury",
+      "population": 83684,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Britain",
+      "state": "Connecticut",
+      "slug": "new-britain",
+      "population": 72939,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Camden",
+  "state": "New Jersey",
+  "slug": "camden",
+  "population": "76.9K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in Camden",
+  "metaDescription": "Find top-rated financial advisors in Camden. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Haddonfield Financial Planning",
+      "url": "http://www.hfponline.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "M Financial Planning Services Inc",
+      "url": "https://www.mfinancial.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "The SHM Financial Group",
+      "url": "http://www.shmfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Lane Hipple Wealth Management Group",
+      "url": "https://www.lanehipple.com/?utm_campaign=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 65
+    },
+    {
+      "name": "Family Wealth Management",
+      "url": "http://www.familywealthadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    }
+  ],
+  "heroDescription": "Camden, NJ, is a vibrant city with a rich history and diverse community.",
+  "landscapeDescription": "Camden's economy is bolstered by healthcare, manufacturing, and education sectors. The city is undergoing revitalization, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Manufacturing, Education",
+  "medianIncome": "$40,000",
+  "uniqueNeeds": "Camden requires focused investment in infrastructure and community services to support its growing population.",
+  "citySpecificRiskAdvice": "Camden's reliance on healthcare and manufacturing poses risks; housing market volatility and flooding are concerns. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Camden's GDP growth is steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Camden is $40,000, reflecting economic challenges."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Camden focus on retirement planning and community investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Camden's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Camden's real estate market shows signs of recovery, with rising home values but still affordable options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Camden's business climate is improving, with incentives for startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    }
+  ]
+}

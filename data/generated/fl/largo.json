@@ -1,0 +1,186 @@
+{
+  "cityName": "Largo",
+  "state": "Florida",
+  "slug": "largo",
+  "population": "78409",
+  "pageTitle": "Best Financial Advisors in Largo",
+  "metaDescription": "Find top-rated financial advisors in Largo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Econologics Financial Advisors",
+      "url": "https://econologicsfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    },
+    {
+      "name": "Chambers Financial Group",
+      "url": "https://chambersfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brenda B Ehrke, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brenda-ehrke?y_source=1_OTY2Njc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Premier Planning Partners, Inc",
+      "url": "http://www.premierplanninginc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Belleair Private Wealth Management Group of Raymond James",
+      "url": "https://www.raymondjames.com/belleair",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Largo, Florida, is a vibrant city known for its community spirit and proximity to beautiful Gulf Coast beaches.",
+  "landscapeDescription": "With a population of 78,409, Largo has a diverse economy driven by healthcare, retail, and tourism. The city benefits from its strategic location in the Tampa Bay area.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Largo requires tailored financial advice due to its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Largo's economy relies on tourism and healthcare, posing risks during downturns. Real estate prices may be inflated due to demand; diversify investments. Prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Largo's economy has shown steady growth, with a focus on healthcare and retail sectors contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Largo is $54,000, reflecting a diverse socioeconomic landscape with a mix of retirees and working families."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Largo are increasingly specializing in retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Largo's cost of living is slightly below the national average, making it an attractive option for retirees and families alike."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Largo is competitive, with home prices rising due to demand and limited inventory, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Largo's business climate is favorable, with supportive local policies encouraging small business growth and innovation in key sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

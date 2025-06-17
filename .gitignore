@@ -61,3 +61,6 @@ test-output/
 __pycache__
 *.pyc
 .venv
+
+# Firebase
+*.cache
