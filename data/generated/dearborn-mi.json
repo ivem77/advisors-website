@@ -1,0 +1,178 @@
+{
+  "cityName": "Dearborn",
+  "state": "Michigan",
+  "slug": "dearborn-mi",
+  "population": "95884",
+  "pageTitle": "Best Financial Advisors in Dearborn",
+  "metaDescription": "Find top-rated financial advisors in Dearborn. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Elder Financial Consultants",
+      "url": "https://www.andyelder.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 92
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Norm Turfe",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/norm-turfe?y_source=1_NjQxMDM4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/mi/se-michigan",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Peak Wealth Management, LLC",
+      "url": "http://peakwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 118
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor Steven Schweickart",
+      "url": "https://advisor.ml.com/sites/mi/se-michigan/hankinsgroup",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Dearborn, Michigan, is a vibrant city known for its rich cultural heritage and strong automotive industry.",
+  "landscapeDescription": "With a population of 95,884, Dearborn is a key player in the automotive sector, bolstered by its proximity to Detroit. The economy is diversifying, with growth in technology and healthcare.",
+  "majorIndustries": "Automotive, Manufacturing, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Dearborn's diverse population requires tailored financial services and community-focused investment strategies.",
+  "citySpecificRiskAdvice": "Dearborn's automotive focus poses risks; diversify into tech and healthcare. Real estate may face volatility; monitor housing trends. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dearborn's economy is expanding, driven by automotive innovation and a growing tech sector."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dearborn is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dearborn are increasingly specializing in retirement planning and asset management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Dearborn's cost of living is competitive, with housing costs being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Dearborn's real estate market shows steady appreciation, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dearborn offers a supportive business climate, particularly for startups in tech and manufacturing."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

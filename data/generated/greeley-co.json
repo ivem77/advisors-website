@@ -1,0 +1,178 @@
+{
+  "cityName": "Greeley",
+  "state": "Colorado",
+  "slug": "greeley-co",
+  "population": "965K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Greeley",
+  "metaDescription": "Find top-rated financial advisors in Greeley. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Millennium Financial",
+      "url": "http://www.mfinco.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Eves & Haines Wealth Management",
+      "url": "http://www.eveshaines.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Intrinsic Financial Design Group",
+      "url": "http://www.intrinsicfdg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Master's Financial Group",
+      "url": "https://www.mastersfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Legacy Financial Services",
+      "url": "http://legacyfinancialservices.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Greeley, Colorado, is a vibrant city known for its agricultural roots and growing economic landscape.",
+  "landscapeDescription": "With a population of 96,539, Greeley is experiencing steady growth driven by agriculture, healthcare, and education. The city is diversifying its economy to attract new industries.",
+  "majorIndustries": "Agriculture, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Greeley requires investment in infrastructure and diversification of its economic base to support its growing population.",
+  "citySpecificRiskAdvice": "Greeley's agricultural focus poses risks from climate change and market volatility. Housing demand may lead to bubble risks; diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Greeley's economy is projected to grow by 3.5% annually, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Greeley is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Greeley are increasingly specializing in retirement planning and agricultural investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Greeley's cost of living is 10% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Greeley's real estate market has seen a 12% increase in home prices over the past year, indicating rising demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Greeley is ranked as one of the top cities for small business growth, supported by local government initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

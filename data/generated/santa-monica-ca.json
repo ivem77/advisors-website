@@ -1,0 +1,178 @@
+{
+  "cityName": "Santa Monica",
+  "state": "California",
+  "slug": "santa-monica-ca",
+  "population": "92.5K (metro: 13.1M)",
+  "pageTitle": "Best Financial Advisors in Santa Monica",
+  "metaDescription": "Find top-rated financial advisors in Santa Monica. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WINDFALL FINANCIAL ADVISORS, Fee-Only, Fiduciary",
+      "url": "https://www.windfalladvisors.com/?utm_source=GBP&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "WellAcre Global Wealth Advisors | Certified Financial Planner Santa Monica, CA",
+      "url": "https://www.wellacrewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Angeles Investment Advisors",
+      "url": "https://www.angelesinvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Provident Financial Management",
+      "url": "http://providentfm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Abacus Wealth Partners",
+      "url": "https://abacuswealth.com/financial-advisors-in-santa-monica/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Santa Monica, California, is a vibrant coastal city known for its beautiful beaches, thriving economy, and cultural attractions.",
+  "landscapeDescription": "Santa Monica's economy is driven by tourism, technology, and entertainment, making it a key player in the Los Angeles metropolitan area. The city boasts a high quality of life with a diverse population and robust job market.",
+  "majorIndustries": "Tourism, Technology, Entertainment",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Santa Monica requires a focus on sustainable development, affordable housing, and resilience against natural disasters.",
+  "citySpecificRiskAdvice": "Santa Monica's tech and tourism reliance poses economic risks; housing market volatility and coastal flooding are concerns. Diversify investments to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Santa Monica's economy has seen a 4% growth rate, driven by tech and tourism sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Santa Monica is $85,000, reflecting a high standard of living."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Santa Monica are increasingly specializing in tech investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Santa Monica's cost of living is 30% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Santa Monica's real estate market remains competitive, with median home prices around $1.5 million."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Santa Monica is recognized for its supportive business climate, particularly for startups and tech firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

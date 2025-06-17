@@ -1,0 +1,178 @@
+{
+  "cityName": "Fort Smith",
+  "state": "Arkansas",
+  "slug": "fort-smith-ar",
+  "population": "87.7K (metro: 876.5K)",
+  "pageTitle": "Best Financial Advisors in Fort Smith",
+  "metaDescription": "Find top-rated financial advisors in Fort Smith. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Old Fort Wealth Management",
+      "url": "https://www.oldfortwm.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "United Financial Advisors",
+      "url": "http://www.ufadvisors.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "McMillan Financial Services, Inc",
+      "url": "http://www.mcmillanfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "October Wealth Advisors",
+      "url": "http://www.octwealth.com",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Stephen McAdams, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/stephen-mcadams?y_source=1_NjQyNDU0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Fort Smith, Arkansas, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Fort Smith's economy is supported by manufacturing, healthcare, and retail sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Fort Smith requires tailored financial advice to navigate its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Fort Smith's manufacturing focus poses risks; diversify investments. Real estate is stable but watch for market fluctuations. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Smith's GDP growth rate is 3.2%, driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Fort Smith is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Smith are increasingly focusing on retirement planning and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fort Smith's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Fort Smith have increased by 5% over the past year, indicating a stable market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Smith's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock-ar",
+      "population": 197357,
+      "priority": 1
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith-ar",
+      "population": 87650,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville-ar",
+      "population": 78960,
+      "priority": 1
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale-ar",
+      "population": 75229,
+      "priority": 1
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro-ar",
+      "population": 71551,
+      "priority": 1
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock-ar",
+      "population": 66075,
+      "priority": 1
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway-ar",
+      "population": 63816,
+      "priority": 1
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers-ar",
+      "population": 60112,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "New Bedford",
+  "state": "Massachusetts",
+  "slug": "new-bedford-ma",
+  "population": "95K (metro: 950K)",
+  "pageTitle": "Best Financial Advisors in New Bedford",
+  "metaDescription": "Find top-rated financial advisors in New Bedford. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Christopher Resendes Financial Planner",
+      "url": "http://calendly.com/cresendes",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "SouthCoast Financial Group",
+      "url": "https://www.southcoastfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "David Westgate-Medicare and Financial Services",
+      "url": "https://retirementroadmap.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "A.G. Quintal Investment Company Inc.",
+      "url": "http://www.quintalinvestment.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Coastal Financial",
+      "url": "http://www.coastalfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "New Bedford, MA, is a historic city known for its rich maritime heritage and vibrant arts scene.",
+  "landscapeDescription": "New Bedford's economy is diverse, with strong sectors in fishing, manufacturing, and healthcare. The city is also experiencing growth in tourism and renewable energy.",
+  "majorIndustries": "Fishing, Manufacturing, Healthcare",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "New Bedford requires investment in infrastructure and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "New Bedford's reliance on fishing and manufacturing poses economic risks. Real estate may face volatility; consider diversifying investments. Be cautious of flooding and hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Bedford's economy has seen a 3% growth rate, driven by tourism and renewable energy sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Bedford is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Bedford are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), New Bedford's cost of living is approximately 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in New Bedford have increased by 5% year-over-year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Bedford's business climate is improving, with incentives for startups in renewable energy and tech."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston-ma",
+      "population": 645966,
+      "priority": 1
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester-ma",
+      "population": 182544,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield-ma",
+      "population": 153703,
+      "priority": 1
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell-ma",
+      "population": 108861,
+      "priority": 1
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge-ma",
+      "population": 107289,
+      "priority": 1
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford-ma",
+      "population": 95078,
+      "priority": 1
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton-ma",
+      "population": 94089,
+      "priority": 1
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy-ma",
+      "population": 93494,
+      "priority": 1
+    }
+  ]
+}

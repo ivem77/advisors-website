@@ -1,0 +1,178 @@
+{
+  "cityName": "Bend",
+  "state": "Oregon",
+  "slug": "bend-or",
+  "population": "81.2K (metro: 812.4K)",
+  "pageTitle": "Best Financial Advisors in Bend",
+  "metaDescription": "Find top-rated financial advisors in Bend. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cascade Financial Strategies, LLC.",
+      "url": "http://cascadefs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Strategic Wealth Management, LLC",
+      "url": "http://www.strategicwealthmanagement.llc/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Bend Wealth Advisors",
+      "url": "https://www.raymondjames.com/bendwealthadvisors",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Axiom Wealth Strategies",
+      "url": "http://www.axiomwealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "AGP Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/agp-wealth-advisors/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Bend, Oregon, is a vibrant city known for its stunning natural landscapes and outdoor recreational opportunities.",
+  "landscapeDescription": "Bend's economy is primarily driven by tourism, healthcare, and technology. The city has seen significant growth due to its appealing lifestyle and outdoor activities.",
+  "majorIndustries": "Tourism, Healthcare, Technology",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Bend's unique needs include sustainable tourism management and affordable housing solutions.",
+  "citySpecificRiskAdvice": "Bend's tech growth poses concentration risks; rapid real estate appreciation may lead to a bubble. Prepare for wildfires and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bend's economy has expanded by 4% annually, driven by tourism and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bend is $68,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bend are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bend's cost of living has risen by 3% due to housing demand and inflation."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bend's real estate market is competitive, with home prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bend's business climate is favorable, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

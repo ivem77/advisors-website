@@ -1,0 +1,178 @@
+{
+  "cityName": "Sunrise",
+  "state": "Florida",
+  "slug": "sunrise-fl",
+  "population": "90116",
+  "pageTitle": "Best Financial Advisors in Sunrise",
+  "metaDescription": "Find top-rated financial advisors in Sunrise. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Aspire Financial Partners",
+      "url": "https://www.aspire-fp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Northstar Financial Planners",
+      "url": "http://www.northstarplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Tobias Financial Advisors",
+      "url": "http://tobiasfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Financial Strategies Group",
+      "url": "https://fsgplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Manny Rivera: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/fl/sunrise/manny-rivera?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 68
+    }
+  ],
+  "heroDescription": "Sunrise, Florida, is a vibrant city known for its diverse community and growing economy.",
+  "landscapeDescription": "With a population of 90,116, Sunrise is part of the Miami metropolitan area, benefiting from its proximity to major urban centers. The economy is bolstered by retail, healthcare, and tourism.",
+  "majorIndustries": "Retail, Healthcare, Tourism",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Sunrise requires tailored financial advice due to its diverse economy and demographic shifts.",
+  "citySpecificRiskAdvice": "Sunrise's retail and tourism reliance poses economic risks. Real estate is booming, raising bubble concerns. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sunrise's economy is expanding, with a focus on retail and healthcare sectors driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sunrise is approximately $60,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sunrise are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sunrise's cost of living is moderate, with housing costs rising due to demand in the Miami metro area."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Sunrise is competitive, with home prices increasing significantly over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sunrise offers a favorable business climate, attracting new retail and healthcare investments."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

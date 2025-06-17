@@ -1,0 +1,178 @@
+{
+  "cityName": "Sioux City",
+  "state": "Iowa",
+  "slug": "sioux-city-ia",
+  "population": "82.5K (metro: 824.5K)",
+  "pageTitle": "Best Financial Advisors in Sioux City",
+  "metaDescription": "Find top-rated financial advisors in Sioux City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "EFS Group Wealth Management",
+      "url": "http://www.efs4u.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "John Keane - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/john.p.keane/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Chad Robinson - Thrivent",
+      "url": "https://connect.thrivent.com/chad-robinson?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4Nzc0MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Thrivent - Abide Wealth Advisors",
+      "url": "https://connect.thrivent.com/abide-wealth-advisors",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Nate Colbert - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/nate.x.colbert/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Sioux City, Iowa, is a vibrant community with a rich cultural heritage and a growing economy.",
+  "landscapeDescription": "Sioux City has a diverse economy with strengths in healthcare, manufacturing, and agriculture. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Manufacturing, Agriculture",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Sioux City requires tailored financial planning due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Sioux City's economy is concentrated in agriculture and healthcare, posing risks during downturns. Real estate may face volatility; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sioux City's economy grew by 3.2% last year, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sioux City is $56,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sioux City are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sioux City's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Sioux City is experiencing a slight increase in home prices, with a 5% rise year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sioux City is fostering a supportive business climate with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines-ia",
+      "population": 207510,
+      "priority": 1
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids-ia",
+      "population": 128429,
+      "priority": 1
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport-ia",
+      "population": 102157,
+      "priority": 1
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city-ia",
+      "population": 82459,
+      "priority": 1
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city-ia",
+      "population": 71591,
+      "priority": 1
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo-ia",
+      "population": 68366,
+      "priority": 1
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs-ia",
+      "population": 61969,
+      "priority": 1
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames-ia",
+      "population": 61792,
+      "priority": 1
+    }
+  ]
+}

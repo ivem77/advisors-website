@@ -1,0 +1,178 @@
+{
+  "cityName": "Citrus Heights",
+  "state": "California",
+  "slug": "citrus-heights-ca",
+  "population": "85.3K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Citrus Heights",
+  "metaDescription": "Find top-rated financial advisors in Citrus Heights. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "GLH&C Financial Services",
+      "url": "http://www.glhcfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Buck Wealth Management, Inc.",
+      "url": "http://www.buckwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "CFS Wealth Advisors",
+      "url": "https://www.cfswealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Bangerter Financial Strategies, Inc.",
+      "url": "http://www.bangerterfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 107
+    },
+    {
+      "name": "Diligence Wealth Management, LLC",
+      "url": "http://www.diligencewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    }
+  ],
+  "heroDescription": "Citrus Heights, California, is a vibrant suburban city known for its family-friendly atmosphere and community-focused living.",
+  "landscapeDescription": "Citrus Heights has a diverse economy with a focus on retail, healthcare, and education. The city benefits from its proximity to Sacramento, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Citrus Heights requires tailored financial advice to navigate suburban growth and local economic shifts.",
+  "citySpecificRiskAdvice": "Citrus Heights' retail focus poses risks from e-commerce growth. Housing market volatility and flooding risks necessitate diversification in investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Citrus Heights has shown steady economic growth, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Citrus Heights stands at $66,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Citrus Heights are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Citrus Heights is moderate, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Citrus Heights has seen a 5% increase in home prices over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Citrus Heights offers a supportive business environment with incentives for local startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Lee's Summit",
+  "state": "Missouri",
+  "slug": "lee-s-summit-mo",
+  "population": "93.2K (metro: 2.4M)",
+  "pageTitle": "Best Financial Advisors in Lee's Summit",
+  "metaDescription": "Find top-rated financial advisors in Lee's Summit. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Freedom Wealth Advisors",
+      "url": "http://fwadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brian Ross, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brian-ross?y_source=1_ODE5Nzg0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Capital Investment Management",
+      "url": "http://www.cimretirementpros.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Rayhons Financial",
+      "url": "http://www.kanikfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joel Wilson, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joel-wilson?y_source=1_NDQ4NzE0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Lee's Summit, Missouri, is a vibrant suburban city known for its family-friendly atmosphere and strong community engagement.",
+  "landscapeDescription": "The economy of Lee's Summit is driven by a mix of retail, healthcare, and education sectors. Its proximity to Kansas City enhances its economic opportunities.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Lee's Summit requires a focus on sustainable growth, affordable housing, and infrastructure improvements to support its expanding population.",
+  "citySpecificRiskAdvice": "Lee's Summit's retail and healthcare focus may face economic downturn risks. Housing market appreciation raises bubble concerns, and tornado risks necessitate disaster preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lee's Summit has seen a steady economic growth rate of 3.5%, driven primarily by local retail and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Lee's Summit is approximately $75,000, reflecting a growing middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lee's Summit are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lee's Summit's cost of living is 5% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lee's Summit is competitive, with home prices rising 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lee's Summit offers a favorable business climate with low taxes and incentives for small businesses, fostering entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

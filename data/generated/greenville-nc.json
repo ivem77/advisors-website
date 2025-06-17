@@ -1,0 +1,178 @@
+{
+  "cityName": "Greenville",
+  "state": "North Carolina",
+  "slug": "greenville-nc",
+  "population": "89K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Greenville",
+  "metaDescription": "Find top-rated financial advisors in Greenville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Milestone Wealth",
+      "url": "http://www.milestonewealthusa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 54
+    },
+    {
+      "name": "Influx of Wealth, LLC",
+      "url": "https://www.influxofwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    },
+    {
+      "name": "Taunton Financial",
+      "url": "http://jtauntonfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Raymond James & Associates",
+      "url": "https://www.raymondjames.com/greenville-branch/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Walt Pate III",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/walt-pate?y_source=1_Mjg2NzYyNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Greenville, NC, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "With a population of 89,130, Greenville is experiencing steady economic growth, bolstered by healthcare and education sectors. The city's strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Greenville requires a focus on healthcare innovation and educational advancements to support its growing population.",
+  "citySpecificRiskAdvice": "Greenville's healthcare sector needs diversification to mitigate risks. Real estate prices are rising rapidly, indicating potential bubble risks. Prepare for flooding and hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Greenville's economy grew by 3.5% last year, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Greenville is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Greenville are increasingly specializing in retirement planning and healthcare investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Greenville is 10% lower than the national average, making it an attractive location."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Greenville have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Greenville's business climate is improving, with new incentives attracting startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

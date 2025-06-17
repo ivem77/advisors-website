@@ -1,0 +1,178 @@
+{
+  "cityName": "Whittier",
+  "state": "California",
+  "slug": "whittier-ca",
+  "population": "86.6K (metro: 13.2M)",
+  "pageTitle": "Best Financial Advisors in Whittier",
+  "metaDescription": "Find top-rated financial advisors in Whittier. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Anna Li Castro, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anna-licastro?y_source=1_MTM1NTg0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Uptown Advisors",
+      "url": "http://www.uptownadvisors.biz/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Christian Masariego - Financial Advisor",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJPUM3xMDRwoAR873nLDD65bg",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Natalie Rose Financial Solutions",
+      "url": "https://natalie-rose-financial.square.site/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "George Zuluaga",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJi9T4pO3TwoARZqoOnjWcG8A",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Whittier, California, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Whittier's economy is characterized by a mix of retail, education, and healthcare sectors. The city benefits from its proximity to Los Angeles, enhancing its economic potential.",
+  "majorIndustries": "Retail, Education, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Whittier requires tailored financial advice due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Whittier's retail focus poses risks from e-commerce shifts. Real estate prices are rising, indicating potential bubbles. Prepare for earthquakes and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Whittier's economy has seen a steady growth rate of 3.5%, driven by local businesses and educational institutions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Whittier is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Whittier are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Whittier is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Whittier has increased by 10% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Whittier's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

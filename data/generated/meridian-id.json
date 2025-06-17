@@ -1,0 +1,178 @@
+{
+  "cityName": "Meridian",
+  "state": "Idaho",
+  "slug": "meridian-id",
+  "population": "83.6K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Meridian",
+  "metaDescription": "Find top-rated financial advisors in Meridian. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Treasure Valley Financial Planning",
+      "url": "https://www.treasurevalleyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "Harris Financial Advisors",
+      "url": "http://www.hfaboise.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Next Level Wealth Planning",
+      "url": "https://www.nlwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "White Cloud Wealth Management",
+      "url": "https://whitecloudwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bryant T Albi, ABFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bryant-albi?y_source=1_MTM5MjcxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 66
+    }
+  ],
+  "heroDescription": "Meridian, Idaho, is a rapidly growing city known for its family-friendly environment and vibrant community.",
+  "landscapeDescription": "Meridian's economy is diverse, with a strong emphasis on technology, healthcare, and retail. The city benefits from its proximity to Boise, enhancing its economic opportunities.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "Meridian's growth necessitates infrastructure investment and sustainable development to support its expanding population.",
+  "citySpecificRiskAdvice": "Meridian's tech sector growth poses diversification risks; housing market may face bubble concerns. Flooding is a risk; diversify investments to mitigate economic impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Meridian's economy has seen a growth rate of 5.2%, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Meridian is $78,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Meridian are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Meridian's cost of living is 10% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Meridian have increased by 12% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Meridian's business climate is favorable, with low taxes and incentives for startups and established businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city-id",
+      "population": 214237,
+      "priority": 1
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa-id",
+      "population": 86518,
+      "priority": 1
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian-id",
+      "population": 83596,
+      "priority": 1
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls-id",
+      "population": 58292,
+      "priority": 1
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello-id",
+      "population": 54350,
+      "priority": 1
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell-id",
+      "population": 48957,
+      "priority": 1
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene-id",
+      "population": 46402,
+      "priority": 1
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls-id",
+      "population": 45981,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Indio",
+  "state": "California",
+  "slug": "indio-ca",
+  "population": "83.5K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Indio",
+  "metaDescription": "Find top-rated financial advisors in Indio. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "United Capital Financial Advisors",
+      "url": "https://unitedcapitalwealth.com/location/palm-desert/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmdesert_ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Gregory Hill - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Gregory.Hill/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Rinker Financial",
+      "url": "http://www.rinkerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Amy H Jeandron",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/amy-jeandron?y_source=1_OTY5NjM1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Radiant Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/radiant-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Indio, California, is a vibrant city known for its rich cultural heritage and growing economy.",
+  "landscapeDescription": "Indio's economy is bolstered by tourism, agriculture, and retail, making it a key player in the Coachella Valley. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Tourism, Agriculture, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Indio's unique needs include affordable housing, sustainable tourism, and agricultural support.",
+  "citySpecificRiskAdvice": "Indio's tourism reliance poses risks during downturns. Real estate prices are rising, indicating potential bubbles. Prepare for flooding and heatwaves; diversify the economy to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Indio's economy has grown by 4.2% annually, driven by tourism and agricultural exports."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Indio is $55,000, reflecting the diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Indio increasingly focus on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Indio's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Indio has risen to $400,000, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Indio's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

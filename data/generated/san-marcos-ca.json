@@ -1,0 +1,178 @@
+{
+  "cityName": "San Marcos",
+  "state": "California",
+  "slug": "san-marcos-ca",
+  "population": "89K (metro: 893K)",
+  "pageTitle": "Best Financial Advisors in San Marcos",
+  "metaDescription": "Find top-rated financial advisors in San Marcos. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "DeVore Financial Advisors, LLC",
+      "url": "http://devorefa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wake Up Financial and Insurance Services Inc.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJcz-44a-K24AR8zuZKk4jRSo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "O'Reilly Wealth Advisors LLC",
+      "url": "https://www.oreillywealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Seaside Wealth Management",
+      "url": "http://www.seasidewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 56
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Thaddeus L Watkins, AAMS®|CRPC™|SE-AWMA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/thaddeus-watkins?y_source=1_MTc4NzgwODMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "San Marcos, California, is a vibrant city known for its rich culture and growing economy.",
+  "landscapeDescription": "San Marcos has a diverse economy with a focus on education, retail, and healthcare. The city is strategically located between major urban centers, enhancing its economic potential.",
+  "majorIndustries": "Education, Retail, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "The city requires tailored financial services to support its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "San Marcos' retail and education sectors face economic volatility. Housing prices are rising, indicating bubble risks. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Marcos has seen a 3.5% growth rate, driven by local businesses and educational institutions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Marcos is approximately $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Marcos are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in San Marcos is rising, with housing and utilities being the most significant contributors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the San Marcos real estate market is competitive, with home prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Marcos offers a favorable business climate with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

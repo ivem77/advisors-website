@@ -1,0 +1,178 @@
+{
+  "cityName": "Longview",
+  "state": "Texas",
+  "slug": "longview-tx",
+  "population": "81.4K (metro: 814.4K)",
+  "pageTitle": "Best Financial Advisors in Longview",
+  "metaDescription": "Find top-rated financial advisors in Longview. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Belonging Wealth Management - Fiduciary Financial Advisor",
+      "url": "https://belongingwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Sherwood Wealth Partners - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/sherwood-wealth-partners/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Rose Retirement Financial Services",
+      "url": "https://www.roseretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Forrest Williams",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/forrest-williams?y_source=1_OTY2ODU3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Eagle Capital Advisors",
+      "url": "https://eaglecapadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Longview, Texas, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Longview's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city benefits from its strategic location in East Texas, fostering regional trade.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Longview requires enhanced infrastructure and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "Longview's reliance on manufacturing poses economic risks; housing market shows signs of overvaluation. Monitor flood risks and diversify into tech and services.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Longview's GDP has shown steady growth, driven by increased manufacturing output and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Longview is $54,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Longview are increasingly focusing on retirement planning and investment strategies for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Longview's cost of living remains below the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Longview's real estate market is experiencing rising prices, indicating potential bubble risks in the housing sector."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Longview's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

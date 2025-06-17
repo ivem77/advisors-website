@@ -1,0 +1,178 @@
+{
+  "cityName": "Napa",
+  "state": "California",
+  "slug": "napa-ca",
+  "population": "79K (metro: 790K)",
+  "pageTitle": "Best Financial Advisors in Napa",
+  "metaDescription": "Find top-rated financial advisors in Napa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Napa Valley Financial",
+      "url": "http://www.napavalleyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Napa Wealth Management",
+      "url": "https://www.napawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Vintage Wealth Advisors",
+      "url": "http://www.vintage-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/ca/napa-ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/napa-branch?y_source=1_MjM2MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Napa, California, renowned for its wine country, boasts a vibrant economy and a rich cultural heritage.",
+  "landscapeDescription": "Napa's economy thrives on tourism, agriculture, and viticulture, with a growing focus on sustainable practices. The city is experiencing steady growth, driven by its unique offerings and proximity to the Bay Area.",
+  "majorIndustries": "Tourism, Agriculture, Viticulture",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Napa's economy requires a focus on sustainable tourism and agricultural practices to maintain its unique landscape.",
+  "citySpecificRiskAdvice": "Napa's tourism-heavy economy faces risks from climate change and natural disasters like wildfires. Real estate prices are high; consider diversifying investments to mitigate bubble risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Napa's economy has seen a 4% growth rate, driven primarily by tourism and agriculture."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Napa's median income is approximately $85,000, reflecting a mix of affluent residents and service industry workers."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Napa are increasingly specializing in sustainable investment strategies and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Napa's cost of living is 15% higher than the national average, driven by housing and service costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Napa's real estate market remains competitive, with median home prices around $700,000, reflecting high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Napa's business climate is favorable for small businesses, particularly in hospitality and local agriculture."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

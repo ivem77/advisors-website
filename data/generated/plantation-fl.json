@@ -1,0 +1,178 @@
+{
+  "cityName": "Plantation",
+  "state": "Florida",
+  "slug": "plantation-fl",
+  "population": "90K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in Plantation",
+  "metaDescription": "Find top-rated financial advisors in Plantation. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Tobias Financial Advisors",
+      "url": "http://tobiasfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northstar Financial Planners",
+      "url": "http://www.northstarplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Integrity Wealth Planning, Inc. - Financial Advisor",
+      "url": "http://www.integritywealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "The Saffer Financial Group, Inc.",
+      "url": "http://www.safferfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Pinnacle Financial Advisors of America LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJBQKij-sH2YgRzm8IO29JhBY",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Plantation, Florida, is a vibrant city known for its lush landscapes and diverse community.",
+  "landscapeDescription": "With a population of 90,268, Plantation boasts a robust economy supported by retail, healthcare, and professional services. The city is strategically located in the Fort Lauderdale metropolitan area, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Professional Services",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Plantation requires tailored financial strategies due to its diverse economy and demographic trends.",
+  "citySpecificRiskAdvice": "Plantation's retail and healthcare sectors face economic shifts; housing prices may indicate bubble risks. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Plantation's economy has shown resilience with a steady growth rate of 3.5% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Plantation is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Plantation are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Plantation is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Plantation is competitive, with home values rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Plantation's business environment is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

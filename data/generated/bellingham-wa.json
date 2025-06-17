@@ -1,0 +1,178 @@
+{
+  "cityName": "Bellingham",
+  "state": "Washington",
+  "slug": "bellingham-wa",
+  "population": "82.6K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Bellingham",
+  "metaDescription": "Find top-rated financial advisors in Bellingham. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Plan, Inc.",
+      "url": "https://financialplaninc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Skyline Advisors",
+      "url": "https://www.skylineadvisors.com/?utm_source=GBP&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Money Maven Financial",
+      "url": "https://www.moneymavenfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "West Invest",
+      "url": "https://www.west-invest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Trail Financial Planning LLC",
+      "url": "http://www.trailfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Bellingham, Washington, is a vibrant city known for its stunning natural beauty and strong community spirit.",
+  "landscapeDescription": "Bellingham's economy is diverse, with strengths in education, healthcare, and tourism. The city benefits from its proximity to the Canadian border and a growing tech sector.",
+  "majorIndustries": "Education, Healthcare, Tourism",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Bellingham requires attention to sustainable growth, especially in housing and environmental conservation.",
+  "citySpecificRiskAdvice": "Bellingham's tech sector growth needs diversification to mitigate risks. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bellingham's economy grew by 3.2%, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bellingham is approximately $65,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bellingham are increasingly focusing on retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bellingham's cost of living is rising, particularly in housing and transportation sectors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bellingham's housing market is competitive, with prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bellingham's business climate is favorable, with support for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

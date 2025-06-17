@@ -1,0 +1,178 @@
+{
+  "cityName": "Ogden",
+  "state": "Utah",
+  "slug": "ogden-ut",
+  "population": "84.2K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Ogden",
+  "metaDescription": "Find top-rated financial advisors in Ogden. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Peterson Wealth Services Inc",
+      "url": "http://petersonws.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "Von Colln Financial Group",
+      "url": "http://www.vcfinancialgroup.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ascend Investment Partners",
+      "url": "https://ascendinvestment.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cornerstone Financial and Associates, Inc.",
+      "url": "http://www.cornerstoneut.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Scott Smith - Raymond James",
+      "url": "http://raymondjames.com/ScottSmith",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Ogden, Utah, is a vibrant city known for its rich history and outdoor recreation opportunities.",
+  "landscapeDescription": "Ogden's economy is diverse, with significant contributions from manufacturing, healthcare, and retail. The city's strategic location enhances its appeal for logistics and trade.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Ogden requires tailored financial advice focusing on local industry dynamics and housing market trends.",
+  "citySpecificRiskAdvice": "Ogden's manufacturing sector poses concentration risks; housing market volatility may arise from rapid growth. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ogden's economy has shown a steady growth rate of 3.5% annually, driven by manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Ogden is $66,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ogden are increasingly focusing on retirement planning and investment strategies for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Ogden's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Ogden's real estate market has seen a 12% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ogden's business climate is favorable, with low taxes and incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city-ut",
+      "population": 191180,
+      "priority": 1
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city-ut",
+      "population": 133579,
+      "priority": 1
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo-ut",
+      "population": 116288,
+      "priority": 1
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan-ut",
+      "population": 110077,
+      "priority": 1
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem-ut",
+      "population": 91648,
+      "priority": 1
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy-ut",
+      "population": 90231,
+      "priority": 1
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden-ut",
+      "population": 84249,
+      "priority": 1
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george-ut",
+      "population": 76817,
+      "priority": 1
+    }
+  ]
+}

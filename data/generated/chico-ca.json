@@ -1,0 +1,178 @@
+{
+  "cityName": "Chico",
+  "state": "California",
+  "slug": "chico-ca",
+  "population": "88K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Chico",
+  "metaDescription": "Find top-rated financial advisors in Chico. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Embrace Wealth Management",
+      "url": "https://embracewealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Sweeney & Michel, LLC",
+      "url": "http://www.sweeneymichel.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Murray Financial Services",
+      "url": "http://murrayfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Asset Management Group",
+      "url": "https://www.amgchico.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Benito Abarca-Sanchez",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/benito-abarca-sanchez?y_source=1_OTAyOTUzOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Chico, California, is a vibrant city known for its rich agricultural heritage and growing tech sector.",
+  "landscapeDescription": "Chico's economy is diverse, with agriculture, education, and healthcare as key sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Agriculture, Education, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Chico requires sustainable growth strategies to manage its agricultural base and emerging tech sector.",
+  "citySpecificRiskAdvice": "Chico's agriculture and emerging tech sectors face volatility; housing market risks include affordability and potential bubbles. Prepare for droughts and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Chico's economy has grown by 3.2% over the past year, driven by agriculture and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Chico is approximately $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Chico are increasingly focusing on sustainable investments and local business growth."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Chico's cost of living is 10% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Chico's real estate market has seen a 5% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Chico's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

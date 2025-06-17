@@ -1,0 +1,178 @@
+{
+  "cityName": "Edmond",
+  "state": "Oklahoma",
+  "slug": "edmond-ok",
+  "population": "87004 (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Edmond",
+  "metaDescription": "Find top-rated financial advisors in Edmond. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Main Street Advisors",
+      "url": "https://mstadv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "ChappelWood Financial Services",
+      "url": "https://www.chappelwood.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Slate River Financial",
+      "url": "https://slateriverfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 151
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brett A Thompson, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brett-thompson?y_source=1_OTY3NDQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Chisholm Trail Wealth Planning",
+      "url": "https://www.chisholmtrailwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Edmond, Oklahoma, is a vibrant suburban city known for its strong community and quality of life.",
+  "landscapeDescription": "With a population of 87,004, Edmond has a diverse economy supported by education, healthcare, and retail. The city is part of the Oklahoma City metropolitan area, benefiting from regional growth.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Edmond requires tailored financial services to address its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Edmond's economy is vulnerable to education and healthcare sector fluctuations. Real estate prices may face bubble risks; diversify investments. Tornadoes pose natural disaster threats.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Edmond's economy has shown steady growth, driven by local education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Edmond is $75,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Edmond increasingly specialize in retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Edmond's cost of living is competitive, making it an attractive option for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Edmond is robust, with rising home values and demand for new constructions."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Edmond's business climate is favorable, supported by local incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

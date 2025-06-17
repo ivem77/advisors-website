@@ -1,0 +1,178 @@
+{
+  "cityName": "Lawrence",
+  "state": "Kansas",
+  "slug": "lawrence-ks",
+  "population": "90.8K (metro: 108.5K)",
+  "pageTitle": "Best Financial Advisors in Lawrence",
+  "metaDescription": "Find top-rated financial advisors in Lawrence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Rademacher Financial, Inc., An Independent Registered Investment Advisor",
+      "url": "http://www.rademacherfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ryan Shumaker DBA Retirement Team",
+      "url": "http://kansasretirementteam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Creative Planning",
+      "url": "https://creativeplanning.com/locations/lawrence-ks/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=lawrence_ks",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Clayton Wealth Partners",
+      "url": "https://claytonwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Living Wealth",
+      "url": "http://livingwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Lawrence, Kansas, is a vibrant city known for its rich history and strong educational institutions.",
+  "landscapeDescription": "Lawrence's economy is bolstered by its proximity to the University of Kansas, fostering innovation and a skilled workforce. The city enjoys a diverse economic base with significant contributions from education, healthcare, and retail.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Lawrence requires tailored financial services to support its educational institutions and growing tech sector.",
+  "citySpecificRiskAdvice": "Lawrence's reliance on education and retail poses risks; housing market volatility and flooding are concerns. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lawrence's economy grew by 3.5% last year, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lawrence is $60,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lawrence are increasingly focusing on education and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lawrence's cost of living is 10% lower than the national average, making it attractive for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lawrence's real estate market shows steady appreciation, with median home prices around $250,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lawrence's business climate is favorable, with support for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

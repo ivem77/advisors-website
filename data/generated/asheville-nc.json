@@ -1,0 +1,178 @@
+{
+  "cityName": "Asheville",
+  "state": "North Carolina",
+  "slug": "asheville-nc",
+  "population": "87K (metro: 87236)",
+  "pageTitle": "Best Financial Advisors in Asheville",
+  "metaDescription": "Find top-rated financial advisors in Asheville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Horizons Wealth Management",
+      "url": "https://www.horizonswealth.com/locations/asheville-nc/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "ACT Advisors Wealth Management",
+      "url": "https://act-advisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Black Balsam Wealth Advisors - Northwestern Mutual",
+      "url": "https://www.blackbalsamwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    },
+    {
+      "name": "TruNorth Advisors | Retirement Wealth Management Group",
+      "url": "http://www.retiretrunorth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Infinity Wealth Management, Inc.",
+      "url": "http://www.infinitywealthmanagementinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 66
+    }
+  ],
+  "heroDescription": "Asheville, NC, is a vibrant city known for its arts scene and historic architecture, nestled in the Blue Ridge Mountains.",
+  "landscapeDescription": "Asheville's economy is driven by tourism, healthcare, and manufacturing. The city has seen steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Tourism, Healthcare, Manufacturing",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Asheville's unique blend of arts and outdoor activities requires tailored financial planning for residents and businesses.",
+  "citySpecificRiskAdvice": "Asheville's tourism reliance poses economic risks; housing market bubbles may arise from demand. Prepare for flooding and storms; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Asheville's economy grew by 3.5% last year, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Asheville is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Asheville are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Asheville's cost of living is approximately 5% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Asheville's real estate market is competitive, with home prices rising 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Asheville is ranked as a top city for small business growth, with supportive local policies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

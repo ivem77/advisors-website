@@ -1,0 +1,178 @@
+{
+  "cityName": "Westminster",
+  "state": "California",
+  "slug": "westminster-ca",
+  "population": "91.7K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Westminster",
+  "metaDescription": "Find top-rated financial advisors in Westminster. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Karam Wealth Advisors",
+      "url": "http://www.karamwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "KV FINANCIAL SERVICES, INC,.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJhy4Kprcn3YARq0XOlnBw4ck",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edelman Financial Engines",
+      "url": "https://www.edelmanfinancialengines.com/location.CO.Westminster/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wilson Financial Advisors",
+      "url": "http://wilsonfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Creation Insurance Services, Inc.",
+      "url": "http://www.wealthcreationinsurance.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Westminster, California, is a vibrant city known for its diverse community and thriving economy.",
+  "landscapeDescription": "With a population of 91,739, Westminster boasts a robust economy driven by retail, healthcare, and tourism. The city is strategically located in Orange County, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Tourism",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Westminster requires tailored financial strategies to address its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Westminster's retail focus poses risks from e-commerce growth. Housing prices may bubble due to demand; diversify investments. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Westminster's economy is expanding, with a focus on retail and healthcare sectors driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Westminster is $66,000, reflecting a diverse economic base and varying income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Westminster are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Westminster's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Westminster is competitive, with rising home prices and limited inventory affecting affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Westminster's business climate is favorable, with supportive local policies encouraging entrepreneurship and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

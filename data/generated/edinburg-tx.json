@@ -1,0 +1,178 @@
+{
+  "cityName": "Edinburg",
+  "state": "Texas",
+  "slug": "edinburg-tx",
+  "population": "80836",
+  "pageTitle": "Best Financial Advisors in Edinburg",
+  "metaDescription": "Find top-rated financial advisors in Edinburg. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Libra Wealth Consultants",
+      "url": "https://librawealthconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Navarrete-Financial Advantage Consultants",
+      "url": "https://www.financialadvantageconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Jaime Rodriguez - Financial Advantage Consultants",
+      "url": "https://www.financialadvantageconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Endurance Financial Planning, LLC",
+      "url": "https://www.endurancefin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David H Salinas Jr",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-salinas?y_source=1_MTQ0NDI5MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Edinburg, Texas, is a vibrant city in the Rio Grande Valley, known for its rich culture and growing economy.",
+  "landscapeDescription": "With a population of 80,836, Edinburg is experiencing steady economic growth driven by healthcare, education, and retail sectors. The city benefits from its proximity to the Mexico border, enhancing trade and cultural exchange.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Edinburg requires tailored financial services to address its unique economic landscape and demographic diversity.",
+  "citySpecificRiskAdvice": "Edinburg's economy relies on healthcare and education; diversify to mitigate risks. Real estate is booming but may face bubble risks. Prepare for flooding and hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Edinburg's economy has grown by 3.5% annually, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Edinburg is $45,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Edinburg are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Edinburg's cost of living is 15% lower than the national average, making it affordable for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Edinburg have risen by 10% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Edinburg's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

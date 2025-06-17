@@ -1,0 +1,178 @@
+{
+  "cityName": "Champaign",
+  "state": "Illinois",
+  "slug": "champaign-il",
+  "population": "83.4K (metro: 234K)",
+  "pageTitle": "Best Financial Advisors in Champaign",
+  "metaDescription": "Find top-rated financial advisors in Champaign. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ruedi Wealth Management, Inc.",
+      "url": "http://ruediwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Advanced Financial Freedom",
+      "url": "http://advancedfinancialfreedom.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 57
+    },
+    {
+      "name": "Tenet Wealth Partners",
+      "url": "http://www.tenetwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Holder Wealth Management, Inc.",
+      "url": "http://www.holderwealthmgt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "LifeWise Wealth Advisors",
+      "url": "http://www.lifewisewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Champaign, Illinois, is a vibrant city known for its educational institutions and diverse economy.",
+  "landscapeDescription": "Champaign boasts a robust economy driven by education, technology, and healthcare. The city is home to the University of Illinois, which significantly influences local employment and innovation.",
+  "majorIndustries": "Education, Technology, Healthcare",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Champaign requires focus on tech diversification, affordable housing, and sustainable growth strategies.",
+  "citySpecificRiskAdvice": "Champaign's tech sector needs diversification to mitigate economic risks. Real estate may face bubble concerns due to rising prices; monitor local housing trends. Weather-related risks include tornado...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Champaign's economy has shown steady growth, driven primarily by educational services and tech innovation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Champaign is approximately $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Champaign are increasingly specializing in education and tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Champaign's cost of living is relatively low compared to national averages, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Champaign is experiencing upward pressure on prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Champaign's business climate is favorable, with support for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

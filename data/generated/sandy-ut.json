@@ -1,0 +1,178 @@
+{
+  "cityName": "Sandy",
+  "state": "Utah",
+  "slug": "sandy-ut",
+  "population": "90.2K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Sandy",
+  "metaDescription": "Find top-rated financial advisors in Sandy. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Net Worth Advisory Group",
+      "url": "https://networthadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "Heritage Wealth Management",
+      "url": "https://myheritagewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Legacy Private Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/legacy-private-wealth-advisors/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Trek Financial - Sandy Office",
+      "url": "http://trekfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Renaissance Financial",
+      "url": "https://www.renaissancefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Sandy, Utah, a vibrant city nestled in the Wasatch Range, offers a blend of outdoor recreation and urban amenities.",
+  "landscapeDescription": "Sandy's economy thrives on technology, retail, and healthcare sectors. The city is strategically located near Salt Lake City, enhancing its economic potential.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Sandy requires a focus on sustainable growth and diversification to mitigate risks from housing and natural disasters.",
+  "citySpecificRiskAdvice": "Sandy's tech sector needs diversification to reduce volatility. Rapid housing price increases pose bubble risks. Prepare for natural disasters like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sandy's economy has shown steady growth, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Sandy is approximately $85,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sandy increasingly focus on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sandy's cost of living is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Sandy's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sandy's business climate is favorable, with supportive policies for startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city-ut",
+      "population": 191180,
+      "priority": 1
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city-ut",
+      "population": 133579,
+      "priority": 1
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo-ut",
+      "population": 116288,
+      "priority": 1
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan-ut",
+      "population": 110077,
+      "priority": 1
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem-ut",
+      "population": 91648,
+      "priority": 1
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy-ut",
+      "population": 90231,
+      "priority": 1
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden-ut",
+      "population": 84249,
+      "priority": 1
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george-ut",
+      "population": 76817,
+      "priority": 1
+    }
+  ]
+}

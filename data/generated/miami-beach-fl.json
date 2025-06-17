@@ -1,0 +1,178 @@
+{
+  "cityName": "Miami Beach",
+  "state": "Florida",
+  "slug": "miami-beach-fl",
+  "population": "91K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Miami Beach",
+  "metaDescription": "Find top-rated financial advisors in Miami Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Miami Financial Advisors",
+      "url": "https://mannawealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Dean Clifford Wealth Advisory",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJMRBAde-12YgRubteMPCPi_o",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Merited Wealth",
+      "url": "http://meritedwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Miami Beach, a vibrant coastal city, is renowned for its art deco architecture, nightlife, and beautiful beaches.",
+  "landscapeDescription": "The economy of Miami Beach is primarily driven by tourism, hospitality, and real estate. The city attracts millions of visitors annually, contributing to its robust economic landscape.",
+  "majorIndustries": "Tourism, Real Estate, Hospitality",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Miami Beach requires tailored financial advice due to its tourism reliance and real estate market volatility.",
+  "citySpecificRiskAdvice": "Miami Beach's tourism-heavy economy faces risks from hurricanes and flooding. Real estate prices may bubble; diversify investments and prepare for climate impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Miami Beach's economy grew by 3.5%, driven by a resurgence in tourism post-pandemic."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Miami Beach is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Miami Beach increasingly specialize in real estate and tourism-related investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Miami Beach is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Miami Beach's real estate market is competitive, with home values rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Miami Beach's business climate is favorable, with a focus on hospitality and tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

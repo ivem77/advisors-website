@@ -1,0 +1,178 @@
+{
+  "cityName": "Fishers",
+  "state": "Indiana",
+  "slug": "fishers-in",
+  "population": "83.9K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in Fishers",
+  "metaDescription": "Find top-rated financial advisors in Fishers. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RLS Wealth",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ3abKvICzFIgRK1Mnhv8_AAk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Geist Family Wealth",
+      "url": "http://geistfamilywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Guardian Wells Financial",
+      "url": "https://guardianwellsfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Riki Cooke, CFP® | Certified Financial Planner | Financial Advisor",
+      "url": "http://abundowealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Midwest Financial group, INC.",
+      "url": "http://www.dougsweet.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Fishers, Indiana, is a rapidly growing suburban community known for its vibrant economy and family-friendly atmosphere.",
+  "landscapeDescription": "Fishers has a diverse economy with strong growth in technology, healthcare, and retail sectors. Its proximity to Indianapolis enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Fishers requires tailored financial strategies to address its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Fishers' tech growth poses concentration risks; housing market shows signs of a bubble. Prepare for flooding risks and diversify investments across industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fishers has seen a 5% annual growth rate, driven by technology and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fishers is approximately $85,000, reflecting a growing affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fishers are increasingly focusing on tech and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Fishers is 10% lower than the national average, making it an attractive location."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fishers' real estate market has appreciated by 12% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fishers is recognized for its supportive business climate, with numerous incentives for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

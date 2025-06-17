@@ -1,0 +1,178 @@
+{
+  "cityName": "Mission Viejo",
+  "state": "California",
+  "slug": "mission-viejo-ca",
+  "population": "96.3K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Mission Viejo",
+  "metaDescription": "Find top-rated financial advisors in Mission Viejo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Sterling Financial Advisors",
+      "url": "http://www.sterlingfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Robert Brown",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/robert-brown?y_source=1_NjQxMTcyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Progressive Strategies Financial Group",
+      "url": "http://www.psfgwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Walker Financial Advisors Inc",
+      "url": "http://www.walkerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Strivent Financial",
+      "url": "https://striventfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Mission Viejo is a vibrant city in Orange County, known for its picturesque landscapes and family-friendly atmosphere.",
+  "landscapeDescription": "As a suburban community, Mission Viejo boasts a stable economy with a focus on retail, healthcare, and education. The city's strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Mission Viejo requires tailored financial advice to navigate its suburban market dynamics and demographic trends.",
+  "citySpecificRiskAdvice": "Mission Viejo's economy relies on retail and healthcare; diversify investments to mitigate local downturns. Watch for real estate bubble risks and prepare for potential wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Mission Viejo's economy has shown steady growth, driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Mission Viejo is approximately $100,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Mission Viejo is higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Mission Viejo is competitive, with home prices rising steadily due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Mission Viejo offers a favorable business climate, attracting small to medium enterprises in various sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

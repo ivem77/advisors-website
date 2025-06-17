@@ -1,0 +1,178 @@
+{
+  "cityName": "Bloomington",
+  "state": "Minnesota",
+  "slug": "bloomington-mn",
+  "population": "86.3K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Bloomington",
+  "metaDescription": "Find top-rated financial advisors in Bloomington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Webb Financial Group - Wealth Management",
+      "url": "http://www.webbfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Hance Financial, LLC",
+      "url": "http://www.hancefinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Clerestory Advisors, Inc.",
+      "url": "http://www.clerestoryadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Inspire Financial Services",
+      "url": "http://www.inspirefs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Boulevard Wealth Management",
+      "url": "https://blvdwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Bloomington, Minnesota, is a vibrant city known for its diverse economy and strong community.",
+  "landscapeDescription": "Bloomington boasts a robust economy with a mix of retail, healthcare, and finance sectors. The city is home to the Mall of America, a major economic driver.",
+  "majorIndustries": "Retail, Healthcare, Finance",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Bloomington requires tailored financial strategies to address retail fluctuations and healthcare demands.",
+  "citySpecificRiskAdvice": "Bloomington's retail focus poses risks from e-commerce shifts. Housing market may face bubble risks; diversify investments and prepare for winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bloomington's economy has shown steady growth, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bloomington is $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bloomington are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bloomington's cost of living is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Bloomington is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bloomington's business climate is favorable, with a strong emphasis on retail and service industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis-mn",
+      "population": 400070,
+      "priority": 1
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul-mn",
+      "population": 294873,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester-mn",
+      "population": 110742,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington-mn",
+      "population": 86319,
+      "priority": 1
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth-mn",
+      "population": 86128,
+      "priority": 1
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park-mn",
+      "population": 78373,
+      "priority": 1
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth-mn",
+      "population": 73987,
+      "priority": 1
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud-mn",
+      "population": 66297,
+      "priority": 1
+    }
+  ]
+}

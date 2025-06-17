@@ -1,0 +1,178 @@
+{
+  "cityName": "Redding",
+  "state": "California",
+  "slug": "redding-ca",
+  "population": "91K (metro: 911K)",
+  "pageTitle": "Best Financial Advisors in Redding",
+  "metaDescription": "Find top-rated financial advisors in Redding. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Scott M Brown, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-m-brown?y_source=1_OTYyNDYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Chris Hall, AAMS™, CPFA™ - Redding Financial Advisors",
+      "url": "https://reddingfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Jason Richart-LPL Financial",
+      "url": "https://reddingfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tiffany D Gilbert, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tiffany-gilbert?y_source=1_MTMwMDE1NTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Brian Scarr Investment Management LPL Financial, Financial Advisor",
+      "url": "https://www.investredding.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Redding, California, is a vibrant city known for its natural beauty and growing economy.",
+  "landscapeDescription": "Redding's economy is diverse, with strengths in healthcare, retail, and tourism. The city serves as a regional hub for Northern California.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Redding requires sustainable growth strategies to manage its natural resources and support community development.",
+  "citySpecificRiskAdvice": "Redding's economy relies on tourism and healthcare, risking over-dependence. Housing prices are rising, indicating bubble risks. Prepare for wildfires and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Redding's GDP growth has been steady, driven by healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Redding is $61,000, reflecting a modest economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Redding are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Redding's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Redding's real estate market shows rising home prices, indicating potential bubble concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Redding's business climate is improving, with support for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

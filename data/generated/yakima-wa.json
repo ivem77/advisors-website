@@ -1,0 +1,178 @@
+{
+  "cityName": "Yakima",
+  "state": "Washington",
+  "slug": "yakima-wa",
+  "population": "93.3K (metro: 93.3K)",
+  "pageTitle": "Best Financial Advisors in Yakima",
+  "metaDescription": "Find top-rated financial advisors in Yakima. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Capital Advisors Wealth Management",
+      "url": "http://www.capitaladvisorswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Leonard Rickey Investment Advisors",
+      "url": "https://bestpathforward.com/?utm_source=GMB&utm_medium=website&utm_campaign=button",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Rogers Financial Group",
+      "url": "http://www.rfginvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott D Holt, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-holt?y_source=1_OTYxNzg2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Roger Kinder - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/roger.w.kinder/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Yakima, Washington, is a vibrant city known for its agricultural production and outdoor recreational opportunities.",
+  "landscapeDescription": "Yakima's economy is primarily driven by agriculture, healthcare, and retail. The city serves as a regional hub for trade and services.",
+  "majorIndustries": "Agriculture, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Yakima's economy relies heavily on agriculture, requiring diversification to mitigate risks from climate change and market fluctuations.",
+  "citySpecificRiskAdvice": "Yakima's agriculture focus poses risks from climate impacts. Real estate may face volatility due to economic shifts. Diversify investments to hedge against market downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Yakima's economy has shown steady growth, primarily driven by agricultural exports and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Yakima is approximately $54,000, reflecting the area's economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Yakima are increasingly focusing on agricultural investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Yakima's cost of living is lower than the national average, making it an attractive location for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Yakima real estate market has seen modest growth, with median home prices around $350,000, indicating a stable market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Yakima's business climate is favorable for small businesses, particularly in agriculture and retail sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

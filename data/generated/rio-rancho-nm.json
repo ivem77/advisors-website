@@ -1,0 +1,171 @@
+{
+  "cityName": "Rio Rancho",
+  "state": "New Mexico",
+  "slug": "rio-rancho-nm",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Rio Rancho",
+  "metaDescription": "Find top-rated financial advisors in Rio Rancho. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Oakmont Advisory Group - Fiduciary Financial Advisor, Albuquerque, NM",
+      "url": "https://oakmontadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Legacy Financial Group",
+      "url": "http://www.legacyfg.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Intelligent Investing Inc.",
+      "url": "https://mynmfp.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Jose V. Sanchez, A Flat Fee Certified Financial Planner Professional in Albuquerque New Mexico",
+      "url": "https://josevsanchez.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Radcliff Financial Works, LLC",
+      "url": "http://www.radcliff.works/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Rio Rancho, NM, a growing city in the Albuquerque metropolitan area, offers a blend of suburban living and economic opportunities.",
+  "landscapeDescription": "With a population of 91,956, Rio Rancho is experiencing steady growth, driven by its proximity to Albuquerque and a diverse economy. The city is becoming a hub for technology, healthcare, and retail.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Rio Rancho requires tailored financial planning to address its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Rio Rancho's tech growth poses concentration risks; housing market shows signs of bubble. Prepare for flooding risks and diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rio Rancho's economy is expanding, with a focus on technology and healthcare sectors driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rio Rancho is approximately $66,000, reflecting a growing middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rio Rancho are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Rio Rancho is lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Rio Rancho is competitive, with rising home prices indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rio Rancho offers a favorable business climate with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque-nm",
+      "population": 556495,
+      "priority": 1
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces-nm",
+      "population": 101324,
+      "priority": 1
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho-nm",
+      "population": 91956,
+      "priority": 1
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe-nm",
+      "population": 69976,
+      "priority": 1
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell-nm",
+      "population": 48611,
+      "priority": 1
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington-nm",
+      "population": 45426,
+      "priority": 1
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis-nm",
+      "population": 39508,
+      "priority": 1
+    }
+  ]
+}

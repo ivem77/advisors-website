@@ -1,0 +1,178 @@
+{
+  "cityName": "Livonia",
+  "state": "Michigan",
+  "slug": "livonia-mi",
+  "population": "95.2K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Livonia",
+  "metaDescription": "Find top-rated financial advisors in Livonia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial & Portfolio Advisors, Ltd.",
+      "url": "https://fipfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Mercer Advisors - Livonia",
+      "url": "https://www.merceradvisors.com/location/livonia/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Peak Wealth Management, LLC",
+      "url": "http://peakwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 118
+    },
+    {
+      "name": "Jacobs Financial Services LLC",
+      "url": "https://jacobsfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Raymond James | Livonia",
+      "url": "http://www.raymondjames.com/livonia",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Livonia, Michigan, is a vibrant suburban city known for its strong community and economic stability.",
+  "landscapeDescription": "Livonia's economy is diverse, with a mix of manufacturing, retail, and healthcare sectors. The city benefits from its proximity to Detroit, enhancing its economic opportunities.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Livonia requires tailored financial advice due to its suburban dynamics and economic diversity.",
+  "citySpecificRiskAdvice": "Livonia's manufacturing focus poses risks; diversify investments. Real estate may face bubble concerns. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Livonia's economy has shown steady growth, driven by a resurgence in manufacturing and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Livonia is approximately $70,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Livonia are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Livonia's cost of living is competitive, with housing costs slightly below the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Livonia's real estate market is stable, with moderate appreciation rates and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Livonia's business climate is favorable, attracting small to medium enterprises and fostering innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

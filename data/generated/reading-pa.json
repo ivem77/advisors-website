@@ -1,0 +1,178 @@
+{
+  "cityName": "Reading",
+  "state": "Pennsylvania",
+  "slug": "reading-pa",
+  "population": "87.9K (metro: 0.4M)",
+  "pageTitle": "Best Financial Advisors in Reading",
+  "metaDescription": "Find top-rated financial advisors in Reading. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Kaufman Financial Services",
+      "url": "http://www.kaufmanfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Hyde Financial Group LLC",
+      "url": "http://www.hydefinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Spring Ridge Financial Group",
+      "url": "http://www.springridgefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Planning Advisors Inc",
+      "url": "http://www.financialpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Crossroads Advisors Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/crossroads-advisors-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Reading, Pennsylvania, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Reading's economy is bolstered by manufacturing, healthcare, and retail sectors. The city serves as a regional hub with a growing population and workforce.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Reading requires tailored financial planning due to its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Reading's manufacturing focus poses risks; diversify investments to mitigate economic downturns. Housing market shows volatility; consider long-term stability over short-term gains.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Reading's GDP growth has been steady, driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Reading is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Reading are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Reading's cost of living is approximately 10% lower than the national average, making it affordable."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Reading's real estate market is experiencing fluctuations with a current average home price of $180,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Reading's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia-pa",
+      "population": 1553165,
+      "priority": 1
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh-pa",
+      "population": 305841,
+      "priority": 1
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown-pa",
+      "population": 118577,
+      "priority": 1
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie-pa",
+      "population": 100671,
+      "priority": 1
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading-pa",
+      "population": 87893,
+      "priority": 1
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton-pa",
+      "population": 75806,
+      "priority": 1
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem-pa",
+      "population": 75018,
+      "priority": 1
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster-pa",
+      "population": 59325,
+      "priority": 1
+    }
+  ]
+}

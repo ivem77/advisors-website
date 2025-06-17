@@ -1,0 +1,178 @@
+{
+  "cityName": "Davie",
+  "state": "Florida",
+  "slug": "davie-fl",
+  "population": "96.8K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Davie",
+  "metaDescription": "Find top-rated financial advisors in Davie. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Tobias Financial Advisors",
+      "url": "http://tobiasfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northstar Financial Planners",
+      "url": "http://www.northstarplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Integrity Wealth Planning, Inc. - Financial Advisor",
+      "url": "http://www.integritywealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Everest Financial Advisors",
+      "url": "https://www.everestfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Davie, Florida, is a vibrant community known for its equestrian culture and suburban charm.",
+  "landscapeDescription": "Davie boasts a diverse economy with strengths in education, retail, and healthcare. The city benefits from its proximity to Fort Lauderdale and Miami.",
+  "majorIndustries": "Education, Retail, Healthcare",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Davie requires a focus on sustainable growth and infrastructure development to support its expanding population.",
+  "citySpecificRiskAdvice": "Davie's economy relies on education and retail, posing risks of over-reliance. Real estate prices are rising quickly, raising bubble concerns. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Davie's economy is growing steadily, with a focus on service industries and education."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Davie is approximately $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Davie are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Davie's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Davie is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Davie offers a favorable business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

@@ -6,6 +6,10 @@ async function buildCitySite(citySlug) {
   console.log(`🏗️ Building site for ${citySlug}...`);
   
   try {
+    // Extract state code from city slug (e.g., 'tx' from 'houston-tx')
+    const stateCode = citySlug.split('-').pop();
+    const cityName = citySlug.substring(0, citySlug.lastIndexOf('-'));
+    
     // Read template files
     const htmlTemplate = await fs.readFile('./templates/index.html', 'utf8');
     const cssContent = await fs.readFile('./templates/styles.css', 'utf8');
@@ -19,11 +23,14 @@ async function buildCitySite(citySlug) {
     
     const cityData = await fs.readJson(cityDataPath);
     
+    // Add state code to city data for templates
+    cityData.stateCode = stateCode.toUpperCase();
+    
     // Process HTML template with Mustache
     const processedHtml = mustache.render(htmlTemplate, cityData);
     
-    // Create output directory
-    const outputDir = `./build/${citySlug}`;
+    // Create output directory with state code
+    const outputDir = `./build/${stateCode}/${citySlug}`;
     await fs.ensureDir(outputDir);
     
     // Write processed files
@@ -34,7 +41,7 @@ async function buildCitySite(citySlug) {
     // Copy assets directory
     await fs.copy('./assets', `${outputDir}/assets`);
     
-    console.log(`✅ Built ${citySlug} → build/${citySlug}/`);
+    console.log(`✅ Built ${citySlug} → build/${stateCode}/${citySlug}/`);
     
     return cityData;
     
@@ -70,6 +77,17 @@ async function generateIndexPage(citySlugs) {
     return a.name.localeCompare(b.name);
   });
   
+  // Create a map of states to cities for better organization
+  const citiesByState = {};
+  cities.forEach(city => {
+    if (!citiesByState[city.state]) {
+      citiesByState[city.state] = [];
+    }
+    // Add state code to city object for the link
+    city.stateCode = city.slug.split('-').pop();
+    citiesByState[city.state].push(city);
+  });
+
   const indexHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -177,18 +195,14 @@ async function generateIndexPage(citySlugs) {
     <p>Find top-rated financial advisors in major cities across the United States</p>
   </div>
 
-  ${Object.entries(
-    cities.reduce((acc, city) => {
-      if (!acc[city.state]) acc[city.state] = [];
-      acc[city.state].push(city);
-      return acc;
-    }, {})
-  ).map(([state, stateCities]) => `
+  ${Object.entries(citiesByState)
+    .sort(([stateA], [stateB]) => stateA.localeCompare(stateB))
+    .map(([state, stateCities]) => `
   <div class="state-section">
-    <div class="state-header">${state}</div>
+    <h2>${state}</h2>
     <div class="cities-grid">
       ${stateCities.map(city => `
-      <a href="${city.slug}/" class="city-card">
+      <a href="/${city.stateCode}/${city.slug}" class="city-card">
         <div class="city-name">${city.name}</div>
         <div class="city-state">${city.state}</div>
         <div class="city-stats">
@@ -219,60 +233,67 @@ async function generateIndexPage(citySlugs) {
 }
 
 async function buildAllSites() {
-  console.log('🏗️ Financial Advisor Static Site Builder');
-  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
-  
+  console.log('🏗️  Financial Advisor Static Site Builder');
+  console.log('━'.repeat(60) + '\n');
+
   try {
-    // Clean and create build directory
-    await fs.remove('./build');
+    // Clean build directory
+    console.log('🧹 Cleaning build directory...');
+    if (await fs.pathExists('./build')) {
+      await fs.remove('./build');
+    }
     await fs.ensureDir('./build');
-    console.log('🧹 Cleaned build directory');
     
-    // Get list of generated city data files
-    const generatedDir = './data/generated';
-    if (!await fs.pathExists(generatedDir)) {
-      console.error('❌ No generated data found. Run "npm run generate:demo" or "npm run generate" first.');
-      process.exit(1);
-    }
-    
-    const generatedFiles = await fs.readdir(generatedDir);
-    const citySlugs = generatedFiles
+    // Read all city JSON files
+    const cityFiles = await fs.readdir('./data/generated');
+    const citySlugs = cityFiles
       .filter(file => file.endsWith('.json'))
-      .map(file => path.basename(file, '.json'));
-    
+      .map(file => file.replace(/\.json$/, ''));
+
     if (citySlugs.length === 0) {
-      console.error('❌ No city data files found in ./data/generated/');
-      console.log('💡 Run "npm run generate:demo" to create demo data');
-      process.exit(1);
+      throw new Error('No city data found in data/generated/');
     }
-    
-    console.log(`📋 Found ${citySlugs.length} cities to build:`);
-    citySlugs.forEach(slug => console.log(`   • ${slug}`));
-    console.log('');
-    
-    // Build all city sites
-    let successCount = 0;
-    for (const citySlug of citySlugs) {
+
+    console.log(`🔍 Found ${citySlugs.length} cities to process\n`);
+
+    // Build sites for all cities
+    const results = [];
+    for (const slug of citySlugs) {
       try {
-        await buildCitySite(citySlug);
-        successCount++;
+        const cityData = await buildCitySite(slug);
+        results.push({ slug, success: true, data: cityData });
       } catch (error) {
-        console.error(`❌ Failed to build ${citySlug}: ${error.message}`);
+        console.error(`❌ Failed to build ${slug}:`, error.message);
+        results.push({ slug, success: false, error: error.message });
       }
     }
-    
-    // Generate index page
+
+    // Generate index page with all cities
     await generateIndexPage(citySlugs);
+
+    // Copy assets to root for the index page
+    await fs.copy('./assets', './build/assets');
+
+    // Print summary
+    const successCount = results.filter(r => r.success).length;
+    const failCount = results.length - successCount;
+
+    console.log('\n' + '━'.repeat(60));
+    console.log('🎉 Build Complete!');
+    console.log('━'.repeat(60));
+    console.log(`✅ Successfully built: ${successCount}/${results.length} cities`);
+    console.log(`📁 Static sites saved in: ${path.resolve('./build/')}/`);
+    console.log(`🌐 Index page: ${path.resolve('./build/index.html')}\n`);
     
-    console.log('\n🎉 Build Complete!');
-    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-    console.log(`✅ Successfully built: ${successCount}/${citySlugs.length} cities`);
-    console.log(`📁 Static sites saved in: ./build/`);
-    console.log(`🌐 Index page: ./build/index.html`);
-    console.log('\n💡 Next step: Run "npm run dev" to preview sites locally');
+    if (failCount > 0) {
+      console.log(`❌ Failed to build ${failCount} cities. Check logs for details.`);
+    }
+
+    console.log('💡 Next step: Run "npm run dev" to preview sites locally');
     
+    return results;
   } catch (error) {
-    console.error('\n❌ Build failed:', error.message);
+    console.error('❌ Build failed:', error.message);
     process.exit(1);
   }
 }
@@ -284,7 +305,6 @@ async function buildSingleCity(citySlug) {
     await fs.ensureDir('./build');
     await buildCitySite(citySlug);
     console.log('\n🎉 Single city build complete!');
-    
   } catch (error) {
     console.error('\n❌ Build failed:', error.message);
     process.exit(1);

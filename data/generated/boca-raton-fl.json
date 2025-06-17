@@ -1,0 +1,178 @@
+{
+  "cityName": "Boca Raton",
+  "state": "Florida",
+  "slug": "boca-raton-fl",
+  "population": "89.4K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Boca Raton",
+  "metaDescription": "Find top-rated financial advisors in Boca Raton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealthcare Financial",
+      "url": "http://askwealthcare.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    },
+    {
+      "name": "Rubin Wealth Advisors",
+      "url": "https://rubinwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Northwestern Mutual Striano Financial Group",
+      "url": "http://www.strianofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Eagle Harbor Advisors",
+      "url": "https://eagleharboradvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4aUT0000000li5YAA/boca-raton-fl?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=boca-raton&utm_term=boca-raton",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    }
+  ],
+  "heroDescription": "Boca Raton, Florida, is a vibrant coastal city known for its upscale living and business opportunities.",
+  "landscapeDescription": "Boca Raton boasts a diverse economy with a focus on technology, finance, and tourism. The city is also recognized for its affluent demographics and high quality of life.",
+  "majorIndustries": "Technology, Finance, Tourism",
+  "medianIncome": "$83,000",
+  "uniqueNeeds": "Boca Raton requires tailored financial advice due to its affluent population and unique market dynamics.",
+  "citySpecificRiskAdvice": "Boca Raton's finance and tech sectors face concentration risks. Real estate prices are high, raising bubble concerns. Prepare for hurricane threats and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Boca Raton's economy has shown resilience with a growth rate of 3.5% in the last year, driven by tech and finance sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Boca Raton is $83,000, reflecting its status as a wealthy community with a high standard of living."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Boca Raton increasingly specialize in wealth management and retirement planning to cater to affluent clients."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Boca Raton's cost of living is approximately 20% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Boca Raton has reached $600,000, indicating a competitive and high-demand real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Boca Raton's business climate is favorable, with a growing number of startups and established firms in the tech and finance sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

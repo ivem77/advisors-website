@@ -1,0 +1,178 @@
+{
+  "cityName": "League City",
+  "state": "Texas",
+  "slug": "league-city-tx",
+  "population": "1.3M (metro: 7.3M)",
+  "pageTitle": "Best Financial Advisors in League City",
+  "metaDescription": "Find top-rated financial advisors in League City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wilson Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/wilson-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 278
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mark D Sonnier",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-sonnier?y_source=1_NjQxMTc2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Impact! Partners Financial",
+      "url": "http://www.impactpartnersfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Worthen Financial Advisors",
+      "url": "https://worthenadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Keith Raney, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/keith-raney?y_source=1_Mjc4MDYyMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "League City, Texas, is a vibrant community located in the Houston metropolitan area, known for its family-friendly atmosphere and coastal access.",
+  "landscapeDescription": "With a population of 90,983, League City benefits from its proximity to Houston's economic opportunities while maintaining a suburban charm. The local economy thrives on healthcare, retail, and tourism.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$90,000",
+  "uniqueNeeds": "League City requires tailored financial strategies due to its growing population and unique economic landscape.",
+  "citySpecificRiskAdvice": "League City's growth in retail and healthcare poses real estate bubble risks. Prepare for hurricane impacts and diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), League City has seen a steady economic growth rate of 3.5% annually, driven by local business expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in League City is approximately $90,000, reflecting its affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in League City are increasingly specializing in retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in League City is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in League City have risen by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), League City's business climate is favorable, with low taxes and a supportive local government for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

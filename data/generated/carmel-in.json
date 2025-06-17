@@ -1,0 +1,178 @@
+{
+  "cityName": "Carmel",
+  "state": "Indiana",
+  "slug": "carmel-in",
+  "population": "85.9K (metro: 1.8M)",
+  "pageTitle": "Best Financial Advisors in Carmel",
+  "metaDescription": "Find top-rated financial advisors in Carmel. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Halter Ferguson Financial Inc",
+      "url": "https://www.hffinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 53
+    },
+    {
+      "name": "Lewis Wealth Management LLC",
+      "url": "http://www.lewiswealthmanagement.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Total Wealth Planning (formerly Howell Financial Advisors)",
+      "url": "https://twpteam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Oaktree Financial Advisors, Inc.",
+      "url": "http://www.oaktreeadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Valeo Financial Advisors, LLC",
+      "url": "http://www.valeofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Carmel, Indiana is a thriving suburban city known for its vibrant community and economic growth.",
+  "landscapeDescription": "Carmel boasts a diverse economy with a focus on technology, healthcare, and retail. The city continues to attract businesses and residents alike.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$102,000",
+  "uniqueNeeds": "Carmel's residents seek high-quality education, healthcare services, and recreational opportunities.",
+  "citySpecificRiskAdvice": "Carmel's tech sector growth needs diversification to mitigate market risks. Real estate prices are rising; watch for bubble signs. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Carmel's economy has shown resilience with a 4% growth rate driven by local businesses and tech expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Carmel is $102,000, reflecting a high standard of living and economic stability."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Carmel are increasingly specializing in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Carmel's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Carmel is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Carmel's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

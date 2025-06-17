@@ -1,0 +1,178 @@
+{
+  "cityName": "New Rochelle",
+  "state": "New York",
+  "slug": "new-rochelle-ny",
+  "population": "794K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in New Rochelle",
+  "metaDescription": "Find top-rated financial advisors in New Rochelle. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Flynn Financial Partners, Ltd.",
+      "url": "https://www.f2partners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 69
+    },
+    {
+      "name": "Larchmont Wealth Management",
+      "url": "http://www.larchmontwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Susan O'Rourke - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Susan.Orourke/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "LPL Financial, Peter Sclavo CERTIFIED FINANCIAL PLANNER , CHARTERED LIFE UNDERWRITER , ENROLLED AGENT.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJhU-Cd6j0wokRxm6QQxMHHjU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Laura I. Rotter, CFA, CFP™, MBA, Financial Advisor - White Plains, NY",
+      "url": "http://trueabundanceadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "New Rochelle, NY, is a vibrant city located in Westchester County, known for its rich history and diverse community.",
+  "landscapeDescription": "With a population of 79,446, New Rochelle boasts a robust economy driven by healthcare, education, and retail sectors. The city's proximity to New York City enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "New Rochelle requires strategies to address housing affordability and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "New Rochelle's reliance on retail and education sectors poses economic risks. Housing market volatility and flooding risks necessitate diversification and strategic planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Rochelle's economy has shown steady growth, particularly in healthcare and education sectors, contributing to local job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Rochelle is approximately $78,000, reflecting a diverse economic base and a relatively affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Rochelle are increasingly focusing on retirement planning and wealth management, catering to an aging population."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in New Rochelle is higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), New Rochelle's real estate market is competitive, with home prices rising due to demand and limited inventory, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Rochelle's business climate is favorable, supported by local government initiatives aimed at attracting new businesses and fostering innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york-ny",
+      "population": 8405837,
+      "priority": 1
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo-ny",
+      "population": 258959,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester-ny",
+      "population": 210358,
+      "priority": 1
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers-ny",
+      "population": 199766,
+      "priority": 1
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse-ny",
+      "population": 144669,
+      "priority": 1
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany-ny",
+      "population": 98424,
+      "priority": 1
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle-ny",
+      "population": 79446,
+      "priority": 1
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon-ny",
+      "population": 68224,
+      "priority": 1
+    }
+  ]
+}

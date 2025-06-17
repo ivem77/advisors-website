@@ -1,0 +1,178 @@
+{
+  "cityName": "Hammond",
+  "state": "Indiana",
+  "slug": "hammond-in",
+  "population": "78.9K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Hammond",
+  "metaDescription": "Find top-rated financial advisors in Hammond. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ivy League Financial Services Inc",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJv-yJV3TfEYgR84VpI8VOX7M",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Horizon Investment Services",
+      "url": "https://www.horizoninvestment.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Harvest Wealth Partners",
+      "url": "https://www.harvestwp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Adam Robertson, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/adam-robertson?y_source=1_MTM3MTEwMDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "The Hobson Financial Group",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ367U0h3ZEYgR_IQ1KD5jPss",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Hammond, Indiana, is a vibrant city known for its diverse economy and rich cultural heritage.",
+  "landscapeDescription": "Hammond's economy is characterized by a mix of manufacturing, healthcare, and retail sectors. The city benefits from its proximity to Chicago, enhancing its economic opportunities.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Hammond requires focused economic diversification and sustainable housing development to mitigate risks.",
+  "citySpecificRiskAdvice": "Hammond's manufacturing reliance poses economic risks; consider diversifying into tech and services. Housing market shows signs of volatility; prepare for potential flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hammond's GDP growth has been steady, driven by manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hammond is approximately $50,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hammond are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hammond's cost of living remains below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Hammond is experiencing moderate growth, but affordability remains a concern."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hammond's business climate is improving, with incentives for new businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Nampa",
+  "state": "Idaho",
+  "slug": "nampa-id",
+  "population": "86.5K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Nampa",
+  "metaDescription": "Find top-rated financial advisors in Nampa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Mayes Financial Planning",
+      "url": "https://www.mayesfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Treasure Valley Financial Planning",
+      "url": "https://www.treasurevalleyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "Legacy Financial & Interwest Investment Advisors",
+      "url": "http://legacyfa.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Harris Financial Advisors",
+      "url": "http://www.hfaboise.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Allegis Financial Partners",
+      "url": "http://allegisfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Nampa, Idaho, a growing city in the Treasure Valley, offers a blend of suburban living and economic opportunity.",
+  "landscapeDescription": "With a population of 86,518, Nampa is part of the Boise metropolitan area, which is experiencing rapid growth and diversification. The local economy is bolstered by agriculture, manufacturing, and retail sectors.",
+  "majorIndustries": "Agriculture, Manufacturing, Retail",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Nampa requires tailored financial services to support its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Nampa's economy, reliant on agriculture and retail, faces risks from market volatility. Real estate prices are rising; consider diversification. Flooding risks exist due to local geography.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Nampa's economy is expanding, driven by population growth and increased consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Nampa is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Nampa are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Nampa's cost of living remains below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Nampa's real estate market is competitive, with home prices rising due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Nampa's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city-id",
+      "population": 214237,
+      "priority": 1
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa-id",
+      "population": 86518,
+      "priority": 1
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian-id",
+      "population": 83596,
+      "priority": 1
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls-id",
+      "population": 58292,
+      "priority": 1
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello-id",
+      "population": 54350,
+      "priority": 1
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell-id",
+      "population": 48957,
+      "priority": 1
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene-id",
+      "population": 46402,
+      "priority": 1
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls-id",
+      "population": 45981,
+      "priority": 1
+    }
+  ]
+}

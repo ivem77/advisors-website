@@ -1,0 +1,178 @@
+{
+  "cityName": "Portsmouth",
+  "state": "Virginia",
+  "slug": "portsmouth-va",
+  "population": "96.2K (metro: 1.7M)",
+  "pageTitle": "Best Financial Advisors in Portsmouth",
+  "metaDescription": "Find top-rated financial advisors in Portsmouth. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Granite Bay Wealth Management",
+      "url": "https://granitebaywm.com/?utm_source=GMB",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Van Haislip, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/van-haislip?y_source=1_MTM1NTg2NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Tull Financial Group Inc",
+      "url": "https://tullfinancial.com/?utm_campaign=Google+Business+Profile",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "David Calliott, CFP Financial Advisor: Davenport & Company",
+      "url": "http://www.investdavenport.com/CDH",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Seacoast Financial Planning",
+      "url": "http://www.seacoastfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Portsmouth, Virginia, is a vibrant city with a rich maritime history and diverse economic landscape.",
+  "landscapeDescription": "The economy of Portsmouth is driven by sectors such as defense, healthcare, and retail. The city's strategic location enhances trade and transportation opportunities.",
+  "majorIndustries": "Defense, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Portsmouth requires focused economic diversification to mitigate risks from concentrated industries and housing market fluctuations.",
+  "citySpecificRiskAdvice": "Portsmouth's defense sector concentration poses risks; diversify investments. Real estate faces potential bubbles, and hurricane risks necessitate preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Portsmouth's economy has shown steady growth, driven by defense contracts and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Portsmouth is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Portsmouth are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Portsmouth's cost of living is competitive, with housing costs being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Portsmouth real estate market is experiencing rising prices, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Portsmouth's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "slug": "virginia-beach-va",
+      "population": 448479,
+      "priority": 1
+    },
+    {
+      "name": "Norfolk",
+      "state": "Virginia",
+      "slug": "norfolk-va",
+      "population": 246139,
+      "priority": 1
+    },
+    {
+      "name": "Chesapeake",
+      "state": "Virginia",
+      "slug": "chesapeake-va",
+      "population": 230571,
+      "priority": 1
+    },
+    {
+      "name": "Richmond",
+      "state": "Virginia",
+      "slug": "richmond-va",
+      "population": 214114,
+      "priority": 1
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "slug": "newport-news-va",
+      "population": 182020,
+      "priority": 1
+    },
+    {
+      "name": "Alexandria",
+      "state": "Virginia",
+      "slug": "alexandria-va",
+      "population": 148892,
+      "priority": 1
+    },
+    {
+      "name": "Hampton",
+      "state": "Virginia",
+      "slug": "hampton-va",
+      "population": 136699,
+      "priority": 1
+    },
+    {
+      "name": "Roanoke",
+      "state": "Virginia",
+      "slug": "roanoke-va",
+      "population": 98465,
+      "priority": 1
+    }
+  ]
+}

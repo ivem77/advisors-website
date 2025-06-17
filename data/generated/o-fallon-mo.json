@@ -1,0 +1,178 @@
+{
+  "cityName": "O'Fallon",
+  "state": "Missouri",
+  "slug": "o-fallon-mo",
+  "population": "82809",
+  "pageTitle": "Best Financial Advisors in O'Fallon",
+  "metaDescription": "Find top-rated financial advisors in O'Fallon. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dan Carver III - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/daniel.e.carver/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "B & B Financial Planning Co., Inc.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJuaelkaLQ3ocR7tOm55Ly5Lo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Clark Wealth Partners",
+      "url": "https://www.clarkwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Corey Rudd, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/corey-rudd?y_source=1_MTUzMTE3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Natalie A Bruer",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/natalie-bruer?y_source=1_MTc4NDg1MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "O'Fallon, Missouri, is a rapidly growing suburban city known for its family-friendly environment and robust community services.",
+  "landscapeDescription": "O'Fallon boasts a diverse economy with strengths in retail, healthcare, and manufacturing. The city is part of the St. Louis metropolitan area, contributing to its economic dynamism.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "O'Fallon requires tailored financial planning to address family-oriented needs and local economic growth.",
+  "citySpecificRiskAdvice": "O'Fallon's retail focus poses risks from e-commerce shifts. Real estate may face bubble risks due to rapid growth. Monitor flooding and tornado risks; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), O'Fallon's economy has expanded by 4.5% annually, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in O'Fallon is approximately $80,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in O'Fallon are increasingly focusing on family wealth management and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), O'Fallon's cost of living is about 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), O'Fallon's real estate market is competitive, with home prices rising by 6% year-over-year amid high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), O'Fallon offers a favorable business climate with incentives for small businesses and a growing workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

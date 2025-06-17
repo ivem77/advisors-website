@@ -1,0 +1,178 @@
+{
+  "cityName": "Bloomington",
+  "state": "Indiana",
+  "slug": "bloomington-in",
+  "population": "82.6K (metro: 825.8K)",
+  "pageTitle": "Best Financial Advisors in Bloomington",
+  "metaDescription": "Find top-rated financial advisors in Bloomington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Hurlow Wealth Management Group, Inc.",
+      "url": "http://www.hurlowwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Comprehensive Financial Consultants",
+      "url": "http://www.cfci.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Steven J Fortune, CFP®|CPWA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/steven-fortune?y_source=1_OTY5ODMzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joel Schneider",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joel-schneider?y_source=1_OTY4NTM0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Thomas Rillo - Raymond James",
+      "url": "https://www.raymondjames.com/bloomingtonin",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Bloomington, Indiana, is a vibrant city known for its rich cultural heritage and educational institutions.",
+  "landscapeDescription": "Bloomington's economy thrives on education, healthcare, and technology, supported by Indiana University. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Bloomington's economy requires a focus on educational services and tech innovation to sustain growth.",
+  "citySpecificRiskAdvice": "Bloomington's tech sector growth necessitates diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bloomington's GDP growth is driven by education and healthcare, with a focus on innovation and technology sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bloomington is $54,000, reflecting a diverse economic base with significant student population impact."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bloomington are increasingly specializing in education funding and retirement planning due to demographic trends."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bloomington's cost of living is competitive, with housing affordability being a key factor for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Bloomington shows rising home prices, driven by demand from students and professionals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bloomington's business climate is favorable, supported by local universities and a growing tech ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

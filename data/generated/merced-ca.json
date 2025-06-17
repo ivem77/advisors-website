@@ -1,0 +1,178 @@
+{
+  "cityName": "Merced",
+  "state": "California",
+  "slug": "merced-ca",
+  "population": "81.1K (metro: 811K)",
+  "pageTitle": "Best Financial Advisors in Merced",
+  "metaDescription": "Find top-rated financial advisors in Merced. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "UBS Financial Services Inc.",
+      "url": "https://local.ubs.com/merced-ca/?utm_source=Yext&utm_medium=GMB&utm_campaign=162980&y_source=1_MjAwOTU3MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cody Bijou",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cody-bijou?y_source=1_OTgxNjY1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wellness Financial Mobile Notary Solutions | Loan Signings and More!",
+      "url": "https://wellnessfinancial.tax/mobile-notary-solutions",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Zajac Mark a CPA",
+      "url": "http://www.mazcpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jeron J Brown, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeron-brown?y_source=1_OTY3MTYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Merced, California, is a growing city known for its agricultural roots and proximity to national parks.",
+  "landscapeDescription": "Merced's economy is primarily driven by agriculture, education, and healthcare. The city is experiencing growth due to its strategic location and affordable living.",
+  "majorIndustries": "Agriculture, Education, Healthcare",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Merced requires enhanced infrastructure and diversified economic development to support its growing population.",
+  "citySpecificRiskAdvice": "Merced's reliance on agriculture poses risks from climate change and market fluctuations. Housing demand may lead to a bubble; diversify investments and prepare for droughts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Merced's economy has shown a steady growth rate of 3.2%, driven by agricultural exports and educational services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Merced is $56,000, reflecting a diverse economic base with significant low-income households."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Merced are increasingly focusing on retirement planning and agricultural investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Merced's cost of living is approximately 10% lower than the national average, making it an attractive option for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Merced's real estate market has seen a 12% increase in home prices over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Merced's business climate is improving with new incentives for startups, particularly in tech and green energy sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

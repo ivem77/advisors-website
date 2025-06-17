@@ -1,0 +1,178 @@
+{
+  "cityName": "Beaverton",
+  "state": "Oregon",
+  "slug": "beaverton-or",
+  "population": "93.5K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Beaverton",
+  "metaDescription": "Find top-rated financial advisors in Beaverton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "ROI Financial Advisors, LLC",
+      "url": "http://roi-fa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Price Financial Group",
+      "url": "https://pfgwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Rock Creek Wealth Management",
+      "url": "https://rockcreekwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kelly Morgan, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/k-morgan?y_source=1_Mjg1NzQ4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mark A Simpson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-simpson?y_source=1_MzExOTA1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Beaverton, Oregon, is a vibrant city known for its tech industry and family-friendly atmosphere.",
+  "landscapeDescription": "Beaverton's economy thrives on technology, retail, and healthcare sectors. The city benefits from its proximity to Portland, enhancing its economic landscape.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Focus on tech diversification, affordable housing, and sustainable growth strategies.",
+  "citySpecificRiskAdvice": "Beaverton's tech sector poses concentration risks; diversify investments. Real estate is booming, raising bubble concerns. Prepare for flooding risks and ensure economic diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Beaverton's economy has seen a steady growth rate of 3.5% annually, driven by tech and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Beaverton is approximately $85,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Beaverton are increasingly specializing in tech investments and sustainable growth strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Beaverton is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Beaverton's real estate market has seen a 10% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Beaverton's business climate is favorable, with a growing number of startups and established firms attracting investment."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

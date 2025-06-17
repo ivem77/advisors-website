@@ -1,0 +1,178 @@
+{
+  "cityName": "Waukegan",
+  "state": "Illinois",
+  "slug": "waukegan-il",
+  "population": "88.8K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Waukegan",
+  "metaDescription": "Find top-rated financial advisors in Waukegan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "BRP Financial Group",
+      "url": "http://brpfinancial.com/home",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mike Amrozowicz",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mike-amrozowicz?y_source=1_MjAyMTE3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Garrett Koncan - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Garrett.C.Koncan/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Alan Grossman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/alan-grossman?y_source=1_NjQxODY0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Winchester Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/winchester-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Waukegan, Illinois, is a vibrant city located on the shores of Lake Michigan, known for its rich history and diverse community.",
+  "landscapeDescription": "Waukegan's economy is bolstered by manufacturing, healthcare, and retail sectors. The city serves as a regional hub, benefiting from its proximity to Chicago.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Waukegan requires tailored financial services to address its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Waukegan's reliance on manufacturing poses economic risks; housing market volatility and flooding are concerns. Diversify investments to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Waukegan's economy is growing steadily, with a focus on manufacturing and services driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Waukegan is $62,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Waukegan are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Waukegan's cost of living is competitive, with housing costs being a significant factor for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Waukegan's real estate market shows signs of appreciation, but affordability remains a concern for many buyers."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Waukegan's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

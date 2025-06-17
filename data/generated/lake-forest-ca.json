@@ -1,0 +1,178 @@
+{
+  "cityName": "Lake Forest",
+  "state": "California",
+  "slug": "lake-forest-ca",
+  "population": "79.3K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Lake Forest",
+  "metaDescription": "Find top-rated financial advisors in Lake Forest. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Zuk Financial Group",
+      "url": "https://zukfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sterling Financial Advisors",
+      "url": "http://www.sterlingfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jones Associates/JW Cole Financial",
+      "url": "http://www.jonesfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Signature America Insurance and Financial Services, Inc",
+      "url": "http://signatureamerica.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Aucoin Insurance and Financial Services",
+      "url": "https://aucoin-insurance.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    }
+  ],
+  "heroDescription": "Lake Forest, California, is a vibrant city known for its scenic beauty and strong community.",
+  "landscapeDescription": "Lake Forest boasts a diverse economy with strengths in technology, retail, and healthcare. The city is part of the larger Orange County metro area, contributing to its robust economic landscape.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$98,000",
+  "uniqueNeeds": "Lake Forest requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Lake Forest's tech focus needs diversification to mitigate downturns. Rapid housing price increases pose bubble risks; consider broader investments. Watch for wildfire and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lake Forest's economy has seen a steady growth rate of 3.5% annually, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lake Forest is approximately $98,000, reflecting a well-off community with significant purchasing power."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly specializing in tech and real estate investments due to local market dynamics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Lake Forest is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Lake Forest is $750,000, reflecting a competitive real estate market with rising prices."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lake Forest's business climate is favorable, with a supportive local government and a growing number of startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

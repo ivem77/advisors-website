@@ -1,0 +1,178 @@
+{
+  "cityName": "Newport Beach",
+  "state": "California",
+  "slug": "newport-beach-ca",
+  "population": "87K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Newport Beach",
+  "metaDescription": "Find top-rated financial advisors in Newport Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Retirement Planning Newport Beach | Miramontes Capital",
+      "url": "http://miramontescapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Financial Resources Group",
+      "url": "http://financialresourcesgrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Mariner",
+      "url": "https://www.marinerwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "WINDFALL FINANCIAL ADVISORS, Fee-Only, Fiduciary",
+      "url": "https://www.windfalladvisors.com/?utm_source=GBP&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Pence Wealth Management - Financial Advisors",
+      "url": "http://www.pencewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Newport Beach, California, is a coastal city known for its affluent lifestyle and vibrant economy.",
+  "landscapeDescription": "With a population of 87,273, Newport Beach boasts a diverse economy driven by tourism, real estate, and finance. The city is a hub for high-net-worth individuals and luxury services.",
+  "majorIndustries": "Tourism, Real Estate, Finance",
+  "medianIncome": "$115,000",
+  "uniqueNeeds": "High demand for luxury real estate and services, coupled with a need for financial planning among affluent residents.",
+  "citySpecificRiskAdvice": "Newport Beach's real estate market faces bubble risks amid high valuations. Diversify investments to mitigate tech and finance sector risks, and prepare for potential flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Newport Beach's economy has shown resilience with a growth rate of 3.5% in the past year, driven by tourism and luxury retail."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Newport Beach has a median income of $115,000, with a significant portion of households earning over $200,000."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Newport Beach increasingly specialize in wealth management and estate planning for high-net-worth clients."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Newport Beach's cost of living is 50% higher than the national average, driven by housing and luxury services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Newport Beach is approximately $2.5 million, reflecting a competitive and high-demand market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Newport Beach's business climate is favorable, with a focus on innovation and high-end services attracting new ventures."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "80+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

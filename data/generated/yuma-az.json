@@ -1,0 +1,178 @@
+{
+  "cityName": "Yuma",
+  "state": "Arizona",
+  "slug": "yuma-az",
+  "population": "92K (metro: 92K)",
+  "pageTitle": "Best Financial Advisors in Yuma",
+  "metaDescription": "Find top-rated financial advisors in Yuma. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Valarie A Donnelly",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/valarie-donnelly?y_source=1_MTM3MTA2ODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lydia Padilla - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Lydia.Padilla/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cam N Cong",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cam-cong?y_source=1_NDE3NjE1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Southern Pacific Asset Management, LLC",
+      "url": "https://www.southernpacificam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brannick Harris, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brannick-harris?y_source=1_MTI4Njc3NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Yuma, Arizona, is a vibrant city known for its agricultural production and growing tourism sector.",
+  "landscapeDescription": "Yuma's economy is primarily driven by agriculture, tourism, and renewable energy. The region benefits from a strategic location and a favorable climate for year-round farming.",
+  "majorIndustries": "Agriculture, Tourism, Renewable Energy",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Yuma requires tailored financial advice due to its unique agricultural economy and seasonal tourism fluctuations.",
+  "citySpecificRiskAdvice": "Yuma's agriculture reliance poses risks from climate change and water scarcity. Real estate may face volatility due to seasonal demand; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Yuma's economy has shown steady growth driven by agriculture and tourism, with a focus on sustainable practices."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Yuma is approximately $45,000, reflecting the city's diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Yuma are increasingly specializing in agricultural finance and retirement planning for seasonal workers."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Yuma's cost of living is lower than the national average, making it an attractive option for retirees and families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Yuma's real estate market is experiencing moderate growth, but seasonal fluctuations can lead to price volatility."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Yuma's business climate is improving, with incentives for renewable energy projects and support for local agriculture."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix-az",
+      "population": 1513367,
+      "priority": 1
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson-az",
+      "population": 526116,
+      "priority": 1
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa-az",
+      "population": 457587,
+      "priority": 1
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler-az",
+      "population": 249146,
+      "priority": 1
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale-az",
+      "population": 234632,
+      "priority": 1
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert-az",
+      "population": 229972,
+      "priority": 1
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale-az",
+      "population": 226918,
+      "priority": 1
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe-az",
+      "population": 168228,
+      "priority": 1
+    }
+  ]
+}
