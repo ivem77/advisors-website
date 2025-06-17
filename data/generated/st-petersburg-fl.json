@@ -1,0 +1,178 @@
+{
+  "cityName": "St. Petersburg",
+  "state": "Florida",
+  "slug": "st-petersburg-fl",
+  "population": "249K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in St. Petersburg",
+  "metaDescription": "Find top-rated financial advisors in St. Petersburg. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Align Wealth Management : Financial Planners, Wealth Retirement",
+      "url": "https://www.alignmywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Andrew J Kocisky",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/andrew-kocisky?y_source=1_MTc4NDg3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Hudson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-hudson?y_source=1_OTY4ODk1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer K Wright, CFP®|CPWA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-wright?y_source=1_OTY5OTQyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Menke Financial",
+      "url": "http://menkefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "St. Petersburg, Florida, is a vibrant coastal city known for its arts scene and beautiful waterfront.",
+  "landscapeDescription": "The economy of St. Petersburg is diverse, with strengths in tourism, healthcare, and technology. The city's growth is supported by a favorable climate and a burgeoning job market.",
+  "majorIndustries": "Tourism, Healthcare, Technology",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Focus on sustainable growth in tourism and healthcare while addressing housing affordability.",
+  "citySpecificRiskAdvice": "St. Petersburg's tech and tourism sectors are vulnerable to economic shifts. Real estate prices may face bubble risks; diversify investments and prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Petersburg's economy grew by 3.5% last year, driven by tourism and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Petersburg is $58,000, reflecting a mix of industries and job opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Petersburg increasingly focus on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in St. Petersburg is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Petersburg's real estate market has seen a 10% increase in home prices over the past year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Petersburg's business climate is improving, with a focus on attracting tech startups and supporting local enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "240+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

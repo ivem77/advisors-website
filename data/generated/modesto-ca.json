@@ -1,0 +1,178 @@
+{
+  "cityName": "Modesto",
+  "state": "California",
+  "slug": "modesto-ca",
+  "population": "204K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Modesto",
+  "metaDescription": "Find top-rated financial advisors in Modesto. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Granite Wealth Management",
+      "url": "http://www.granitewealthllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dean McCoy, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dean-mccoy?y_source=1_OTY3MDUzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Oliveira Wealth",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJL9E_YvNTkIARN4TG1-qzs4k",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sal Guerrero III, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sal-guerrero?y_source=1_OTY2OTA1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Transamerica Financial Advisors, Inc.",
+      "url": "https://financialprofessional.tfaconnects.com/james-cabral",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Modesto, California, is a vibrant city in the heart of the Central Valley, known for its agricultural roots and growing economy.",
+  "landscapeDescription": "With a population of 204,933, Modesto's economy is diverse, driven by agriculture, healthcare, and manufacturing. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Agriculture, Healthcare, Manufacturing",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Modesto requires a focus on agricultural sustainability and healthcare accessibility.",
+  "citySpecificRiskAdvice": "Modesto's agricultural focus poses risks from climate change and market volatility. Real estate prices may face pressure from economic shifts; diversify investments and consider flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Modesto's economy has shown resilience with a growth rate of 2.5%, driven by agriculture and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Modesto is $61,000, reflecting a diverse workforce with significant agricultural employment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Modesto are increasingly focusing on agricultural investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Modesto's cost of living is 10% lower than the national average, making it an attractive option for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Modesto is experiencing a 5% annual increase, raising concerns about affordability and potential bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Modesto's business climate is improving, with incentives for startups and a focus on sustainable practices."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Fort Lauderdale",
+  "state": "Florida",
+  "slug": "fort-lauderdale-fl",
+  "population": "172K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in Fort Lauderdale",
+  "metaDescription": "Find top-rated financial advisors in Fort Lauderdale. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Chris Price Financial Planner",
+      "url": "https://chrispricefinancialplanner.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Creative Financial Network, Inc.",
+      "url": "http://www.cfnsfl.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: James Senior, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-senior?y_source=1_OTYyOTE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northwestern Mutual",
+      "url": "http://southfloridagroup.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Krause Capital, Inc.",
+      "url": "http://www.krausecapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    }
+  ],
+  "heroDescription": "Fort Lauderdale, known for its boating canals and stunning beaches, is a vibrant city in South Florida.",
+  "landscapeDescription": "The city boasts a diverse economy with strong tourism, marine industries, and a growing tech sector. Its strategic location enhances trade and commerce.",
+  "majorIndustries": "Tourism, Marine, Technology",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Fort Lauderdale requires a focus on disaster preparedness and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "Fort Lauderdale's tourism reliance poses economic risks; housing market volatility may lead to bubbles. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Lauderdale's economy is projected to grow by 4% annually, driven by tourism and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fort Lauderdale is $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Lauderdale are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Fort Lauderdale is 15% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Fort Lauderdale have risen 10% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Lauderdale's business climate is favorable, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

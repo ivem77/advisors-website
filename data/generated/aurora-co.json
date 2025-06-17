@@ -1,0 +1,178 @@
+{
+  "cityName": "Aurora",
+  "state": "Colorado",
+  "slug": "aurora-co",
+  "population": "345.8K (metro: 3.0M)",
+  "pageTitle": "Best Financial Advisors in Aurora",
+  "metaDescription": "Find top-rated financial advisors in Aurora. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "TimeWise Financial",
+      "url": "http://www.timewisefinancialllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "First Command Financial Advisor - Devin Statham",
+      "url": "https://advisor.firstcommand.com/us/co/aurora/dstatham?y_source=1_MjA5NjIyNjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Amanda E Tullis, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/amanda-tullis?y_source=1_MTM4NTYxODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lifetime Financial Growth - Christopher Wiethe, CFP®, ChFC®",
+      "url": "https://www.cwwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Colorado Wealth Group",
+      "url": "https://coloradowealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    }
+  ],
+  "heroDescription": "Aurora, Colorado, is a vibrant city known for its diverse community and robust economy.",
+  "landscapeDescription": "Aurora's economy is driven by healthcare, aerospace, and technology sectors. The city benefits from proximity to Denver's metro area, enhancing its economic potential.",
+  "majorIndustries": "Healthcare, Aerospace, Technology",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Aurora requires a focus on sustainable growth, affordable housing, and workforce development to meet its diverse population's needs.",
+  "citySpecificRiskAdvice": "Aurora's tech and healthcare sectors face concentration risks; housing prices are rising, indicating potential bubbles. Prepare for flooding and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Aurora's GDP has increased by 4.5% year-over-year, driven by growth in healthcare and technology sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Aurora is approximately $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Aurora are increasingly specializing in retirement planning and investment strategies for tech professionals."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Aurora is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Aurora's housing market has seen a 10% increase in home prices over the past year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Aurora's business climate is favorable, with incentives for startups and established companies in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "340+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

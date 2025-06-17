@@ -1,0 +1,178 @@
+{
+  "cityName": "Garland",
+  "state": "Texas",
+  "slug": "garland-tx",
+  "population": "234.6K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Garland",
+  "metaDescription": "Find top-rated financial advisors in Garland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Shafen K Crawford, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shafen-crawford?y_source=1_MjAyMTE2NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Antonio Caufield, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tony-caufield?y_source=1_OTY5OTc5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Thomas Financial LLC",
+      "url": "http://www.thomasfinancialllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Blair Financial Advisors",
+      "url": "https://www.blairfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Zack Thomas, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/zack-thomas?y_source=1_NDkwNjMxNTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Garland, Texas, is a vibrant city within the Dallas-Fort Worth metroplex, known for its diverse economy and community.",
+  "landscapeDescription": "Garland's economy is driven by manufacturing, retail, and healthcare, contributing to its steady growth. The city benefits from its proximity to Dallas, enhancing business opportunities.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Garland requires strategic economic diversification to mitigate risks from industry concentration and housing market fluctuations.",
+  "citySpecificRiskAdvice": "Garland's manufacturing focus poses economic risks; diversify into tech and healthcare. Watch for housing market bubbles and prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Garland's economy grew by 3.2% last year, driven by strong manufacturing output and retail sales."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Garland is $65,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Garland are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Garland's cost of living is 5% below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Garland have increased by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Garland's business climate is favorable, with low taxes and incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "230+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

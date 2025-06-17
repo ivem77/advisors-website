@@ -1,0 +1,178 @@
+{
+  "cityName": "Santa Rosa",
+  "state": "California",
+  "slug": "santa-rosa-ca",
+  "population": "171.9K (metro: 0.5M)",
+  "pageTitle": "Best Financial Advisors in Santa Rosa",
+  "metaDescription": "Find top-rated financial advisors in Santa Rosa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Mark P Dunn, CFP®|ChFC®|CEPA®|RICP®|ABFP®|CLU®|AAMS®|CRPC™|AWMA®|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-dunn?y_source=1_MTk1OTc2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Arrow Point Wealth Management",
+      "url": "http://arrowpointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Censia Wealth Advisors",
+      "url": "https://censiawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Kobrin Financial & Insurance Services",
+      "url": "https://www.canyouretire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/santa-rosa-branch?y_source=1_MjM2MTY4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Santa Rosa, California, is a vibrant city in Sonoma County known for its rich cultural heritage and beautiful landscapes.",
+  "landscapeDescription": "The economy of Santa Rosa is diverse, with strengths in agriculture, healthcare, and technology. The city benefits from its proximity to the San Francisco Bay Area.",
+  "majorIndustries": "Agriculture, Healthcare, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Santa Rosa requires tailored financial strategies due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Santa Rosa's tech and agriculture sectors face volatility; housing market risks are heightened by demand. Prepare for wildfire risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Santa Rosa's economy has shown steady growth, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Santa Rosa is approximately $80,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Santa Rosa increasingly specialize in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Santa Rosa is higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Santa Rosa real estate market is competitive, with home prices rising due to limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Santa Rosa's business climate is favorable, with support for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

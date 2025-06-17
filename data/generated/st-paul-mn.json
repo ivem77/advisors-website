@@ -1,0 +1,178 @@
+{
+  "cityName": "St. Paul",
+  "state": "Minnesota",
+  "slug": "st-paul-mn",
+  "population": "294.9K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in St. Paul",
+  "metaDescription": "Find top-rated financial advisors in St. Paul. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dunncreek Advisors LLC",
+      "url": "https://www.dunncreekadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Shamrock Wealth Management",
+      "url": "http://www.shamrockwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RBC Wealth Management Branch - St. Paul",
+      "url": "https://us.rbcwealthmanagement.com/stpaul/about-the-st-paul-team",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "G T Financial Advisors, LLC",
+      "url": "http://www.gtfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/mn/st-paul-mn",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "St. Paul, the capital of Minnesota, boasts a rich history and vibrant culture.",
+  "landscapeDescription": "St. Paul is a key economic hub in the Twin Cities, with a diverse economy driven by government, healthcare, and education sectors. The city supports a robust workforce and a growing entrepreneurial landscape.",
+  "majorIndustries": "Government, Healthcare, Education",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "St. Paul requires tailored financial strategies to address its unique economic landscape and demographic diversity.",
+  "citySpecificRiskAdvice": "St. Paul's healthcare and education sectors dominate, risking over-reliance. Real estate prices are rising, indicating potential bubble risks. Prepare for winter storms and flooding; diversify investm...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Paul's economy grew by 3.2% last year, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Paul is $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Paul increasingly focus on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), St. Paul's cost of living is approximately 10% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Paul's housing market is competitive, with home values rising 5% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Paul offers a supportive business climate with incentives for startups, particularly in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "290+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis-mn",
+      "population": 400070,
+      "priority": 1
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul-mn",
+      "population": 294873,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester-mn",
+      "population": 110742,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington-mn",
+      "population": 86319,
+      "priority": 1
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth-mn",
+      "population": 86128,
+      "priority": 1
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park-mn",
+      "population": 78373,
+      "priority": 1
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth-mn",
+      "population": 73987,
+      "priority": 1
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud-mn",
+      "population": 66297,
+      "priority": 1
+    }
+  ]
+}

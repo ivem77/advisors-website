@@ -1,0 +1,178 @@
+{
+  "cityName": "Augusta-Richmond County",
+  "state": "Georgia",
+  "slug": "augusta-richmond-county-ga",
+  "population": "197.4K (metro: 197.4K)",
+  "pageTitle": "Best Financial Advisors in Augusta-Richmond County",
+  "metaDescription": "Find top-rated financial advisors in Augusta-Richmond County. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Richard Young Assoc. Financial Advisors",
+      "url": "https://www.investrya.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 52
+    },
+    {
+      "name": "AP Wealth Management",
+      "url": "https://www.apwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Optimal Wealth Strategies",
+      "url": "https://www.optimalwealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Fehrman Investment Group",
+      "url": "http://www.fehrmaninvestmentgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Strategic Financial Management",
+      "url": "http://sfmnow.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Augusta-Richmond County is a vibrant city known for its rich history and cultural heritage.",
+  "landscapeDescription": "The economy is diverse, driven by healthcare, manufacturing, and tourism. Augusta serves as a regional hub for education and technology.",
+  "majorIndustries": "Healthcare, Manufacturing, Tourism",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Augusta-Richmond County requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Augusta's healthcare and manufacturing focus necessitates diversification. Real estate faces affordability challenges, while flooding risks require preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Augusta's economy has seen a steady growth rate of 3.2%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Augusta-Richmond County is approximately $52,000, reflecting regional economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Augusta increasingly specialize in retirement planning and wealth management for local professionals."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Augusta is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market has shown a 5% increase in home prices, indicating a competitive housing environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Augusta's business climate is favorable, with incentives for startups and established firms in healthcare and tech."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "190+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta-ga",
+      "population": 447841,
+      "priority": 1
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus-ga",
+      "population": 202824,
+      "priority": 1
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county-ga",
+      "population": 197350,
+      "priority": 1
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah-ga",
+      "population": 142772,
+      "priority": 1
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county-ga",
+      "population": 119980,
+      "priority": 1
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs-ga",
+      "population": 99770,
+      "priority": 1
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell-ga",
+      "population": 94034,
+      "priority": 1
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon-ga",
+      "population": 89981,
+      "priority": 1
+    }
+  ]
+}

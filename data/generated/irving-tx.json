@@ -1,0 +1,178 @@
+{
+  "cityName": "Irving",
+  "state": "Texas",
+  "slug": "irving-tx",
+  "population": "228K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Irving",
+  "metaDescription": "Find top-rated financial advisors in Irving. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dominic Dougherty - Financial Advisor",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJVXDD9nIpTIYRT1iS24WVXcE",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Empowerment Financial Advisors, LLC",
+      "url": "https://www.empowermentfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Darryl Plunkett",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/darryl-plunkett?y_source=1_OTY2MjAzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Paul Pittman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/paul-pittman?y_source=1_NjQwOTY5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northwestern Mutual - Las Colinas",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJmz0-HPIpTIYRoTo5zwzFS9k",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Irving, Texas, is a vibrant city in the Dallas-Fort Worth metroplex known for its diverse economy and cultural attractions.",
+  "landscapeDescription": "With a population of 228,653, Irving is a key player in the Dallas-Fort Worth metro area. The city boasts a robust economy driven by technology, finance, and hospitality.",
+  "majorIndustries": "Technology, Finance, Hospitality",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Irving's diverse population requires tailored financial services and investment strategies to meet varied cultural and economic needs.",
+  "citySpecificRiskAdvice": "Irving's tech and finance sectors face concentration risks; housing prices may bubble. Prepare for tornadoes and flooding. Diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Irving's economy has shown resilience with a growth rate of 3.5%, driven by tech and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Irving is approximately $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Irving are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Irving is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Irving is competitive, with home prices rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Irving's business climate is favorable, with numerous incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "220+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

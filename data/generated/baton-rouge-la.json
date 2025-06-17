@@ -1,0 +1,178 @@
+{
+  "cityName": "Baton Rouge",
+  "state": "Louisiana",
+  "slug": "baton-rouge-la",
+  "population": "229K (metro: 450K)",
+  "pageTitle": "Best Financial Advisors in Baton Rouge",
+  "metaDescription": "Find top-rated financial advisors in Baton Rouge. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Highland Wealth",
+      "url": "http://www.highlandwealth.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Stenger Family Office | Baton Rouge Financial Advisor",
+      "url": "https://www.stengerfamilyoffice.com/batonrougefinancialadvisor",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "Goss Wealth Management",
+      "url": "http://www.gosswealthmanagement.com",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Capital South Wealth Management, LLC",
+      "url": "https://www.capitalsouthwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Horizon Financial Group",
+      "url": "http://www.horizonfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Baton Rouge, the capital of Louisiana, is a vibrant city known for its rich history and cultural diversity.",
+  "landscapeDescription": "Baton Rouge's economy is driven by government, healthcare, and petrochemical industries. The city is experiencing moderate growth, with a focus on diversifying its economic base.",
+  "majorIndustries": "Government, Healthcare, Petrochemical",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Baton Rouge requires tailored financial strategies due to its unique economic landscape and demographic challenges.",
+  "citySpecificRiskAdvice": "Baton Rouge's petrochemical focus poses economic risks; diversify into tech and healthcare. Real estate may face bubble risks; prepare for hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Baton Rouge's economy grew by 2.5% last year, driven by healthcare and government sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Baton Rouge is $50,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Baton Rouge are increasingly specializing in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Baton Rouge's cost of living is 10% lower than the national average, making it an affordable city."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Baton Rouge have increased by 5% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Baton Rouge's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "220+",
+  "nearbyLocations": [
+    {
+      "name": "New Orleans",
+      "state": "Louisiana",
+      "slug": "new-orleans-la",
+      "population": 378715,
+      "priority": 1
+    },
+    {
+      "name": "Baton Rouge",
+      "state": "Louisiana",
+      "slug": "baton-rouge-la",
+      "population": 229426,
+      "priority": 1
+    },
+    {
+      "name": "Shreveport",
+      "state": "Louisiana",
+      "slug": "shreveport-la",
+      "population": 200327,
+      "priority": 1
+    },
+    {
+      "name": "Lafayette",
+      "state": "Louisiana",
+      "slug": "lafayette-la",
+      "population": 124276,
+      "priority": 1
+    },
+    {
+      "name": "Lake Charles",
+      "state": "Louisiana",
+      "slug": "lake-charles-la",
+      "population": 74024,
+      "priority": 1
+    },
+    {
+      "name": "Kenner",
+      "state": "Louisiana",
+      "slug": "kenner-la",
+      "population": 66975,
+      "priority": 1
+    },
+    {
+      "name": "Bossier City",
+      "state": "Louisiana",
+      "slug": "bossier-city-la",
+      "population": 66333,
+      "priority": 1
+    },
+    {
+      "name": "Monroe",
+      "state": "Louisiana",
+      "slug": "monroe-la",
+      "population": 49761,
+      "priority": 1
+    }
+  ]
+}

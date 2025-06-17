@@ -1,0 +1,150 @@
+{
+  "cityName": "Lincoln",
+  "state": "Nebraska",
+  "slug": "lincoln-ne",
+  "population": "268.7K (metro: 268.7K)",
+  "pageTitle": "Best Financial Advisors in Lincoln",
+  "metaDescription": "Find top-rated financial advisors in Lincoln. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Flagstone Financial Management",
+      "url": "http://www.flagstonefm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 87
+    },
+    {
+      "name": "Shunkwiler Financial",
+      "url": "https://shunkwilerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 81
+    },
+    {
+      "name": "FP Wealth Management, Inc.",
+      "url": "http://www.fp-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "JS Financial, Inc.",
+      "url": "http://www.jsfinancialonline.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Asset Strategies",
+      "url": "https://assetstrategies-ne.com/asset-strategies-lincoln-ne-location/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    }
+  ],
+  "heroDescription": "Lincoln, Nebraska, is a vibrant city known for its rich history and strong community.",
+  "landscapeDescription": "Lincoln's economy is diverse, with a focus on education, healthcare, and technology. The city is home to a growing population and a robust job market.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Lincoln requires a focus on tech diversification and sustainable housing developments to accommodate growth.",
+  "citySpecificRiskAdvice": "Lincoln's tech sector needs diversification to mitigate risks. Housing market growth may lead to bubbles; consider investing in varied sectors. Tornado risks are significant.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lincoln's economy has shown steady growth, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lincoln is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lincoln are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lincoln's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lincoln's real estate market is competitive, with rising home prices and increasing demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lincoln's business climate is favorable, with support for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "260+",
+  "nearbyLocations": [
+    {
+      "name": "Omaha",
+      "state": "Nebraska",
+      "slug": "omaha-ne",
+      "population": 434353,
+      "priority": 1
+    },
+    {
+      "name": "Lincoln",
+      "state": "Nebraska",
+      "slug": "lincoln-ne",
+      "population": 268738,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Nebraska",
+      "slug": "bellevue-ne",
+      "population": 53663,
+      "priority": 1
+    },
+    {
+      "name": "Grand Island",
+      "state": "Nebraska",
+      "slug": "grand-island-ne",
+      "population": 50550,
+      "priority": 1
+    }
+  ]
+}

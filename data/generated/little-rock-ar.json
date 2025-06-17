@@ -1,0 +1,178 @@
+{
+  "cityName": "Little Rock",
+  "state": "Arkansas",
+  "slug": "little-rock-ar",
+  "population": "197K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Little Rock",
+  "metaDescription": "Find top-rated financial advisors in Little Rock. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "The Arkansas Financial Group, Inc.",
+      "url": "https://www.arfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "ClientFirst Wealth, Legacy & Estate Planning",
+      "url": "https://www.clientfirstwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Aptus Financial",
+      "url": "https://www.aptusfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Wealth Management, Inc.",
+      "url": "http://www.canistillretire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Lukas Total Wealth, (David Lukas Financial, David Lucas Financial)",
+      "url": "https://totalwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    }
+  ],
+  "heroDescription": "Little Rock, Arkansas, is the vibrant capital city known for its rich history and growing economy.",
+  "landscapeDescription": "Little Rock's economy is diverse, with significant contributions from healthcare, education, and government sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Education, Government",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Little Rock requires tailored financial strategies due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Little Rock's economy relies on healthcare and education; diversify investments to mitigate sector risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and tor...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Little Rock's GDP growth is projected at 3.2%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Little Rock is $54,000, reflecting a moderate economic standing."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Little Rock are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Little Rock's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home values in Little Rock have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Little Rock's business climate is improving, with initiatives to attract startups and support local entrepreneurs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "190+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock-ar",
+      "population": 197357,
+      "priority": 1
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith-ar",
+      "population": 87650,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville-ar",
+      "population": 78960,
+      "priority": 1
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale-ar",
+      "population": 75229,
+      "priority": 1
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro-ar",
+      "population": 71551,
+      "priority": 1
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock-ar",
+      "population": 66075,
+      "priority": 1
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway-ar",
+      "population": 63816,
+      "priority": 1
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers-ar",
+      "population": 60112,
+      "priority": 1
+    }
+  ]
+}

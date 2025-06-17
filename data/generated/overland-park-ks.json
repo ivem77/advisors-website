@@ -1,0 +1,178 @@
+{
+  "cityName": "Overland Park",
+  "state": "Kansas",
+  "slug": "overland-park-ks",
+  "population": "181K (metro: 2.0M)",
+  "pageTitle": "Best Financial Advisors in Overland Park",
+  "metaDescription": "Find top-rated financial advisors in Overland Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "BSG Advisers - Overland Park",
+      "url": "https://www.bsgadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Keen Wealth Advisors",
+      "url": "https://www.keenwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "MOKAN Wealth Management",
+      "url": "http://www.mokanwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 48
+    },
+    {
+      "name": "Beyond Wealth",
+      "url": "http://www.beyond-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Aspyre Wealth Partners",
+      "url": "https://aspyrewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Overland Park, Kansas, is a vibrant suburban city known for its family-friendly atmosphere and thriving economy.",
+  "landscapeDescription": "With a population of 181,260, Overland Park is a key economic hub in the Kansas City metropolitan area. The city boasts a diverse economy with a focus on technology, healthcare, and retail.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "Overland Park requires tailored financial strategies to address its growing tech sector and housing market dynamics.",
+  "citySpecificRiskAdvice": "Overland Park's tech sector growth needs diversification to mitigate economic risks. Real estate prices are rising, posing bubble risks. Prepare for severe weather events like tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Overland Park's economy has shown consistent growth, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Overland Park is approximately $82,000, reflecting a strong local economy."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Overland Park are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Overland Park is competitive, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Overland Park's real estate market is experiencing rapid appreciation, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Overland Park offers a favorable business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "180+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

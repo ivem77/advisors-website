@@ -1,0 +1,178 @@
+{
+  "cityName": "Tacoma",
+  "state": "Washington",
+  "slug": "tacoma-wa",
+  "population": "203K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in Tacoma",
+  "metaDescription": "Find top-rated financial advisors in Tacoma. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Insights Wealth Management",
+      "url": "https://financialinsights.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Equal Path Investments",
+      "url": "https://equalpathinvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Edgewater Wealth Management",
+      "url": "https://edgewater.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Cornerstone Financial Strategies",
+      "url": "http://www.liveyourideallife.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Karley Schluter, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/karley-schluter?y_source=1_MjE2NjgwNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Tacoma, Washington, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 203,446, Tacoma serves as a key economic hub in the Pacific Northwest. The city benefits from its proximity to Seattle and a growing port industry.",
+  "majorIndustries": "Manufacturing, Healthcare, Technology",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Tacoma requires a focus on sustainable growth and infrastructure improvements to support its expanding population.",
+  "citySpecificRiskAdvice": "Tacoma's tech and manufacturing sectors face volatility; diversify investments. Real estate is rising fast, indicating bubble risks. Prepare for earthquakes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tacoma's economy has shown resilience with a 3% growth rate, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Tacoma is $75,000, reflecting a diverse economic base and skilled workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tacoma are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tacoma's cost of living is 10% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Tacoma's housing market has seen a 12% increase in home prices over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tacoma's business climate is improving, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

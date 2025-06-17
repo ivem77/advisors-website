@@ -1,0 +1,164 @@
+{
+  "cityName": "Providence",
+  "state": "Rhode Island",
+  "slug": "providence-ri",
+  "population": "178K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in Providence",
+  "metaDescription": "Find top-rated financial advisors in Providence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Providence Financial Advisors",
+      "url": "https://www.pfari.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "SK Wealth Management | Fee-Only Financial Planner",
+      "url": "https://skwealth.com/?utm_source=BusinessProfile&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Northwestern Mutual - Financial Advisor: Adam Badeau",
+      "url": "http://adambadeau.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Northwestern Mutual - Financial Advisor: Jack Trevor, CFP ChFC CLU RICP",
+      "url": "http://jacktrevor.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Harkins Wealth Management",
+      "url": "http://www.harkinswealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Providence, Rhode Island, is a vibrant city known for its rich history, arts, and education.",
+  "landscapeDescription": "As the capital of Rhode Island, Providence has a diverse economy with strengths in education, healthcare, and manufacturing. The city is also a hub for the arts and culture.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$64,000",
+  "uniqueNeeds": "Providence needs to address housing affordability and diversify its economy to mitigate risks.",
+  "citySpecificRiskAdvice": "Providence's reliance on education and healthcare poses risks; housing market volatility and flooding are concerns. Diversify into tech and finance for stability.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Providence's economy grew by 3.2% last year, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Providence is $64,000, with a significant portion of residents earning below this threshold."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Providence are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Providence is 12% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Providence real estate market has seen a 5% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Providence's business climate is improving, but challenges remain in attracting tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Providence",
+      "state": "Rhode Island",
+      "slug": "providence-ri",
+      "population": 177994,
+      "priority": 1
+    },
+    {
+      "name": "Warwick",
+      "state": "Rhode Island",
+      "slug": "warwick-ri",
+      "population": 81971,
+      "priority": 1
+    },
+    {
+      "name": "Cranston",
+      "state": "Rhode Island",
+      "slug": "cranston-ri",
+      "population": 80566,
+      "priority": 1
+    },
+    {
+      "name": "Pawtucket",
+      "state": "Rhode Island",
+      "slug": "pawtucket-ri",
+      "population": 71172,
+      "priority": 1
+    },
+    {
+      "name": "East Providence",
+      "state": "Rhode Island",
+      "slug": "east-providence-ri",
+      "population": 47149,
+      "priority": 1
+    },
+    {
+      "name": "Woonsocket",
+      "state": "Rhode Island",
+      "slug": "woonsocket-ri",
+      "population": 41026,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Fort Wayne",
+  "state": "Indiana",
+  "slug": "fort-wayne-in",
+  "population": "256K (metro: 256K)",
+  "pageTitle": "Best Financial Advisors in Fort Wayne",
+  "metaDescription": "Find top-rated financial advisors in Fort Wayne. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealth Advisors Group",
+      "url": "https://www.wealthag.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 25
+    },
+    {
+      "name": "Shelton Financial Group, Inc.",
+      "url": "https://www.sheltonfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Troyer Retirement",
+      "url": "https://www.troyerretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "Financial Planning Services",
+      "url": "http://www.tobuildwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Reynolds Wealth Management",
+      "url": "http://www.reynoldswealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Fort Wayne, Indiana, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Fort Wayne's economy is bolstered by manufacturing, healthcare, and education sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Fort Wayne requires investment in tech and healthcare sectors to enhance economic resilience.",
+  "citySpecificRiskAdvice": "Fort Wayne's manufacturing reliance poses risks; diversify into tech and healthcare. Housing market shows signs of appreciation, consider geographic spread. Flooding risks exist.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Wayne's GDP growth rate is projected at 2.5%, driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Fort Wayne is approximately $54,000, reflecting a moderate economic status."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Wayne are increasingly specializing in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fort Wayne's cost of living is 10% lower than the national average, making it an affordable city to live in."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fort Wayne's housing market is experiencing a 5% annual appreciation, indicating a competitive real estate environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Wayne's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "250+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

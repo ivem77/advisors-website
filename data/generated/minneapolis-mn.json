@@ -1,0 +1,178 @@
+{
+  "cityName": "Minneapolis",
+  "state": "Minnesota",
+  "slug": "minneapolis-mn",
+  "population": "400K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Minneapolis",
+  "metaDescription": "Find top-rated financial advisors in Minneapolis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Guardian Wealth Strategies Fiduciary & Financial Planning",
+      "url": "https://gwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Box Financial Advisors Inc",
+      "url": "http://www.boxfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "NorthRock Partners",
+      "url": "http://northrockpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "ISC Financial Advisors",
+      "url": "http://www.iscfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lion's Wealth Management",
+      "url": "http://lionswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "Minneapolis, a vibrant city known for its arts and culture, boasts a diverse economy and a strong community spirit.",
+  "landscapeDescription": "Minneapolis has a dynamic economy with a mix of industries including finance, healthcare, and technology. The city is a hub for innovation and entrepreneurship.",
+  "majorIndustries": "Finance, Healthcare, Technology",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Minneapolis requires a focus on tech diversification, affordable housing, and sustainable urban development.",
+  "citySpecificRiskAdvice": "Minneapolis faces tech concentration risks; diversify investments. Real estate is volatile; monitor housing prices. Prepare for winter storms and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Minneapolis experienced a 3.2% GDP growth, driven by strong healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Minneapolis is $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Minneapolis are increasingly specializing in retirement planning and tech investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Minneapolis is 5% above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Minneapolis housing prices have risen 8% year-over-year, indicating a competitive market with potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Minneapolis ranks high for business climate, with strong support for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "400+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis-mn",
+      "population": 400070,
+      "priority": 1
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul-mn",
+      "population": 294873,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester-mn",
+      "population": 110742,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington-mn",
+      "population": 86319,
+      "priority": 1
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth-mn",
+      "population": 86128,
+      "priority": 1
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park-mn",
+      "population": 78373,
+      "priority": 1
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth-mn",
+      "population": 73987,
+      "priority": 1
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud-mn",
+      "population": 66297,
+      "priority": 1
+    }
+  ]
+}

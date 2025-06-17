@@ -1,0 +1,178 @@
+{
+  "cityName": "St. Louis",
+  "state": "Missouri",
+  "slug": "st-louis-mo",
+  "population": "318K (metro: 2.8M)",
+  "pageTitle": "Best Financial Advisors in St. Louis",
+  "metaDescription": "Find top-rated financial advisors in St. Louis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Toberman Becker Wealth",
+      "url": "https://tobermanbecker.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "RETIRESTRONG FINANCIAL ADVISORS",
+      "url": "https://retirestrongfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Mosaic Family Wealth",
+      "url": "http://mosaicwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "B.E.S.T. Wealth Management",
+      "url": "https://bestwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "West End Advisory Group",
+      "url": "https://www.westendadvisorygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "St. Louis, Missouri, is a vibrant city known for its rich history and cultural diversity.",
+  "landscapeDescription": "The economy of St. Louis is diverse, with strengths in healthcare, manufacturing, and biotechnology. The city serves as a regional hub for commerce and innovation.",
+  "majorIndustries": "Healthcare, Manufacturing, Biotechnology",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "St. Louis requires tailored financial services to address its unique economic landscape and demographic diversity.",
+  "citySpecificRiskAdvice": "St. Louis faces risks from its healthcare and manufacturing concentrations. The housing market shows signs of volatility; diversify investments. Tornadoes and flooding pose natural disaster risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Louis has shown a steady economic growth rate of 2.5%, driven by healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Louis is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Louis are increasingly specializing in healthcare and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in St. Louis is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Louis's real estate market is experiencing a slight downturn, with home prices stabilizing after rapid growth."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Louis ranks as a favorable business climate, particularly for startups in healthcare and technology."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "310+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

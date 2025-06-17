@@ -1,0 +1,178 @@
+{
+  "cityName": "Montgomery",
+  "state": "Alabama",
+  "slug": "montgomery-al",
+  "population": "201K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Montgomery",
+  "metaDescription": "Find top-rated financial advisors in Montgomery. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RWC Wealth Management",
+      "url": "https://www.rwcwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "InVista Advisors",
+      "url": "http://www.invistaadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Tucker Financial Group",
+      "url": "http://www.tuckerfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "First Command Financial Advisor - Aaron McKeen",
+      "url": "https://advisor.firstcommand.com/us/al/montgomery/camckeen?y_source=1_MzgzOTMxMzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "First Command Financial Advisor - Brooke Cullen",
+      "url": "https://advisor.firstcommand.com/us/al/montgomery/bcullen?y_source=1_MjAwNzg5OTk0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Montgomery, Alabama, is a historic city known for its rich cultural heritage and vibrant community.",
+  "landscapeDescription": "Montgomery's economy is diverse, with key sectors including government, healthcare, and manufacturing. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Government, Healthcare, Manufacturing",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Montgomery requires attention to economic diversification, particularly in tech and healthcare sectors.",
+  "citySpecificRiskAdvice": "Montgomery's reliance on government jobs poses risks; diversify into tech and healthcare. Real estate is stable but watch for flooding risks and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Montgomery's GDP growth is projected at 3.5%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Montgomery is $52,000, reflecting moderate economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Montgomery increasingly focus on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Montgomery's cost of living is 10% below the national average, making it an affordable city."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Montgomery have appreciated by 5% over the past year, indicating a stable market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Montgomery's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham-al",
+      "population": 212113,
+      "priority": 1
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery-al",
+      "population": 201332,
+      "priority": 1
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile-al",
+      "population": 194899,
+      "priority": 1
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville-al",
+      "population": 186254,
+      "priority": 1
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa-al",
+      "population": 95334,
+      "priority": 1
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover-al",
+      "population": 84126,
+      "priority": 1
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan-al",
+      "population": 68001,
+      "priority": 1
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn-al",
+      "population": 58582,
+      "priority": 1
+    }
+  ]
+}

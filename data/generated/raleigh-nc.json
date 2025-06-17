@@ -1,0 +1,178 @@
+{
+  "cityName": "Raleigh",
+  "state": "North Carolina",
+  "slug": "raleigh-nc",
+  "population": "431K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Raleigh",
+  "metaDescription": "Find top-rated financial advisors in Raleigh. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Steward Wealth Strategies - Raleigh Office",
+      "url": "http://www.steward-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 65
+    },
+    {
+      "name": "Peace Of Mind Wealth Management",
+      "url": "https://pomwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Cerity Partners",
+      "url": "https://ceritypartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Olde Raleigh Financial Group",
+      "url": "https://www.olderaleighfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Scott D Sorrell, CFP®, AIF®, AEP®, ChFC®, CLU®, CKA®, RICP®, CASL®, CLTC",
+      "url": "http://www.scottsorrell.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 54
+    }
+  ],
+  "heroDescription": "Raleigh, the capital of North Carolina, is a vibrant city known for its tech industry and educational institutions.",
+  "landscapeDescription": "Raleigh's economy is driven by technology, education, and healthcare sectors, contributing to its rapid growth. The city is part of the Research Triangle, fostering innovation and collaboration.",
+  "majorIndustries": "Technology, Education, Healthcare",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Raleigh's growing tech sector requires workforce development and infrastructure investment to support continued growth.",
+  "citySpecificRiskAdvice": "Raleigh's tech focus necessitates diversification to mitigate sector volatility. Real estate is booming, raising bubble concerns. Prepare for hurricane and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Raleigh's GDP growth rate is projected at 3.5%, driven by technology and healthcare advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Raleigh is approximately $70,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Raleigh are increasingly specializing in tech investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Raleigh's cost of living is rising, with housing costs increasing by 8% over the past year."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Raleigh has reached $350,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Raleigh's business climate is favorable, with a growing number of startups and established firms relocating to the area."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "430+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

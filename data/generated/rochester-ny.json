@@ -1,0 +1,178 @@
+{
+  "cityName": "Rochester",
+  "state": "New York",
+  "slug": "rochester-ny",
+  "population": "210K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Rochester",
+  "metaDescription": "Find top-rated financial advisors in Rochester. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fiduciary First Advising, Fee-Only Retirement Planner in Rochester NY",
+      "url": "https://www.fiduciaryfirstadvising.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Howe & Rusling",
+      "url": "https://www.howeandrusling.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "NorthLanding Financial Partners, LLC",
+      "url": "http://www.northlandingfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Cobblestone Capital Advisors",
+      "url": "https://www.cobblestonecap.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4a8X000001M94TQAS/rochester-ny?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=rochester&utm_term=rochester",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Rochester, NY, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 210,358, Rochester's economy is driven by healthcare, education, and technology. The city is evolving with a focus on innovation and sustainability.",
+  "majorIndustries": "Healthcare, Education, Technology",
+  "medianIncome": "$63,000",
+  "uniqueNeeds": "Rochester requires investment in tech and healthcare sectors while addressing housing affordability and economic diversification.",
+  "citySpecificRiskAdvice": "Rochester's tech and healthcare reliance poses risks; housing market volatility and potential flooding require diversification strategies and prudent investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rochester's economy is projected to grow by 3% annually, driven by healthcare and tech advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rochester is $63,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rochester are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rochester's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Rochester's real estate market shows a steady appreciation trend, with median home prices at $180,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rochester's business climate is improving, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "210+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york-ny",
+      "population": 8405837,
+      "priority": 1
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo-ny",
+      "population": 258959,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester-ny",
+      "population": 210358,
+      "priority": 1
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers-ny",
+      "population": 199766,
+      "priority": 1
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse-ny",
+      "population": 144669,
+      "priority": 1
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany-ny",
+      "population": 98424,
+      "priority": 1
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle-ny",
+      "population": 79446,
+      "priority": 1
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon-ny",
+      "population": 68224,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Durham",
+  "state": "North Carolina",
+  "slug": "durham-nc",
+  "population": "245K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Durham",
+  "metaDescription": "Find top-rated financial advisors in Durham. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Allworth Financial",
+      "url": "https://allworthfinancial.com/find-a-location/durham?utm_source=google&utm_medium=organic&utm_campaign=local-gmb-durham&c3ch=Business-Listing&c3nid=google-my-business",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bryan L Piccirillo, CFP®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bryan-piccirillo?y_source=1_NjQyNjQ3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Gordon Asset Management, LLC",
+      "url": "http://www.wealthqb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Rosewood Wealth Management",
+      "url": "https://rosewoodwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Personal Path Financial Planning",
+      "url": "http://personalpathfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Durham, NC, is a vibrant city known for its rich history, diverse culture, and booming economy.",
+  "landscapeDescription": "With a population of 245,475, Durham is a key player in the Research Triangle, driven by technology, healthcare, and education sectors. The city's economy is bolstered by its proximity to major universities and research institutions.",
+  "majorIndustries": "Technology, Healthcare, Education",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Durham's diverse economy requires tailored financial strategies to address tech and healthcare industry fluctuations.",
+  "citySpecificRiskAdvice": "Durham's tech focus necessitates diversification to mitigate sector volatility. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and severe weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Durham's economy has grown by 4% annually, driven by tech and healthcare advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Durham is $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Durham are increasingly specializing in tech and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Durham is 5% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Durham's real estate market has seen a 10% increase in home prices over the past year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Durham's business climate is favorable, with a growing number of startups and established firms in the tech sector."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "240+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "cityName": "Jackson",
+  "state": "Mississippi",
+  "slug": "jackson-ms",
+  "population": "172.6K (metro: 172.6K)",
+  "pageTitle": "Best Financial Advisors in Jackson",
+  "metaDescription": "Find top-rated financial advisors in Jackson. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "LeFleur Financial",
+      "url": "http://www.lefleurfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Wealth Practice",
+      "url": "http://the-wealthpractice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "The Thigpen Group",
+      "url": "https://www.thethigpengroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "MAG CAP",
+      "url": "http://www.magcapadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Summit Wealth Group",
+      "url": "http://www.summitwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Jackson, Mississippi, is a vibrant city known for its rich history and cultural heritage.",
+  "landscapeDescription": "Jackson's economy is diverse, with significant contributions from healthcare, education, and manufacturing. The city is a regional hub for commerce and services.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Jackson requires tailored financial advice to navigate its unique economic landscape and demographic challenges.",
+  "citySpecificRiskAdvice": "Jackson's healthcare sector is vital but may face funding risks. Real estate prices are volatile; monitor for bubble signs. Flooding and tornado risks are significant; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jackson's GDP growth has been steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jackson is $45,000, reflecting economic challenges in the region."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jackson increasingly focus on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jackson's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Jackson's housing market is experiencing fluctuations, with some areas seeing rapid price changes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jackson's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson-ms",
+      "population": 172638,
+      "priority": 1
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport-ms",
+      "population": 71012,
+      "priority": 1
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven-ms",
+      "population": 50997,
+      "priority": 1
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg-ms",
+      "population": 47556,
+      "priority": 1
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi-ms",
+      "population": 44820,
+      "priority": 1
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian-ms",
+      "population": 40921,
+      "priority": 1
+    }
+  ]
+}

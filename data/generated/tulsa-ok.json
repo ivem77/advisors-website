@@ -1,0 +1,178 @@
+{
+  "cityName": "Tulsa",
+  "state": "Oklahoma",
+  "slug": "tulsa-ok",
+  "population": "398K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Tulsa",
+  "metaDescription": "Find top-rated financial advisors in Tulsa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First State Investment Advisors | Tulsa Financial Advisors",
+      "url": "http://firststate-ok.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 139
+    },
+    {
+      "name": "Burkholder Wealth Management",
+      "url": "http://www.burkholderwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "J M Brown Financial Partners",
+      "url": "https://perfectcalendar.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "The Legacy Financial Group Inc",
+      "url": "http://www.legacyadvisor.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "SageOak Financial, LLC",
+      "url": "https://www.sageoakfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Tulsa, Oklahoma, is a vibrant city known for its rich cultural heritage and diverse economy.",
+  "landscapeDescription": "Tulsa's economy is driven by energy, aerospace, and technology sectors. The city is experiencing growth, attracting new businesses and residents.",
+  "majorIndustries": "Energy, Aerospace, Technology",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Tulsa requires a focus on diversifying its economy, particularly in tech and renewable energy sectors.",
+  "citySpecificRiskAdvice": "Tulsa's energy sector dominance poses economic risks; housing market shows signs of volatility. Prepare for tornadoes and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tulsa's GDP growth rate has been steady, driven by energy and tech investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Tulsa is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tulsa are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tulsa's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Tulsa is experiencing moderate appreciation, with potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tulsa's business climate is improving, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "390+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

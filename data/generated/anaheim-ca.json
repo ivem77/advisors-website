@@ -1,0 +1,178 @@
+{
+  "cityName": "Anaheim",
+  "state": "California",
+  "slug": "anaheim-ca",
+  "population": "345K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Anaheim",
+  "metaDescription": "Find top-rated financial advisors in Anaheim. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Griffin Financial",
+      "url": "https://griffinfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Life Design Financial & Insurance Services",
+      "url": "https://lifedesignfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Raymond James",
+      "url": "http://www.raymondjames.com/aau01",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wilson Financial Advisors",
+      "url": "http://wilsonfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Randolph J Schroeder, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/randolph-schroeder?y_source=1_NjM5OTQ5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Anaheim, California, is a vibrant city known for its entertainment, tourism, and diverse economy.",
+  "landscapeDescription": "Anaheim's economy thrives on tourism, technology, and healthcare. The city is home to Disneyland and a growing number of tech startups.",
+  "majorIndustries": "Tourism, Technology, Healthcare",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "Anaheim's economy requires strategies to manage tourism volatility and tech sector growth.",
+  "citySpecificRiskAdvice": "Anaheim's tourism reliance poses economic risks; housing market shows bubble signs. Diversify investments and prepare for earthquake risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Anaheim's GDP growth is driven by tourism and tech, with a projected increase of 4% in 2024."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Anaheim is $78,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Anaheim are increasingly focusing on real estate and tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Anaheim's cost of living is rising, with housing costs significantly impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Anaheim's real estate market is experiencing rapid appreciation, raising concerns about a potential bubble."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Anaheim's business climate is favorable, with incentives for tech startups and tourism-related businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "340+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

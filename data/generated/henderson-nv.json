@@ -1,0 +1,164 @@
+{
+  "cityName": "Henderson",
+  "state": "Nevada",
+  "slug": "henderson-nv",
+  "population": "270K (metro: 2.3M)",
+  "pageTitle": "Best Financial Advisors in Henderson",
+  "metaDescription": "Find top-rated financial advisors in Henderson. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Asset Preservation Wealth & Tax, Financial Advisors",
+      "url": "https://www.apsitaxes.com/location/henderson-nv",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 56
+    },
+    {
+      "name": "Cornerstone Wealth Management",
+      "url": "http://cornerstonevegas.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "MRS Wealth Advisors",
+      "url": "http://mrsretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Desert Crest Financial",
+      "url": "http://www.desertcrestfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Mike Peterson - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/mike.peterson/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Henderson, Nevada, is a vibrant city known for its family-friendly atmosphere and proximity to Las Vegas.",
+  "landscapeDescription": "With a population of 270,811, Henderson is one of the fastest-growing cities in the U.S. Its economy is diverse, driven by healthcare, retail, and tourism.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Henderson requires tailored financial advice for its growing population and diverse economic base.",
+  "citySpecificRiskAdvice": "Henderson's tourism reliance poses economic risks; housing market may face bubble concerns. Diversify investments and prepare for potential flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Henderson's economy has seen a 4% growth rate, driven by a surge in tourism and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Henderson is $68,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Henderson are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Henderson's cost of living is approximately 5% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Henderson's real estate market is competitive, with home prices rising 10% year-over-year amid high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Henderson's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "270+",
+  "nearbyLocations": [
+    {
+      "name": "Las Vegas",
+      "state": "Nevada",
+      "slug": "las-vegas-nv",
+      "population": 603488,
+      "priority": 1
+    },
+    {
+      "name": "Henderson",
+      "state": "Nevada",
+      "slug": "henderson-nv",
+      "population": 270811,
+      "priority": 1
+    },
+    {
+      "name": "Reno",
+      "state": "Nevada",
+      "slug": "reno-nv",
+      "population": 233294,
+      "priority": 1
+    },
+    {
+      "name": "North Las Vegas",
+      "state": "Nevada",
+      "slug": "north-las-vegas-nv",
+      "population": 226877,
+      "priority": 1
+    },
+    {
+      "name": "Sparks",
+      "state": "Nevada",
+      "slug": "sparks-nv",
+      "population": 93282,
+      "priority": 1
+    },
+    {
+      "name": "Carson City",
+      "state": "Nevada",
+      "slug": "carson-city-nv",
+      "population": 54080,
+      "priority": 1
+    }
+  ]
+}

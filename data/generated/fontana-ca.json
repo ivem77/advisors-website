@@ -1,0 +1,178 @@
+{
+  "cityName": "Fontana",
+  "state": "California",
+  "slug": "fontana-ca",
+  "population": "203K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Fontana",
+  "metaDescription": "Find top-rated financial advisors in Fontana. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "Enrolled Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJQUJmUrrk4g4RR7XDnXbDLEU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Patriot Financial Services Inc",
+      "url": "http://www.facebook.com/PatriotGroupInc",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Andy Carlson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/andy-carlson?y_source=1_NzMwMzU2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Fontana Financial Planning",
+      "url": "https://fontanafinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Fontana, California, is a growing city in San Bernardino County known for its diverse economy and vibrant community.",
+  "landscapeDescription": "Fontana's economy is bolstered by logistics, manufacturing, and retail sectors. The city benefits from its strategic location near major highways and railroads.",
+  "majorIndustries": "Logistics, Manufacturing, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Fontana requires tailored financial strategies to address its diverse economic landscape and growing population.",
+  "citySpecificRiskAdvice": "Fontana's logistics sector faces risks from economic downturns; housing market volatility may signal a bubble. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fontana's GDP growth rate is projected at 3.5%, driven by logistics and manufacturing expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fontana is approximately $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fontana are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fontana's cost of living is about 10% lower than the California average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fontana's housing market is experiencing a 5% annual appreciation, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fontana's business climate is favorable, with incentives for logistics and manufacturing companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

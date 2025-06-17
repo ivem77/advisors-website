@@ -1,0 +1,178 @@
+{
+  "cityName": "Fayetteville",
+  "state": "North Carolina",
+  "slug": "fayetteville-nc",
+  "population": "204K (metro: 204K)",
+  "pageTitle": "Best Financial Advisors in Fayetteville",
+  "metaDescription": "Find top-rated financial advisors in Fayetteville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "White Horse Financial, Inc.",
+      "url": "http://www.whitehorse-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "First Command Financial Advisor - Dana Thornton",
+      "url": "https://advisor.firstcommand.com/us/nc/fayetteville/dpthornton?y_source=1_NDE1Nzk0MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 44
+    },
+    {
+      "name": "First Command Financial Advisor - Sandi Bullock",
+      "url": "https://advisor.firstcommand.com/us/nc/fayetteville/smbullock?y_source=1_MjA5NjIzNzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Hill & Jenkins Wealth Advisors",
+      "url": "http://www.hillandjenkins.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Debbie Best, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/debbie-best?y_source=1_ODM0MjU4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Fayetteville, NC, a vibrant city with a rich military history and growing economy.",
+  "landscapeDescription": "Fayetteville's economy is bolstered by its military presence and diverse industries. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Military, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Fayetteville requires tailored financial strategies to address military transitions and local economic shifts.",
+  "citySpecificRiskAdvice": "Fayetteville's military reliance poses economic risks; diversify investments. Real estate may face volatility due to market fluctuations and weather threats like hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fayetteville's GDP growth is driven by military spending and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fayetteville is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fayetteville increasingly focus on military benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fayetteville's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fayetteville's housing market is stable, but rising prices raise concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fayetteville's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

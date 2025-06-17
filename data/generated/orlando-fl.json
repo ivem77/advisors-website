@@ -1,0 +1,178 @@
+{
+  "cityName": "Orlando",
+  "state": "Florida",
+  "slug": "orlando-fl",
+  "population": "255K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Orlando",
+  "metaDescription": "Find top-rated financial advisors in Orlando. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Retire Orlando, a Member of Advisory Services Network, LLC",
+      "url": "http://www.retireorlando.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Summit Wealth Partners, LLC",
+      "url": "https://www.mysummitwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing&y_source=1_MjY4OTc1NjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sunrise Wealth Advisors",
+      "url": "https://www.sunrisewealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Stonebridge Financial Planning",
+      "url": "http://www.stonebridgefpgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Guided Financial Advisors",
+      "url": "https://www.guidedfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Orlando, Florida is a vibrant city known for its tourism, technology, and entertainment sectors.",
+  "landscapeDescription": "Orlando's economy thrives on tourism, technology, and healthcare, contributing to its rapid growth. The city is a hub for innovation and business development.",
+  "majorIndustries": "Tourism, Technology, Healthcare",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Orlando's economy requires focus on tourism resilience and tech diversification to mitigate seasonal fluctuations.",
+  "citySpecificRiskAdvice": "Orlando's tech sector needs diversification to avoid over-reliance. Real estate prices are rising, indicating potential bubble risks. Prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Orlando's GDP growth outpaces national averages, driven by tourism and tech innovation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Orlando is $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Orlando are increasingly focusing on retirement planning and tech investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Orlando's cost of living is rising, particularly in housing and transportation sectors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Orlando's real estate market is competitive, with prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Orlando's business climate is favorable, with incentives for tech startups and tourism-related businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "250+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

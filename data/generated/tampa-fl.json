@@ -1,0 +1,178 @@
+{
+  "cityName": "Tampa",
+  "state": "Florida",
+  "slug": "tampa-fl",
+  "population": "353K (metro: 3.1M)",
+  "pageTitle": "Best Financial Advisors in Tampa",
+  "metaDescription": "Find top-rated financial advisors in Tampa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealth Advisors of Tampa Bay",
+      "url": "http://www.wealthadvtb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Taylor Financial",
+      "url": "http://www.taylorfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 80
+    },
+    {
+      "name": "Westshore Financial Group",
+      "url": "http://www.westshorefinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Kingsbury Financial Advisors",
+      "url": "http://www.kingsburyfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 58
+    },
+    {
+      "name": "Water Street Wealth Management",
+      "url": "http://www.waterstreetwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 52
+    }
+  ],
+  "heroDescription": "Tampa, Florida, is a vibrant city known for its diverse economy and beautiful waterfront.",
+  "landscapeDescription": "Tampa's economy is bolstered by tourism, finance, and healthcare, contributing to its robust growth. The city is a hub for innovation and business development.",
+  "majorIndustries": "Tourism, Finance, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Tampa's growth necessitates a focus on disaster preparedness and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "Tampa's tourism-heavy economy faces risks from hurricanes and flooding. Real estate prices are rising, indicating potential bubble risks. Diversify investments beyond tourism.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tampa's GDP growth rate is projected at 3.5%, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Tampa is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tampa are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tampa's cost of living is 5% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Tampa's housing market is experiencing a 10% annual increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tampa's business climate is favorable, with a growing number of startups and established firms expanding operations."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "350+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

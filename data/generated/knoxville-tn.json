@@ -1,0 +1,178 @@
+{
+  "cityName": "Knoxville",
+  "state": "Tennessee",
+  "slug": "knoxville-tn",
+  "population": "183K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Knoxville",
+  "metaDescription": "Find top-rated financial advisors in Knoxville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Integrity Wealth Services",
+      "url": "http://www.iws.one/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Financial Partners of TN, LLC",
+      "url": "http://www.financialpartnerstn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Marsh Wealth Management",
+      "url": "http://marshwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Modern Wealth Management - Knoxville",
+      "url": "https://www.modwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Guidance Advisors",
+      "url": "http://www.retirementischanging.com/contact",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Knoxville, Tennessee, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "With a population of 183,270, Knoxville's economy is diverse, driven by education, healthcare, and manufacturing sectors. The city is also a hub for outdoor recreation and tourism.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Knoxville's economy requires a focus on education and healthcare, with a growing need for tech sector support.",
+  "citySpecificRiskAdvice": "Knoxville's healthcare and education sectors dominate, risking over-reliance. Real estate is rising; monitor bubble signs. Tornadoes and flooding are concerns; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Knoxville's GDP growth rate is projected at 3.2%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Knoxville is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Knoxville are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Knoxville's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Knoxville have increased by 8% year-over-year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Knoxville's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "180+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis-tn",
+      "population": 653450,
+      "priority": 1
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson-tn",
+      "population": 634464,
+      "priority": 1
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville-tn",
+      "population": 183270,
+      "priority": 1
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga-tn",
+      "population": 173366,
+      "priority": 1
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville-tn",
+      "population": 142357,
+      "priority": 1
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro-tn",
+      "population": 117044,
+      "priority": 1
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin-tn",
+      "population": 68886,
+      "priority": 1
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson-tn",
+      "population": 67685,
+      "priority": 1
+    }
+  ]
+}

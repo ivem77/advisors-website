@@ -1,0 +1,157 @@
+{
+  "cityName": "Lexington-Fayette",
+  "state": "Kentucky",
+  "slug": "lexington-fayette-ky",
+  "population": "308K (metro: 308K)",
+  "pageTitle": "Best Financial Advisors in Lexington-Fayette",
+  "metaDescription": "Find top-rated financial advisors in Lexington-Fayette. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "ABRI LLC Financial Planner",
+      "url": "https://abri.io/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 95
+    },
+    {
+      "name": "R.L. Brown Wealth Management",
+      "url": "https://rlbrownwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Family Financial Partners",
+      "url": "https://www.familyfinancialpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Legacy Wealth Management",
+      "url": "http://www.legacywealthky.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Lexington Financial",
+      "url": "https://lex-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Lexington-Fayette, known for its rich horse culture and bourbon production, is a vibrant urban center in Kentucky.",
+  "landscapeDescription": "The economy of Lexington-Fayette is diverse, with strong sectors in education, healthcare, and manufacturing. The city benefits from a strategic location and a growing population.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Focus on education and healthcare services to support the growing population.",
+  "citySpecificRiskAdvice": "Lexington's economy relies on education and healthcare, posing risks if these sectors falter. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lexington-Fayette's GDP growth is projected at 3.2%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Lexington-Fayette is $54,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lexington are increasingly specializing in retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Lexington-Fayette is 5% below the national average, making it an affordable city."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Lexington-Fayette have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lexington-Fayette is ranked as a top city for small business growth, supported by local initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "300+",
+  "nearbyLocations": [
+    {
+      "name": "Louisville/Jefferson County",
+      "state": "Kentucky",
+      "slug": "louisville-jefferson-county-ky",
+      "population": 609893,
+      "priority": 1
+    },
+    {
+      "name": "Lexington-Fayette",
+      "state": "Kentucky",
+      "slug": "lexington-fayette-ky",
+      "population": 308428,
+      "priority": 1
+    },
+    {
+      "name": "Bowling Green",
+      "state": "Kentucky",
+      "slug": "bowling-green-ky",
+      "population": 61488,
+      "priority": 1
+    },
+    {
+      "name": "Owensboro",
+      "state": "Kentucky",
+      "slug": "owensboro-ky",
+      "population": 58416,
+      "priority": 1
+    },
+    {
+      "name": "Covington",
+      "state": "Kentucky",
+      "slug": "covington-ky",
+      "population": 40956,
+      "priority": 1
+    }
+  ]
+}

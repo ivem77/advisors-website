@@ -1,0 +1,178 @@
+{
+  "cityName": "Santa Ana",
+  "state": "California",
+  "slug": "santa-ana-ca",
+  "population": "334K (metro: 13.3M)",
+  "pageTitle": "Best Financial Advisors in Santa Ana",
+  "metaDescription": "Find top-rated financial advisors in Santa Ana. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Strategies - Wealth Management Group",
+      "url": "https://fswmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Joshua E. Hernandez - CFEd Certified Financial Educator",
+      "url": "https://joshua-h.com/onlineemail",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Liberty Capital Management",
+      "url": "https://www.libertycapitalmgt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Warren Street Wealth Advisors, LLC",
+      "url": "https://warrenstreetwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "John Stokes Financial",
+      "url": "http://www.johnstokesfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    }
+  ],
+  "heroDescription": "Santa Ana, California, is a vibrant city known for its rich cultural diversity and economic potential.",
+  "landscapeDescription": "Santa Ana's economy is driven by a mix of retail, healthcare, and education sectors. The city benefits from its strategic location within the Los Angeles metropolitan area.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$71,000",
+  "uniqueNeeds": "Santa Ana requires tailored financial strategies due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Santa Ana's retail and healthcare sectors face competition and economic shifts. Housing prices are rising, indicating bubble risks. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Santa Ana's economy has shown resilience with a 3.5% growth rate, driven by local business expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Santa Ana is $71,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Santa Ana increasingly specialize in real estate and retirement planning due to local market dynamics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Santa Ana is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Santa Ana's real estate market has seen a 10% increase in home prices over the past year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Santa Ana's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "330+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

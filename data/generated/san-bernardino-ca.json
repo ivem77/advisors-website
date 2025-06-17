@@ -1,0 +1,178 @@
+{
+  "cityName": "San Bernardino",
+  "state": "California",
+  "slug": "san-bernardino-ca",
+  "population": "213K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in San Bernardino",
+  "metaDescription": "Find top-rated financial advisors in San Bernardino. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "Massongill Wealth Management | Financial Advisor | Redlands | Yucaipa",
+      "url": "http://www.massongillwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Raymond James Financial Services",
+      "url": "http://www.raymondjames.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "KWB Wealth",
+      "url": "https://kwbwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "La Bolsa De Valores USA",
+      "url": "https://labolsadevaloresusa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    }
+  ],
+  "heroDescription": "San Bernardino, CA, is a vibrant city known for its diverse economy and rich cultural heritage.",
+  "landscapeDescription": "As of 2023, San Bernardino has a population of 213,708, contributing to a growing regional economy. The city is strategically located near major transportation routes, enhancing its commercial appeal.",
+  "majorIndustries": "Logistics, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "San Bernardino requires targeted investment in infrastructure and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "San Bernardino's logistics focus poses risks from economic downturns; real estate is volatile due to housing demand. Flooding and wildfires are concerns; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Bernardino's economy has seen a 3% growth rate, driven by logistics and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Bernardino is $55,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Bernardino are increasingly focusing on retirement planning and risk management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), San Bernardino's cost of living is lower than the California average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in San Bernardino have risen by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Bernardino's business climate is improving, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "210+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

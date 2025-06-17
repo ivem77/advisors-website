@@ -1,0 +1,164 @@
+{
+  "cityName": "Reno",
+  "state": "Nevada",
+  "slug": "reno-nv",
+  "population": "233K (metro: 450K)",
+  "pageTitle": "Best Financial Advisors in Reno",
+  "metaDescription": "Find top-rated financial advisors in Reno. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Alchemy Wealth Management",
+      "url": "https://alchemywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Wealthspire Advisors",
+      "url": "http://www.wealthspire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "GK WEALTH MANAGEMENT",
+      "url": "https://www.gkwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 25
+    },
+    {
+      "name": "GPS Wealth Advisors",
+      "url": "https://www.gpswealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Legacy Wealth Planning",
+      "url": "https://lwpreno.com/practice/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Reno, Nevada, known as 'The Biggest Little City in the World', offers a unique blend of urban and outdoor lifestyles.",
+  "landscapeDescription": "Reno's economy is driven by tourism, gaming, and technology, with a growing emphasis on renewable energy. The city is diversifying its economic base to reduce reliance on traditional industries.",
+  "majorIndustries": "Tourism, Gaming, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Reno's economy requires diversification to mitigate risks associated with gaming and tourism volatility.",
+  "citySpecificRiskAdvice": "Reno's gaming focus poses economic risks; diversify investments. Real estate is booming, raising bubble concerns. Prepare for droughts and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Reno's GDP growth has been steady, driven by an influx of tech companies and tourism recovery post-pandemic."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Reno is approximately $60,000, reflecting a diverse workforce and growing job opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Reno are increasingly focusing on retirement planning and investment diversification strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Reno's cost of living is rising, particularly in housing, driven by increased demand and limited supply."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Reno real estate market is experiencing significant appreciation, with home prices rising by over 10% annually."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Reno's business climate is improving, attracting startups and established companies, particularly in tech and renewable energy."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "230+",
+  "nearbyLocations": [
+    {
+      "name": "Las Vegas",
+      "state": "Nevada",
+      "slug": "las-vegas-nv",
+      "population": 603488,
+      "priority": 1
+    },
+    {
+      "name": "Henderson",
+      "state": "Nevada",
+      "slug": "henderson-nv",
+      "population": 270811,
+      "priority": 1
+    },
+    {
+      "name": "Reno",
+      "state": "Nevada",
+      "slug": "reno-nv",
+      "population": 233294,
+      "priority": 1
+    },
+    {
+      "name": "North Las Vegas",
+      "state": "Nevada",
+      "slug": "north-las-vegas-nv",
+      "population": 226877,
+      "priority": 1
+    },
+    {
+      "name": "Sparks",
+      "state": "Nevada",
+      "slug": "sparks-nv",
+      "population": 93282,
+      "priority": 1
+    },
+    {
+      "name": "Carson City",
+      "state": "Nevada",
+      "slug": "carson-city-nv",
+      "population": 54080,
+      "priority": 1
+    }
+  ]
+}

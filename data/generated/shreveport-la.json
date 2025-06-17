@@ -1,0 +1,178 @@
+{
+  "cityName": "Shreveport",
+  "state": "Louisiana",
+  "slug": "shreveport-la",
+  "population": "200.3K (metro: 400.0K)",
+  "pageTitle": "Best Financial Advisors in Shreveport",
+  "metaDescription": "Find top-rated financial advisors in Shreveport. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Evans Financial Group",
+      "url": "http://www.evansfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "RoseStone Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/rosestone-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Deupree James Wealth Management",
+      "url": "http://www.deupreejames.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "WFA - Plan. Invest. Inspire.",
+      "url": "https://www.planinvestinspire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Kevin Murphy - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/kevin.l.murphy/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Shreveport, Louisiana, is a vibrant city known for its rich cultural heritage and diverse economy.",
+  "landscapeDescription": "Shreveport's economy is driven by healthcare, manufacturing, and gaming industries. The city serves as a regional hub for commerce and trade.",
+  "majorIndustries": "Healthcare, Manufacturing, Gaming",
+  "medianIncome": "$47,000",
+  "uniqueNeeds": "Shreveport requires economic diversification and improved infrastructure to support growth.",
+  "citySpecificRiskAdvice": "Shreveport's reliance on gaming and healthcare poses economic risks; housing market volatility and flooding threats require diversification and strategic planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Shreveport's economy has shown modest growth, driven by healthcare and gaming sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Shreveport is $47,000, reflecting economic challenges."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Shreveport are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Shreveport's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Shreveport is experiencing fluctuations, with concerns over housing affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Shreveport's business climate is improving, with initiatives to attract new industries and investments."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "New Orleans",
+      "state": "Louisiana",
+      "slug": "new-orleans-la",
+      "population": 378715,
+      "priority": 1
+    },
+    {
+      "name": "Baton Rouge",
+      "state": "Louisiana",
+      "slug": "baton-rouge-la",
+      "population": 229426,
+      "priority": 1
+    },
+    {
+      "name": "Shreveport",
+      "state": "Louisiana",
+      "slug": "shreveport-la",
+      "population": 200327,
+      "priority": 1
+    },
+    {
+      "name": "Lafayette",
+      "state": "Louisiana",
+      "slug": "lafayette-la",
+      "population": 124276,
+      "priority": 1
+    },
+    {
+      "name": "Lake Charles",
+      "state": "Louisiana",
+      "slug": "lake-charles-la",
+      "population": 74024,
+      "priority": 1
+    },
+    {
+      "name": "Kenner",
+      "state": "Louisiana",
+      "slug": "kenner-la",
+      "population": 66975,
+      "priority": 1
+    },
+    {
+      "name": "Bossier City",
+      "state": "Louisiana",
+      "slug": "bossier-city-la",
+      "population": 66333,
+      "priority": 1
+    },
+    {
+      "name": "Monroe",
+      "state": "Louisiana",
+      "slug": "monroe-la",
+      "population": 49761,
+      "priority": 1
+    }
+  ]
+}

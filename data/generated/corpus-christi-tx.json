@@ -1,0 +1,178 @@
+{
+  "cityName": "Corpus Christi",
+  "state": "Texas",
+  "slug": "corpus-christi-tx",
+  "population": "316K (metro: 316K)",
+  "pageTitle": "Best Financial Advisors in Corpus Christi",
+  "metaDescription": "Find top-rated financial advisors in Corpus Christi. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Corpus Christi Financial Group",
+      "url": "http://www.corpuschristifinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Legamaro Financial Services",
+      "url": "http://www.legamarofinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/tx/corpus-christi",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Coastal Financial on the Island",
+      "url": "http://www.coastalfinancialllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Cruger Financial Services",
+      "url": "http://www.crugerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Corpus Christi, Texas, is a coastal city known for its vibrant economy and diverse industries.",
+  "landscapeDescription": "As a key port city, Corpus Christi's economy thrives on shipping, tourism, and energy. The city is strategically positioned for growth in various sectors.",
+  "majorIndustries": "Energy, Shipping, Tourism",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Corpus Christi requires tailored financial strategies due to its coastal location and economic diversity.",
+  "citySpecificRiskAdvice": "Corpus Christi's energy sector is vulnerable to market fluctuations. Real estate may face volatility from hurricanes and flooding. Diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Corpus Christi's economy is projected to grow by 3% annually, driven by energy and shipping sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Corpus Christi is $55,000, with a diverse population contributing to the local economy."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Corpus Christi are increasingly focusing on risk management and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Corpus Christi's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Corpus Christi shows steady growth, but concerns about hurricane damage persist."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Corpus Christi offers a favorable business climate with incentives for new ventures in energy and tourism."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "310+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

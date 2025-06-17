@@ -1,0 +1,178 @@
+{
+  "cityName": "Tallahassee",
+  "state": "Florida",
+  "slug": "tallahassee-fl",
+  "population": "186K (metro: 386K)",
+  "pageTitle": "Best Financial Advisors in Tallahassee",
+  "metaDescription": "Find top-rated financial advisors in Tallahassee. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jackson Financial Group",
+      "url": "http://www.jacksonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Tallahassee Financial Advisors",
+      "url": "http://www.tallahasseefinancialadvisors.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Proper Wealth",
+      "url": "https://www.pwadvisors.com/contact",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Management Corporation - Certified Financial Planners/Investment Advisors/Fiduciary CFP",
+      "url": "http://www.wealthmanagementcorp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "MillCreek Financial Consultants",
+      "url": "http://www.millcreekfinancialconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Tallahassee, Florida's vibrant capital, blends rich history with a growing economy.",
+  "landscapeDescription": "Tallahassee's economy is driven by government, education, and healthcare sectors. The city is experiencing steady growth, supported by its role as a political hub.",
+  "majorIndustries": "Government, Education, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Tallahassee requires tailored financial advice due to its unique economic structure and demographic profile.",
+  "citySpecificRiskAdvice": "Tallahassee's reliance on government and education poses risks; diversify investments. Housing market stability is crucial amid potential flooding and hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tallahassee's GDP growth rate is projected at 3.2%, driven by public sector investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Tallahassee is $50,000, with a diverse income distribution."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tallahassee are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tallahassee's cost of living is 5% below the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Tallahassee is $250,000, with a stable market showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tallahassee's business climate is favorable for startups, particularly in tech and education sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "180+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Columbus",
+  "state": "Georgia",
+  "slug": "columbus-ga",
+  "population": "202K (metro: 202.8K)",
+  "pageTitle": "Best Financial Advisors in Columbus",
+  "metaDescription": "Find top-rated financial advisors in Columbus. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Townsend Wealth Management",
+      "url": "http://www.townsendwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Capital Wealth Management Group",
+      "url": "http://www.capitalwmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Theresa M Mayes, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/theresa-mayes?y_source=1_ODc1ODQwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ismael Espada Jr, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ismael-espada?y_source=1_OTY0MjQ5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Webb",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-webb?y_source=1_MzY1OTc3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Columbus, Georgia, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 202,824, Columbus boasts a growing economy driven by healthcare, manufacturing, and military sectors. The city is strategically located along the Chattahoochee River, enhancing its trade potential.",
+  "majorIndustries": "Healthcare, Manufacturing, Military",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Columbus requires tailored financial strategies due to its unique economic landscape and demographic diversity.",
+  "citySpecificRiskAdvice": "Columbus's reliance on military and manufacturing poses risks; diversify investments. Real estate may face volatility due to economic shifts. Monitor flooding and tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Columbus experienced a 3.2% growth rate, driven by healthcare and defense spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Columbus is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Columbus are increasingly focusing on retirement planning and military benefits."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Columbus's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Columbus is $230,000, with a steady appreciation trend."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Columbus is recognized for its supportive business climate, particularly for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta-ga",
+      "population": 447841,
+      "priority": 1
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus-ga",
+      "population": 202824,
+      "priority": 1
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county-ga",
+      "population": 197350,
+      "priority": 1
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah-ga",
+      "population": 142772,
+      "priority": 1
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county-ga",
+      "population": 119980,
+      "priority": 1
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs-ga",
+      "population": 99770,
+      "priority": 1
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell-ga",
+      "population": 94034,
+      "priority": 1
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon-ga",
+      "population": 89981,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Salt Lake City",
+  "state": "Utah",
+  "slug": "salt-lake-city-ut",
+  "population": "191K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Salt Lake City",
+  "metaDescription": "Find top-rated financial advisors in Salt Lake City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "TrueNorth Wealth - Financial Advisors",
+      "url": "https://www.truenorthwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Albion Financial Group",
+      "url": "http://www.albionfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Salt Lake Financial Advisors",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJy1dGNAn1UocRgiDAjBLlsVU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Smedley Financial",
+      "url": "http://www.smedleyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Trenton M Christensen - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Trenton.M.Christensen/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    }
+  ],
+  "heroDescription": "Salt Lake City, known for its stunning mountain backdrop and vibrant culture, is a growing hub for technology and outdoor recreation.",
+  "landscapeDescription": "The economy of Salt Lake City is diverse, with significant contributions from technology, healthcare, and tourism. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Technology, Healthcare, Tourism",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Salt Lake City requires tailored financial strategies due to its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Salt Lake City's tech focus poses concentration risks; housing market volatility and potential natural disasters (earthquakes) necessitate diversified investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Salt Lake City's economy grew by 4.5% last year, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Salt Lake City is $70,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Salt Lake City are increasingly specializing in tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Salt Lake City has risen by 3.2% over the past year, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Salt Lake City have increased by 10% year-over-year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Salt Lake City ranks among the top cities for business growth, particularly in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "190+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city-ut",
+      "population": 191180,
+      "priority": 1
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city-ut",
+      "population": 133579,
+      "priority": 1
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo-ut",
+      "population": 116288,
+      "priority": 1
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan-ut",
+      "population": 110077,
+      "priority": 1
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem-ut",
+      "population": 91648,
+      "priority": 1
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy-ut",
+      "population": 90231,
+      "priority": 1
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden-ut",
+      "population": 84249,
+      "priority": 1
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george-ut",
+      "population": 76817,
+      "priority": 1
+    }
+  ]
+}

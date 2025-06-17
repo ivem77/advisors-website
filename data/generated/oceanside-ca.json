@@ -1,0 +1,178 @@
+{
+  "cityName": "Oceanside",
+  "state": "California",
+  "slug": "oceanside-ca",
+  "population": "172.8K (metro: 3.3M)",
+  "pageTitle": "Best Financial Advisors in Oceanside",
+  "metaDescription": "Find top-rated financial advisors in Oceanside. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Seaside Wealth Management",
+      "url": "http://www.seasidewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 56
+    },
+    {
+      "name": "IDA Wealth - Intelligence Driven Advisers",
+      "url": "https://www.idawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 72
+    },
+    {
+      "name": "First Command Financial Advisor - Matt Rose",
+      "url": "https://advisor.firstcommand.com/us/ca/oceanside/mprose?y_source=1_MjA5NjE4MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dale M Maas",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dale-maas?y_source=1_MTc0NjExOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "First Command Financial Advisor - Erin Gulliksen",
+      "url": "https://advisor.firstcommand.com/us/ca/oceanside/egulliksen?y_source=1_MjA5NjE3ODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Oceanside, California, is a vibrant coastal city known for its beautiful beaches and thriving community.",
+  "landscapeDescription": "Oceanside's economy is bolstered by tourism, retail, and healthcare. The city benefits from its strategic location in San Diego County.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Oceanside requires tailored financial strategies due to its tourism dependency and housing market volatility.",
+  "citySpecificRiskAdvice": "Oceanside's tourism reliance poses economic risks; housing market volatility raises bubble concerns. Diversify investments and prepare for potential flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Oceanside's economy is growing steadily, driven by tourism and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Oceanside is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Oceanside are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Oceanside's cost of living is above the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Oceanside is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Oceanside's business climate is favorable, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

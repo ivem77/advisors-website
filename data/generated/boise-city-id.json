@@ -1,0 +1,178 @@
+{
+  "cityName": "Boise City",
+  "state": "Idaho",
+  "slug": "boise-city-id",
+  "population": "214K (metro: 214K)",
+  "pageTitle": "Best Financial Advisors in Boise City",
+  "metaDescription": "Find top-rated financial advisors in Boise City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Legacy Wealth Management LLC",
+      "url": "http://www.legacywealthmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Treasure Valley Financial Planning",
+      "url": "https://www.treasurevalleyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "Tree City Advisors of Apollon",
+      "url": "http://www.treecityadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Helmstar Wealth Management",
+      "url": "http://www.helmstargroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Boise River Financial Planning",
+      "url": "http://boiseriverfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Boise City, Idaho, is a vibrant urban center known for its outdoor lifestyle and growing economy.",
+  "landscapeDescription": "Boise's economy is diverse, with significant growth in technology, healthcare, and manufacturing sectors. The city attracts new residents and businesses due to its quality of life and economic opportunities.",
+  "majorIndustries": "Technology, Healthcare, Manufacturing",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Boise's growth requires infrastructure improvements and sustainable housing solutions to accommodate its increasing population.",
+  "citySpecificRiskAdvice": "Boise's tech sector growth poses concentration risks; housing market shows bubble signs. Prepare for wildfires and flooding. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Boise's economy grew by 4.5% last year, driven by tech and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Boise is $65,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Boise are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Boise's cost of living is rising, with housing costs increasing by 10% over the past year."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Boise's real estate market remains competitive, with median home prices at $450,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Boise is ranked among the top cities for startups, with a supportive business climate and access to venture capital."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "210+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city-id",
+      "population": 214237,
+      "priority": 1
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa-id",
+      "population": 86518,
+      "priority": 1
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian-id",
+      "population": 83596,
+      "priority": 1
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls-id",
+      "population": 58292,
+      "priority": 1
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello-id",
+      "population": 54350,
+      "priority": 1
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell-id",
+      "population": 48957,
+      "priority": 1
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene-id",
+      "population": 46402,
+      "priority": 1
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls-id",
+      "population": 45981,
+      "priority": 1
+    }
+  ]
+}

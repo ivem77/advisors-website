@@ -1,0 +1,178 @@
+{
+  "cityName": "Madison",
+  "state": "Wisconsin",
+  "slug": "madison-wi",
+  "population": "243K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in Madison",
+  "metaDescription": "Find top-rated financial advisors in Madison. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Walkner Condon Financial Advisors",
+      "url": "https://walknercondon.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Compelling Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/compelling-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 62
+    },
+    {
+      "name": "Madison Partners - Madison Office",
+      "url": "http://www.themadisonpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Evolution Financial LLC",
+      "url": "https://www.evolutionfinplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "EnRich Financial Partners LLC",
+      "url": "http://www.enrichpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Madison, Wisconsin, is a vibrant city known for its strong educational institutions and diverse economy.",
+  "landscapeDescription": "With a population of 243,344, Madison boasts a robust economy driven by education, healthcare, and technology. The city is home to the University of Wisconsin and a growing tech sector.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Madison's economy requires a focus on tech diversification and affordable housing solutions.",
+  "citySpecificRiskAdvice": "Madison's tech sector growth necessitates diversification to mitigate risks. Housing prices are rising, indicating potential bubble risks. Flooding is a concern; diversify investments geographically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Madison's economy is expanding, driven by education and healthcare sectors, with a growth rate of 3.5%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Madison is approximately $66,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Madison are increasingly specializing in retirement planning and tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Madison is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Madison's real estate market is competitive, with home prices increasing by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Madison's business climate is favorable, with a focus on innovation and support for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "240+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee-wi",
+      "population": 599164,
+      "priority": 1
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison-wi",
+      "population": 243344,
+      "priority": 1
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay-wi",
+      "population": 104779,
+      "priority": 1
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha-wi",
+      "population": 99889,
+      "priority": 1
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine-wi",
+      "population": 78199,
+      "priority": 1
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton-wi",
+      "population": 73596,
+      "priority": 1
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha-wi",
+      "population": 71016,
+      "priority": 1
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire-wi",
+      "population": 67545,
+      "priority": 1
+    }
+  ]
+}

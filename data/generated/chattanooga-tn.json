@@ -1,0 +1,178 @@
+{
+  "cityName": "Chattanooga",
+  "state": "Tennessee",
+  "slug": "chattanooga-tn",
+  "population": "173K (metro: 550K)",
+  "pageTitle": "Best Financial Advisors in Chattanooga",
+  "metaDescription": "Find top-rated financial advisors in Chattanooga. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Evergreen Advisors",
+      "url": "http://www.evergreenadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Franklin Wealth Management - Financial Advisor in Chattanooga",
+      "url": "http://www.franklin-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "HHM Wealth Advisors",
+      "url": "http://www.hhmwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Allon Planning Partners",
+      "url": "https://allonplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Guardian Wealth Management, Inc.",
+      "url": "http://www.guardianwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Chattanooga, Tennessee, is a vibrant city known for its scenic beauty and growing economy.",
+  "landscapeDescription": "Chattanooga's economy is diverse, with strengths in manufacturing, healthcare, and technology. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Technology",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Chattanooga requires tailored financial strategies to address its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Chattanooga's tech sector growth necessitates diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Flooding and tornadoes pose natural disaster threats;...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Chattanooga's GDP growth rate has outpaced the national average, driven by manufacturing and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Chattanooga stands at $52,000, reflecting economic opportunities for residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Chattanooga are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Chattanooga's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Chattanooga is experiencing a surge, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Chattanooga's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis-tn",
+      "population": 653450,
+      "priority": 1
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson-tn",
+      "population": 634464,
+      "priority": 1
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville-tn",
+      "population": 183270,
+      "priority": 1
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga-tn",
+      "population": 173366,
+      "priority": 1
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville-tn",
+      "population": 142357,
+      "priority": 1
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro-tn",
+      "population": 117044,
+      "priority": 1
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin-tn",
+      "population": 68886,
+      "priority": 1
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson-tn",
+      "population": 67685,
+      "priority": 1
+    }
+  ]
+}

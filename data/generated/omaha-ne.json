@@ -1,0 +1,150 @@
+{
+  "cityName": "Omaha",
+  "state": "Nebraska",
+  "slug": "omaha-ne",
+  "population": "434K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Omaha",
+  "metaDescription": "Find top-rated financial advisors in Omaha. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Unified Legacy Advisors",
+      "url": "https://unifiedlegacyadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Egermier Wealth Management Group",
+      "url": "http://www.omahafinancialconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Stevens Capital Partners (Certified Financial Planner)",
+      "url": "https://www.stevenscapitalpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Austin Williams - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Austin.Williams/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/locations/omaha-ne-branch-street/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Omaha, Nebraska, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Omaha's economy is bolstered by finance, insurance, and telecommunications. The city is home to several Fortune 500 companies and a growing tech sector.",
+  "majorIndustries": "Finance, Insurance, Telecommunications",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Omaha requires tailored financial advice due to its unique economic landscape and diverse industry presence.",
+  "citySpecificRiskAdvice": "Omaha's finance and insurance sectors face economic downturn risks. Real estate prices may be inflated; monitor for a potential bubble. Tornadoes pose natural disaster risks; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Omaha's GDP growth rate has been steady at 3.5%, driven by strong performance in finance and technology sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Omaha is $68,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Omaha are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Omaha's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Omaha's real estate market shows a 5% annual appreciation, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Omaha's business climate is favorable, with a growing number of startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "430+",
+  "nearbyLocations": [
+    {
+      "name": "Omaha",
+      "state": "Nebraska",
+      "slug": "omaha-ne",
+      "population": 434353,
+      "priority": 1
+    },
+    {
+      "name": "Lincoln",
+      "state": "Nebraska",
+      "slug": "lincoln-ne",
+      "population": 268738,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Nebraska",
+      "slug": "bellevue-ne",
+      "population": 53663,
+      "priority": 1
+    },
+    {
+      "name": "Grand Island",
+      "state": "Nebraska",
+      "slug": "grand-island-ne",
+      "population": 50550,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "New Orleans",
+  "state": "Louisiana",
+  "slug": "new-orleans-la",
+  "population": "378.7K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in New Orleans",
+  "metaDescription": "Find top-rated financial advisors in New Orleans. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Delta Financial Advisors LLC",
+      "url": "https://www.deltafinad.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Dumaine Investments | Financial Planning & Wealth Management",
+      "url": "https://dumaineinvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Gulf Point Advisors | Private Wealth Investment Management",
+      "url": "http://www.gulfpointadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Royal Road Wealth Partners",
+      "url": "http://www.royalroadwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "deMAURIAC Financial Consulting & Wealth Management - MARIGNY deMAURIAC CFP , ABFP , AAMS",
+      "url": "http://demauriac.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "New Orleans, known for its vibrant culture and history, is a unique city with a rich blend of traditions and modern influences.",
+  "landscapeDescription": "The economy of New Orleans is diverse, with strengths in tourism, healthcare, and shipping. The city is recovering post-pandemic, showing signs of growth.",
+  "majorIndustries": "Tourism, Healthcare, Shipping",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "New Orleans requires tailored financial services due to its unique cultural and economic landscape.",
+  "citySpecificRiskAdvice": "New Orleans' tourism reliance poses economic risks; real estate may face bubble pressures. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Orleans' economy is projected to grow by 3.5% annually, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Orleans is approximately $50,000, reflecting economic disparities across neighborhoods."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Orleans increasingly focus on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in New Orleans is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the New Orleans real estate market is experiencing a 10% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Orleans has a favorable business climate, with incentives for startups in tech and tourism sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "370+",
+  "nearbyLocations": [
+    {
+      "name": "New Orleans",
+      "state": "Louisiana",
+      "slug": "new-orleans-la",
+      "population": 378715,
+      "priority": 1
+    },
+    {
+      "name": "Baton Rouge",
+      "state": "Louisiana",
+      "slug": "baton-rouge-la",
+      "population": 229426,
+      "priority": 1
+    },
+    {
+      "name": "Shreveport",
+      "state": "Louisiana",
+      "slug": "shreveport-la",
+      "population": 200327,
+      "priority": 1
+    },
+    {
+      "name": "Lafayette",
+      "state": "Louisiana",
+      "slug": "lafayette-la",
+      "population": 124276,
+      "priority": 1
+    },
+    {
+      "name": "Lake Charles",
+      "state": "Louisiana",
+      "slug": "lake-charles-la",
+      "population": 74024,
+      "priority": 1
+    },
+    {
+      "name": "Kenner",
+      "state": "Louisiana",
+      "slug": "kenner-la",
+      "population": 66975,
+      "priority": 1
+    },
+    {
+      "name": "Bossier City",
+      "state": "Louisiana",
+      "slug": "bossier-city-la",
+      "population": 66333,
+      "priority": 1
+    },
+    {
+      "name": "Monroe",
+      "state": "Louisiana",
+      "slug": "monroe-la",
+      "population": 49761,
+      "priority": 1
+    }
+  ]
+}

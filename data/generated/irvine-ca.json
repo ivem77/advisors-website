@@ -1,0 +1,178 @@
+{
+  "cityName": "Irvine",
+  "state": "California",
+  "slug": "irvine-ca",
+  "population": "236K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Irvine",
+  "metaDescription": "Find top-rated financial advisors in Irvine. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "John Stokes Financial",
+      "url": "http://www.johnstokesfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Irvine Wealth Management",
+      "url": "http://www.irvinewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "EP Wealth Advisors",
+      "url": "https://www.epwealth.com/our-team/orange-county/?utm_source=gmblisting&utm_medium=organic&utm_campaign=ca_irvine",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "https://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 58
+    },
+    {
+      "name": "BML Wealth Management",
+      "url": "https://www.bmlwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Irvine, California, is a vibrant city known for its strong economy and diverse community.",
+  "landscapeDescription": "Irvine boasts a robust economy driven by technology, education, and healthcare sectors. The city is a hub for innovation and attracts a skilled workforce.",
+  "majorIndustries": "Technology, Education, Healthcare",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Irvine requires tailored financial strategies due to its tech-driven economy and high cost of living.",
+  "citySpecificRiskAdvice": "Irvine's tech focus necessitates diversification to mitigate market volatility. Real estate prices pose bubble risks; consider geographic investment spread. Watch for earthquake risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Irvine's economy has grown by 4.5% year-over-year, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Irvine is approximately $100,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Irvine are increasingly specializing in tech investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Irvine is 30% higher than the national average, primarily due to housing."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Irvine have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Irvine ranks among the top cities for business growth, with a favorable climate for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "230+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

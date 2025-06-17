@@ -1,0 +1,178 @@
+{
+  "cityName": "Des Moines",
+  "state": "Iowa",
+  "slug": "des-moines-ia",
+  "population": "207K (metro: 600K)",
+  "pageTitle": "Best Financial Advisors in Des Moines",
+  "metaDescription": "Find top-rated financial advisors in Des Moines. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Des Moines Investments",
+      "url": "https://www.investdsmi.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Gremler Wealth Management",
+      "url": "http://gremlerwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Peterson Financial Group",
+      "url": "https://petersonfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Expedition Wealth Management",
+      "url": "http://www.expeditionwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "The Wealth Consulting Group",
+      "url": "http://www.wealthcgdesmoines.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Des Moines, Iowa, is a vibrant city known for its strong economy and quality of life.",
+  "landscapeDescription": "With a population of 207,510, Des Moines boasts a diverse economy anchored by finance, insurance, and agriculture. The city is a growing hub for startups and innovation.",
+  "majorIndustries": "Finance, Insurance, Agriculture",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Focus on sustainable growth and diversification in emerging sectors.",
+  "citySpecificRiskAdvice": "Des Moines' finance and insurance sectors face concentration risks. Real estate may see bubbles due to demand; monitor for flooding and tornado risks. Diversify into tech and agri-tech.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Des Moines has seen a 3.5% GDP growth, driven by finance and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Des Moines is approximately $70,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Des Moines increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Des Moines has a cost of living index 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Des Moines have risen by 5% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Des Moines ranks high for business friendliness, with low taxes and a supportive startup ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "200+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines-ia",
+      "population": 207510,
+      "priority": 1
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids-ia",
+      "population": 128429,
+      "priority": 1
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport-ia",
+      "population": 102157,
+      "priority": 1
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city-ia",
+      "population": 82459,
+      "priority": 1
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city-ia",
+      "population": 71591,
+      "priority": 1
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo-ia",
+      "population": 68366,
+      "priority": 1
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs-ia",
+      "population": 61969,
+      "priority": 1
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames-ia",
+      "population": 61792,
+      "priority": 1
+    }
+  ]
+}

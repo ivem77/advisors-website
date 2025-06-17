@@ -1,0 +1,178 @@
+{
+  "cityName": "Wichita",
+  "state": "Kansas",
+  "slug": "wichita-ks",
+  "population": "386.6K (metro: 386.6K)",
+  "pageTitle": "Best Financial Advisors in Wichita",
+  "metaDescription": "Find top-rated financial advisors in Wichita. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wichita Wealth",
+      "url": "https://wichitawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Phoenix Financial Group",
+      "url": "https://www.phoenixfgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "StewardRight, LLC",
+      "url": "http://www.stewardright.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Gough Financial Group",
+      "url": "http://www.gfgks.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wealth Alliance Advisory Group LLC",
+      "url": "http://www.wealthalliance.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Wichita, Kansas, known as the 'Air Capital of the World,' boasts a rich history in aviation and manufacturing.",
+  "landscapeDescription": "Wichita's economy is diverse, with strong sectors in aviation, healthcare, and agriculture. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Aerospace, Healthcare, Agriculture",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Wichita requires tailored financial strategies to address its unique industry mix and economic challenges.",
+  "citySpecificRiskAdvice": "Wichita's aerospace focus risks economic downturns; diversify investments. Real estate may face volatility, and tornado risks necessitate preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wichita's economy has shown resilience with a growth rate of 2.5% in the past year, driven by manufacturing and healthcare."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wichita is $54,000, reflecting a stable economic environment with a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wichita are increasingly specializing in retirement planning and investment management due to demographic shifts."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wichita's cost of living is 10% lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Wichita is stable, with home prices appreciating modestly, but potential bubble risks exist in certain neighborhoods."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wichita's business climate is favorable, with incentives for startups and established companies, particularly in aerospace and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "380+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

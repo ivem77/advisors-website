@@ -1,0 +1,129 @@
+{
+  "cityName": "Honolulu",
+  "state": "Hawaii",
+  "slug": "honolulu-hi",
+  "population": "347K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Honolulu",
+  "metaDescription": "Find top-rated financial advisors in Honolulu. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Summit Financial Advisors",
+      "url": "http://www.summitfinancialhawaii.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Financial Planning Hawaii",
+      "url": "https://www.fphawaii.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Hawaii Financial Advisors, Inc.",
+      "url": "http://www.hawaii-fa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Agape Wealth Management LLC",
+      "url": "http://www.awmhawaii.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Island Wealth Management, Inc.",
+      "url": "http://www.islandwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Honolulu, the vibrant capital of Hawaii, is known for its stunning beaches and rich cultural heritage.",
+  "landscapeDescription": "Honolulu's economy is primarily driven by tourism, military, and agriculture. The city benefits from a unique geographic location, attracting visitors year-round.",
+  "majorIndustries": "Tourism, Military, Agriculture",
+  "medianIncome": "$83,000",
+  "uniqueNeeds": "Honolulu requires tailored financial advice due to its unique economic landscape and high cost of living.",
+  "citySpecificRiskAdvice": "Honolulu's tourism reliance poses economic risks; housing market volatility is high due to demand. Prepare for natural disasters like hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Honolulu's economy is recovering post-pandemic, with a projected growth rate of 3.5% in 2024."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Honolulu is $83,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Honolulu are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Honolulu has a high cost of living, with housing costs significantly above the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Honolulu real estate market is competitive, with median home prices around $1 million."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Honolulu's business environment is improving, with initiatives to support local startups and tourism."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "340+",
+  "nearbyLocations": [
+    {
+      "name": "Honolulu",
+      "state": "Hawaii",
+      "slug": "honolulu-hi",
+      "population": 347884,
+      "priority": 1
+    }
+  ]
+}
