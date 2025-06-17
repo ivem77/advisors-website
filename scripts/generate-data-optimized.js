@@ -51,13 +51,17 @@ async function generateCityDataOptimized(city) {
       nearbyLocations
     };
 
-    // Save generated data
-    await fs.ensureDir('./data/generated');
-    await fs.writeJson(`./data/generated/${city.slug}.json`, cityData, { spaces: 2 });
+    // Save generated data in state directory
+    const stateCode = city.slug.split('-').pop().toLowerCase();
+    const stateDir = `./data/generated/${stateCode}`;
+    await fs.ensureDir(stateDir);
+    
+    const outputPath = `${stateDir}/${city.slug}.json`;
+    await fs.writeJson(outputPath, cityData, { spaces: 2 });
     
     console.log(`✅ Generated optimized data for ${city.name}`);
     console.log(`🔍 Validation: All consistency checks passed`);
-    console.log(`💾 Saved to: data/generated/${city.slug}.json`);
+    console.log(`💾 Saved to: ${outputPath}`);
     console.log(`💰 Cost: 1 API call instead of 4-12!`);
     
     return cityData;
@@ -90,7 +94,8 @@ async function generateAllCityDataOptimized() {
     const startTime = Date.now();
     
     for (const city of cities) {
-      const existingDataPath = `./data/generated/${city.slug}.json`;
+      const stateCode = city.slug.split('-').pop().toLowerCase();
+      const existingDataPath = `./data/generated/${stateCode}/${city.slug}.json`;
       
       if (await fs.pathExists(existingDataPath)) {
         console.log(`⏭️ Skipping ${city.name} (data already exists)`);

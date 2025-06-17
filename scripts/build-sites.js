@@ -3,11 +3,11 @@ const path = require('path');
 const mustache = require('mustache');
 
 async function buildCitySite(citySlug) {
-  console.log(`🏗️ Building site for ${citySlug}...`);
+  console.log(`🏗️  Building site for ${citySlug}...`);
   
   try {
     // Extract state code from city slug (e.g., 'tx' from 'houston-tx')
-    const stateCode = citySlug.split('-').pop();
+    const stateCode = citySlug.split('-').pop().toLowerCase();
     const cityName = citySlug.substring(0, citySlug.lastIndexOf('-'));
     
     // Read template files
@@ -15,8 +15,8 @@ async function buildCitySite(citySlug) {
     const cssContent = await fs.readFile('./templates/styles.css', 'utf8');
     const jsContent = await fs.readFile('./templates/script.js', 'utf8');
     
-    // Load city data
-    const cityDataPath = `./data/generated/${citySlug}.json`;
+    // Load city data from state directory
+    const cityDataPath = `./data/generated/${stateCode}/${citySlug}.json`;
     if (!await fs.pathExists(cityDataPath)) {
       throw new Error(`City data not found: ${cityDataPath}`);
     }
@@ -58,16 +58,19 @@ async function generateIndexPage(citySlugs) {
   const cities = [];
   for (const slug of citySlugs) {
     try {
-      const cityData = await fs.readJson(`./data/generated/${slug}.json`);
+      // Extract state code from slug (e.g., 'houston-tx' -> 'tx')
+      const stateCode = slug.split('-').pop().toLowerCase();
+      const cityData = await fs.readJson(`./data/generated/${stateCode}/${slug}.json`);
+      
       cities.push({
         name: cityData.cityName,
         state: cityData.state,
         slug: cityData.slug,
         population: cityData.population,
-        advisorCount: cityData.registeredAdvisors
+        advisorCount: cityData.registeredAdvisors || 0
       });
     } catch (error) {
-      console.warn(`⚠️ Could not read data for ${slug}, skipping from index`);
+      console.warn(`⚠️ Could not read data for ${slug}, skipping from index:`, error.message);
     }
   }
   
@@ -239,19 +242,41 @@ async function buildAllSites() {
   try {
     // Clean build directory
     console.log('🧹 Cleaning build directory...');
-    if (await fs.pathExists('./build')) {
+    try {
       await fs.remove('./build');
+    } catch (error) {
+      if (error.code !== 'ENOENT') {
+        console.warn('⚠️  Warning: Could not fully clean build directory:', error.message);
+      }
     }
     await fs.ensureDir('./build');
     
-    // Read all city JSON files
-    const cityFiles = await fs.readdir('./data/generated');
-    const citySlugs = cityFiles
-      .filter(file => file.endsWith('.json'))
-      .map(file => file.replace(/\.json$/, ''));
+    // Read all state directories and collect city JSON files
+    const generatedDir = './data/generated';
+    const stateDirs = (await fs.readdir(generatedDir, { withFileTypes: true }))
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name);
+
+    if (stateDirs.length === 0) {
+      throw new Error('No state directories found in data/generated/');
+    }
+
+    // Get all city JSON files from state directories
+    const citySlugs = [];
+    for (const stateDir of stateDirs) {
+      const statePath = path.join(generatedDir, stateDir);
+      const cityFiles = await fs.readdir(statePath);
+      
+      cityFiles
+        .filter(file => file.endsWith('.json'))
+        .forEach(file => {
+          const citySlug = file.replace(/\.json$/, '');
+          citySlugs.push(citySlug);
+        });
+    }
 
     if (citySlugs.length === 0) {
-      throw new Error('No city data found in data/generated/');
+      throw new Error('No city data files found in state directories');
     }
 
     console.log(`🔍 Found ${citySlugs.length} cities to process\n`);
