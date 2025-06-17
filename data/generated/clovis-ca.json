@@ -1,0 +1,178 @@
+{
+  "cityName": "Clovis",
+  "state": "California",
+  "slug": "clovis-ca",
+  "population": "99.8K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Clovis",
+  "metaDescription": "Find top-rated financial advisors in Clovis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Legacy Finance",
+      "url": "http://www.imalegacy.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joshua Brown, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joshua-brown?y_source=1_MTU2NjIxODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Integrated Planning & Investments",
+      "url": "http://www.integrated-plan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cumiford Wealth Management",
+      "url": "https://www.cumifordwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "KERR WEALTH MANAGEMENT",
+      "url": "http://www.kerrwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    }
+  ],
+  "heroDescription": "Clovis, California, is a vibrant city known for its community spirit and proximity to the Sierra Nevada foothills.",
+  "landscapeDescription": "Clovis has a diverse economy with a focus on agriculture, retail, and healthcare. The city benefits from its location near Fresno, enhancing its economic opportunities.",
+  "majorIndustries": "Agriculture, Retail, Healthcare",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Clovis requires tailored financial strategies to address its unique agricultural and retail market dynamics.",
+  "citySpecificRiskAdvice": "Clovis's reliance on agriculture poses risks from climate change. Real estate prices are rising; monitor for bubbles. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Clovis's economy has seen a steady growth rate of 3.5%, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Clovis is approximately $65,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Clovis are increasingly specializing in agricultural investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Clovis's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Clovis's real estate market is experiencing a 5% annual increase in home prices, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Clovis offers a favorable business climate with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

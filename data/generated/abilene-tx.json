@@ -1,0 +1,178 @@
+{
+  "cityName": "Abilene",
+  "state": "Texas",
+  "slug": "abilene-tx",
+  "population": "120K (metro: 120K)",
+  "pageTitle": "Best Financial Advisors in Abilene",
+  "metaDescription": "Find top-rated financial advisors in Abilene. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cedar Gap Wealth Management",
+      "url": "http://cedargapwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "LPL Financial",
+      "url": "http://www.lplabilene.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://abilene.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Koda Wealth Management LLC",
+      "url": "http://www.kodawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Austin Sherwood",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/austin-sherwood?y_source=1_MjMxNzc4Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Abilene, Texas, a vibrant city in the heart of West Texas, is known for its rich history and diverse economy.",
+  "landscapeDescription": "Abilene's economy is supported by education, healthcare, and military sectors, contributing to its stability. The city is also a regional hub for commerce and trade.",
+  "majorIndustries": "Education, Healthcare, Military",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Abilene's economy requires diversification to mitigate risks associated with its reliance on education and military sectors.",
+  "citySpecificRiskAdvice": "Abilene's reliance on education and military sectors poses risks; diversify investments. Real estate may face fluctuations, and tornadoes are a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Abilene's GDP growth rate is steady, driven by local education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Abilene is approximately $55,000, reflecting a modest economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Abilene are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Abilene's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Abilene shows stable pricing, but potential for fluctuations due to economic shifts."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Abilene's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

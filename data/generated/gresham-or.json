@@ -1,0 +1,178 @@
+{
+  "cityName": "Gresham",
+  "state": "Oregon",
+  "slug": "gresham-or",
+  "population": "109K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Gresham",
+  "metaDescription": "Find top-rated financial advisors in Gresham. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Christina J Price, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/christina-price?y_source=1_OTY0NTM2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Keith A Johnson, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/keith-johnson?y_source=1_OTY4MDg1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Alina Rocha Johnson, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/alina-rochajohnson?y_source=1_NDE3NjAzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kimberley R Lanphar",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kimberley-lanphar?y_source=1_MTEyMDcyMzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bridgetown Wealth Management",
+      "url": "http://www.bridgetownwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 46
+    }
+  ],
+  "heroDescription": "Gresham, Oregon, a vibrant city near Portland, offers a blend of urban amenities and natural beauty.",
+  "landscapeDescription": "With a population of 109,397, Gresham is a growing suburb that benefits from proximity to Portland's economic opportunities. The city has a diverse economy, with a focus on retail, healthcare, and manufacturing.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Gresham's growth necessitates infrastructure improvements and affordable housing solutions.",
+  "citySpecificRiskAdvice": "Gresham's retail and healthcare reliance poses risks; diversify investments. Housing market faces affordability issues and potential bubble risks. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Gresham's economy has seen a steady growth rate of 3.2%, driven by local businesses and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Gresham is approximately $70,000, reflecting a diverse income range among residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Gresham are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Gresham's cost of living is about 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Gresham housing market is competitive, with home prices rising 8% year-over-year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Gresham's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

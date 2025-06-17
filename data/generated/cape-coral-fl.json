@@ -1,0 +1,178 @@
+{
+  "cityName": "Cape Coral",
+  "state": "Florida",
+  "slug": "cape-coral-fl",
+  "population": "165.8K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Cape Coral",
+  "metaDescription": "Find top-rated financial advisors in Cape Coral. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jim Perry, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jim-perry?y_source=1_MTgyNTQ0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Adam Hromiak",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/adam-hromiak?y_source=1_NjQxNTE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Asset Management & Advisory Services",
+      "url": "https://www.assetadvisoryservice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Terry L Frith, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-frith?y_source=1_NjQwMzQyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Brian Sauls, Financial Planner | Prudential Advisors",
+      "url": "https://www.prudential.com/advisor/brian-sauls",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Cape Coral, Florida, is a vibrant city known for its extensive canal system and outdoor recreational opportunities.",
+  "landscapeDescription": "With a population of 165,831, Cape Coral boasts a growing economy driven by tourism, healthcare, and retail sectors. The city is a popular destination for retirees and families alike.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Cape Coral requires tailored financial advice due to its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Cape Coral's tourism reliance poses economic risks; housing market volatility may lead to bubbles. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cape Coral's economy has shown resilience, with a growth rate of 3.2% driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cape Coral is $58,000, reflecting a diverse economic base and a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cape Coral are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cape Coral's cost of living is 5% lower than the national average, making it an attractive option for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Cape Coral's real estate market is competitive, with home prices rising 10% year-over-year amid high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cape Coral's business climate is favorable, with a growing number of startups and small businesses contributing to local employment."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Pasadena",
+  "state": "California",
+  "slug": "pasadena-ca",
+  "population": "139.7K (metro: 13.2M)",
+  "pageTitle": "Best Financial Advisors in Pasadena",
+  "metaDescription": "Find top-rated financial advisors in Pasadena. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lake Avenue Financial",
+      "url": "https://www.lakeave.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "First Financial Consulting",
+      "url": "https://firstfinancial.is/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Arroyo Investment Group",
+      "url": "https://arroyoinvestmentgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Impact Fiduciary",
+      "url": "http://www.impactfiduciary.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Beacon Pointe Advisors",
+      "url": "https://beaconpointe.com/contact-us/california-pasadena/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Pasadena, California, is a vibrant city known for its rich cultural heritage and strong economy.",
+  "landscapeDescription": "Pasadena's economy is diverse, with strengths in technology, education, and healthcare. The city benefits from its proximity to Los Angeles, enhancing its economic opportunities.",
+  "majorIndustries": "Technology, Education, Healthcare",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "Pasadena requires tailored financial advice due to its unique blend of industries and high cost of living.",
+  "citySpecificRiskAdvice": "Pasadena's tech sector needs diversification to mitigate volatility. Real estate prices are high, posing bubble risks. Be mindful of earthquake risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pasadena's economy has shown resilience with a growth rate of 3.5%, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Pasadena is approximately $82,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pasadena are increasingly focusing on tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pasadena's cost of living is 30% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Pasadena is around $1.1 million, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pasadena's business climate is favorable, with a supportive infrastructure for startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

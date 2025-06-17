@@ -1,0 +1,178 @@
+{
+  "cityName": "High Point",
+  "state": "North Carolina",
+  "slug": "high-point-nc",
+  "population": "107.7K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in High Point",
+  "metaDescription": "Find top-rated financial advisors in High Point. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "High Point Financial Design",
+      "url": "http://hpfinancialdesign.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jordan Lessard, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jordan-lessard?y_source=1_MjY4MTY4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "TerraWealth - Corporate Headquarters",
+      "url": "https://www.terrawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ray Kuethe, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ray-kuethe?y_source=1_NjQwMTU2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ashley M Pritchett, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ashley-pritchett?y_source=1_OTYzNjk0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "High Point, NC, known for its furniture industry, is a vibrant city with a rich cultural heritage.",
+  "landscapeDescription": "High Point's economy is driven by manufacturing, particularly in furniture and textiles. The city is strategically located in the Piedmont Triad region, enhancing its logistical advantages.",
+  "majorIndustries": "Furniture, Textiles, Logistics",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "High Point requires investment in sustainable industries and housing stability to mitigate economic fluctuations.",
+  "citySpecificRiskAdvice": "High Point's reliance on furniture manufacturing poses economic risks. Real estate prices are rising, indicating potential bubble risks. Prepare for severe weather impacts like tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), High Point's economy has shown steady growth, driven by manufacturing and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in High Point is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), advisors in High Point are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in High Point remains below the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), High Point's real estate market is experiencing rapid appreciation, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), High Point's business climate is favorable, with incentives for manufacturing and logistics firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

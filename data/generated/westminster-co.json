@@ -1,0 +1,178 @@
+{
+  "cityName": "Westminster",
+  "state": "Colorado",
+  "slug": "westminster-co",
+  "population": "110.9K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Westminster",
+  "metaDescription": "Find top-rated financial advisors in Westminster. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Retirement Group",
+      "url": "https://www.thefinancialretirementgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Edelman Financial Engines",
+      "url": "https://www.edelmanfinancialengines.com/location.CO.Westminster/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Strategic Wealth Designers",
+      "url": "https://swdgroup.com/locations/financial-advisor-westminster-co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Mountain State Financial Group",
+      "url": "https://www.msfg.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 86
+    },
+    {
+      "name": "Mountain Capital Investment Advisors",
+      "url": "https://www.mountaincapital.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Westminster, Colorado, is a vibrant city known for its parks, cultural diversity, and proximity to the Denver metropolitan area.",
+  "landscapeDescription": "Westminster's economy is driven by technology, healthcare, and retail sectors, benefiting from its strategic location near Denver. The city has seen steady growth in population and employment opportunities.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Westminster requires tailored financial strategies to address its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Westminster's tech sector growth poses concentration risks; housing market shows bubble signs. Prepare for potential flooding and diversify investments to mitigate economic risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Westminster's economy has expanded by 3.2% annually, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Westminster is $76,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Westminster are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Westminster is 10% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Westminster has seen a 12% increase in home prices over the past year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Westminster's business climate is favorable, with a growing number of startups and established companies in the area."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

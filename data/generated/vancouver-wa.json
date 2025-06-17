@@ -1,0 +1,178 @@
+{
+  "cityName": "Vancouver",
+  "state": "Washington",
+  "slug": "vancouver-wa",
+  "population": "167K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Vancouver",
+  "metaDescription": "Find top-rated financial advisors in Vancouver. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Indigo Wealth Management",
+      "url": "http://www.indigowealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Pia D Meyer",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/pia-meyer?y_source=1_NTU5NzY2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Delphi Advisers, LLC.",
+      "url": "https://delphiadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "City Fiduciary Group",
+      "url": "https://www.cityfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mike Hill, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mike-hill?y_source=1_MTA1MjQ1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Vancouver, Washington, is a vibrant city known for its picturesque landscapes and growing economy.",
+  "landscapeDescription": "Vancouver's economy is diverse, with a strong presence in healthcare, technology, and manufacturing. The city benefits from its proximity to Portland, enhancing its economic opportunities.",
+  "majorIndustries": "Healthcare, Technology, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Vancouver requires tailored financial strategies due to its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Vancouver's tech and healthcare sectors face concentration risks; housing market shows signs of a bubble. Flooding is a concern; diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Vancouver's GDP growth has outpaced the national average, driven by healthcare and tech expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Vancouver is $75,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Vancouver are increasingly focusing on retirement planning and tech investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Vancouver's cost of living is rising, particularly in housing and healthcare sectors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Vancouver is competitive, with prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Vancouver's business climate is favorable, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

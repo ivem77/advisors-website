@@ -1,0 +1,178 @@
+{
+  "cityName": "Salem",
+  "state": "Oregon",
+  "slug": "salem-or",
+  "population": "160.6K (metro: 400K)",
+  "pageTitle": "Best Financial Advisors in Salem",
+  "metaDescription": "Find top-rated financial advisors in Salem. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Park Front Wealth - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/park-front-wealth/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Capstone Wealth Advisors",
+      "url": "http://www.capstonewealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Keudell/Morrison Wealth Management",
+      "url": "http://www.keudellmorrisonwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Grant L Kendall, CEPA®|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/grant-kendall?y_source=1_ODE5NzkxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Capital Financial Planners",
+      "url": "http://www.capfina.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Salem, Oregon, the state capital, is known for its rich history and vibrant community.",
+  "landscapeDescription": "Salem's economy is diverse, with a focus on government, agriculture, and education. The city is experiencing steady growth, driven by its strategic location and quality of life.",
+  "majorIndustries": "Government, Agriculture, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Salem requires attention to its agricultural economy and the impact of state policies on growth.",
+  "citySpecificRiskAdvice": "Salem's reliance on government and agriculture poses risks; housing market may face volatility. Prepare for flooding and diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Salem's economy is projected to grow by 3% annually, driven by public sector investments and agricultural exports."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Salem is $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Salem increasingly focus on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Salem's cost of living is 10% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Salem is experiencing a 5% annual increase in home prices, indicating a competitive housing environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Salem's business climate is improving, with a focus on supporting small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Elizabeth",
+  "state": "New Jersey",
+  "slug": "elizabeth-nj",
+  "population": "127K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in Elizabeth",
+  "metaDescription": "Find top-rated financial advisors in Elizabeth. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "TG Advisor Tax & Financial",
+      "url": "http://www.tgadvisortaxfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Jonathan Barrett CFP®, CLU®, ChFC®, RICP®, RPS®",
+      "url": "http://www.jonathan-barrett.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "MD Wealth Advisors Inc.",
+      "url": "http://www.mdwealthinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Beacon Wealth",
+      "url": "https://www.bwmglp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Jim’s Financial Services LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJJyQ5_KBNwokRugJu4QKkCiE",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Elizabeth, NJ, is a vibrant city known for its diverse community and strategic location near New York City.",
+  "landscapeDescription": "With a population of 127,558, Elizabeth serves as a key economic hub in New Jersey, benefiting from its proximity to major metropolitan areas. The local economy is bolstered by logistics, retail, and manufacturing sectors.",
+  "majorIndustries": "Logistics, Retail, Manufacturing",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Elizabeth requires tailored financial strategies to address its diverse economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Elizabeth's logistics focus poses risks from economic downturns. Real estate may face volatility; monitor housing trends. Flooding is a concern—diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Elizabeth's economy is growing steadily, driven by increased logistics and retail activities."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Elizabeth is approximately $66,000, reflecting a diverse income distribution."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Elizabeth are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Elizabeth is moderate, with housing being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Elizabeth shows signs of growth, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Elizabeth's business climate is favorable, with incentives for logistics and retail businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark-nj",
+      "population": 278427,
+      "priority": 1
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city-nj",
+      "population": 257342,
+      "priority": 1
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson-nj",
+      "population": 145948,
+      "priority": 1
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth-nj",
+      "population": 127558,
+      "priority": 1
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton-nj",
+      "population": 85390,
+      "priority": 1
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton-nj",
+      "population": 84349,
+      "priority": 1
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden-nj",
+      "population": 76903,
+      "priority": 1
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic-nj",
+      "population": 70868,
+      "priority": 1
+    }
+  ]
+}

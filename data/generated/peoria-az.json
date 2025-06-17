@@ -1,0 +1,178 @@
+{
+  "cityName": "Peoria",
+  "state": "Arizona",
+  "slug": "peoria-az",
+  "population": "162.6K (metro: 4.5M)",
+  "pageTitle": "Best Financial Advisors in Peoria",
+  "metaDescription": "Find top-rated financial advisors in Peoria. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Affirm Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/affirm-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Rock Martin Private Wealth Management",
+      "url": "http://www.rockmartinwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Bergen Financial Group",
+      "url": "https://www.bergenfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Validus Financial Associates PLLC",
+      "url": "http://www.vfateam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Prime Wealth Advisors",
+      "url": "https://pwa1.com/?utm_source=Organic_Search&utm_medium=Local_Search&utm_campaign=PWA_GMB",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    }
+  ],
+  "heroDescription": "Peoria, Arizona, is a growing city known for its vibrant community and outdoor recreational opportunities.",
+  "landscapeDescription": "Peoria's economy is diverse, with significant contributions from healthcare, retail, and manufacturing sectors. The city is experiencing steady population growth and development.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Peoria's growing population requires enhanced infrastructure and services to meet demand.",
+  "citySpecificRiskAdvice": "Peoria's reliance on healthcare and retail poses risks; diversify investments. Real estate may face bubble risks due to rapid growth. Monitor flood risks and ensure economic diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Peoria's economy grew by 3.2% last year, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Peoria is $66,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Peoria are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Peoria's cost of living is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Peoria's housing market is competitive, with home values rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Peoria's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix-az",
+      "population": 1513367,
+      "priority": 1
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson-az",
+      "population": 526116,
+      "priority": 1
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa-az",
+      "population": 457587,
+      "priority": 1
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler-az",
+      "population": 249146,
+      "priority": 1
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale-az",
+      "population": 234632,
+      "priority": 1
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert-az",
+      "population": 229972,
+      "priority": 1
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale-az",
+      "population": 226918,
+      "priority": 1
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe-az",
+      "population": 168228,
+      "priority": 1
+    }
+  ]
+}

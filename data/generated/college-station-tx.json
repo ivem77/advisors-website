@@ -1,0 +1,178 @@
+{
+  "cityName": "College Station",
+  "state": "Texas",
+  "slug": "college-station-tx",
+  "population": "100K (metro: 100K)",
+  "pageTitle": "Best Financial Advisors in College Station",
+  "metaDescription": "Find top-rated financial advisors in College Station. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Briaud Financial Advisors",
+      "url": "http://www.briaud.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Evans Financial Group",
+      "url": "http://www.evansfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Fundamental Wealth Advisors",
+      "url": "http://www.fundamentaladvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lucas Coffey, CFP®|ChFC®|ABFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lucas-coffey?y_source=1_MTY0NDI0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joshua L Landman, CFP®|ChFC®|ABFP®|AAMS®|ADPA®|CRPC™|CRPS™|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joshua-landman?y_source=1_OTYyMjEzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "College Station, Texas, is a vibrant city known for its educational institutions and growing economy.",
+  "landscapeDescription": "Home to Texas A&M University, College Station boasts a diverse economy driven by education, healthcare, and retail. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Focus on educational services, affordable housing, and community development.",
+  "citySpecificRiskAdvice": "College Station's reliance on education and retail sectors poses economic risks. Real estate prices may bubble due to demand; diversify investments. Weather risks include flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), College Station's economy has expanded by 3.5% annually, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in College Station is $60,000, reflecting a growing middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in College Station are increasingly focusing on retirement planning and educational savings."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in College Station is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the housing market in College Station has seen a 5% increase in home prices year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), College Station's business climate is favorable, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

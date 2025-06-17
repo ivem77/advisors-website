@@ -1,0 +1,178 @@
+{
+  "cityName": "Davenport",
+  "state": "Iowa",
+  "slug": "davenport-ia",
+  "population": "102K (metro: 380K)",
+  "pageTitle": "Best Financial Advisors in Davenport",
+  "metaDescription": "Find top-rated financial advisors in Davenport. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Quad Cities Investment Group",
+      "url": "http://www.quadcitiesinvestmentgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Cities Private Wealth Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/the-cities-private-wealth-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Advisory Group, Inc.",
+      "url": "https://www.theadvisorygrouponline.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://quadcities.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Thomas Brooke - Thrivent",
+      "url": "https://connect.thrivent.com/thomas-brooke?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzU1NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Davenport, Iowa, a vibrant city on the Mississippi River, offers a blend of rich history and modern amenities.",
+  "landscapeDescription": "Davenport's economy is diverse, with strong sectors in manufacturing, healthcare, and education. The city is part of the Quad Cities metro area, enhancing regional economic collaboration.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Davenport requires focus on economic diversification and sustainable housing development to mitigate risks.",
+  "citySpecificRiskAdvice": "Davenport's manufacturing focus poses risks; diversify into tech and services. Real estate is stable but watch for market fluctuations. Flooding is a concern; consider climate resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Davenport's GDP growth rate has been steady at 2.5%, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Davenport is $58,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Davenport are increasingly specializing in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Davenport's cost of living is approximately 10% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Davenport is stable, with home values appreciating by 4% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Davenport's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines-ia",
+      "population": 207510,
+      "priority": 1
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids-ia",
+      "population": 128429,
+      "priority": 1
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport-ia",
+      "population": 102157,
+      "priority": 1
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city-ia",
+      "population": 82459,
+      "priority": 1
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city-ia",
+      "population": 71591,
+      "priority": 1
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo-ia",
+      "population": 68366,
+      "priority": 1
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs-ia",
+      "population": 61969,
+      "priority": 1
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames-ia",
+      "population": 61792,
+      "priority": 1
+    }
+  ]
+}

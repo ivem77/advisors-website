@@ -1,0 +1,178 @@
+{
+  "cityName": "Boulder",
+  "state": "Colorado",
+  "slug": "boulder-co",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Boulder",
+  "metaDescription": "Find top-rated financial advisors in Boulder. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Colorado Capital Management",
+      "url": "http://coloradocap.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Boulder Wealth Advisors",
+      "url": "http://boulderwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bloom Wealth Advisors",
+      "url": "https://bloomwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "InSight Financial Planners",
+      "url": "http://investmentwithinsight.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Welch Financial Planning & Insurance",
+      "url": "http://www.welchfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    }
+  ],
+  "heroDescription": "Boulder, Colorado, is a vibrant city known for its stunning natural landscapes and thriving tech scene.",
+  "landscapeDescription": "Boulder boasts a diverse economy with a strong emphasis on technology, education, and outdoor recreation. Its population of 103,166 contributes to a dynamic community focused on innovation and sustainability.",
+  "majorIndustries": "Technology, Education, Outdoor Recreation",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Boulder requires tailored financial strategies to address its unique economic landscape and environmental challenges.",
+  "citySpecificRiskAdvice": "Boulder's tech concentration poses risks; diversify investments to mitigate market fluctuations. Real estate prices are high, indicating potential bubble risks. Be aware of natural disasters like wild...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Boulder's economy has grown steadily, driven by tech and education sectors, with a 4% increase in GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Boulder is $80,000, reflecting a well-educated and affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Boulder are increasingly specializing in sustainable investments and tech sector portfolios."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Boulder's cost of living is approximately 30% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Boulder has reached $900,000, with a competitive market and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Boulder ranks high for startups and innovation, attracting venture capital and fostering a collaborative business climate."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

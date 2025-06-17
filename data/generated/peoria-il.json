@@ -1,0 +1,178 @@
+{
+  "cityName": "Peoria",
+  "state": "Illinois",
+  "slug": "peoria-il",
+  "population": "116K (metro: 400K)",
+  "pageTitle": "Best Financial Advisors in Peoria",
+  "metaDescription": "Find top-rated financial advisors in Peoria. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RP Zeigler Investment Services, Inc",
+      "url": "http://www.rpzeigler.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 54
+    },
+    {
+      "name": "Johnston Investment Counsel",
+      "url": "http://www.jicinvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Master Plan Financial Group",
+      "url": "http://www.masterplanfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michelle C Parker, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michelle-parker?y_source=1_NjQxMTM3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Austin Sanford, CEPA® AAMS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/austin-sanford?y_source=1_MTAwMjc5MDM1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    }
+  ],
+  "heroDescription": "Peoria, Illinois, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Peoria's economy is anchored by healthcare, manufacturing, and agriculture. The city is experiencing steady growth, driven by innovation and a skilled workforce.",
+  "majorIndustries": "Healthcare, Manufacturing, Agriculture",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Peoria requires investment in tech and healthcare sectors to enhance economic resilience and job growth.",
+  "citySpecificRiskAdvice": "Peoria's reliance on manufacturing poses risks; diversify into tech and healthcare. Real estate is stable but watch for market fluctuations. Tornadoes and flooding are concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Peoria's GDP growth is projected at 2.5%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Peoria's median household income is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Peoria are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Peoria's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Peoria's housing market is stable, with a median home price of $150,000 and steady demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Peoria offers a supportive business climate with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

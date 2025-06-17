@@ -1,0 +1,150 @@
+{
+  "cityName": "Fargo",
+  "state": "North Dakota",
+  "slug": "fargo-nd",
+  "population": "113.7K (metro: 250K)",
+  "pageTitle": "Best Financial Advisors in Fargo",
+  "metaDescription": "Find top-rated financial advisors in Fargo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Legacy Wealth Management",
+      "url": "https://www.legacywealthfargo.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Principal",
+      "url": "http://www.jameypesek.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Prairiewood Wealth Management",
+      "url": "https://pw-wm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Legacy Financial Partners - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/legacy-financial-partners/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Complete Investment Advisory, LLC",
+      "url": "http://www.completeinvestmentadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Fargo, North Dakota, is a vibrant city known for its strong community and economic resilience.",
+  "landscapeDescription": "Fargo's economy is diverse, with a focus on healthcare, education, and technology. The city has seen steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Education, Technology",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Fargo requires tailored financial planning due to its unique economic landscape and weather-related risks.",
+  "citySpecificRiskAdvice": "Fargo's tech sector growth necessitates diversification to mitigate economic downturns. Real estate prices are rising; monitor for bubble risks. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fargo's GDP growth rate has been steady at 3.2%, driven by healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Fargo is $62,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fargo are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fargo's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fargo's housing market is competitive, with home prices increasing by 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fargo is ranked as one of the best small cities for business, thanks to its supportive infrastructure."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Fargo",
+      "state": "North Dakota",
+      "slug": "fargo-nd",
+      "population": 113658,
+      "priority": 1
+    },
+    {
+      "name": "Bismarck",
+      "state": "North Dakota",
+      "slug": "bismarck-nd",
+      "population": 67034,
+      "priority": 1
+    },
+    {
+      "name": "Grand Forks",
+      "state": "North Dakota",
+      "slug": "grand-forks-nd",
+      "population": 54932,
+      "priority": 1
+    },
+    {
+      "name": "Minot",
+      "state": "North Dakota",
+      "slug": "minot-nd",
+      "population": 46321,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Rochester",
+  "state": "Minnesota",
+  "slug": "rochester-mn",
+  "population": "110.7K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Rochester",
+  "metaDescription": "Find top-rated financial advisors in Rochester. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fortress Financial Group",
+      "url": "http://www.fortressfg.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 46
+    },
+    {
+      "name": "Prinvest Advisors",
+      "url": "http://www.prinvestadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 72
+    },
+    {
+      "name": "Pulse Financial Planning",
+      "url": "http://www.pulsefinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Advanced Financial Consultants",
+      "url": "http://www.advancedfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Don Charlson",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/don-charlson?y_source=1_NjQxNjI2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Rochester, Minnesota, known for its healthcare industry and vibrant community, is a growing city with diverse opportunities.",
+  "landscapeDescription": "Rochester's economy is anchored by the Mayo Clinic, driving healthcare innovation and employment. The city also benefits from a burgeoning tech sector and a strong service industry.",
+  "majorIndustries": "Healthcare, Technology, Education",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Rochester's economy requires a focus on healthcare innovation and tech diversification to sustain growth.",
+  "citySpecificRiskAdvice": "Rochester's healthcare focus poses risks if not diversified; real estate may face volatility. Weather risks include severe winters and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rochester's economy grew by 3.5% last year, driven by healthcare and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Rochester's median household income is $70,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rochester are increasingly focusing on healthcare and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rochester's cost of living is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Rochester's real estate market is competitive, with home prices rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rochester is ranked as one of the best cities for startups, particularly in healthcare and tech."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis-mn",
+      "population": 400070,
+      "priority": 1
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul-mn",
+      "population": 294873,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester-mn",
+      "population": 110742,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington-mn",
+      "population": 86319,
+      "priority": 1
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth-mn",
+      "population": 86128,
+      "priority": 1
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park-mn",
+      "population": 78373,
+      "priority": 1
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth-mn",
+      "population": 73987,
+      "priority": 1
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud-mn",
+      "population": 66297,
+      "priority": 1
+    }
+  ]
+}

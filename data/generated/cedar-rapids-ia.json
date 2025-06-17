@@ -1,0 +1,178 @@
+{
+  "cityName": "Cedar Rapids",
+  "state": "Iowa",
+  "slug": "cedar-rapids-ia",
+  "population": "128K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Cedar Rapids",
+  "metaDescription": "Find top-rated financial advisors in Cedar Rapids. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Specialists Inc",
+      "url": "http://www.thefinancialspecialists.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Savant Wealth Management",
+      "url": "https://savantwealth.com/locations/cedar-rapids-iowa/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "WealthStone Financial",
+      "url": "http://www.wealthstonefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/insights/blog/cwm-locations/cedar-rapids-3rd-ave-se/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Resources Group",
+      "url": "http://www.frginvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Cedar Rapids, Iowa, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Cedar Rapids is a key economic hub in Iowa, with a focus on manufacturing, technology, and healthcare. The city has seen steady growth and development, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Technology, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Cedar Rapids requires tailored financial strategies to address its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Cedar Rapids' manufacturing focus poses risks from economic downturns. Real estate may face volatility due to flooding risks. Diversify investments to mitigate these concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cedar Rapids has experienced a 3% annual economic growth rate, driven by manufacturing and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cedar Rapids is $60,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cedar Rapids increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cedar Rapids has a cost of living index 10% lower than the national average, making it affordable for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Cedar Rapids' housing market shows a 5% increase in home values, indicating a competitive real estate environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cedar Rapids boasts a favorable business climate, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines-ia",
+      "population": 207510,
+      "priority": 1
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids-ia",
+      "population": 128429,
+      "priority": 1
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport-ia",
+      "population": 102157,
+      "priority": 1
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city-ia",
+      "population": 82459,
+      "priority": 1
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city-ia",
+      "population": 71591,
+      "priority": 1
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo-ia",
+      "population": 68366,
+      "priority": 1
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs-ia",
+      "population": 61969,
+      "priority": 1
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames-ia",
+      "population": 61792,
+      "priority": 1
+    }
+  ]
+}

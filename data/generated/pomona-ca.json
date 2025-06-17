@@ -1,0 +1,178 @@
+{
+  "cityName": "Pomona",
+  "state": "California",
+  "slug": "pomona-ca",
+  "population": "151K (metro: 13.2M)",
+  "pageTitle": "Best Financial Advisors in Pomona",
+  "metaDescription": "Find top-rated financial advisors in Pomona. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Evermont Wealth",
+      "url": "https://www.evermont.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "Gould Asset Management LLC",
+      "url": "https://gouldasset.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "VOSBERG WEALTH MANAGEMENT",
+      "url": "http://www.vosbergwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Homestead Wealth Management",
+      "url": "https://www.homesteadwealthmgt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Pomona, California, is a vibrant city in Los Angeles County known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "Pomona's economy is driven by education, healthcare, and manufacturing. The city benefits from its strategic location near major highways and railroads.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$63,000",
+  "uniqueNeeds": "Pomona requires tailored financial strategies to address its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Pomona's reliance on education and healthcare sectors poses risks; housing market volatility and potential flooding require diversification and risk management.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pomona's economy has shown steady growth, driven by local educational institutions and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pomona is approximately $63,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pomona increasingly focus on retirement planning and education funding strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Pomona is slightly below the California average, making it an attractive option for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Pomona real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pomona's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

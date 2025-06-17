@@ -1,0 +1,178 @@
+{
+  "cityName": "West Jordan",
+  "state": "Utah",
+  "slug": "west-jordan-ut",
+  "population": "110K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in West Jordan",
+  "metaDescription": "Find top-rated financial advisors in West Jordan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Granite Canyon Wealth Management",
+      "url": "http://www.granitecanyonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Stonecreek Wealth Advisors, Inc.",
+      "url": "https://www.stonecreekwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Net Worth Advisory Group",
+      "url": "https://networthadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "TrueNorth Wealth - Financial Advisors",
+      "url": "https://www.truenorthwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Katella Wealth Management",
+      "url": "https://www.katellawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "West Jordan, Utah, is a vibrant city known for its family-friendly atmosphere and growing economy.",
+  "landscapeDescription": "With a population of 110,077, West Jordan is part of the Salt Lake City metropolitan area, benefiting from a diverse economy and strong community ties. The city is experiencing steady growth, driven by its strategic location and quality of life.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "West Jordan requires robust infrastructure to support its growing population and economy.",
+  "citySpecificRiskAdvice": "West Jordan's economy is vulnerable to housing market fluctuations and natural disasters like flooding. Diversify investments beyond local industries to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), West Jordan's economy has shown resilience with a growth rate of 3.5% annually, driven by manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in West Jordan is $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in West Jordan are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in West Jordan is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in West Jordan is competitive, with home prices rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), West Jordan's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city-ut",
+      "population": 191180,
+      "priority": 1
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city-ut",
+      "population": 133579,
+      "priority": 1
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo-ut",
+      "population": 116288,
+      "priority": 1
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan-ut",
+      "population": 110077,
+      "priority": 1
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem-ut",
+      "population": 91648,
+      "priority": 1
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy-ut",
+      "population": 90231,
+      "priority": 1
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden-ut",
+      "population": 84249,
+      "priority": 1
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george-ut",
+      "population": 76817,
+      "priority": 1
+    }
+  ]
+}

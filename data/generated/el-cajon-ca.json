@@ -1,0 +1,178 @@
+{
+  "cityName": "El Cajon",
+  "state": "California",
+  "slug": "el-cajon-ca",
+  "population": "102K (metro: 3.3M)",
+  "pageTitle": "Best Financial Advisors in El Cajon",
+  "metaDescription": "Find top-rated financial advisors in El Cajon. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jason Barney, ChFC, EA Wealth Alliance Tax & Financial Services, LLC",
+      "url": "http://www.wealthalli.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Home Wealth Financial",
+      "url": "https://homewealthfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tony Jones, CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tony-jones?y_source=1_MjY4MTcwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Waypoint Financial Partners",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJtWOGxAZX2YARWaGDqLk4EPM",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Beach Cities Financial Group",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJE_viM5xX2YAR7Z_5zREjS_M",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    }
+  ],
+  "heroDescription": "El Cajon, California, is a vibrant city in San Diego County known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "El Cajon has a population of 102,211 and is experiencing steady economic growth driven by retail, healthcare, and manufacturing sectors. The city benefits from its proximity to San Diego, enhancing its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "El Cajon requires tailored financial services to address its diverse population and growing economic sectors.",
+  "citySpecificRiskAdvice": "El Cajon's retail and healthcare sectors face competition risks; housing market shows signs of bubble. Prepare for potential flooding and diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), El Cajon's economy is expanding, with a focus on retail and healthcare, contributing to job growth and stability."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in El Cajon is $66,000, reflecting a diverse economic base and varied employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in El Cajon are increasingly focusing on retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), El Cajon's cost of living is slightly below the national average, making it an attractive option for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), El Cajon's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), El Cajon is fostering a business-friendly environment, attracting new startups and supporting existing businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

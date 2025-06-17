@@ -1,0 +1,178 @@
+{
+  "cityName": "Cary",
+  "state": "North Carolina",
+  "slug": "cary-nc",
+  "population": "151K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Cary",
+  "metaDescription": "Find top-rated financial advisors in Cary. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cardinal Hill Wealth Management",
+      "url": "http://www.cardinalhillwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Family Legacy Financial Solutions",
+      "url": "http://www.familylegacync.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Hicks & Associates Wealth Management",
+      "url": "http://www.hicks-associates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Stonegate Financial",
+      "url": "http://www.sgfnc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Williams Wealth Management",
+      "url": "http://www.wmswlth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Cary, NC is a rapidly growing suburban town known for its family-friendly environment and tech-driven economy.",
+  "landscapeDescription": "Cary's economy is bolstered by a mix of technology, healthcare, and education sectors. The town's strategic location near the Research Triangle enhances its growth potential.",
+  "majorIndustries": "Technology, Healthcare, Education",
+  "medianIncome": "$95,000",
+  "uniqueNeeds": "Cary requires a focus on sustainable growth, affordable housing, and enhanced public services to support its expanding population.",
+  "citySpecificRiskAdvice": "Cary's tech sector growth necessitates diversification to mitigate economic downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cary's economy has seen a 4% growth rate, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Cary's median household income is approximately $95,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cary are increasingly focusing on tech investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cary's cost of living is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Cary's housing market is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cary's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}

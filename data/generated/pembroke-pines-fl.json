@@ -1,0 +1,178 @@
+{
+  "cityName": "Pembroke Pines",
+  "state": "Florida",
+  "slug": "pembroke-pines-fl",
+  "population": "162K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Pembroke Pines",
+  "metaDescription": "Find top-rated financial advisors in Pembroke Pines. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "DurhamLoyal Wealth Management",
+      "url": "http://durhamloyal.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Imperio Wealth Advisors",
+      "url": "http://www.imperiowa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Common Cents Wealth Management LLC",
+      "url": "http://cc-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Premier Financial Services/ Ross Grossman, EA",
+      "url": "http://www.floridaannuity.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 59
+    }
+  ],
+  "heroDescription": "Pembroke Pines, Florida, is a vibrant city known for its diverse community and strong economic growth.",
+  "landscapeDescription": "With a population of 162,329, Pembroke Pines boasts a robust economy driven by retail, healthcare, and education. The city is strategically located near major highways and the Fort Lauderdale airport, enhancing its business appeal.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Pembroke Pines requires tailored financial advice due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Pembroke Pines' retail and healthcare sectors face competition risks. Real estate prices are rising, indicating potential bubble risks. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pembroke Pines has experienced a 4% annual economic growth rate, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pembroke Pines is approximately $70,000, reflecting a diverse and growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pembroke Pines are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Pembroke Pines is 10% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Pembroke Pines housing market has seen a 12% increase in home values over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pembroke Pines is recognized for its favorable business climate, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

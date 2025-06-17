@@ -1,0 +1,178 @@
+{
+  "cityName": "Columbia",
+  "state": "Missouri",
+  "slug": "columbia-mo",
+  "population": "115.3K (metro: 115.3K)",
+  "pageTitle": "Best Financial Advisors in Columbia",
+  "metaDescription": "Find top-rated financial advisors in Columbia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WR Wealth Planning",
+      "url": "https://wrwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Trek Wealth Planning",
+      "url": "https://www.trekwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Truman Wealth Advisors",
+      "url": "http://www.trumanwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Harrison Financial Planning",
+      "url": "http://www.harrisonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Brockmeier Financial Services, LLC",
+      "url": "https://brockmeierfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Columbia, Missouri, is a vibrant city known for its educational institutions and growing economy.",
+  "landscapeDescription": "Columbia's economy is diverse, driven by education, healthcare, and retail sectors. The city benefits from a strong university presence, fostering innovation.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Columbia requires tailored financial strategies to support its educational and healthcare sectors.",
+  "citySpecificRiskAdvice": "Columbia's reliance on education and healthcare poses economic risks. Housing market bubbles may arise due to demand. Monitor flood risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Columbia's economy has shown steady growth, driven by educational services and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Columbia is $55,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Columbia are increasingly specializing in education and healthcare financing."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Columbia's cost of living remains affordable, attracting families and students alike."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Columbia's real estate market is competitive, with rising prices due to demand from university students and staff."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Columbia's business climate is favorable, supported by local entrepreneurship and university partnerships."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

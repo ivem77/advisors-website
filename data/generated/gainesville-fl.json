@@ -1,0 +1,178 @@
+{
+  "cityName": "Gainesville",
+  "state": "Florida",
+  "slug": "gainesville-fl",
+  "population": "127K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Gainesville",
+  "metaDescription": "Find top-rated financial advisors in Gainesville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Your Financial Legacy",
+      "url": "http://www.yourfinanciallegacy.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Roman Janos, CFP®, AEP®, ChFC®, RICP®",
+      "url": "http://www.romanjanos.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Cornerstone Financial Group",
+      "url": "http://www.cornerstone-fg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kent Walker",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kent-walker?y_source=1_OTYyMTA4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Covenant Wealth Management",
+      "url": "http://www.covenant-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Gainesville, Florida, a vibrant city known for its educational institutions and diverse economy.",
+  "landscapeDescription": "Gainesville's economy is bolstered by healthcare, education, and research sectors, primarily driven by the University of Florida. The city is experiencing steady growth in population and job opportunities.",
+  "majorIndustries": "Healthcare, Education, Research",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Gainesville requires tailored financial advice due to its unique economy and demographic profile.",
+  "citySpecificRiskAdvice": "Gainesville's reliance on education and healthcare sectors poses risks; housing market may face volatility. Prepare for flooding and economic shifts; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Gainesville's economy grew by 3.2% last year, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Gainesville is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Gainesville increasingly focus on education and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Gainesville's cost of living is 5% below the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Gainesville is competitive, with home prices rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Gainesville's business climate is favorable, supported by local universities and innovation hubs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "McAllen",
+  "state": "Texas",
+  "slug": "mcallen-tx",
+  "population": "136K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in McAllen",
+  "metaDescription": "Find top-rated financial advisors in McAllen. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "David D Barnes - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/david.d.barnes/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Elda Castillo, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/elda-castillo?y_source=1_Mzc5NDk3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Endurance Financial Planning, LLC",
+      "url": "https://www.endurancefin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "MG Wealth Strategies, Mario Gutierrez Financial Advisor",
+      "url": "http://www.mgwstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David H Salinas Jr",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-salinas?y_source=1_MTQ0NDI5MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "McAllen, Texas, is a vibrant city known for its diverse culture and growing economy.",
+  "landscapeDescription": "As a key trade hub near the Mexico border, McAllen's economy thrives on retail, healthcare, and manufacturing. The city is experiencing steady growth in population and employment.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "McAllen requires tailored financial strategies due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "McAllen's retail focus poses risks from e-commerce shifts. Housing market volatility and flooding risk necessitate diversified investments and disaster preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), McAllen's economy grew by 3.2% last year, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in McAllen is approximately $50,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in McAllen are increasingly specializing in retirement planning and tax strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), McAllen's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in McAllen have increased by 5% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), McAllen's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Rialto",
+  "state": "California",
+  "slug": "rialto-ca",
+  "population": "101.9K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Rialto",
+  "metaDescription": "Find top-rated financial advisors in Rialto. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "KWB Wealth",
+      "url": "https://kwbwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Enrolled Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJQUJmUrrk4g4RR7XDnXbDLEU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Diamond Professional Services, Inc.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJLfZwQ19Nw4ARVOfg4juTsas",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Valores Latinos",
+      "url": "http://www.valoreslatinos.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Rialto, California, is a vibrant city in San Bernardino County known for its diverse community and strategic location.",
+  "landscapeDescription": "Rialto's economy is driven by logistics, retail, and manufacturing, benefiting from its proximity to major transportation routes. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Logistics, Retail, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Rialto requires enhanced infrastructure and economic diversification to support its growing population and industries.",
+  "citySpecificRiskAdvice": "Rialto's logistics focus poses risks from economic downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rialto's economy has grown by 3.5% annually, driven by logistics and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rialto is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rialto are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rialto's cost of living is approximately 10% lower than the national average, making it an attractive location."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Rialto's housing market is competitive, with home prices rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rialto's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

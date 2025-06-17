@@ -1,0 +1,178 @@
+{
+  "cityName": "Bellevue",
+  "state": "Washington",
+  "slug": "bellevue-wa",
+  "population": "133.0K (metro: 3.9M)",
+  "pageTitle": "Best Financial Advisors in Bellevue",
+  "metaDescription": "Find top-rated financial advisors in Bellevue. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "TrueWealth Financial Partners",
+      "url": "http://truewealthfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 44
+    },
+    {
+      "name": "Avier Wealth Advisors",
+      "url": "http://www.avieradvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Alterra Advisors",
+      "url": "http://alterraadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "Pacific Financial Advisors, Inc.",
+      "url": "https://pacificfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Stabler Wealth Management",
+      "url": "http://www.stablerwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Bellevue, Washington, is a thriving city known for its robust tech industry and vibrant community.",
+  "landscapeDescription": "Bellevue's economy is driven by technology, retail, and healthcare sectors. The city benefits from its proximity to Seattle, enhancing its economic landscape.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$120,000",
+  "uniqueNeeds": "Bellevue requires tailored financial strategies to address tech sector volatility and housing market fluctuations.",
+  "citySpecificRiskAdvice": "Bellevue's tech focus necessitates diversification to mitigate market volatility. Rapid housing price increases pose bubble risks; consider geographic investment spread. Flooding risks exist due to he...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bellevue's GDP growth outpaces national averages, driven by tech and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Bellevue boasts a median income of $120,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bellevue increasingly specialize in tech industry investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bellevue's cost of living is 30% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bellevue's housing market remains competitive, with a 10% increase in home prices over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bellevue ranks high for business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

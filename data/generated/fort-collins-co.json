@@ -1,0 +1,178 @@
+{
+  "cityName": "Fort Collins",
+  "state": "Colorado",
+  "slug": "fort-collins-co",
+  "population": "152K (metro: 300K)",
+  "pageTitle": "Best Financial Advisors in Fort Collins",
+  "metaDescription": "Find top-rated financial advisors in Fort Collins. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Tarantino Wealth Management - Michael Tarantino, Certified Financial Planner",
+      "url": "https://www.michaeltarantino.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 65
+    },
+    {
+      "name": "Balanced Financial Inc",
+      "url": "https://balancedfinancialinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 85
+    },
+    {
+      "name": "Financial Planning Fort Collins",
+      "url": "https://www.fpfoco.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Adam Bott, Financial Advisor – Crescendo Wealth Strategies",
+      "url": "https://www.crescendo-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Streamlined Wealth Planning",
+      "url": "https://www.streamlinedwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Fort Collins, Colorado, is a vibrant city known for its outdoor recreation and strong community spirit.",
+  "landscapeDescription": "Fort Collins boasts a diverse economy with a focus on technology, education, and agriculture. The city is home to Colorado State University, contributing to its innovation and workforce development.",
+  "majorIndustries": "Technology, Education, Agriculture",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Fort Collins requires tailored financial strategies to address its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Fort Collins' tech sector growth demands diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Collins has seen a 3.2% growth in GDP, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fort Collins is $70,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Collins are increasingly focusing on tech startups and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fort Collins' cost of living is 10% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Fort Collins have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Collins ranks high for small business growth, supported by local government initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

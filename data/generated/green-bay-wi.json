@@ -1,0 +1,178 @@
+{
+  "cityName": "Green Bay",
+  "state": "Wisconsin",
+  "slug": "green-bay-wi",
+  "population": "104.8K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Green Bay",
+  "metaDescription": "Find top-rated financial advisors in Green Bay. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Laura Mossakowski, LLC",
+      "url": "http://www.lauramossakowski.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 42
+    },
+    {
+      "name": "Holewinski & Associates - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/holewinski-associates/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://greenbay.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RBC Wealth Management Branch - Green Bay",
+      "url": "https://us.rbcwealthmanagement.com/GreenBay?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Consulting Services Inc",
+      "url": "http://www.fcsinvest.com/home.aspx",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Green Bay, Wisconsin, is a vibrant city known for its rich history and strong community spirit.",
+  "landscapeDescription": "The economy of Green Bay is diverse, with a focus on manufacturing, healthcare, and retail. It benefits from a strategic location and a growing workforce.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Green Bay requires tailored financial advice due to its unique economic landscape and weather-related risks.",
+  "citySpecificRiskAdvice": "Green Bay's manufacturing focus poses economic risks; housing market may face bubble concerns. Prepare for winter weather impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Green Bay's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Green Bay is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Green Bay are increasingly focusing on retirement planning and risk management strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Green Bay's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Green Bay is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Green Bay's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee-wi",
+      "population": 599164,
+      "priority": 1
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison-wi",
+      "population": 243344,
+      "priority": 1
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay-wi",
+      "population": 104779,
+      "priority": 1
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha-wi",
+      "population": 99889,
+      "priority": 1
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine-wi",
+      "population": 78199,
+      "priority": 1
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton-wi",
+      "population": 73596,
+      "priority": 1
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha-wi",
+      "population": 71016,
+      "priority": 1
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire-wi",
+      "population": 67545,
+      "priority": 1
+    }
+  ]
+}

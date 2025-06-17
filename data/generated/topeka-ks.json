@@ -1,0 +1,178 @@
+{
+  "cityName": "Topeka",
+  "state": "Kansas",
+  "slug": "topeka-ks",
+  "population": "127.7K (metro: 200K)",
+  "pageTitle": "Best Financial Advisors in Topeka",
+  "metaDescription": "Find top-rated financial advisors in Topeka. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Afflora Financial Life Planning",
+      "url": "http://www.affloraflp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "RetireWise Tax and Wealth Advisors",
+      "url": "http://www.retirewisepath.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Clayton Wealth Partners",
+      "url": "http://claytonwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Harvest Financial Group",
+      "url": "https://www.theharvestsolution.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lakeshore Financial, LLC",
+      "url": "https://www.lakeshore-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Topeka, Kansas, is the state capital known for its rich history and vibrant community.",
+  "landscapeDescription": "Topeka's economy is diverse, with significant contributions from government, healthcare, and education sectors. The city is experiencing steady growth in local businesses and services.",
+  "majorIndustries": "Government, Healthcare, Education",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Topeka requires support in workforce development and infrastructure improvement to enhance economic growth.",
+  "citySpecificRiskAdvice": "Topeka's economy relies on government and education, posing risks if funding declines. Housing market stability is crucial; watch for price fluctuations. Tornadoes and flooding are concerns; diversify...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Topeka's GDP growth is projected at 2.5%, driven by local government and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Topeka is $56,000, with a growing middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Topeka are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Topeka's cost of living is 10% below the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the housing market in Topeka shows stable prices with a slight increase in demand for single-family homes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Topeka's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

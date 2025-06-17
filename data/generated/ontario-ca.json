@@ -1,0 +1,178 @@
+{
+  "cityName": "Ontario",
+  "state": "California",
+  "slug": "ontario-ca",
+  "population": "167.5K (metro: 4.2M)",
+  "pageTitle": "Best Financial Advisors in Ontario",
+  "metaDescription": "Find top-rated financial advisors in Ontario. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "MILES Financial Group",
+      "url": "http://www.milesfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Northwestern Mutual - Ontario",
+      "url": "http://ontario.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/ca/ontario-ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Mallory Wealth Management",
+      "url": "https://mallorywealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Ontario, California, is a vibrant city in San Bernardino County, known for its diverse economy and strategic location.",
+  "landscapeDescription": "Ontario's economy is bolstered by logistics, retail, and manufacturing sectors, benefiting from proximity to major transportation hubs. The city serves as a key distribution center in Southern California.",
+  "majorIndustries": "Logistics, Retail, Manufacturing",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Ontario requires tailored financial strategies to address its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Ontario's logistics focus poses risks from economic downturns; real estate may face bubble risks. Prepare for natural disasters like floods and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ontario's economy is projected to grow by 3% annually, driven by logistics and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Ontario is approximately $70,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ontario are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Ontario is 10% lower than the California average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Ontario's housing market has seen a 5% increase in home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ontario's business climate is favorable, with incentives for logistics and manufacturing companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

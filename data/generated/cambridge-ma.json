@@ -1,0 +1,178 @@
+{
+  "cityName": "Cambridge",
+  "state": "Massachusetts",
+  "slug": "cambridge-ma",
+  "population": "107K (metro: 2.1M)",
+  "pageTitle": "Best Financial Advisors in Cambridge",
+  "metaDescription": "Find top-rated financial advisors in Cambridge. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Balance Wealth Advisors",
+      "url": "https://www.balancewealthadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 148
+    },
+    {
+      "name": "Morton Financial Advice",
+      "url": "https://www.mortonfinancialadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Claro Advisors",
+      "url": "https://www.claroadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Beacon Pointe Advisors",
+      "url": "https://beaconpointe.com/contact-us/massachusetts-boston/?utm_source=gmb&utm_medium=local&utm_campaign=boston-ma-2420",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Beyond Your Hammock",
+      "url": "https://beyondyourhammock.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    }
+  ],
+  "heroDescription": "Cambridge, MA, is a vibrant city known for its prestigious universities and thriving tech scene.",
+  "landscapeDescription": "Home to Harvard and MIT, Cambridge boasts a strong economy driven by education, technology, and biotech. The city is a hub for innovation and research.",
+  "majorIndustries": "Education, Technology, Biotech",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Cambridge requires tailored financial advice due to its high concentration of tech and education sectors.",
+  "citySpecificRiskAdvice": "Cambridge's tech focus poses risks from market volatility; housing prices are high, indicating bubble potential. Diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cambridge's economy grew by 4.2% last year, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cambridge is $85,000, reflecting its educated workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cambridge often specialize in tech and education sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cambridge's cost of living is 30% above the national average, driven by housing and education expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Cambridge is $1.2 million, with a competitive rental market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cambridge ranks highly for startups and innovation, fostering a robust business climate."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston-ma",
+      "population": 645966,
+      "priority": 1
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester-ma",
+      "population": 182544,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield-ma",
+      "population": 153703,
+      "priority": 1
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell-ma",
+      "population": 108861,
+      "priority": 1
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge-ma",
+      "population": 107289,
+      "priority": 1
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford-ma",
+      "population": 95078,
+      "priority": 1
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton-ma",
+      "population": 94089,
+      "priority": 1
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy-ma",
+      "population": 93494,
+      "priority": 1
+    }
+  ]
+}

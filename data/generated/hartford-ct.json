@@ -1,0 +1,178 @@
+{
+  "cityName": "Hartford",
+  "state": "Connecticut",
+  "slug": "hartford-ct",
+  "population": "125K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Hartford",
+  "metaDescription": "Find top-rated financial advisors in Hartford. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Northstar Wealth Partners, LLC",
+      "url": "http://www.northstarwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/hartford-branch?y_source=1_MjM2MTY5MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Vision, LLC",
+      "url": "http://www.efinancialvision.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RBC Wealth Management Branch - Hartford",
+      "url": "https://us.rbcwealthmanagement.com/hartford?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Connecticut Wealth Management, LLC",
+      "url": "http://www.ctwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Hartford, the capital of Connecticut, is a hub for insurance and finance.",
+  "landscapeDescription": "Hartford's economy is primarily driven by the insurance sector, with a growing emphasis on technology and healthcare. The city is part of a larger metropolitan area that supports diverse industries.",
+  "majorIndustries": "Insurance, Finance, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Hartford requires a focus on economic diversification and housing stability to mitigate risks.",
+  "citySpecificRiskAdvice": "Hartford's heavy insurance reliance poses economic risks. Housing market volatility and flooding risks necessitate diversification and prudent real estate investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hartford's economy is projected to grow by 2.5% annually, driven by finance and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hartford is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hartford are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hartford's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hartford's real estate market shows signs of stabilization, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hartford's business climate is improving, with incentives for tech startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Bridgeport",
+      "state": "Connecticut",
+      "slug": "bridgeport-ct",
+      "population": 147216,
+      "priority": 1
+    },
+    {
+      "name": "New Haven",
+      "state": "Connecticut",
+      "slug": "new-haven-ct",
+      "population": 130660,
+      "priority": 1
+    },
+    {
+      "name": "Stamford",
+      "state": "Connecticut",
+      "slug": "stamford-ct",
+      "population": 126456,
+      "priority": 1
+    },
+    {
+      "name": "Hartford",
+      "state": "Connecticut",
+      "slug": "hartford-ct",
+      "population": 125017,
+      "priority": 1
+    },
+    {
+      "name": "Waterbury",
+      "state": "Connecticut",
+      "slug": "waterbury-ct",
+      "population": 109676,
+      "priority": 1
+    },
+    {
+      "name": "Norwalk",
+      "state": "Connecticut",
+      "slug": "norwalk-ct",
+      "population": 87776,
+      "priority": 1
+    },
+    {
+      "name": "Danbury",
+      "state": "Connecticut",
+      "slug": "danbury-ct",
+      "population": 83684,
+      "priority": 1
+    },
+    {
+      "name": "New Britain",
+      "state": "Connecticut",
+      "slug": "new-britain-ct",
+      "population": 72939,
+      "priority": 1
+    }
+  ]
+}

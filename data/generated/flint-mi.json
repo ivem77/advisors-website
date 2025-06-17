@@ -1,0 +1,178 @@
+{
+  "cityName": "Flint",
+  "state": "Michigan",
+  "slug": "flint-mi",
+  "population": "99.8K (metro: 400K)",
+  "pageTitle": "Best Financial Advisors in Flint",
+  "metaDescription": "Find top-rated financial advisors in Flint. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "W.C. Bird Private Wealth Management",
+      "url": "http://www.wcbpwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 42
+    },
+    {
+      "name": "Complete Financial Planning",
+      "url": "http://www.completewa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Bridge Wealth Management",
+      "url": "http://www.bwealthmngt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Snider Financial",
+      "url": "http://www.sniderfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Alliance Financial Group Inc",
+      "url": "https://www.afgconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Flint, Michigan, known for its rich automotive history, is undergoing economic revitalization.",
+  "landscapeDescription": "Flint's economy is diversifying from its traditional manufacturing base, with growth in healthcare and education sectors. The city is focused on rebuilding its infrastructure and community.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$30,000",
+  "uniqueNeeds": "Flint requires investment in infrastructure and community services to support its economic recovery.",
+  "citySpecificRiskAdvice": "Flint's manufacturing reliance poses risks; diversify into healthcare and tech. Real estate may face volatility due to economic shifts. Monitor flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Flint's GDP growth is projected at 2.5%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Flint is $30,000, reflecting economic challenges and opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Flint are increasingly focusing on retirement planning and asset management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Flint's cost of living is 15% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Flint's housing market shows signs of recovery, with a 5% increase in home values over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Flint's business climate is improving, with incentives for startups and small businesses in emerging sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

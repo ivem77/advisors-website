@@ -1,0 +1,178 @@
+{
+  "cityName": "Norman",
+  "state": "Oklahoma",
+  "slug": "norman-ok",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Norman",
+  "metaDescription": "Find top-rated financial advisors in Norman. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Heartland Wealth Management",
+      "url": "https://www.heartlandwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "D M Wealth Management Inc",
+      "url": "http://www.dmwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Sigmon Wealth Management",
+      "url": "http://www.sigmonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Laurie E Meese",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/laurie-meese?y_source=1_MTk1OTgyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jason Robinson, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jason-robinson?y_source=1_MjMxNzc3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Norman, Oklahoma, is a vibrant city known for its rich cultural heritage and strong educational institutions.",
+  "landscapeDescription": "With a population of 118,197, Norman's economy is bolstered by education, healthcare, and retail sectors. The city serves as a hub for innovation and community development.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Norman requires tailored financial strategies to address educational funding and healthcare access.",
+  "citySpecificRiskAdvice": "Norman's economy relies on education, posing risks if enrollment declines. Real estate prices may be inflated; monitor for bubbles. Tornado risks necessitate disaster preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Norman's GDP has shown steady growth, driven by educational investments and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Norman is $50,000, reflecting a diverse economic base with significant educational employment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Norman are increasingly focusing on education funding and retirement planning for educators."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Norman is approximately 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Norman has seen a 5% increase in home prices over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Norman's business climate is favorable, with support for startups and local businesses, particularly in tech and education sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

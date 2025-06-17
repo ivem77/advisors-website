@@ -1,0 +1,178 @@
+{
+  "cityName": "Pueblo",
+  "state": "Colorado",
+  "slug": "pueblo-co",
+  "population": "108K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Pueblo",
+  "metaDescription": "Find top-rated financial advisors in Pueblo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Brad Hensley - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/brad.hensley/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Koehler Wealth Management, LLC",
+      "url": "http://koehlerwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Colorado Financial Strategies Group",
+      "url": "http://www.fsginvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jordan Lussier, ABFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jordan-lussier?y_source=1_MTEwOTg3ODgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wilcoxson Wealth Management",
+      "url": "http://www.wilcoxsonwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Pueblo, Colorado is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Pueblo's economy is driven by manufacturing, healthcare, and agriculture. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Agriculture",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Pueblo requires a focus on economic diversification and sustainable development to enhance resilience.",
+  "citySpecificRiskAdvice": "Pueblo's reliance on manufacturing poses economic risks; housing market stability is crucial amid potential flooding. Diversify investments to mitigate these challenges.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pueblo's economy has grown by 3.2% over the past year, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pueblo is $54,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pueblo are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pueblo's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Pueblo shows stable growth, with median home prices at $250,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pueblo's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

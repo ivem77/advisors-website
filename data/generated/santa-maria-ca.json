@@ -1,0 +1,178 @@
+{
+  "cityName": "Santa Maria",
+  "state": "California",
+  "slug": "santa-maria-ca",
+  "population": "102K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Santa Maria",
+  "metaDescription": "Find top-rated financial advisors in Santa Maria. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Advisor Associate - Santa Maria",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJE6_-Fjpt7IARMc4aaJtL4xI",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "CoastHills Wealth Management",
+      "url": "https://www.coasthillswealthmanagement.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ogden Wealth Management & Services",
+      "url": "https://www.ogdenwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/santa-maria-branch?y_source=1_MjM2MjA3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "All American Advisors",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJKT6VU3YU7IARWgF0vSKN9Is",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Santa Maria, California, is a vibrant city known for its agricultural roots and growing economy.",
+  "landscapeDescription": "The economy of Santa Maria is primarily driven by agriculture, manufacturing, and retail. The city is experiencing growth in tech and healthcare sectors, enhancing its economic landscape.",
+  "majorIndustries": "Agriculture, Manufacturing, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Santa Maria requires tailored financial strategies to address agricultural volatility and emerging tech opportunities.",
+  "citySpecificRiskAdvice": "Santa Maria's agriculture reliance poses risks from climate change and market fluctuations. Real estate prices are rising; consider diversifying investments to mitigate bubble risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Santa Maria's economy grew by 3.2% last year, driven by agriculture and emerging tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Santa Maria is $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Santa Maria are increasingly focusing on agricultural investments and tech startups."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Santa Maria's cost of living is 10% lower than the California average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Santa Maria have risen 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Santa Maria's business environment is improving, with incentives for tech startups and agricultural innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

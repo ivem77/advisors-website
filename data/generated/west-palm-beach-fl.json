@@ -1,0 +1,178 @@
+{
+  "cityName": "West Palm Beach",
+  "state": "Florida",
+  "slug": "west-palm-beach-fl",
+  "population": "102K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in West Palm Beach",
+  "metaDescription": "Find top-rated financial advisors in West Palm Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Guided Financial Advisors",
+      "url": "http://www.guidedfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Helius Wealth Management - Raymond James",
+      "url": "https://www.raymondjames.com/heliuswm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 61
+    },
+    {
+      "name": "Coastal Wealth - West Palm Beach",
+      "url": "https://www.mycoastalwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Planning Investment Group",
+      "url": "http://www.fpiginc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Shubert Cineus, Financial Advisor,1847Financial",
+      "url": "https://modernedgecapitalllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "West Palm Beach, a vibrant coastal city in Florida, is known for its beautiful beaches and thriving cultural scene.",
+  "landscapeDescription": "The economy of West Palm Beach is diverse, with significant contributions from tourism, healthcare, and finance. The city benefits from its strategic location and growing population.",
+  "majorIndustries": "Tourism, Healthcare, Finance",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Focus on disaster preparedness, affordable housing, and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "West Palm Beach's tourism reliance poses economic risks; housing market may face bubble concerns. Prepare for hurricanes and flooding while diversifying industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), West Palm Beach's economy grew by 4.2% last year, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in West Palm Beach is $66,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in West Palm Beach are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in West Palm Beach is 10% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in West Palm Beach is competitive, with home prices rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), West Palm Beach is fostering a supportive business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

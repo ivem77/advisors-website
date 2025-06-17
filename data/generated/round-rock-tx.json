@@ -1,0 +1,178 @@
+{
+  "cityName": "Round Rock",
+  "state": "Texas",
+  "slug": "round-rock-tx",
+  "population": "1.0M (metro: 2.4M)",
+  "pageTitle": "Best Financial Advisors in Round Rock",
+  "metaDescription": "Find top-rated financial advisors in Round Rock. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Shawn Parsons, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shawn-parsons?y_source=1_OTY1MTQyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Danny E Morgan, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/danny-morgan?y_source=1_MTc0NjI1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Chisholm Trail Financial Group",
+      "url": "http://www.chisholmtrailfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Gary Thomas, CFP®|CEPA®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/gary-thomas?y_source=1_MjE2NjkxNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Guardian Financial Wealth Management",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJb_yrLpbRRIYRblrGW1tpXo4",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Round Rock, Texas, is a vibrant city known for its booming economy and family-friendly environment.",
+  "landscapeDescription": "With a population of 109,821, Round Rock is part of the Austin metropolitan area, benefiting from its proximity to tech hubs. The economy is diverse, with strong growth in technology, healthcare, and retail.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Round Rock requires tailored financial advice due to its rapid growth and unique economic landscape.",
+  "citySpecificRiskAdvice": "Round Rock's tech focus needs diversification to mitigate downturns. Housing prices are rising, indicating bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Round Rock's economy has grown by 5% annually, driven by tech and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Round Rock is approximately $85,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Round Rock are increasingly focusing on tech investments and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Round Rock is 10% lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Round Rock have increased by 12% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Round Rock's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

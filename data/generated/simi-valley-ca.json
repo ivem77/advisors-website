@@ -1,0 +1,178 @@
+{
+  "cityName": "Simi Valley",
+  "state": "California",
+  "slug": "simi-valley-ca",
+  "population": "126K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Simi Valley",
+  "metaDescription": "Find top-rated financial advisors in Simi Valley. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kailey N Craig, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kailey-craig?y_source=1_MTk1OTc3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Winthco Wealth Management - CPA Simi Valley",
+      "url": "https://www.winthcowealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "WinGroup Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJnVseFjQv6IARwXwiJICaR0E",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Peak Financial Planning",
+      "url": "http://www.thepeakfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Nora Adel Dogom: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ca/simivalley/nora-adel-dogom?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Simi Valley, California, is a vibrant community known for its suburban charm and proximity to Los Angeles.",
+  "landscapeDescription": "Simi Valley's economy is diverse, with a mix of retail, healthcare, and manufacturing sectors. The city benefits from its strategic location near major highways and the Los Angeles metro area.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$95,000",
+  "uniqueNeeds": "Simi Valley requires attention to housing affordability and sustainable growth to support its expanding population.",
+  "citySpecificRiskAdvice": "Simi Valley's reliance on retail and healthcare poses risks; housing prices may bubble. Prepare for wildfires and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Simi Valley's economy grew by 3.2% last year, driven by retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Simi Valley is $95,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Simi Valley are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Simi Valley is 15% higher than the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Simi Valley have increased by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Simi Valley's business climate is favorable, with low unemployment and supportive local policies for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

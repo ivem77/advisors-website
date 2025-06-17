@@ -1,0 +1,178 @@
+{
+  "cityName": "Lansing",
+  "state": "Michigan",
+  "slug": "lansing-mi",
+  "population": "113.0K (metro: 500K)",
+  "pageTitle": "Best Financial Advisors in Lansing",
+  "metaDescription": "Find top-rated financial advisors in Lansing. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Washington Avenue Advisors",
+      "url": "http://www.waadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Financial Strategies Group, Inc.",
+      "url": "https://fsgmichigan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Flynn Wealth Partners",
+      "url": "http://www.flynnwp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Full Circle Financial Planning",
+      "url": "https://www.fullcirclefp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Park Lake Advisors",
+      "url": "https://parklakeadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Lansing, Michigan, is the state capital known for its vibrant culture and diverse economy.",
+  "landscapeDescription": "Lansing's economy is anchored by government, education, and healthcare sectors. The city is experiencing growth in technology and manufacturing.",
+  "majorIndustries": "Government, Education, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Lansing requires tailored financial strategies due to its unique economic landscape and population demographics.",
+  "citySpecificRiskAdvice": "Lansing's reliance on government and education sectors poses risks; diversify investments. Real estate may face volatility, and flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lansing's GDP growth is steady, driven by public sector investment and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lansing is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lansing are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lansing's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lansing's real estate market is stable, though some areas show signs of rising prices."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lansing's business climate is improving, with incentives for startups and tech companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Elgin",
+  "state": "Illinois",
+  "slug": "elgin-il",
+  "population": "110K (metro: 2.6M)",
+  "pageTitle": "Best Financial Advisors in Elgin",
+  "metaDescription": "Find top-rated financial advisors in Elgin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://elgin.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Michael P Ellsworth - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/michael.p.ellsworth/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sierens Financial Group, Inc.",
+      "url": "https://sierensfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Northwestern Mutual",
+      "url": "https://www.northwesternmutual.com/financial-professionals/?distance=1&cmpid=LL-Lo3-Search&page=1&lat=42.0794233&lng=-88.3297348",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Big Timber Wealth Management",
+      "url": "http://www.bigtimberwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Elgin, Illinois, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Elgin's economy is supported by manufacturing, healthcare, and retail sectors. The city benefits from its proximity to Chicago, enhancing economic opportunities.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Elgin requires tailored financial services to support its diverse economic base and growing population.",
+  "citySpecificRiskAdvice": "Elgin's manufacturing focus poses risks from economic downturns. Housing market volatility and flooding risks necessitate diversification and prudent investment strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Elgin's economy has shown steady growth, driven by local manufacturing and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Elgin is $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Elgin increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Elgin's cost of living is competitive, with housing costs being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Elgin's real estate market is experiencing moderate growth, with rising home prices and demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Elgin's business climate is favorable, with supportive policies for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

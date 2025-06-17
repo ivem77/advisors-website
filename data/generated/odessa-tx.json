@@ -1,0 +1,178 @@
+{
+  "cityName": "Odessa",
+  "state": "Texas",
+  "slug": "odessa-tx",
+  "population": "110K (metro: 300K)",
+  "pageTitle": "Best Financial Advisors in Odessa",
+  "metaDescription": "Find top-rated financial advisors in Odessa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Julie Massey, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/julie-massey?y_source=1_OTY5MTA2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Teresa L Floyd",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/teresa-floyd?y_source=1_OTY3NzgxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Erica R Guerrero, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/erica-guerrero?y_source=1_MTUwMjQyNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dalton Shotwell",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dalton-shotwell?y_source=1_MTUwNDI1NTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Blane Heflin, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/blane-heflin?y_source=1_MTUwOTAxMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Odessa, Texas, is a vibrant city known for its rich oil history and growing economy.",
+  "landscapeDescription": "With a population of 110,720, Odessa's economy is primarily driven by the energy sector, particularly oil and gas. The city is experiencing growth in healthcare and education, diversifying its economic base.",
+  "majorIndustries": "Energy, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Odessa requires strategies for economic diversification and addressing housing market volatility.",
+  "citySpecificRiskAdvice": "Odessa's heavy reliance on energy poses risks; diversify investments. Real estate may face volatility due to market fluctuations and weather risks like tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Odessa's economy is rebounding with a focus on energy and healthcare sectors, showing a growth rate of 4%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Odessa is $60,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Odessa are increasingly focusing on energy sector investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Odessa's cost of living is 10% lower than the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Odessa is competitive, with home prices rising 8% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Odessa's business climate is improving, with incentives for new businesses and a focus on diversifying the local economy."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

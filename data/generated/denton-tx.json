@@ -1,0 +1,178 @@
+{
+  "cityName": "Denton",
+  "state": "Texas",
+  "slug": "denton-tx",
+  "population": "123K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Denton",
+  "metaDescription": "Find top-rated financial advisors in Denton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Grunden Financial Advisory Inc",
+      "url": "http://www.grunden.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Stevens Financial Services",
+      "url": "https://www.raymondjames.com/stevensfin/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Fred Smith, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/fred-smith?y_source=1_OTY0MTIzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "AVISCO FINANCIAL",
+      "url": "http://aviscofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Relevance Capital Management",
+      "url": "http://www.relevancecm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Denton, Texas, a vibrant city in the Dallas-Fort Worth metroplex, blends a rich cultural heritage with modern growth.",
+  "landscapeDescription": "Denton's economy is diverse, driven by education, healthcare, and retail sectors. The city benefits from its proximity to major metropolitan areas.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Denton requires a focus on sustainable growth, infrastructure development, and support for local businesses.",
+  "citySpecificRiskAdvice": "Denton's growth in education and retail may face real estate bubble risks. Prepare for tornadoes and flooding; diversify investments beyond local sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Denton's economy has seen a 4% growth rate, driven by local universities and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Denton is $61,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Denton are increasingly specializing in retirement planning and education savings."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Denton's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Denton's real estate market has appreciated by 8% over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Denton is recognized for its supportive business climate, particularly for startups and small enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

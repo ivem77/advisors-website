@@ -1,0 +1,178 @@
+{
+  "cityName": "Carlsbad",
+  "state": "California",
+  "slug": "carlsbad-ca",
+  "population": "110.9K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Carlsbad",
+  "metaDescription": "Find top-rated financial advisors in Carlsbad. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "IDA Wealth - Intelligence Driven Advisers",
+      "url": "https://www.idawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 72
+    },
+    {
+      "name": "Seaside Wealth Management",
+      "url": "http://www.seasidewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 56
+    },
+    {
+      "name": "O'Reilly Wealth Advisors LLC",
+      "url": "https://www.oreillywealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "The Financial Team",
+      "url": "https://www.thefinancialteam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Brenton Stransky, CFP® - Independence Square Advisors",
+      "url": "https://stranskywm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    }
+  ],
+  "heroDescription": "Carlsbad, California, is a coastal city known for its beautiful beaches and vibrant economy.",
+  "landscapeDescription": "Carlsbad's economy is driven by tourism, technology, and manufacturing. The city boasts a strong job market and a high quality of life.",
+  "majorIndustries": "Tourism, Technology, Manufacturing",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Carlsbad requires strategies for sustainable tourism and tech sector growth while managing housing affordability.",
+  "citySpecificRiskAdvice": "Carlsbad's tech focus necessitates diversification to mitigate economic downturns. Housing prices are rising, posing bubble risks. Prepare for coastal flooding and ensure economic resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Carlsbad's economy grew by 3.5% last year, driven by tech and tourism sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Carlsbad is $100,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Carlsbad are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Carlsbad is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Carlsbad's real estate market is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Carlsbad's business climate is favorable, with incentives for tech startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Killeen",
+  "state": "Texas",
+  "slug": "killeen-tx",
+  "population": "137K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Killeen",
+  "metaDescription": "Find top-rated financial advisors in Killeen. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Command Financial Advisor - Julian Tahimik",
+      "url": "https://advisor.firstcommand.com/us/tx/killeen/jrtahimik?y_source=1_MjMzNzY1MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Beronio Wealth Planning",
+      "url": "http://www.peterberonio.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "First Command Financial Advisor - Ray Jimenez",
+      "url": "https://advisor.firstcommand.com/us/tx/killeen/rjimenez1?y_source=1_MzM2ODQ1MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "First Command Financial Advisor - Jaylynn Gibson",
+      "url": "https://advisor.firstcommand.com/us/tx/killeen/jlgibson1?y_source=1_MjAwMTc4NDY4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bryan H Reed, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bryan-h-reed?y_source=1_MTgzMDc0NTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Killeen, Texas, is a vibrant city known for its military presence and growing economy.",
+  "landscapeDescription": "Killeen's economy is bolstered by its proximity to Fort Hood, one of the largest military installations in the U.S. The city is diversifying with emerging industries in healthcare and retail.",
+  "majorIndustries": "Military, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Killeen requires tailored financial advice due to its military population and emerging industries.",
+  "citySpecificRiskAdvice": "Killeen's reliance on military and retail sectors poses economic risks. Real estate may face volatility; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Killeen's economy is expanding, driven by military spending and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Killeen is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Killeen are increasingly focusing on military benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Killeen's cost of living is below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Killeen's housing market is competitive, with rising prices due to demand from military families."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Killeen's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

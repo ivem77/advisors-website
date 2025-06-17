@@ -1,0 +1,178 @@
+{
+  "cityName": "Broken Arrow",
+  "state": "Oklahoma",
+  "slug": "broken-arrow-ok",
+  "population": "103.5K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Broken Arrow",
+  "metaDescription": "Find top-rated financial advisors in Broken Arrow. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First State Investment Advisors | Tulsa Financial Advisors",
+      "url": "http://firststate-ok.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 139
+    },
+    {
+      "name": "Hall Wealth Management",
+      "url": "http://hallwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Chad McAuliff Royal Stone Wealth Management",
+      "url": "http://www.royalstonewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brett A James, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brett-james?y_source=1_OTY2NDQzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Phoenix Financial Group, LLC",
+      "url": "http://phx.financial/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    }
+  ],
+  "heroDescription": "Broken Arrow, Oklahoma, combines suburban charm with economic growth, making it an attractive place to live and work.",
+  "landscapeDescription": "The city has a diverse economy with a strong presence in manufacturing, retail, and healthcare. Its proximity to Tulsa enhances its economic opportunities.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Focus on economic diversification and sustainable growth to mitigate risks associated with industry concentration.",
+  "citySpecificRiskAdvice": "Broken Arrow's manufacturing focus necessitates diversification to reduce economic vulnerability. Real estate may face bubble risks; monitor housing trends. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Broken Arrow's economy has shown a steady growth rate of 3.2%, driven by local manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Broken Arrow is $65,000, reflecting a stable and growing economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Broken Arrow are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Broken Arrow is approximately 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Broken Arrow is experiencing a 5% annual appreciation, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Broken Arrow's business climate is favorable, with low taxes and incentives attracting new businesses and investments."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Miami Gardens",
+  "state": "Florida",
+  "slug": "miami-gardens-fl",
+  "population": "111.4K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Miami Gardens",
+  "metaDescription": "Find top-rated financial advisors in Miami Gardens. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Fuster Financial Group",
+      "url": "http://www.fusterfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Miami Financial Advisors",
+      "url": "https://mannawealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Coral Wealth Management",
+      "url": "https://www.coralwm.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    }
+  ],
+  "heroDescription": "Miami Gardens is a vibrant city in Florida known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "The city has a growing economy driven by retail, healthcare, and education. Its strategic location enhances trade and business opportunities.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Focus on affordable housing and disaster preparedness due to hurricane risks.",
+  "citySpecificRiskAdvice": "Miami Gardens faces risks from hurricanes and flooding; diversify beyond retail and healthcare. Real estate may be overvalued; monitor housing trends.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Miami Gardens shows steady economic growth, particularly in retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Miami Gardens is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Miami Gardens are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Miami Gardens is moderate, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Miami Gardens is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Miami Gardens offers a favorable business climate with incentives for new businesses and entrepreneurs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

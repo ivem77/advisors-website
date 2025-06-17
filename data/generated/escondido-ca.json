@@ -1,0 +1,178 @@
+{
+  "cityName": "Escondido",
+  "state": "California",
+  "slug": "escondido-ca",
+  "population": "148.7K (metro: 3.3M)",
+  "pageTitle": "Best Financial Advisors in Escondido",
+  "metaDescription": "Find top-rated financial advisors in Escondido. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Endependence Financial",
+      "url": "https://efteam.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Wollman Wealth Designs",
+      "url": "http://www.fwollman.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "IDA Wealth - Intelligence Driven Advisers",
+      "url": "https://www.idawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 72
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Rachel A Currington, CFP®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rachel-currington?y_source=1_NjQyNjM5My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Bull Oak",
+      "url": "https://bulloak.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    }
+  ],
+  "heroDescription": "Escondido, California, is a vibrant city in San Diego County known for its rich culture and diverse economy.",
+  "landscapeDescription": "Escondido's economy is driven by healthcare, retail, and manufacturing sectors. The city benefits from its proximity to San Diego, enhancing its economic opportunities.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Escondido requires tailored financial services to address its diverse economic landscape and growing population.",
+  "citySpecificRiskAdvice": "Escondido's healthcare and retail sectors face competition risks. Housing market volatility may indicate a bubble; diversify investments. Prepare for wildfire and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Escondido's economy has shown steady growth, with a focus on healthcare and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Escondido is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Escondido are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Escondido's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Escondido is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Escondido's business climate is favorable, with incentives for small businesses and startups in key industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

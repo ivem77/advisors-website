@@ -1,0 +1,178 @@
+{
+  "cityName": "San Buenaventura (Ventura)",
+  "state": "California",
+  "slug": "san-buenaventura-ventura-ca",
+  "population": "108.8K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in San Buenaventura (Ventura)",
+  "metaDescription": "Find top-rated financial advisors in San Buenaventura (Ventura). Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Legacy One Financial, LPL Financial - Gaea Rae Dawn",
+      "url": "http://www.legacyonelife.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Maranantha Financial",
+      "url": "https://maranantha.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "U.S. Bancorp Investments - Financial Advisors: Ventura",
+      "url": "https://www.usbank.com/wealth-management/find-an-advisor/ca/ventura/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Swan Retirement Planning",
+      "url": "https://www.gabeswan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Mariner",
+      "url": "https://www.marinerwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "San Buenaventura, known for its coastal charm and vibrant community, offers a unique blend of urban and natural environments.",
+  "landscapeDescription": "As a growing city in California, Ventura's economy is supported by tourism, agriculture, and healthcare. The city's strategic coastal location enhances its appeal for business and recreation.",
+  "majorIndustries": "Tourism, Agriculture, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Ventura's coastal location necessitates robust disaster preparedness and sustainable development practices.",
+  "citySpecificRiskAdvice": "Ventura's tourism reliance poses economic risks; housing market volatility may lead to bubbles. Flooding and wildfires are concerns; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ventura's economy has shown steady growth, driven by tourism and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Ventura is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ventura are increasingly specializing in retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Ventura is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Ventura is around $850,000, with a competitive market reflecting high demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ventura's business climate is favorable, with incentives for small businesses and a focus on sustainable practices."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

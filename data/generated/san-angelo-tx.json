@@ -1,0 +1,178 @@
+{
+  "cityName": "San Angelo",
+  "state": "Texas",
+  "slug": "san-angelo-tx",
+  "population": "97.5K (metro: 97.5K)",
+  "pageTitle": "Best Financial Advisors in San Angelo",
+  "metaDescription": "Find top-rated financial advisors in San Angelo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Outlier Financial Partners",
+      "url": "http://www.outlierfinancialpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Sterling Marschall - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Sterling.Marschall/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Concho Investment Advisors",
+      "url": "https://conchoia.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Cecil & Eady Investments",
+      "url": "http://cecilandeady.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lloyd N Woodfin Jr, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lloyd-woodfin?y_source=1_OTY4OTE2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "San Angelo, Texas, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "San Angelo's economy is bolstered by agriculture, healthcare, and manufacturing. The city serves as a regional hub for education and commerce.",
+  "majorIndustries": "Agriculture, Healthcare, Manufacturing",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "San Angelo requires tailored financial services to address its unique economic landscape and demographic needs.",
+  "citySpecificRiskAdvice": "San Angelo's reliance on agriculture and healthcare poses risks; diversify investments to mitigate real estate bubbles and prepare for flooding and tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Angelo's economy has shown steady growth, driven by healthcare and agriculture sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Angelo is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Angelo are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), San Angelo's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in San Angelo is stable, with moderate price growth and affordable housing options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Angelo's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

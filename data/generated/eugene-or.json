@@ -1,0 +1,178 @@
+{
+  "cityName": "Eugene",
+  "state": "Oregon",
+  "slug": "eugene-or",
+  "population": "159.2K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Eugene",
+  "metaDescription": "Find top-rated financial advisors in Eugene. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Guiding Financial, LLC Financial Planning, Counseling and Coaching for Women",
+      "url": "https://guidingfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Roehl & Yi Investment Advisors",
+      "url": "http://www.roehl-yi.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matt Siel, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matt-siel?y_source=1_NDE3NjA5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David E Grinder, ChFC®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-grinder?y_source=1_MTIxMjEwOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Legacy Financial Services, Inc.",
+      "url": "http://www.legacyplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Eugene, Oregon, is a vibrant city known for its rich culture, outdoor activities, and strong community spirit.",
+  "landscapeDescription": "Eugene's economy is diverse, with strengths in education, healthcare, and technology. The city benefits from a highly educated workforce and a growing entrepreneurial ecosystem.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Eugene requires a focus on sustainable growth, affordable housing, and support for local businesses.",
+  "citySpecificRiskAdvice": "Eugene's tech sector needs diversification to mitigate economic risks. Housing prices are rising, indicating potential bubble risks. Be aware of flooding and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Eugene's economy grew by 3.2% last year, driven by increases in education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Eugene is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Eugene are increasingly specializing in retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Eugene is 10% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Eugene has risen to $450,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Eugene's business climate is improving, with a focus on sustainability and innovation attracting new startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

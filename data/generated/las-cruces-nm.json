@@ -1,0 +1,171 @@
+{
+  "cityName": "Las Cruces",
+  "state": "New Mexico",
+  "slug": "las-cruces-nm",
+  "population": "101K (metro: 101K)",
+  "pageTitle": "Best Financial Advisors in Las Cruces",
+  "metaDescription": "Find top-rated financial advisors in Las Cruces. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/locations/las-cruces-nm-picacho-hills-drive/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Elizabeth Smith Medina",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/liz-medina?y_source=1_OTY1MjMwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Diana L Seward",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/diana-seward?y_source=1_OTY1MjY1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "David Hill Financial",
+      "url": "http://www.davidhillfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Timothy J Gilliam, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/timothy-gilliam?y_source=1_Mzc5NTAzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Las Cruces, New Mexico, is a vibrant city known for its rich cultural heritage and growing economy.",
+  "landscapeDescription": "Las Cruces is experiencing steady economic growth, driven by agriculture, education, and healthcare sectors. The city benefits from its proximity to the U.S.-Mexico border, enhancing trade opportunities.",
+  "majorIndustries": "Agriculture, Education, Healthcare",
+  "medianIncome": "$47,000",
+  "uniqueNeeds": "Las Cruces requires a focus on sustainable growth, infrastructure improvements, and workforce development to meet its evolving economic landscape.",
+  "citySpecificRiskAdvice": "Las Cruces' economy relies on agriculture and education; diversify into tech and healthcare. Real estate may face volatility due to population growth and limited housing. Prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Las Cruces has seen a 3% annual growth rate, driven by local investments in education and healthcare."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Las Cruces is $47,000, with a diverse population contributing to the local economy."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Las Cruces are increasingly focusing on retirement planning and investment strategies for local businesses."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Las Cruces is 10% lower than the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Las Cruces real estate market is competitive, with home prices rising due to increased demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Las Cruces is fostering a supportive business climate with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque-nm",
+      "population": 556495,
+      "priority": 1
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces-nm",
+      "population": 101324,
+      "priority": 1
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho-nm",
+      "population": 91956,
+      "priority": 1
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe-nm",
+      "population": 69976,
+      "priority": 1
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell-nm",
+      "population": 48611,
+      "priority": 1
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington-nm",
+      "population": 45426,
+      "priority": 1
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis-nm",
+      "population": 39508,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Olathe",
+  "state": "Kansas",
+  "slug": "olathe-ks",
+  "population": "131.9K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Olathe",
+  "metaDescription": "Find top-rated financial advisors in Olathe. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Brent Forck, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brent-forck?y_source=1_ODQ2MjE1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shawn Varner",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shawn-varner?y_source=1_MTcxNDYxMzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Northwestern Mutual - Olathe",
+      "url": "http://olathe.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David Andrew, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-andrew?y_source=1_OTY0NTY3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Carr, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-carr?y_source=1_OTY0NTQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Olathe, Kansas, is a vibrant city known for its family-friendly atmosphere and growing economy.",
+  "landscapeDescription": "Olathe's economy is driven by a mix of technology, healthcare, and retail sectors, contributing to its steady growth. The city serves as a suburban hub within the Kansas City metropolitan area.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Olathe requires a focus on sustainable growth, affordable housing, and infrastructure development to support its expanding population.",
+  "citySpecificRiskAdvice": "Olathe's tech sector growth necessitates diversification to mitigate economic risks. Housing market appreciation poses bubble risks; monitor real estate trends. Be aware of tornado and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Olathe's economy has shown a 4% growth rate, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Olathe is approximately $80,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Olathe are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Olathe's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Olathe's real estate market has seen a 6% increase in home values over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Olathe's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

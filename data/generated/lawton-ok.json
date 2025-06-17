@@ -1,0 +1,178 @@
+{
+  "cityName": "Lawton",
+  "state": "Oklahoma",
+  "slug": "lawton-ok",
+  "population": "97K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Lawton",
+  "metaDescription": "Find top-rated financial advisors in Lawton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Kathy Hayden - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Kathleen.Hayden/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Overcome Money",
+      "url": "https://www.overcomemoney.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "First Command Financial Advisor - Anna-Kay Hamilton",
+      "url": "https://advisor.firstcommand.com/us/ok/lawton/ashamilton?y_source=1_MjUxNTIxNTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 38
+    },
+    {
+      "name": "Stifel",
+      "url": "https://www.stifel.com/branch/ok/lawton",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Wade Myatt",
+      "url": "https://advisor.firstcommand.com/us/ok/lawton/wamyatt?y_source=1_ODQwMTY2MDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Lawton, Oklahoma, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 97,151, Lawton serves as a regional hub for commerce and military presence. The economy is supported by sectors like healthcare, education, and retail.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Focus on healthcare services and educational resources to support the growing population.",
+  "citySpecificRiskAdvice": "Lawton's economy relies on healthcare and military sectors, posing risks if diversification isn't pursued. Real estate may face volatility; consider flood risks and prepare for tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lawton's economy has shown steady growth, driven by military spending and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lawton is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lawton are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lawton's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lawton is stable, with moderate price growth and affordable housing options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lawton's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city-ok",
+      "population": 610613,
+      "priority": 1
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa-ok",
+      "population": 398121,
+      "priority": 1
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman-ok",
+      "population": 118197,
+      "priority": 1
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow-ok",
+      "population": 103500,
+      "priority": 1
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton-ok",
+      "population": 97151,
+      "priority": 1
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond-ok",
+      "population": 87004,
+      "priority": 1
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore-ok",
+      "population": 58414,
+      "priority": 1
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city-ok",
+      "population": 56756,
+      "priority": 1
+    }
+  ]
+}

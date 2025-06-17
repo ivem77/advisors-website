@@ -1,0 +1,178 @@
+{
+  "cityName": "Costa Mesa",
+  "state": "California",
+  "slug": "costa-mesa-ca",
+  "population": "112K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Costa Mesa",
+  "metaDescription": "Find top-rated financial advisors in Costa Mesa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Selah Portfolios & Planning",
+      "url": "http://www.selahportfoliosandplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Check Capital Management",
+      "url": "https://checkcapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Nick Peterson, CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nick-peterson?y_source=1_MjY4MTcwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "https://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 58
+    },
+    {
+      "name": "WINDFALL FINANCIAL ADVISORS, Fee-Only, Fiduciary",
+      "url": "https://www.windfalladvisors.com/?utm_source=GBP&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "Costa Mesa, CA, is a vibrant city known for its arts scene and proximity to beaches.",
+  "landscapeDescription": "The economy of Costa Mesa is diverse, with a strong emphasis on retail, technology, and the arts. The city benefits from its location in Orange County, fostering growth and innovation.",
+  "majorIndustries": "Retail, Technology, Arts",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Costa Mesa requires tailored financial planning due to its unique blend of industries and high cost of living.",
+  "citySpecificRiskAdvice": "Costa Mesa's retail and tech sectors face concentration risks; housing market volatility poses bubble threats. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Costa Mesa's economy has shown resilience with a growth rate of 3.2% in the last year, driven by retail and tech expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Costa Mesa is approximately $85,000, reflecting a diverse economic base and high living standards."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Costa Mesa are increasingly focusing on real estate and tech sector investments to meet local demand."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Costa Mesa is about 30% higher than the national average, driven by housing and lifestyle expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Costa Mesa is around $900,000, indicating a competitive real estate market with rising prices."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Costa Mesa's business climate is favorable, with a growing number of startups and established firms contributing to economic vitality."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

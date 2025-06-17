@@ -1,0 +1,178 @@
+{
+  "cityName": "Ann Arbor",
+  "state": "Michigan",
+  "slug": "ann-arbor-mi",
+  "population": "117K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Ann Arbor",
+  "metaDescription": "Find top-rated financial advisors in Ann Arbor. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Darden Wealth Group",
+      "url": "https://dardenwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Imber Wealth Advisors, Inc.",
+      "url": "https://imberwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Legacy Wealth Partners",
+      "url": "http://www.yourlegacyourfocus.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Retirement Income Solutions",
+      "url": "http://www.risadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Advanced Wealth Strategies",
+      "url": "https://advanced-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Ann Arbor, Michigan, is a vibrant city known for its rich cultural scene and strong educational institutions.",
+  "landscapeDescription": "The economy is driven by education, healthcare, and technology sectors. Ann Arbor benefits from a highly educated workforce and innovation.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Focus on education and tech-driven industries while addressing housing affordability.",
+  "citySpecificRiskAdvice": "Ann Arbor's tech focus demands diversification to mitigate economic downturns. Housing prices may indicate a bubble; consider geographic investments. Weather risks include severe winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ann Arbor's economy has seen a steady growth rate of 3.5% annually, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Ann Arbor is approximately $70,000, reflecting its educated workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ann Arbor are increasingly specializing in tech and education sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Ann Arbor's cost of living is 15% higher than the national average, driven by housing and education expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Ann Arbor is around $350,000, with a competitive market and rising prices."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ann Arbor is recognized for its supportive business climate, particularly for startups in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit-mi",
+      "population": 688701,
+      "priority": 1
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids-mi",
+      "population": 192294,
+      "priority": 1
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren-mi",
+      "population": 134873,
+      "priority": 1
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights-mi",
+      "population": 131224,
+      "priority": 1
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor-mi",
+      "population": 117025,
+      "priority": 1
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing-mi",
+      "population": 113972,
+      "priority": 1
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint-mi",
+      "population": 99763,
+      "priority": 1
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn-mi",
+      "population": 95884,
+      "priority": 1
+    }
+  ]
+}

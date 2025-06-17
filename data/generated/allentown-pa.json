@@ -1,0 +1,178 @@
+{
+  "cityName": "Allentown",
+  "state": "Pennsylvania",
+  "slug": "allentown-pa",
+  "population": "118.6K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Allentown",
+  "metaDescription": "Find top-rated financial advisors in Allentown. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WealthScope Financial",
+      "url": "https://www.wealthscopefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Morton Brown Family Wealth",
+      "url": "http://mortonbrownfw.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "A Better Way Financial",
+      "url": "https://abetterwayfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Ascent Wealth Management, LLC.",
+      "url": "http://www.ascentwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/allentown-market?y_source=1_MjM2MTgzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Allentown, PA, is a vibrant city with a rich industrial history and a growing economy.",
+  "landscapeDescription": "As of 2023, Allentown's economy is diversifying with growth in healthcare, manufacturing, and education. The city is experiencing a revitalization in urban development.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Allentown requires infrastructure improvements and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "Allentown's manufacturing focus poses economic risks; housing market may face volatility. Flooding and snowstorms are concerns—diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Allentown's GDP growth rate is projected at 3.2%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Allentown is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Allentown are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Allentown is 5% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Allentown is $250,000, with a 7% increase over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Allentown's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia-pa",
+      "population": 1553165,
+      "priority": 1
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh-pa",
+      "population": 305841,
+      "priority": 1
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown-pa",
+      "population": 118577,
+      "priority": 1
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie-pa",
+      "population": 100671,
+      "priority": 1
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading-pa",
+      "population": 87893,
+      "priority": 1
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton-pa",
+      "population": 75806,
+      "priority": 1
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem-pa",
+      "population": 75018,
+      "priority": 1
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster-pa",
+      "population": 59325,
+      "priority": 1
+    }
+  ]
+}

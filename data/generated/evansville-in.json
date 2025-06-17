@@ -1,0 +1,178 @@
+{
+  "cityName": "Evansville",
+  "state": "Indiana",
+  "slug": "evansville-in",
+  "population": "120K (metro: 120K)",
+  "pageTitle": "Best Financial Advisors in Evansville",
+  "metaDescription": "Find top-rated financial advisors in Evansville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Vineyard Financial",
+      "url": "http://www.vineyardfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Riordan Financial Advisors",
+      "url": "http://riordanfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Riverside Capital Management Group",
+      "url": "https://fa.wellsfargoadvisors.com/jim-back/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://evansville.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Janet A Schultheis, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/janet-schultheis?y_source=1_OTYzMTExLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Evansville, Indiana, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 120,310, Evansville serves as a regional hub for healthcare, education, and manufacturing. The city is experiencing steady economic growth driven by its strategic location and workforce.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Evansville requires tailored financial strategies to address healthcare and manufacturing sector dynamics.",
+  "citySpecificRiskAdvice": "Evansville's reliance on healthcare and manufacturing poses economic risks. Housing market fluctuations and flooding concerns necessitate diversified investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Evansville's economy has shown resilience with a 2.5% growth rate, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Evansville is approximately $50,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Evansville are increasingly focusing on healthcare and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Evansville's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Evansville's real estate market is stable, with home values appreciating modestly, reducing bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Evansville's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

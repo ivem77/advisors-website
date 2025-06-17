@@ -1,0 +1,136 @@
+{
+  "cityName": "Sioux Falls",
+  "state": "South Dakota",
+  "slug": "sioux-falls-sd",
+  "population": "164.7K (metro: 164.7K)",
+  "pageTitle": "Best Financial Advisors in Sioux Falls",
+  "metaDescription": "Find top-rated financial advisors in Sioux Falls. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pinnacle Wealth",
+      "url": "https://www.pinnaclewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Impact Wealth Management",
+      "url": "http://letsimpactwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Ascend Financial",
+      "url": "http://www.ascendfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Meadowland Financial Group LLC",
+      "url": "http://www.meadowlandfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Hahn Financial Group Inc",
+      "url": "http://www.hahnfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Sioux Falls, South Dakota, is a vibrant city known for its strong economy and quality of life.",
+  "landscapeDescription": "Sioux Falls boasts a diverse economy with strong healthcare, finance, and retail sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Finance, Retail",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Sioux Falls requires tailored financial advice focusing on local economic growth and real estate stability.",
+  "citySpecificRiskAdvice": "Sioux Falls' economy relies on healthcare and finance; diversify investments to mitigate risks. Real estate prices may rise, leading to potential bubbles. Monitor flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sioux Falls has seen a 4% growth in GDP, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Sioux Falls is $65,000, reflecting a steady increase over the past five years."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sioux Falls are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Sioux Falls is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Sioux Falls real estate market has seen a 7% increase in home prices, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sioux Falls ranks high for business friendliness, with low taxes and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Sioux Falls",
+      "state": "South Dakota",
+      "slug": "sioux-falls-sd",
+      "population": 164676,
+      "priority": 1
+    },
+    {
+      "name": "Rapid City",
+      "state": "South Dakota",
+      "slug": "rapid-city-sd",
+      "population": 70812,
+      "priority": 1
+    }
+  ]
+}

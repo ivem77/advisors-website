@@ -1,0 +1,178 @@
+{
+  "cityName": "Dayton",
+  "state": "Ohio",
+  "slug": "dayton-oh",
+  "population": "143K (metro: 800K)",
+  "pageTitle": "Best Financial Advisors in Dayton",
+  "metaDescription": "Find top-rated financial advisors in Dayton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Anderson Financial Strategies, LLC",
+      "url": "https://www.andersonfinancialstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Gudorf Financial Group, LLC",
+      "url": "http://www.gudorffinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Jessup Wealth Management",
+      "url": "http://www.jessupwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Johnson Investment Counsel",
+      "url": "https://www.johnsoninv.com/locations/dayton",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://dayton.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Dayton, Ohio, is a vibrant city known for its rich aerospace history and diverse economy.",
+  "landscapeDescription": "With a population of 143,355, Dayton serves as a regional hub for manufacturing, healthcare, and education. The economy is bolstered by a mix of established industries and emerging sectors.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Dayton's economy requires a focus on innovation and workforce development to adapt to changing industry demands.",
+  "citySpecificRiskAdvice": "Dayton's manufacturing reliance poses economic risks; diversify into tech and healthcare. Real estate market shows signs of volatility; monitor housing prices and local disaster preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dayton's economy has shown resilience with a 2.5% growth rate, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dayton is $52,000, reflecting a diverse economic base with significant low-income households."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dayton are increasingly specializing in retirement planning and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Dayton's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Dayton's housing market is experiencing a slight uptick in prices, with a median home value of $150,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dayton's business climate is favorable, supported by local incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus-oh",
+      "population": 822553,
+      "priority": 1
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland-oh",
+      "population": 390113,
+      "priority": 1
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati-oh",
+      "population": 297517,
+      "priority": 1
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo-oh",
+      "population": 282313,
+      "priority": 1
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron-oh",
+      "population": 198100,
+      "priority": 1
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton-oh",
+      "population": 143355,
+      "priority": 1
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma-oh",
+      "population": 80429,
+      "priority": 1
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton-oh",
+      "population": 72535,
+      "priority": 1
+    }
+  ]
+}

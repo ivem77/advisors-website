@@ -1,0 +1,178 @@
+{
+  "cityName": "Joliet",
+  "state": "Illinois",
+  "slug": "joliet-il",
+  "population": "147.8K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Joliet",
+  "metaDescription": "Find top-rated financial advisors in Joliet. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Elevate Private Wealth Management",
+      "url": "https://www.raymondjames.com/elevatepwm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott A Segobiano, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-segobiano?y_source=1_ODc1ODQ0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Seth Cooper, CFP®|ChFC®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/seth-cooper?y_source=1_MjU1MTY2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Edward J Dollinger, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/edward-dollinger?y_source=1_NjQyMjY5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Thomas R Crosby, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/thomas-crosby?y_source=1_ODYyMDM3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "Joliet, Illinois, a vibrant city with rich history and diverse economy.",
+  "landscapeDescription": "Joliet serves as a key economic hub in the Chicago metropolitan area, benefiting from transportation and manufacturing sectors. Its strategic location enhances trade and logistics opportunities.",
+  "majorIndustries": "Manufacturing, Transportation, Healthcare",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Joliet's economy requires attention to manufacturing stability and housing affordability.",
+  "citySpecificRiskAdvice": "Joliet's manufacturing reliance poses economic risks; housing market volatility may arise from urban sprawl. Flooding and severe weather are concerns; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Joliet's economy has shown steady growth, driven by manufacturing and logistics sectors, with a focus on infrastructure improvements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Joliet is $68,000, reflecting a diverse economic base with significant middle-class representation."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Joliet increasingly specialize in retirement planning and real estate investments, responding to local market dynamics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Joliet's cost of living is approximately 10% lower than the national average, making it an attractive option for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Joliet's real estate market is competitive, with home prices rising due to demand, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Joliet's business climate is favorable, with incentives for manufacturing and logistics firms, fostering job growth and economic development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Corona",
+  "state": "California",
+  "slug": "corona-ca",
+  "population": "159K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Corona",
+  "metaDescription": "Find top-rated financial advisors in Corona. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "PACIFIC CAPITAL",
+      "url": "https://www.pacificcapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 220
+    },
+    {
+      "name": "ClearPath Financial",
+      "url": "http://cpfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Simplified Wealth Management, Inc.",
+      "url": "http://www.simplifiedwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Safeguard Investment Advisory Group",
+      "url": "https://safeguardinvestment.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Providence Wealth Planning",
+      "url": "http://www.planwithprovidence.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Corona, California, is a vibrant city in Riverside County, known for its rich history and growing economy.",
+  "landscapeDescription": "With a population of 159,503, Corona is experiencing steady economic growth driven by diverse industries. The city is strategically located near major transportation routes, enhancing its business appeal.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Residents require access to affordable housing and job opportunities in a competitive market.",
+  "citySpecificRiskAdvice": "Corona's manufacturing sector faces economic volatility; real estate prices are rising, indicating bubble risks. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Corona's economy is expanding, with a focus on manufacturing and healthcare contributing significantly to GDP growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Corona is approximately $80,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Corona are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Corona is rising, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Corona shows a trend of increasing home prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), the business climate in Corona is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

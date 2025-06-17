@@ -1,0 +1,178 @@
+{
+  "cityName": "Hillsboro",
+  "state": "Oregon",
+  "slug": "hillsboro-or",
+  "population": "97.4K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Hillsboro",
+  "metaDescription": "Find top-rated financial advisors in Hillsboro. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pace Financial Advisors",
+      "url": "http://pace-fa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Independent Investment Advisors",
+      "url": "https://www.independentadvisorsnw.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "SpringSource Wealth Advisors",
+      "url": "https://springsourcewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Price Financial Group",
+      "url": "https://pfgwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Rock Creek Wealth Management",
+      "url": "https://rockcreekwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Hillsboro, Oregon, is a vibrant city known for its tech industry and scenic landscapes.",
+  "landscapeDescription": "Hillsboro's economy is driven by technology, healthcare, and manufacturing. The city benefits from proximity to Portland and a skilled workforce.",
+  "majorIndustries": "Technology, Healthcare, Manufacturing",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Hillsboro requires investment in tech diversification and sustainable housing solutions.",
+  "citySpecificRiskAdvice": "Hillsboro's tech focus necessitates diversification to mitigate economic downturns. Rapid housing growth poses bubble risks; prepare for flooding and ensure economic resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hillsboro's economy grew by 4.2% last year, driven by tech and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hillsboro is $85,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hillsboro are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hillsboro's cost of living is 10% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Hillsboro is $450,000, with a 5% increase year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hillsboro's business climate is favorable, with incentives for tech startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland-or",
+      "population": 609456,
+      "priority": 1
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem-or",
+      "population": 160614,
+      "priority": 1
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene-or",
+      "population": 159190,
+      "priority": 1
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham-or",
+      "population": 109397,
+      "priority": 1
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro-or",
+      "population": 97368,
+      "priority": 1
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton-or",
+      "population": 93542,
+      "priority": 1
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend-or",
+      "population": 81236,
+      "priority": 1
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford-or",
+      "population": 77677,
+      "priority": 1
+    }
+  ]
+}

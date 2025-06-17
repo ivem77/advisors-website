@@ -1,0 +1,178 @@
+{
+  "cityName": "Midland",
+  "state": "Texas",
+  "slug": "midland-tx",
+  "population": "123K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Midland",
+  "metaDescription": "Find top-rated financial advisors in Midland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Beyond Balanced Financial Planning",
+      "url": "http://www.beyondbalancedfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Permian Wealth Management",
+      "url": "http://permianwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Carter Financial",
+      "url": "https://carterfinancialmidland.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cheryl E Werner, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cheryl-werner?y_source=1_OTY4NTYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor Timothy Bryson",
+      "url": "https://advisor.ml.com/sites/tx/midland-tx/timothy-bryson",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Midland, Texas, is a vibrant city known for its rich oil history and growing economic landscape.",
+  "landscapeDescription": "With a population of 123,933, Midland's economy is primarily driven by the energy sector, particularly oil and gas. The city is experiencing growth in technology and healthcare, diversifying its economic base.",
+  "majorIndustries": "Energy, Healthcare, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Midland requires strategies to diversify its economy beyond energy, addressing housing market volatility and natural disaster preparedness.",
+  "citySpecificRiskAdvice": "Midland's heavy reliance on oil creates economic vulnerability; housing market volatility poses risks. Prepare for tornadoes and flooding while diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Midland's economy has shown resilience with a 4% growth rate, largely due to oil price recovery."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Midland is approximately $80,000, reflecting its strong job market."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Midland are increasingly focusing on energy sector investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Midland's cost of living is slightly above the national average, driven by housing and energy costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Midland's real estate market is competitive, with home prices rising due to demand from the energy sector."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Midland offers a favorable business climate, attracting new companies, especially in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

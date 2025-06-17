@@ -1,0 +1,178 @@
+{
+  "cityName": "Carrollton",
+  "state": "Texas",
+  "slug": "carrollton-tx",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Carrollton",
+  "metaDescription": "Find top-rated financial advisors in Carrollton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Sean R Scribner",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sean-scribner?y_source=1_MTY0NDIyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Texas Financial Advisors",
+      "url": "https://www.texasfa.com/Texas-Financial-Advisors--Dallas-Office.2.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Creme Wealth - Plano Financial Planner",
+      "url": "https://www.cremewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Joe Dowdall, CFP®, RICP®, CRPC®, CCFC®, MBA",
+      "url": "https://joedowdall.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Brinkman Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJpfzYtc0mTIYRAWZVHjvyX4w",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Carrollton, Texas is a vibrant city in the Dallas-Fort Worth metroplex, known for its diverse economy and strong community.",
+  "landscapeDescription": "With a population of 126,700, Carrollton is a key player in the Dallas-Fort Worth area, benefiting from its proximity to major employers and industries. The city boasts a robust economic landscape supported by technology, retail, and healthcare sectors.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Carrollton's diverse population requires tailored financial services and community engagement strategies.",
+  "citySpecificRiskAdvice": "Carrollton's tech and retail focus necessitates economic diversification to mitigate downturn risks. Real estate prices may face bubble risks; prepare for potential flooding and tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Carrollton's economy has shown steady growth, driven by technology and retail sectors, contributing to regional prosperity."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Carrollton's median income stands at $85,000, reflecting a diverse and economically active population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Carrollton are increasingly focusing on tech sector investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Carrollton's cost of living is competitive, with housing and transportation being the largest expenses for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Carrollton's real estate market is robust, with home values appreciating steadily, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Carrollton offers a favorable business climate with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

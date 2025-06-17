@@ -1,0 +1,178 @@
+{
+  "cityName": "Pasadena",
+  "state": "Texas",
+  "slug": "pasadena-tx",
+  "population": "152.7K (metro: 2.3M)",
+  "pageTitle": "Best Financial Advisors in Pasadena",
+  "metaDescription": "Find top-rated financial advisors in Pasadena. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Perkins Financial",
+      "url": "http://perkinsfinancial-tx.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Worthen Financial Advisors",
+      "url": "https://worthenadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Financial Synergies Wealth Advisors",
+      "url": "https://www.finsyn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "MDT Financial Advisors, LLC",
+      "url": "http://www.mdtfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Lakeshore Wealth Advisors, LLC",
+      "url": "https://www.lakeshorewealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Pasadena, Texas, is a vibrant city known for its rich cultural heritage and strong industrial base.",
+  "landscapeDescription": "Pasadena's economy is driven by manufacturing, healthcare, and energy sectors. The city benefits from its proximity to Houston's diverse economic landscape.",
+  "majorIndustries": "Manufacturing, Healthcare, Energy",
+  "medianIncome": "$57,000",
+  "uniqueNeeds": "Pasadena requires focused economic diversification to mitigate risks from industry concentration and housing market fluctuations.",
+  "citySpecificRiskAdvice": "Pasadena's energy sector concentration poses risks; housing market may face bubble concerns. Prepare for hurricanes and flooding; diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pasadena's economy is expanding, driven by robust manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pasadena is approximately $57,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pasadena are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pasadena's cost of living is competitive, making it an attractive option for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Pasadena shows signs of appreciation, raising concerns about potential bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pasadena's business climate is favorable, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

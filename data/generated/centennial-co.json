@@ -1,0 +1,178 @@
+{
+  "cityName": "Centennial",
+  "state": "Colorado",
+  "slug": "centennial-co",
+  "population": "106K (metro: 3.0M)",
+  "pageTitle": "Best Financial Advisors in Centennial",
+  "metaDescription": "Find top-rated financial advisors in Centennial. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dechtman Wealth Management",
+      "url": "https://dechtmanwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 130
+    },
+    {
+      "name": "FFG (Financial Foundation Group)",
+      "url": "http://www.financialfoundationgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Judy Carlson Financial Group",
+      "url": "https://judycarlson.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 42
+    },
+    {
+      "name": "Irving Planning & Investments, Ltd.",
+      "url": "http://www.irvingplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Ten Talents Financial Planning, LLC",
+      "url": "http://www.tentalentsfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    }
+  ],
+  "heroDescription": "Centennial, Colorado, is a vibrant suburban city known for its family-friendly atmosphere and robust economy.",
+  "landscapeDescription": "Centennial boasts a diverse economy with a strong presence in technology, healthcare, and retail sectors. The city is part of the Denver-Aurora-Lakewood metropolitan area, enhancing its economic prospects.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$90,000",
+  "uniqueNeeds": "Centennial requires tailored financial advice due to its suburban growth and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Centennial's tech sector growth poses concentration risks; housing market appreciation raises bubble concerns. Diversify investments and prepare for potential weather-related disruptions.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Centennial's economy is expanding, driven by tech and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Centennial is approximately $90,000, reflecting a prosperous community with high purchasing power."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Centennial are increasingly focusing on tech and real estate investments to meet local demands."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Centennial's cost of living is rising, with housing costs significantly impacting affordability for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Centennial is competitive, with home prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Centennial's business climate is favorable, attracting startups and established companies alike, contributing to job growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

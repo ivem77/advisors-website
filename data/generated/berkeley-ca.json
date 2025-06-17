@@ -1,0 +1,178 @@
+{
+  "cityName": "Berkeley",
+  "state": "California",
+  "slug": "berkeley-ca",
+  "population": "116.8K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Berkeley",
+  "metaDescription": "Find top-rated financial advisors in Berkeley. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "North Berkeley Wealth Management",
+      "url": "https://www.northberkeleywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "HFG Advisors",
+      "url": "https://cfbhfg.com/wealth-management/hfg-advisors-berkeley-california/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Topel & DiStasi Wealth Management",
+      "url": "https://td-wm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "AFFINITY CAPITAL ADVISORS LLC",
+      "url": "https://www.affinitycapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: William Fried",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/william-fried?y_source=1_NDE3NjQyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Berkeley, California, is a vibrant city known for its academic excellence and diverse culture.",
+  "landscapeDescription": "Berkeley's economy thrives on education, technology, and research, bolstered by the presence of UC Berkeley. The city has a dynamic startup scene and a growing tech sector.",
+  "majorIndustries": "Education, Technology, Research",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Berkeley requires a focus on sustainable housing and tech diversification to mitigate economic risks.",
+  "citySpecificRiskAdvice": "Berkeley's tech focus necessitates diversification to avoid downturns. Real estate prices pose bubble risks; consider climate resilience against earthquakes and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Berkeley's economy is projected to grow by 3% annually, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Berkeley is $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Berkeley increasingly specialize in tech investments and sustainable practices."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Berkeley's cost of living is 30% higher than the national average, driven by housing and education expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Berkeley is approximately $1.2 million, with a competitive rental market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Berkeley's business climate is favorable for startups, particularly in tech and green industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "North Charleston",
+  "state": "South Carolina",
+  "slug": "north-charleston-sc",
+  "population": "104K (metro: 800K)",
+  "pageTitle": "Best Financial Advisors in North Charleston",
+  "metaDescription": "Find top-rated financial advisors in North Charleston. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "PGI Financial Services",
+      "url": "https://www.pgifinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Runey & Associates Wealth Management",
+      "url": "https://raawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "First Command Financial Advisor - Jack Hutson, CFP®",
+      "url": "https://advisor.firstcommand.com/us/sc/n-charleston/jphutson?y_source=1_MjA5NjIyODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Cove Financial Solutions",
+      "url": "http://covefinancialsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Coastal Financial Planning Group",
+      "url": "https://www.cfpgroup.biz/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "North Charleston is a vibrant city in South Carolina, known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 104,054, North Charleston is a key economic hub in the Charleston metro area. The city boasts a mix of manufacturing, retail, and service industries.",
+  "majorIndustries": "Manufacturing, Retail, Aerospace",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "North Charleston requires tailored financial strategies to address its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "North Charleston's manufacturing focus poses risks from economic downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Charleston's economy has seen a steady growth rate of 3.2% annually, driven by manufacturing and tourism."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in North Charleston is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in North Charleston are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in North Charleston is approximately 5% lower than the national average, making it an attractive location."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in North Charleston is experiencing a surge, with home prices rising by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Charleston's business climate is favorable, with incentives for manufacturing and tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia-sc",
+      "population": 133358,
+      "priority": 1
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston-sc",
+      "population": 127999,
+      "priority": 1
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston-sc",
+      "population": 104054,
+      "priority": 1
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant-sc",
+      "population": 74885,
+      "priority": 1
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill-sc",
+      "population": 69103,
+      "priority": 1
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville-sc",
+      "population": 61397,
+      "priority": 1
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville-sc",
+      "population": 46074,
+      "priority": 1
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter-sc",
+      "population": 41190,
+      "priority": 1
+    }
+  ]
+}

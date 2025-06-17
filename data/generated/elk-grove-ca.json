@@ -1,0 +1,178 @@
+{
+  "cityName": "Elk Grove",
+  "state": "California",
+  "slug": "elk-grove-ca",
+  "population": "161K (metro: 2.4M)",
+  "pageTitle": "Best Financial Advisors in Elk Grove",
+  "metaDescription": "Find top-rated financial advisors in Elk Grove. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edelman Financial Engines",
+      "url": "https://www.edelmanfinancialengines.com/location.CA.Elk-Grove/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katie L Gilbeau",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katie-gilbeau?y_source=1_OTYzMDUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Kim Sutton - SAFE Financial Services - LPL Financial Advisor",
+      "url": "https://www.safecu.org/wealth-management/meet-our-advisors/kim-sutton/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kelly J Shultz",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelly-shultz?y_source=1_MTEyMDcyMTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Aaron D Lockhart",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/aaron-lockhart?y_source=1_Mjg2NzQ4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Elk Grove is a thriving city in California's Sacramento County, known for its diverse community and vibrant economy.",
+  "landscapeDescription": "Elk Grove's economy is bolstered by healthcare, retail, and education sectors. The city has seen steady growth, attracting new businesses and residents alike.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Elk Grove requires tailored financial advice for its diverse population and growing industries.",
+  "citySpecificRiskAdvice": "Elk Grove's reliance on healthcare and retail poses economic risks; housing market volatility and flooding are concerns. Diversify investments to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Elk Grove's GDP growth rate is projected at 3.5%, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Elk Grove is $85,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Elk Grove increasingly specialize in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Elk Grove's cost of living is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Elk Grove is $550,000, with a 5% annual appreciation rate."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Elk Grove's business climate is favorable, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "160+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "cityName": "Billings",
+  "state": "Montana",
+  "slug": "billings-mt",
+  "population": "109K (metro: 109K)",
+  "pageTitle": "Best Financial Advisors in Billings",
+  "metaDescription": "Find top-rated financial advisors in Billings. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Michael A Vondra, CFP®|ChFC®|ABFP®|AAMS®|CRPC™|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-vondra?y_source=1_Mjk1MjczMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Carson Wealth - True North Financial",
+      "url": "https://www.carsonwealth.com/locations/billings-gabel-rd/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Strategic Retirement Plans",
+      "url": "http://srpretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Retirement Solutions • Financial Planner Billings, MT",
+      "url": "http://www.retire-solutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lee D Humphrey Jr, CFP®|ChFC®|CEPA®|AAMS®|CRPC™|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lee-humphrey?y_source=1_NjQwODgxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Billings, Montana, is a vibrant city known for its rich history and economic potential.",
+  "landscapeDescription": "Billings serves as a regional hub for trade and commerce, benefiting from its strategic location. The economy is diverse, with a mix of healthcare, retail, and energy sectors driving growth.",
+  "majorIndustries": "Healthcare, Retail, Energy",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Billings requires tailored financial strategies to address its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Billings' reliance on energy and agriculture poses risks; diversify investments. Real estate is stable but watch for market bubbles. Prepare for flooding and winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Billings has seen a 3% annual growth rate, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Billings is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Billings are increasingly focusing on retirement planning and investment strategies for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Billings has a cost of living index that is 10% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Billings is stable, with home prices appreciating steadily, but affordability remains a concern."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Billings offers a favorable business climate with low taxes and a supportive local government for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Billings",
+      "state": "Montana",
+      "slug": "billings-mt",
+      "population": 109059,
+      "priority": 1
+    },
+    {
+      "name": "Missoula",
+      "state": "Montana",
+      "slug": "missoula-mt",
+      "population": 69122,
+      "priority": 1
+    },
+    {
+      "name": "Great Falls",
+      "state": "Montana",
+      "slug": "great-falls-mt",
+      "population": 59351,
+      "priority": 1
+    },
+    {
+      "name": "Bozeman",
+      "state": "Montana",
+      "slug": "bozeman-mt",
+      "population": 39860,
+      "priority": 1
+    }
+  ]
+}

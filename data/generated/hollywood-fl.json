@@ -1,0 +1,178 @@
+{
+  "cityName": "Hollywood",
+  "state": "Florida",
+  "slug": "hollywood-fl",
+  "population": "146K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Hollywood",
+  "metaDescription": "Find top-rated financial advisors in Hollywood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Propel Wealth Management",
+      "url": "http://propelwms.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "FDR Group, Inc.",
+      "url": "http://www.fdrgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "ELITE MANAGEMENT FINANCIAL LLC",
+      "url": "https://elitemanagementfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Coral Wealth Management",
+      "url": "https://www.coralwm.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    }
+  ],
+  "heroDescription": "Hollywood, Florida, is a vibrant coastal city known for its beautiful beaches and diverse community.",
+  "landscapeDescription": "With a population of 146,526, Hollywood boasts a robust economy driven by tourism, healthcare, and entertainment. The city benefits from its strategic location between Miami and Fort Lauderdale.",
+  "majorIndustries": "Tourism, Healthcare, Entertainment",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Hollywood requires tailored financial services focused on tourism and real estate investments.",
+  "citySpecificRiskAdvice": "Hollywood's tourism reliance poses economic risks; real estate prices may face volatility due to hurricanes. Diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hollywood's economy has shown steady growth, primarily driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hollywood is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), advisors in Hollywood are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hollywood's cost of living is moderate, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Hollywood is competitive, with prices rising due to demand from buyers and investors."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hollywood's business climate is favorable, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

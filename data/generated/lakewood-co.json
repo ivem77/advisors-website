@@ -1,0 +1,178 @@
+{
+  "cityName": "Lakewood",
+  "state": "Colorado",
+  "slug": "lakewood-co",
+  "population": "147.2K (metro: 3.1M)",
+  "pageTitle": "Best Financial Advisors in Lakewood",
+  "metaDescription": "Find top-rated financial advisors in Lakewood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Summit Wealth Group",
+      "url": "http://www.summitwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "WealthClarity",
+      "url": "https://www.wealthclarity.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "AlignPoint Wealth - Financial Advisor Lakewood",
+      "url": "https://alignpointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Colorado Wealth Group",
+      "url": "https://coloradowealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    },
+    {
+      "name": "Complete Spectrum Financial Services, LLC.",
+      "url": "http://www.complete-spectrum.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    }
+  ],
+  "heroDescription": "Lakewood, Colorado, is a vibrant city known for its outdoor recreation and strong community spirit.",
+  "landscapeDescription": "Lakewood's economy is diverse, with significant contributions from retail, healthcare, and education sectors. The city's strategic location near Denver enhances its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Lakewood requires tailored financial advice to navigate its unique economic landscape and housing market.",
+  "citySpecificRiskAdvice": "Lakewood's reliance on retail and healthcare poses risks; housing market volatility and potential flooding require diversified investments and risk management.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lakewood's economy has shown steady growth, driven by a resurgence in local retail and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lakewood is approximately $75,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lakewood are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lakewood's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lakewood's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lakewood offers a favorable business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

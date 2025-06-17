@@ -1,0 +1,178 @@
+{
+  "cityName": "Waco",
+  "state": "Texas",
+  "slug": "waco-tx",
+  "population": "129K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Waco",
+  "metaDescription": "Find top-rated financial advisors in Waco. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Disciplined Investors LLC",
+      "url": "https://www.dinvestors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Lovett & Associates",
+      "url": "https://www.lovettfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Mattson Financial Services",
+      "url": "http://www.mattsonfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Winnow Wealth",
+      "url": "https://winnowwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Beene Wealth Management Group",
+      "url": "http://beenewmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Waco, Texas, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Waco's economy is diverse, with strengths in manufacturing, healthcare, and education. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Waco's unique needs include infrastructure improvements and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "Waco's economy relies on manufacturing and education, posing risks if these sectors falter. Real estate prices are rising, indicating bubble risks. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Waco's GDP growth rate is 3.2%, driven by manufacturing and healthcare advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Waco is approximately $55,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Waco are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Waco's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Waco's real estate market is experiencing a 7% annual appreciation, raising concerns about potential price bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Waco's business climate is improving, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

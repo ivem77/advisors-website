@@ -1,0 +1,178 @@
+{
+  "cityName": "Burbank",
+  "state": "California",
+  "slug": "burbank-ca",
+  "population": "104.7K (metro: 1.8M)",
+  "pageTitle": "Best Financial Advisors in Burbank",
+  "metaDescription": "Find top-rated financial advisors in Burbank. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Reddick, AAMS®|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-reddick?y_source=1_MzI1ODg3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Domari Wealth Management",
+      "url": "http://www.domariwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joe Gitto, CFP®|CEPA®|AAMS®|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joe-gitto?y_source=1_MTU2MjEzNDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "L.A. Financial Management",
+      "url": "https://www.la-financialmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Intelligent Financial Services, Inc.",
+      "url": "http://www.ifscentral.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Burbank, California, is a vibrant city known for its entertainment industry and diverse economy.",
+  "landscapeDescription": "Burbank's economy thrives on its strong ties to the entertainment sector, particularly film and television production. The city also benefits from a growing tech presence and retail sectors.",
+  "majorIndustries": "Entertainment, Technology, Retail",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Burbank's economy is heavily influenced by the entertainment industry, requiring tailored financial strategies.",
+  "citySpecificRiskAdvice": "Burbank's entertainment focus poses industry concentration risks; housing market volatility may arise from high demand. Prepare for earthquakes and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Burbank's economy has seen a steady growth rate of 3.5%, driven by entertainment and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Burbank's median household income is $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Burbank are increasingly specializing in entertainment and tech sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Burbank's cost of living is 15% higher than the national average, driven by housing and entertainment expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Burbank's real estate market is competitive, with median home prices around $1.1M, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Burbank's business climate is favorable, with incentives for tech startups and established entertainment firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

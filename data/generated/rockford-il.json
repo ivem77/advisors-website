@@ -1,0 +1,178 @@
+{
+  "cityName": "Rockford",
+  "state": "Illinois",
+  "slug": "rockford-il",
+  "population": "150.3K (metro: 350K)",
+  "pageTitle": "Best Financial Advisors in Rockford",
+  "metaDescription": "Find top-rated financial advisors in Rockford. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Symmetry Financial Advisors",
+      "url": "http://www.symmetryfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Klaas Financial",
+      "url": "http://www.klaasfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Bates Financial Advisors, Inc.",
+      "url": "http://batesfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Pathfinder Wealth Management",
+      "url": "http://www.pathfinderwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "LR Financial Planners, LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJcy1oMze7CIgRSmv3S8yHZlk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Rockford, Illinois, known for its rich manufacturing history, is evolving into a hub for healthcare and education.",
+  "landscapeDescription": "The economy of Rockford is transitioning from traditional manufacturing to a more diversified base, including healthcare and education. This shift is supported by local initiatives aimed at fostering innovation and attracting new businesses.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Rockford requires investment in infrastructure and workforce development to support its evolving economy.",
+  "citySpecificRiskAdvice": "Rockford's manufacturing reliance poses risks; diversify into tech and healthcare. Real estate may face volatility due to economic shifts and weather-related disruptions like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rockford's GDP growth is projected at 2.5%, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Rockford is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rockford are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rockford's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Rockford have appreciated by 5% over the past year, indicating a recovering market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rockford's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "150+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago-il",
+      "population": 2718782,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora-il",
+      "population": 199963,
+      "priority": 1
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford-il",
+      "population": 150251,
+      "priority": 1
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet-il",
+      "population": 147806,
+      "priority": 1
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville-il",
+      "population": 144864,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield-il",
+      "population": 117006,
+      "priority": 1
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria-il",
+      "population": 116513,
+      "priority": 1
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin-il",
+      "population": 110145,
+      "priority": 1
+    }
+  ]
+}

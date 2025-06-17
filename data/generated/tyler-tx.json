@@ -1,0 +1,178 @@
+{
+  "cityName": "Tyler",
+  "state": "Texas",
+  "slug": "tyler-tx",
+  "population": "100.2K (metro: 100.2K)",
+  "pageTitle": "Best Financial Advisors in Tyler",
+  "metaDescription": "Find top-rated financial advisors in Tyler. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Texas Financial and Retirement",
+      "url": "http://www.texasfinancialandretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Income Portfolio Strategies, LLC",
+      "url": "http://incomeportfoliostrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Robin C Cromer, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/robin-cromer?y_source=1_MTcxNjA0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Income Solutions Wealth Management",
+      "url": "http://incomesolutionstx.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Tarango Financial Group LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJPUpsDpvNSYYRF13OtqFetlI",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    }
+  ],
+  "heroDescription": "Tyler, Texas, known as the Rose Capital of America, offers a blend of culture, industry, and natural beauty.",
+  "landscapeDescription": "Tyler's economy is diverse, with significant contributions from healthcare, manufacturing, and retail. The city is strategically located in East Texas, benefiting from regional trade.",
+  "majorIndustries": "Healthcare, Manufacturing, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Tyler requires enhanced infrastructure and workforce development to support its growing industries.",
+  "citySpecificRiskAdvice": "Tyler's economy, while diverse, is vulnerable to healthcare sector fluctuations. Real estate prices are rising, indicating potential bubble risks. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tyler's GDP growth has been steady at 3.2%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Tyler is $54,000, reflecting a modest but stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tyler are increasingly focusing on retirement planning and investment strategies for local businesses."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Tyler's cost of living is 10% below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Tyler's housing market has seen a 12% increase in home prices over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tyler's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

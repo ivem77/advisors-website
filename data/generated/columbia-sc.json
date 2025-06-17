@@ -1,0 +1,178 @@
+{
+  "cityName": "Columbia",
+  "state": "South Carolina",
+  "slug": "columbia-sc",
+  "population": "133K (metro: 800K)",
+  "pageTitle": "Best Financial Advisors in Columbia",
+  "metaDescription": "Find top-rated financial advisors in Columbia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Capital City Financial Partners",
+      "url": "https://capitalcityfinancialpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "HG Wealth Advisors, LLC",
+      "url": "https://hgwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 44
+    },
+    {
+      "name": "Cornerstone Financial Management",
+      "url": "http://www.cornerstonecolumbia.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Hobbs Group Advisors, LLC",
+      "url": "http://www.hobbsgroupadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Milestone Wealth Advisors",
+      "url": "https://www.milestonewealthadvisors.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=652351ae-4f80-4965-b6b0-c7b49da43f31",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Columbia, SC, is a vibrant city known for its rich history and educational institutions.",
+  "landscapeDescription": "Columbia's economy is driven by education, healthcare, and government sectors. The city serves as a regional hub for commerce and culture.",
+  "majorIndustries": "Education, Healthcare, Government",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Columbia requires a focus on educational resources, healthcare access, and sustainable urban development.",
+  "citySpecificRiskAdvice": "Columbia's reliance on education and government sectors poses risks; diversify investments. Housing market shows signs of inflation; monitor for bubbles. Flooding and storms are concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Columbia's GDP growth is steady, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Columbia is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Columbia are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Columbia's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Columbia's real estate market is competitive, with rising prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Columbia's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia-sc",
+      "population": 133358,
+      "priority": 1
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston-sc",
+      "population": 127999,
+      "priority": 1
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston-sc",
+      "population": 104054,
+      "priority": 1
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant-sc",
+      "population": 74885,
+      "priority": 1
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill-sc",
+      "population": 69103,
+      "priority": 1
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville-sc",
+      "population": 61397,
+      "priority": 1
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville-sc",
+      "population": 46074,
+      "priority": 1
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter-sc",
+      "population": 41190,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Coral Springs",
+  "state": "Florida",
+  "slug": "coral-springs-fl",
+  "population": "126.6K (metro: 6.4M)",
+  "pageTitle": "Best Financial Advisors in Coral Springs",
+  "metaDescription": "Find top-rated financial advisors in Coral Springs. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Prosperitus Wealth Advisors",
+      "url": "http://www.prosperituswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Todd A Currier",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/todd-currier?y_source=1_NjQyNTQyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Wealth InsurED",
+      "url": "http://wealth-insured.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 96
+    },
+    {
+      "name": "Lewis and Palmer Financial Solutions Group-Renee Lewis Financial Advisor",
+      "url": "http://www.lewisandpalmerfsg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sunshine Financial Solutions of South Florida",
+      "url": "https://www.sunshinefinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Coral Springs, a vibrant city in Florida, is known for its family-friendly atmosphere and lush landscapes.",
+  "landscapeDescription": "The city boasts a diverse economy with a focus on retail, healthcare, and education. Its strategic location enhances its appeal for business and tourism.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$72,000",
+  "uniqueNeeds": "Coral Springs requires attention to its growing population and housing demands, alongside sustainable economic development.",
+  "citySpecificRiskAdvice": "Coral Springs' retail focus poses risks from e-commerce shifts. Housing demand may lead to a bubble; consider diversification in sectors like tech and healthcare. Be mindful of hurricane risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Coral Springs has seen a steady economic growth rate of 3.2%, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Coral Springs is $72,000, reflecting a diverse and growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Coral Springs are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Coral Springs' cost of living is approximately 10% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Coral Springs real estate market has seen a 7% increase in home prices over the past year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Coral Springs is recognized for its supportive business climate, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

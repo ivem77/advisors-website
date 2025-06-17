@@ -1,0 +1,178 @@
+{
+  "cityName": "Wichita Falls",
+  "state": "Texas",
+  "slug": "wichita-falls-tx",
+  "population": "104.9K (metro: 104.9K)",
+  "pageTitle": "Best Financial Advisors in Wichita Falls",
+  "metaDescription": "Find top-rated financial advisors in Wichita Falls. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Crossvine A Financial Planning Firm",
+      "url": "http://www.crossvine.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Brooks Financial Services",
+      "url": "http://www.brooksfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Warnock Wealth Management",
+      "url": "http://www.warnockwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Personal Money Planning",
+      "url": "http://www.personalmoneyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Bullinger Wealth Management",
+      "url": "http://www.bullingerwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Wichita Falls, Texas, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Wichita Falls has a population of 104,898 and serves as a regional hub for commerce and industry. The economy is supported by healthcare, manufacturing, and retail sectors.",
+  "majorIndustries": "Healthcare, Manufacturing, Retail",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "The city requires a focus on healthcare services and workforce development to support its growing population.",
+  "citySpecificRiskAdvice": "Wichita Falls' economy relies on healthcare and manufacturing, posing risks if these sectors decline. Real estate is stable but watch for potential flooding and tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wichita Falls has shown steady economic growth, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wichita Falls is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wichita Falls are increasingly specializing in retirement planning and healthcare financing."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wichita Falls has a lower cost of living compared to national averages, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Wichita Falls is stable, with moderate appreciation rates and affordable housing options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wichita Falls offers a favorable business climate with incentives for new businesses, particularly in healthcare and manufacturing."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

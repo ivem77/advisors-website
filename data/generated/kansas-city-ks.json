@@ -1,0 +1,178 @@
+{
+  "cityName": "Kansas City",
+  "state": "Kansas",
+  "slug": "kansas-city-ks",
+  "population": "148K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Kansas City",
+  "metaDescription": "Find top-rated financial advisors in Kansas City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WEALTH | KC - Financial Advisors + Wealth Management",
+      "url": "http://www.wealthkc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Buttonwood Financial Group, LLC",
+      "url": "http://www.buttonwoodfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "BMG Advisors \"Plan Your Story\"",
+      "url": "http://bmgadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "WATERFRONT ADVISORS",
+      "url": "https://www.waterfrontadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 67
+    },
+    {
+      "name": "Kansas City Private Wealth Management",
+      "url": "http://www.kcpwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Kansas City, Kansas is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 148,483, Kansas City, KS is part of a larger metropolitan area that boasts a dynamic economy. Key sectors include manufacturing, healthcare, and transportation.",
+  "majorIndustries": "Manufacturing, Healthcare, Transportation",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Kansas City requires tailored financial strategies to address its unique economic landscape and demographic diversity.",
+  "citySpecificRiskAdvice": "Kansas City's manufacturing focus poses economic risks; diversify investments. Real estate may face volatility; monitor housing trends. Tornadoes and flooding are significant natural threats.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kansas City's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Kansas City, KS is approximately $56,000, reflecting the city's diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kansas City are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kansas City's cost of living is lower than the national average, making it an attractive place to live and work."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Kansas City real estate market is experiencing moderate growth, but concerns about housing affordability persist."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kansas City is fostering a supportive business climate, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita-ks",
+      "population": 386552,
+      "priority": 1
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park-ks",
+      "population": 181260,
+      "priority": 1
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city-ks",
+      "population": 148483,
+      "priority": 1
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe-ks",
+      "population": 131885,
+      "priority": 1
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka-ks",
+      "population": 127679,
+      "priority": 1
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence-ks",
+      "population": 90811,
+      "priority": 1
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee-ks",
+      "population": 64323,
+      "priority": 1
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan-ks",
+      "population": 56143,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Lafayette",
+  "state": "Louisiana",
+  "slug": "lafayette-la",
+  "population": "124K (metro: 124K)",
+  "pageTitle": "Best Financial Advisors in Lafayette",
+  "metaDescription": "Find top-rated financial advisors in Lafayette. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealth Advisors: Nolan Venable",
+      "url": "http://www.wealthadvisorsoffice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Eleser Financial",
+      "url": "https://www.eleserfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Donald M Paul, CFP®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/donald-paul?y_source=1_OTY0NDA4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "Broussard, LeBlanc & Associates - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/broussard-leblanc-associates/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Summit Financial Wealth Advisors",
+      "url": "http://www.summit-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Lafayette, Louisiana, is a vibrant city known for its rich culture and economic diversity.",
+  "landscapeDescription": "Lafayette's economy is driven by healthcare, education, and energy sectors, contributing to its robust growth. The city serves as a regional hub for commerce and culture in Acadiana.",
+  "majorIndustries": "Healthcare, Education, Energy",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Lafayette requires tailored financial strategies to address its unique economic landscape and cultural dynamics.",
+  "citySpecificRiskAdvice": "Lafayette's energy sector poses concentration risks; housing market volatility may lead to bubbles. Prepare for hurricanes and flooding while diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lafayette's GDP growth has been steady, driven by healthcare and energy sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lafayette is approximately $55,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lafayette are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lafayette's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lafayette's real estate market shows signs of growth, with rising home prices and demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lafayette's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "New Orleans",
+      "state": "Louisiana",
+      "slug": "new-orleans-la",
+      "population": 378715,
+      "priority": 1
+    },
+    {
+      "name": "Baton Rouge",
+      "state": "Louisiana",
+      "slug": "baton-rouge-la",
+      "population": 229426,
+      "priority": 1
+    },
+    {
+      "name": "Shreveport",
+      "state": "Louisiana",
+      "slug": "shreveport-la",
+      "population": 200327,
+      "priority": 1
+    },
+    {
+      "name": "Lafayette",
+      "state": "Louisiana",
+      "slug": "lafayette-la",
+      "population": 124276,
+      "priority": 1
+    },
+    {
+      "name": "Lake Charles",
+      "state": "Louisiana",
+      "slug": "lake-charles-la",
+      "population": 74024,
+      "priority": 1
+    },
+    {
+      "name": "Kenner",
+      "state": "Louisiana",
+      "slug": "kenner-la",
+      "population": 66975,
+      "priority": 1
+    },
+    {
+      "name": "Bossier City",
+      "state": "Louisiana",
+      "slug": "bossier-city-la",
+      "population": 66333,
+      "priority": 1
+    },
+    {
+      "name": "Monroe",
+      "state": "Louisiana",
+      "slug": "monroe-la",
+      "population": 49761,
+      "priority": 1
+    }
+  ]
+}

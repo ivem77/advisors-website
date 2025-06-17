@@ -1,0 +1,178 @@
+{
+  "cityName": "Charleston",
+  "state": "South Carolina",
+  "slug": "charleston-sc",
+  "population": "128K (metro: 800K)",
+  "pageTitle": "Best Financial Advisors in Charleston",
+  "metaDescription": "Find top-rated financial advisors in Charleston. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Runey & Associates Wealth Management",
+      "url": "https://raawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "Nicholson Wealth Management Group",
+      "url": "http://www.nicholsonwmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Coastal Financial Planning Group",
+      "url": "https://www.cfpgroup.biz/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "PGI Financial Services",
+      "url": "https://www.pgifinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bill Rader, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bill-rader?y_source=1_MTcxNjA4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Charleston, SC, is a historic city known for its rich culture and vibrant economy.",
+  "landscapeDescription": "Charleston's economy is diverse, with strong sectors in tourism, manufacturing, and technology. The city benefits from a strategic coastal location and a growing population.",
+  "majorIndustries": "Tourism, Manufacturing, Technology",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Charleston's economy requires a focus on sustainable tourism and tech innovation to support growth.",
+  "citySpecificRiskAdvice": "Charleston's tourism-heavy economy faces risks from hurricanes and flooding. Real estate prices are rising, indicating potential bubble risks. Diversify investments to mitigate these threats.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Charleston's GDP grew by 4.2%, driven by tourism and tech sector expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Charleston is $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Charleston are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Charleston is rising, with housing costs significantly impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Charleston's real estate market is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Charleston's business climate is favorable, with incentives for tech startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia-sc",
+      "population": 133358,
+      "priority": 1
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston-sc",
+      "population": 127999,
+      "priority": 1
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston-sc",
+      "population": 104054,
+      "priority": 1
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant-sc",
+      "population": 74885,
+      "priority": 1
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill-sc",
+      "population": 69103,
+      "priority": 1
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville-sc",
+      "population": 61397,
+      "priority": 1
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville-sc",
+      "population": 46074,
+      "priority": 1
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter-sc",
+      "population": 41190,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Thornton",
+  "state": "Colorado",
+  "slug": "thornton-co",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Thornton",
+  "metaDescription": "Find top-rated financial advisors in Thornton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Shawn Faurote, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shawn-faurote?y_source=1_MjY0NDE4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Elite Financial Team, LLC",
+      "url": "http://www.eftloans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 100
+    },
+    {
+      "name": "Colorado Wealth Group",
+      "url": "https://coloradowealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ryan M Walker, CFP®|CEPA®|CRPC™|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ryan-walker?y_source=1_MTM1NTc0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Alpha 1 Tax & Wealth Retirement Planning & Financial Advisors",
+      "url": "https://www.alpha1wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Thornton, Colorado, is a vibrant city located in the Denver metropolitan area, known for its family-friendly atmosphere and outdoor recreational opportunities.",
+  "landscapeDescription": "With a population of 127,359, Thornton's economy is bolstered by its proximity to Denver, offering diverse job opportunities. Key industries include retail, healthcare, and technology.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Thornton requires tailored financial advice to navigate its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Thornton's tech sector growth necessitates diversification to mitigate economic downturns. Real estate prices are rising, posing bubble risks. Prepare for weather-related disruptions.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Thornton's economy is expanding, driven by population growth and increased consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Thornton is approximately $80,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Thornton are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Thornton's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Thornton's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Thornton's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver-co",
+      "population": 649495,
+      "priority": 1
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs-co",
+      "population": 439886,
+      "priority": 1
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora-co",
+      "population": 345803,
+      "priority": 1
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins-co",
+      "population": 152061,
+      "priority": 1
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood-co",
+      "population": 147214,
+      "priority": 1
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton-co",
+      "population": 127359,
+      "priority": 1
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada-co",
+      "population": 111707,
+      "priority": 1
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster-co",
+      "population": 110945,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Port St. Lucie",
+  "state": "Florida",
+  "slug": "port-st-lucie-fl",
+  "population": "171K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Port St. Lucie",
+  "metaDescription": "Find top-rated financial advisors in Port St. Lucie. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Southern Magnolia Investment Management",
+      "url": "https://www.southernmagnoliaim.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brandon Santillo, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brandon-santillo?y_source=1_MTM2NDM5NTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bridge Financial - Accounting & Financial Planning",
+      "url": "http://www.bfadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 344
+    },
+    {
+      "name": "Mark Valinote - Thrivent",
+      "url": "https://connect.thrivent.com/mark-valinote?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzcxNTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Davies Wealth Management",
+      "url": "https://www.tdwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    }
+  ],
+  "heroDescription": "Port St. Lucie, Florida, is a vibrant city known for its beautiful landscapes and growing economy.",
+  "landscapeDescription": "With a population of 171,016, Port St. Lucie is experiencing steady economic growth, driven by healthcare, retail, and construction industries. The city is becoming a popular destination for retirees and families alike.",
+  "majorIndustries": "Healthcare, Retail, Construction",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Port St. Lucie requires tailored financial strategies for its growing retiree population and emerging industries.",
+  "citySpecificRiskAdvice": "Port St. Lucie's real estate market faces bubble risks amid rapid growth. Diversify investments to mitigate hurricane and flooding risks, and address healthcare sector reliance.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Port St. Lucie's economy has grown by 4.5% year-over-year, driven by healthcare and construction sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Port St. Lucie is $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Port St. Lucie are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Port St. Lucie is approximately 5% lower than the national average, making it an attractive location."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Port St. Lucie have risen by 10% in the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Port St. Lucie's business climate is improving, with incentives for new businesses and a focus on sustainable development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "170+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

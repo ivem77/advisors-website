@@ -1,0 +1,178 @@
+{
+  "cityName": "Independence",
+  "state": "Missouri",
+  "slug": "independence-mo",
+  "population": "117K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Independence",
+  "metaDescription": "Find top-rated financial advisors in Independence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Thiele, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-thiele?y_source=1_OTY0OTMxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wise Choices Financial, LLC",
+      "url": "http://www.wcf-kc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matt Flax, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matt-flax?y_source=1_NTU5NzY0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Corey M Long, CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/corey-long?y_source=1_OTY1MzY5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Premier Wealth Advisors",
+      "url": "https://www.premierwa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Independence, Missouri, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "Independence boasts a diverse economy with strengths in retail, healthcare, and manufacturing. The city is part of the Kansas City metropolitan area, contributing to its economic vitality.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Independence requires focused economic diversification and sustainable housing development to mitigate risks.",
+  "citySpecificRiskAdvice": "Independence's retail focus poses economic risks; diversify into tech and healthcare. Watch for housing market bubbles and tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Independence's economy has seen a steady growth rate of 2.5% annually, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Independence is approximately $55,000, reflecting a moderate income level relative to the region."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Independence are increasingly specializing in retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Independence is about 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Independence is experiencing a 5% annual appreciation, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Independence offers a favorable business climate with low taxes and incentives for small businesses, fostering entrepreneurial growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city-mo",
+      "population": 467007,
+      "priority": 1
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis-mo",
+      "population": 318416,
+      "priority": 1
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield-mo",
+      "population": 164122,
+      "priority": 1
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence-mo",
+      "population": 117240,
+      "priority": 1
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia-mo",
+      "population": 115276,
+      "priority": 1
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit-mo",
+      "population": 93184,
+      "priority": 1
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon-mo",
+      "population": 82809,
+      "priority": 1
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph-mo",
+      "population": 77147,
+      "priority": 1
+    }
+  ]
+}

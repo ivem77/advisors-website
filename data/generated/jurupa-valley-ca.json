@@ -1,0 +1,178 @@
+{
+  "cityName": "Jurupa Valley",
+  "state": "California",
+  "slug": "jurupa-valley-ca",
+  "population": "98K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Jurupa Valley",
+  "metaDescription": "Find top-rated financial advisors in Jurupa Valley. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "TriCord Advisors, Inc.",
+      "url": "https://www.tricordadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Ray Prospero Fiduciary Financial Advisor - AdvicePeriod",
+      "url": "https://linktr.ee/rayprospero",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "RivCo Wealth Management",
+      "url": "http://www.rivcowealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Itzen Bishop Financial - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/itzen-bishop-financial/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Jurupa Valley, California, is a growing city known for its diverse community and strategic location in Riverside County.",
+  "landscapeDescription": "With a population of 98,030, Jurupa Valley's economy is bolstered by logistics, retail, and agriculture. The city's proximity to major highways enhances its appeal for businesses.",
+  "majorIndustries": "Logistics, Retail, Agriculture",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Jurupa Valley requires tailored financial advice due to its unique economic landscape and diverse population.",
+  "citySpecificRiskAdvice": "Jurupa Valley's logistics focus invites economic volatility; housing market growth may signal a bubble. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jurupa Valley's economy has shown steady growth, driven by logistics and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jurupa Valley is approximately $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jurupa Valley's cost of living is competitive, making it an attractive option for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market is experiencing upward trends, with prices rising due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jurupa Valley's business climate is favorable, with incentives for new businesses and expansions."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

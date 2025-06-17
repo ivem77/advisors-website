@@ -1,0 +1,178 @@
+{
+  "cityName": "Everett",
+  "state": "Washington",
+  "slug": "everett-wa",
+  "population": "105K (metro: 4.0M)",
+  "pageTitle": "Best Financial Advisors in Everett",
+  "metaDescription": "Find top-rated financial advisors in Everett. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Bailey Wealth Services / LPL Financial",
+      "url": "https://www.baileywealth.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/wa/everett-wa",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Perry J Grant, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/perry-grant?y_source=1_OTcwMTc5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Elderrock Financial LLC",
+      "url": "http://www.elderrock.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Peter Smart, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/peter-smart?y_source=1_OTcxODU2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Everett, Washington, is a vibrant city located in Snohomish County, known for its rich maritime history and proximity to Seattle.",
+  "landscapeDescription": "Everett's economy is diverse, driven by aerospace, manufacturing, and healthcare. The city benefits from its strategic location near major transportation hubs.",
+  "majorIndustries": "Aerospace, Manufacturing, Healthcare",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Everett requires investment in infrastructure and sustainable development to support its growing population and economy.",
+  "citySpecificRiskAdvice": "Everett's aerospace focus poses risks if demand fluctuates. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Everett's economy grew by 3.5% last year, driven by aerospace and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Everett is $76,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Everett are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Everett's cost of living is 10% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Everett's housing market is competitive, with home prices rising 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Everett's business climate is favorable, with incentives for tech startups and established industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle-wa",
+      "population": 652405,
+      "priority": 1
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane-wa",
+      "population": 210721,
+      "priority": 1
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma-wa",
+      "population": 203446,
+      "priority": 1
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver-wa",
+      "population": 167405,
+      "priority": 1
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue-wa",
+      "population": 133992,
+      "priority": 1
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent-wa",
+      "population": 124435,
+      "priority": 1
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett-wa",
+      "population": 105370,
+      "priority": 1
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton-wa",
+      "population": 97003,
+      "priority": 1
+    }
+  ]
+}

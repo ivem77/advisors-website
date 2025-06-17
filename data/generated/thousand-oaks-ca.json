@@ -1,0 +1,178 @@
+{
+  "cityName": "Thousand Oaks",
+  "state": "California",
+  "slug": "thousand-oaks-ca",
+  "population": "128.7K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Thousand Oaks",
+  "metaDescription": "Find top-rated financial advisors in Thousand Oaks. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Hillcrest Financial Group",
+      "url": "http://www.hillcrestfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Village Wealth Advisors",
+      "url": "http://www.villagewealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Westlake Private Wealth Management",
+      "url": "http://www.westlakepwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Financial Pointe",
+      "url": "http://www.financialpointe.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Eagleson Arndt Financial Advisors, LLC",
+      "url": "https://www.eaglesonarndt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Thousand Oaks, California, is a thriving suburban city known for its scenic beauty and strong community.",
+  "landscapeDescription": "The economy of Thousand Oaks is diverse, with a focus on technology, healthcare, and retail. The city benefits from its proximity to Los Angeles, enhancing its economic opportunities.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Thousand Oaks requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Thousand Oaks' tech focus poses concentration risks; housing market volatility raises bubble concerns. Prepare for wildfires and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Thousand Oaks has seen a steady economic growth rate of 3.2%, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Thousand Oaks is approximately $100,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Thousand Oaks increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Thousand Oaks is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Thousand Oaks is around $850,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Thousand Oaks boasts a favorable business climate, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

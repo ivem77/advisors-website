@@ -1,0 +1,178 @@
+{
+  "cityName": "Pompano Beach",
+  "state": "Florida",
+  "slug": "pompano-beach-fl",
+  "population": "104K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Pompano Beach",
+  "metaDescription": "Find top-rated financial advisors in Pompano Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Chris Price Financial Planner",
+      "url": "https://chrispricefinancialplanner.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Creative Financial Network, Inc.",
+      "url": "http://www.cfnsfl.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Arlington Financial Consultants",
+      "url": "https://www.fundfastonline.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Heritage Investment Group, Inc.",
+      "url": "http://heritageinvestment.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Prosperitus Wealth Advisors",
+      "url": "http://www.prosperituswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    }
+  ],
+  "heroDescription": "Pompano Beach, a vibrant coastal city in Florida, offers a unique blend of leisure and business opportunities.",
+  "landscapeDescription": "With a population of 104,410, Pompano Beach is experiencing steady economic growth, driven by tourism, real estate, and marine industries. The city's strategic location enhances its appeal for both residents and businesses.",
+  "majorIndustries": "Tourism, Real Estate, Marine Services",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Pompano Beach requires a focus on disaster preparedness, real estate stability, and diversified economic growth.",
+  "citySpecificRiskAdvice": "Pompano Beach's tourism and real estate reliance poses risks; consider diversifying investments. Be wary of hurricane impacts and real estate bubbles.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pompano Beach's economy is growing, with a focus on tourism and real estate contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pompano Beach is $56,000, reflecting a diverse economic base and varying income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pompano Beach are increasingly focusing on real estate and retirement planning due to demographic trends."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pompano Beach's cost of living is slightly above the national average, driven by housing and utility costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Pompano Beach is competitive, with home values rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pompano Beach offers a favorable business climate, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

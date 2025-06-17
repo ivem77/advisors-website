@@ -1,0 +1,178 @@
+{
+  "cityName": "Lewisville",
+  "state": "Texas",
+  "slug": "lewisville-tx",
+  "population": "101K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Lewisville",
+  "metaDescription": "Find top-rated financial advisors in Lewisville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer L Gingrich",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-gingrich?y_source=1_OTYxNzQ0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Global Wealth Advisors",
+      "url": "https://www.gwadvisors.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Steve Namy - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Steve.Namy/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Ray Clark - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/clark-associates/financial-advice-team/raymond.j.clark/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Envision Financial Solutions",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ90DuiQEvTIYRLSJ79d2YEDo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Lewisville, Texas, is a vibrant city in the Dallas-Fort Worth metroplex, known for its diverse community and economic opportunities.",
+  "landscapeDescription": "Lewisville's economy is thriving, driven by a mix of retail, healthcare, and technology sectors. The city's strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Lewisville requires tailored financial strategies to address its diverse workforce and growing housing market.",
+  "citySpecificRiskAdvice": "Lewisville's tech and retail focus demands diversification to mitigate market volatility. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and tornado threats.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lewisville's economy has grown by 4.5% year-over-year, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lewisville is $80,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lewisville are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lewisville's cost of living is competitive, with housing costs rising but still below the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lewisville is experiencing rapid appreciation, with home values increasing by 10% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lewisville's business climate is favorable, with low taxes and incentives attracting new companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston-tx",
+      "population": 2195914,
+      "priority": 1
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio-tx",
+      "population": 1409019,
+      "priority": 1
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas-tx",
+      "population": 1257676,
+      "priority": 1
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin-tx",
+      "population": 885400,
+      "priority": 1
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth-tx",
+      "population": 792727,
+      "priority": 1
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso-tx",
+      "population": 674433,
+      "priority": 1
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington-tx",
+      "population": 379577,
+      "priority": 1
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi-tx",
+      "population": 316381,
+      "priority": 1
+    }
+  ]
+}

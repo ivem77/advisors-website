@@ -1,0 +1,178 @@
+{
+  "cityName": "Vista",
+  "state": "California",
+  "slug": "vista-ca",
+  "population": "96.9K (metro: 3.3M)",
+  "pageTitle": "Best Financial Advisors in Vista",
+  "metaDescription": "Find top-rated financial advisors in Vista. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "IDA Wealth - Intelligence Driven Advisers",
+      "url": "https://www.idawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 72
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Nicole J White, ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nicole-white?y_source=1_MTExNDg3MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Seaside Wealth Management",
+      "url": "http://www.seasidewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 56
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ryan J Coleman, CEPA®|CRPC™|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ryan-coleman?y_source=1_OTYyMjQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mark J Mertsoc, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-mertsoc?y_source=1_ODk4NDQ3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Vista, California, is a vibrant city in San Diego County known for its scenic beauty and diverse economy.",
+  "landscapeDescription": "With a population of 96,929, Vista boasts a robust economy driven by technology, manufacturing, and retail sectors. The city is strategically located near major highways and the Pacific coast, enhancing its economic potential.",
+  "majorIndustries": "Technology, Manufacturing, Retail",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Vista's growth requires attention to housing affordability and sustainable development to support its expanding population.",
+  "citySpecificRiskAdvice": "Vista's tech sector growth necessitates diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Be aware of flooding and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Vista's economy is expanding, with a projected growth rate of 3.5% driven by tech and service industries."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Vista is approximately $80,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Vista are increasingly focusing on tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Vista's cost of living is rising, particularly in housing and transportation, impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Vista's real estate market is competitive, with home prices increasing by 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Vista offers a favorable business climate with incentives for tech startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "90+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "cityName": "Provo",
+  "state": "Utah",
+  "slug": "provo-ut",
+  "population": "116K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Provo",
+  "metaDescription": "Find top-rated financial advisors in Provo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Retirement Solutions",
+      "url": "https://rsutah.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 43
+    },
+    {
+      "name": "Hudson Oaks Wealth Management",
+      "url": "https://www.hudson-oaks.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Peterson Wealth Advisors",
+      "url": "http://www.petersonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Frandsen Morrill Advisors",
+      "url": "https://www.retirefma.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Blue Barn Wealth",
+      "url": "http://www.bluebarnwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 46
+    }
+  ],
+  "heroDescription": "Provo, Utah, is a vibrant city known for its stunning mountain views and a strong tech-driven economy.",
+  "landscapeDescription": "Provo's economy is bolstered by a growing tech sector and a strong educational presence, particularly from Brigham Young University. The city is also seeing growth in healthcare and retail industries.",
+  "majorIndustries": "Technology, Education, Healthcare",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Provo's unique needs include affordable housing and support for tech startups.",
+  "citySpecificRiskAdvice": "Provo's tech sector growth poses concentration risks; housing market may face bubble concerns. Prepare for potential natural disasters like flooding and consider diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Provo's economy has grown by 4.5% year-over-year, driven by tech and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Provo is approximately $66,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Provo are increasingly specializing in tech startups and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Provo's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Provo's real estate market is competitive, with home prices rising 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Provo's business climate is favorable, with a growing number of startups and supportive local policies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city-ut",
+      "population": 191180,
+      "priority": 1
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city-ut",
+      "population": 133579,
+      "priority": 1
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo-ut",
+      "population": 116288,
+      "priority": 1
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan-ut",
+      "population": 110077,
+      "priority": 1
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem-ut",
+      "population": 91648,
+      "priority": 1
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy-ut",
+      "population": 90231,
+      "priority": 1
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden-ut",
+      "population": 84249,
+      "priority": 1
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george-ut",
+      "population": 76817,
+      "priority": 1
+    }
+  ]
+}

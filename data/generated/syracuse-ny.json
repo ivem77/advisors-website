@@ -1,0 +1,178 @@
+{
+  "cityName": "Syracuse",
+  "state": "New York",
+  "slug": "syracuse-ny",
+  "population": "144.7K (metro: 650K)",
+  "pageTitle": "Best Financial Advisors in Syracuse",
+  "metaDescription": "Find top-rated financial advisors in Syracuse. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Excelsior Wealth Partners | Investment Advisors, Financial Planners",
+      "url": "http://www.excelsiorwp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 42
+    },
+    {
+      "name": "Rockbridge Investment Management, LLC | Investment Advisors, Financial Planners",
+      "url": "http://www.rockbridgeinvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Arabella Wealth Advisors",
+      "url": "http://www.arabellawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Blue Water Capital Management, LLC",
+      "url": "http://www.bluewatercm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Syracuse Wealth Management",
+      "url": "https://www.syracusewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    }
+  ],
+  "heroDescription": "Syracuse, NY, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Syracuse's economy is driven by education, healthcare, and technology sectors. The city is also a hub for manufacturing and retail.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Syracuse requires attention to economic diversification and housing market stability amidst seasonal weather challenges.",
+  "citySpecificRiskAdvice": "Syracuse's reliance on education and healthcare sectors poses risks; housing market stability is crucial. Prepare for winter weather impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Syracuse's economy has shown moderate growth, driven by educational institutions and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Syracuse is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Syracuse are increasingly specializing in retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Syracuse's cost of living is lower than the national average, making it attractive for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Syracuse's real estate market is stable, with moderate price growth and a balanced supply-demand dynamic."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Syracuse offers a supportive business climate with incentives for startups and established firms in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "140+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york-ny",
+      "population": 8405837,
+      "priority": 1
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo-ny",
+      "population": 258959,
+      "priority": 1
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester-ny",
+      "population": 210358,
+      "priority": 1
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers-ny",
+      "population": 199766,
+      "priority": 1
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse-ny",
+      "population": 144669,
+      "priority": 1
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany-ny",
+      "population": 98424,
+      "priority": 1
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle-ny",
+      "population": 79446,
+      "priority": 1
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon-ny",
+      "population": 68224,
+      "priority": 1
+    }
+  ]
+}

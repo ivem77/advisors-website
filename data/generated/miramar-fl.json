@@ -1,0 +1,178 @@
+{
+  "cityName": "Miramar",
+  "state": "Florida",
+  "slug": "miramar-fl",
+  "population": "130K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Miramar",
+  "metaDescription": "Find top-rated financial advisors in Miramar. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Imperio Wealth Advisors",
+      "url": "http://www.imperiowa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "DGM Financial Services LLC",
+      "url": "https://dgmfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 64
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Angela Basden-Williams Miramar Financial Academy",
+      "url": "https://www.pinnaclefinancialgroupllc.com/angela.html",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    }
+  ],
+  "heroDescription": "Miramar, Florida, is a vibrant city known for its diverse community and growing economy.",
+  "landscapeDescription": "Miramar's economy is bolstered by retail, healthcare, and logistics sectors. The city benefits from its strategic location in South Florida, attracting businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Logistics",
+  "medianIncome": "$63,000",
+  "uniqueNeeds": "Miramar requires tailored financial services to support its diverse population and growing business sector.",
+  "citySpecificRiskAdvice": "Miramar's retail and logistics focus necessitates diversification to mitigate economic downturns. Housing prices are rising, indicating potential bubble risks. Prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Miramar's economy has shown steady growth, driven by population influx and business expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Miramar is approximately $63,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Miramar are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Miramar's cost of living is rising, particularly in housing and transportation sectors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Miramar is competitive, with home prices increasing steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Miramar's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "130+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville-fl",
+      "population": 842583,
+      "priority": 1
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami-fl",
+      "population": 417650,
+      "priority": 1
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa-fl",
+      "population": 352957,
+      "priority": 1
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando-fl",
+      "population": 255483,
+      "priority": 1
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg-fl",
+      "population": 249688,
+      "priority": 1
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah-fl",
+      "population": 233394,
+      "priority": 1
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee-fl",
+      "population": 186411,
+      "priority": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale-fl",
+      "population": 172389,
+      "priority": 1
+    }
+  ]
+}

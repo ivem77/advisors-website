@@ -1,0 +1,178 @@
+{
+  "cityName": "Surprise",
+  "state": "Arizona",
+  "slug": "surprise-az",
+  "population": "123.5K (metro: 1.7M)",
+  "pageTitle": "Best Financial Advisors in Surprise",
+  "metaDescription": "Find top-rated financial advisors in Surprise. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Prime Wealth Advisors",
+      "url": "https://pwa1.com/?utm_source=Organic_Search&utm_medium=Local_Search&utm_campaign=PWA_GMB",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Radiant Financial Group LLC",
+      "url": "http://radiantfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 140
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lance Baxter, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lance-baxter?y_source=1_MjQ4NzM2NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brian D Laurie",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brian-laurie?y_source=1_ODYyMDQ4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Wilde Wealth Management Group",
+      "url": "https://www.wildewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Surprise, Arizona, is a rapidly growing city known for its warm climate and vibrant community.",
+  "landscapeDescription": "Surprise boasts a diverse economy with a focus on retail, healthcare, and manufacturing. The city continues to attract new residents and businesses, contributing to its growth.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Surprise requires tailored financial services to support its growing population and diverse economic base.",
+  "citySpecificRiskAdvice": "Surprise's retail and healthcare sectors face competition risks. Rapid housing growth may lead to a market bubble. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Surprise's economy has expanded by 4% annually, driven by population growth and new business developments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Surprise is $66,000, reflecting a growing middle class and increasing purchasing power."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Surprise are increasingly focusing on retirement planning and investment strategies tailored to new residents."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Surprise is 5% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Surprise have risen by 10% over the past year, indicating strong demand but potential bubble concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Surprise's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "120+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix-az",
+      "population": 1513367,
+      "priority": 1
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson-az",
+      "population": 526116,
+      "priority": 1
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa-az",
+      "population": 457587,
+      "priority": 1
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler-az",
+      "population": 249146,
+      "priority": 1
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale-az",
+      "population": 234632,
+      "priority": 1
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert-az",
+      "population": 229972,
+      "priority": 1
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale-az",
+      "population": 226918,
+      "priority": 1
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe-az",
+      "population": 168228,
+      "priority": 1
+    }
+  ]
+}

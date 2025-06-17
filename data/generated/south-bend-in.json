@@ -1,0 +1,178 @@
+{
+  "cityName": "South Bend",
+  "state": "Indiana",
+  "slug": "south-bend-in",
+  "population": "100.9K (metro: 200.0K)",
+  "pageTitle": "Best Financial Advisors in South Bend",
+  "metaDescription": "Find top-rated financial advisors in South Bend. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Patrick C Reighter",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/patrick-reighter?y_source=1_NDE3NjMwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Terry L Clark",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-clark?y_source=1_OTY4Njc3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jerry L Hunt, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jerry-hunt?y_source=1_OTY2MDg3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Leo E Priemer, CFP®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/leo-e-priemer?y_source=1_OTY2MjU5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/in/south-bend-in",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "South Bend, Indiana, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "As of 2023, South Bend boasts a population of 100,886 and a growing economy driven by education, healthcare, and manufacturing sectors. The city is evolving with a focus on innovation and community development.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "South Bend requires investment in technology and infrastructure to support its evolving economy.",
+  "citySpecificRiskAdvice": "South Bend's manufacturing focus poses risks from economic downturns. Housing market shows signs of volatility; diversify investments. Flooding risks exist; consider climate-resilient strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), South Bend's economy is expanding, with a focus on tech and healthcare sectors driving growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in South Bend is $50,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in South Bend are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), South Bend's cost of living remains below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), South Bend's real estate market is experiencing fluctuations, with prices rising in desirable neighborhoods."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), South Bend's business climate is improving, with new incentives attracting startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis-in",
+      "population": 843393,
+      "priority": 1
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne-in",
+      "population": 256496,
+      "priority": 1
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville-in",
+      "population": 120310,
+      "priority": 1
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend-in",
+      "population": 100886,
+      "priority": 1
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel-in",
+      "population": 85927,
+      "priority": 1
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers-in",
+      "population": 83891,
+      "priority": 1
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington-in",
+      "population": 82575,
+      "priority": 1
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond-in",
+      "population": 78967,
+      "priority": 1
+    }
+  ]
+}

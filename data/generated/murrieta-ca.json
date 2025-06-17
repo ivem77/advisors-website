@@ -1,0 +1,178 @@
+{
+  "cityName": "Murrieta",
+  "state": "California",
+  "slug": "murrieta-ca",
+  "population": "107K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Murrieta",
+  "metaDescription": "Find top-rated financial advisors in Murrieta. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Abundant Wealth Management, Inc. - ALLEN MONTEMAGNO Jr. - LPL Financial Advisor",
+      "url": "https://www.abundantwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 111
+    },
+    {
+      "name": "Ross & Mary Hunt, Inc",
+      "url": "http://www.rossandmaryhunt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Intelligence Driven Advisers",
+      "url": "https://www.idawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kari Cierley, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kari-cierley?y_source=1_OTE5OTUyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer Horn, ABFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-horn?y_source=1_MjUyNDgwNjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Murrieta, California, is a rapidly growing city in Riverside County, known for its family-friendly atmosphere and scenic landscapes.",
+  "landscapeDescription": "Murrieta's economy is diverse, with a focus on healthcare, retail, and education. The city benefits from its proximity to larger metropolitan areas, enhancing its economic potential.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Murrieta requires sustainable growth strategies to manage its rapid population increase and housing demands.",
+  "citySpecificRiskAdvice": "Murrieta's growth in healthcare and retail poses risks of over-dependence. Housing market volatility and potential flooding necessitate diversified investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Murrieta's economy has expanded by 4% annually, driven by healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Murrieta is approximately $85,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Murrieta are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Murrieta is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Murrieta have risen by 10% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Murrieta's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "100+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles-ca",
+      "population": 3884307,
+      "priority": 1
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego-ca",
+      "population": 1355896,
+      "priority": 1
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose-ca",
+      "population": 998537,
+      "priority": 1
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco-ca",
+      "population": 837442,
+      "priority": 1
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno-ca",
+      "population": 509924,
+      "priority": 1
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento-ca",
+      "population": 479686,
+      "priority": 1
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach-ca",
+      "population": 469428,
+      "priority": 1
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland-ca",
+      "population": 406253,
+      "priority": 1
+    }
+  ]
+}

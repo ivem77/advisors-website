@@ -1,0 +1,178 @@
+{
+  "cityName": "Wilmington",
+  "state": "North Carolina",
+  "slug": "wilmington-nc",
+  "population": "112K (metro: 112K)",
+  "pageTitle": "Best Financial Advisors in Wilmington",
+  "metaDescription": "Find top-rated financial advisors in Wilmington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Tilia Fiduciary Partners, Inc.",
+      "url": "https://tiliapartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 79
+    },
+    {
+      "name": "Inspire Financial Planning",
+      "url": "https://inspirefp.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Lumina Wealth Management",
+      "url": "https://www.luminawm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Breit Group",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJqRNzR8bzqYkRFBujedz3V9c",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Reid A Harris, CFP®|RICP®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/reid-harris?y_source=1_MTI5MTc5ODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    }
+  ],
+  "heroDescription": "Wilmington, NC, is a vibrant coastal city known for its rich history and thriving economy.",
+  "landscapeDescription": "Wilmington's economy is driven by tourism, healthcare, and education. The city is experiencing growth in technology and film industries.",
+  "majorIndustries": "Tourism, Healthcare, Education, Technology, Film",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Wilmington requires focus on sustainable tourism and tech diversification to enhance economic resilience.",
+  "citySpecificRiskAdvice": "Wilmington's tourism reliance poses risks; diversify into tech and healthcare. Housing market faces hurricane threats and potential bubble risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wilmington's economy grew by 3.5% last year, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Wilmington's median household income is $54,000, with a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wilmington increasingly specialize in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wilmington's cost of living is 5% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wilmington's real estate market is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wilmington's business climate is favorable, with incentives for startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "110+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte-nc",
+      "population": 792862,
+      "priority": 1
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh-nc",
+      "population": 431746,
+      "priority": 1
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro-nc",
+      "population": 279639,
+      "priority": 1
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham-nc",
+      "population": 245475,
+      "priority": 1
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem-nc",
+      "population": 236441,
+      "priority": 1
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville-nc",
+      "population": 204408,
+      "priority": 1
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary-nc",
+      "population": 151088,
+      "priority": 1
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington-nc",
+      "population": 112067,
+      "priority": 1
+    }
+  ]
+}
