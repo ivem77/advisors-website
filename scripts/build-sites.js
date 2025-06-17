@@ -2,77 +2,66 @@ const fs = require('fs-extra');
 const path = require('path');
 const mustache = require('mustache');
 
-async function buildCitySite(citySlug) {
-  console.log(`🏗️  Building site for ${citySlug}...`);
+async function buildCitySite(cityData) {
+  console.log(`🏗️  Building site for ${cityData.name}, ${cityData.state}...`);
+  
+  // Read template files
+  const htmlTemplate = await fs.readFile('./templates/index.html', 'utf8');
+  const cssContent = await fs.readFile('./templates/styles.css', 'utf8');
+  const jsContent = await fs.readFile('./templates/script.js', 'utf8');
   
   try {
-    // Extract state code from city slug (e.g., 'tx' from 'houston-tx')
-    const stateCode = citySlug.split('-').pop().toLowerCase();
-    const cityName = citySlug.substring(0, citySlug.lastIndexOf('-'));
+    // Use stateAbbreviation from city data (e.g., 'TX')
+    const stateCode = cityData.stateAbbreviation.toLowerCase();
     
-    // Read template files
-    const htmlTemplate = await fs.readFile('./templates/index.html', 'utf8');
-    const cssContent = await fs.readFile('./templates/styles.css', 'utf8');
-    const jsContent = await fs.readFile('./templates/script.js', 'utf8');
+    // Clean the slug by removing the state code if present (e.g., 'houston-tx' -> 'houston')
+    const cityNameSlug = cityData.slug.replace(/\-\w{2}$/, '');
     
-    // Load city data from state directory
-    const cityDataPath = `./data/generated/${stateCode}/${citySlug}.json`;
-    if (!await fs.pathExists(cityDataPath)) {
-      throw new Error(`City data not found: ${cityDataPath}`);
-    }
+    // Add state code and city slug to city data for templates
+    cityData.stateCode = stateCode;
+    cityData.citySlug = cityNameSlug;
     
-    const cityData = await fs.readJson(cityDataPath);
-    
-    // Add state code to city data for templates
-    cityData.stateCode = stateCode.toUpperCase();
+    // Create output directory: build/{stateCode}/{cityNameSlug}
+    const outputDir = `./build/${stateCode}/${cityNameSlug}`;
+    await fs.ensureDir(outputDir);
     
     // Process HTML template with Mustache
     const processedHtml = mustache.render(htmlTemplate, cityData);
-    
-    // Create output directory with state code
-    const outputDir = `./build/${stateCode}/${citySlug}`;
-    await fs.ensureDir(outputDir);
     
     // Write processed files
     await fs.writeFile(`${outputDir}/index.html`, processedHtml);
     await fs.writeFile(`${outputDir}/styles.css`, cssContent);
     await fs.writeFile(`${outputDir}/script.js`, jsContent);
     
-    // Copy assets directory
+    // Copy assets
     await fs.copy('./assets', `${outputDir}/assets`);
     
-    console.log(`✅ Built ${citySlug} → build/${stateCode}/${citySlug}/`);
-    
-    return cityData;
+    console.log(`✅ Built ${cityData.name}, ${cityData.state} → /${stateCode}/${cityNameSlug}`);
+    return `/${stateCode}/${cityNameSlug}`;
     
   } catch (error) {
-    console.error(`❌ Error building ${citySlug}:`, error.message);
+    console.error(`❌ Error building ${cityData.name}, ${cityData.state}:`, error.message);
     throw error;
   }
 }
 
-async function generateIndexPage(citySlugs) {
-  console.log(`📄 Generating index page for ${citySlugs.length} cities...`);
+async function generateIndexPage(citiesData) {
+  console.log(`📄 Generating index page for ${citiesData.length} cities...`);
   
-  // Read city data for the index
-  const cities = [];
-  for (const slug of citySlugs) {
-    try {
-      // Extract state code from slug (e.g., 'houston-tx' -> 'tx')
-      const stateCode = slug.split('-').pop().toLowerCase();
-      const cityData = await fs.readJson(`./data/generated/${stateCode}/${slug}.json`);
-      
-      cities.push({
-        name: cityData.cityName,
-        state: cityData.state,
-        slug: cityData.slug,
-        population: cityData.population,
-        advisorCount: cityData.registeredAdvisors || 0
-      });
-    } catch (error) {
-      console.warn(`⚠️ Could not read data for ${slug}, skipping from index:`, error.message);
-    }
-  }
+  // Process city data for the index
+  const cities = citiesData.map(cityData => {
+    // Clean the slug by removing the state code if present (e.g., 'houston-tx' -> 'houston')
+    const citySlug = cityData.slug.replace(/\-\w{2}$/, '');
+    
+    return {
+      name: cityData.cityName || cityData.name,
+      state: cityData.state,
+      stateCode: cityData.stateAbbreviation || '',
+      citySlug: citySlug,
+      population: cityData.population || 0,
+      advisorCount: cityData.registeredAdvisors || 0
+    };
+  });
   
   // Sort cities by state then name
   cities.sort((a, b) => {
@@ -86,8 +75,6 @@ async function generateIndexPage(citySlugs) {
     if (!citiesByState[city.state]) {
       citiesByState[city.state] = [];
     }
-    // Add state code to city object for the link
-    city.stateCode = city.slug.split('-').pop();
     citiesByState[city.state].push(city);
   });
 
@@ -205,19 +192,11 @@ async function generateIndexPage(citySlugs) {
     <h2>${state}</h2>
     <div class="cities-grid">
       ${stateCities.map(city => `
-      <a href="/${city.stateCode}/${city.slug}" class="city-card">
+      <a href="/${city.stateCode}/${city.cityNameSlug}" class="city-card">
         <div class="city-name">${city.name}</div>
         <div class="city-state">${city.state}</div>
-        <div class="city-stats">
-          <div class="stat">
-            <div class="stat-value">${city.advisorCount}</div>
-            <div class="stat-label">Advisors</div>
-          </div>
-          <div class="stat">
-            <div class="stat-value">${city.population}</div>
-            <div class="stat-label">Population</div>
-          </div>
-        </div>
+        <div class="city-meta">Population: ${city.population.toLocaleString()}</div>
+        <div class="city-advisors">${city.advisorCount || 'Multiple'} advisors</div>
       </a>
       `).join('')}
     </div>
@@ -251,7 +230,7 @@ async function buildAllSites() {
     }
     await fs.ensureDir('./build');
     
-    // Read all state directories and collect city JSON files
+    // Read all state directories and collect city data
     const generatedDir = './data/generated';
     const stateDirs = (await fs.readdir(generatedDir, { withFileTypes: true }))
       .filter(dirent => dirent.isDirectory())
@@ -261,40 +240,75 @@ async function buildAllSites() {
       throw new Error('No state directories found in data/generated/');
     }
 
-    // Get all city JSON files from state directories
-    const citySlugs = [];
+    // Read all city data from JSON files
+    const allCityData = [];
     for (const stateDir of stateDirs) {
       const statePath = path.join(generatedDir, stateDir);
-      const cityFiles = await fs.readdir(statePath);
+      const cityFiles = (await fs.readdir(statePath))
+        .filter(file => file.endsWith('.json'));
       
-      cityFiles
-        .filter(file => file.endsWith('.json'))
-        .forEach(file => {
-          const citySlug = file.replace(/\.json$/, '');
-          citySlugs.push(citySlug);
-        });
+      for (const file of cityFiles) {
+        try {
+          const cityData = await fs.readJson(path.join(statePath, file));
+          
+          // Ensure required fields exist
+          if (!cityData.cityName) {
+            console.warn(`⚠️ Missing cityName in ${file}, skipping...`);
+            continue;
+          }
+          
+          // Add/ensure standard field names
+          cityData.name = cityData.cityName;
+          cityData.stateAbbreviation = stateDir.toUpperCase();
+          
+          // Add state code (lowercase for URLs)
+          cityData.stateCode = stateDir.toLowerCase();
+          
+          // Ensure slug exists (should already be cleaned by update-city-slugs.js)
+          if (!cityData.slug) {
+            cityData.slug = cityData.name.toLowerCase().replace(/\s+/g, '-');
+          }
+          
+          allCityData.push(cityData);
+        } catch (error) {
+          console.error(`⚠️ Error reading ${file}:`, error.message);
+        }
+      }
     }
 
-    if (citySlugs.length === 0) {
-      throw new Error('No city data files found in state directories');
+    if (allCityData.length === 0) {
+      throw new Error('No valid city data files found');
     }
 
-    console.log(`🔍 Found ${citySlugs.length} cities to process\n`);
+    console.log(`🔍 Found ${allCityData.length} cities to process\n`);
 
     // Build sites for all cities
     const results = [];
-    for (const slug of citySlugs) {
+    const cityPaths = [];
+    
+    for (const cityData of allCityData) {
       try {
-        const cityData = await buildCitySite(slug);
-        results.push({ slug, success: true, data: cityData });
+        const cityPath = await buildCitySite(cityData);
+        cityPaths.push(cityPath);
+        results.push({ 
+          name: cityData.name, 
+          state: cityData.state,
+          success: true, 
+          path: cityPath 
+        });
       } catch (error) {
-        console.error(`❌ Failed to build ${slug}:`, error.message);
-        results.push({ slug, success: false, error: error.message });
+        console.error(`❌ Failed to build ${cityData.name}, ${cityData.state}:`, error.message);
+        results.push({ 
+          name: cityData.name,
+          state: cityData.state,
+          success: false, 
+          error: error.message 
+        });
       }
     }
 
     // Generate index page with all cities
-    await generateIndexPage(citySlugs);
+    await generateIndexPage(allCityData);
 
     // Copy assets to root for the index page
     await fs.copy('./assets', './build/assets');
@@ -324,11 +338,22 @@ async function buildAllSites() {
 }
 
 // Handle single city building
-async function buildSingleCity(citySlug) {
+async function buildSingleCity(cityName, stateAbbr) {
   try {
-    console.log(`🏗️ Building single city: ${citySlug}`);
+    console.log(`🏗️ Building single city: ${cityName}, ${stateAbbr}`);
+    
+    // Create city data object
+    const cityData = {
+      name: cityName,
+      state: stateAbbr, // This should be the full state name
+      stateAbbreviation: stateAbbr.toUpperCase(),
+      // Add other required fields with default values
+      population: 0,
+      registeredAdvisors: 0
+    };
+    
     await fs.ensureDir('./build');
-    await buildCitySite(citySlug);
+    await buildCitySite(cityData);
     console.log('\n🎉 Single city build complete!');
   } catch (error) {
     console.error('\n❌ Build failed:', error.message);
@@ -340,9 +365,18 @@ async function buildSingleCity(citySlug) {
 if (require.main === module) {
   const args = process.argv.slice(2);
   
-  if (args.length > 0) {
-    // Build single city
-    buildSingleCity(args[0]);
+  if (args.length >= 2) {
+    // Build single city with name and state abbreviation
+    // Example: node scripts/build-sites.js Houston TX
+    const cityName = args[0];
+    const stateAbbr = args[1];
+    buildSingleCity(cityName, stateAbbr);
+  } else if (args.length === 1 && (args[0] === '--help' || args[0] === '-h')) {
+    // Show help
+    console.log('Usage:');
+    console.log('  Build all cities: node scripts/build-sites.js');
+    console.log('  Build single city: node scripts/build-sites.js "City Name" STATE');
+    console.log('  Example: node scripts/build-sites.js "New York" NY');
   } else {
     // Build all cities
     buildAllSites();

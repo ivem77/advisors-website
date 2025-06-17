@@ -11,15 +11,27 @@
     "trailingSlash": false,
     "rewrites": [
       {
-        "source": "/**/*.@(js|css|jpg|jpeg|gif|ico|png|svg|woff|woff2|ttf|eot)",
-        "headers": [{
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000"
-        }]
+        "source": "/:state/:city",
+        "destination": "/:state/:city/index.html"
+      },
+      {
+        "source": "/",
+        "destination": "/index.html"
       },
       {
         "source": "**",
         "destination": "/index.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(js|css|jpg|jpeg|png|gif|ico|webp|svg)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000"
+          }
+        ]
       }
     ]
   }

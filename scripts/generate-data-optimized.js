@@ -33,10 +33,13 @@ async function generateCityDataOptimized(city) {
     const nearbyLocations = getNearbyLocations(city.state);
 
     // Combine all data into city object
+    // Clean the slug by removing the state code if present (e.g., 'houston-tx' -> 'houston')
+    const cityNameSlug = city.slug.replace(/\-\w{2}$/, '');
+
     const cityData = {
       cityName: city.name,
       state: city.state,
-      slug: city.slug,
+      slug: cityNameSlug,
       population: city.population,
       
       // SEO
@@ -51,12 +54,14 @@ async function generateCityDataOptimized(city) {
       nearbyLocations
     };
 
-    // Save generated data in state directory
-    const stateCode = city.slug.split('-').pop().toLowerCase();
+    // Save generated data in state directory with new URL structure
+    const stateCode = city.stateAbbreviation.toLowerCase();
+    const outputFileName = cityNameSlug; // Use the cleaned slug for the filename
     const stateDir = `./data/generated/${stateCode}`;
     await fs.ensureDir(stateDir);
     
-    const outputPath = `${stateDir}/${city.slug}.json`;
+    // Save with city name only in the filename (without state code)
+    const outputPath = `${stateDir}/${outputFileName}.json`;
     await fs.writeJson(outputPath, cityData, { spaces: 2 });
     
     console.log(`✅ Generated optimized data for ${city.name}`);
@@ -94,8 +99,9 @@ async function generateAllCityDataOptimized() {
     const startTime = Date.now();
     
     for (const city of cities) {
-      const stateCode = city.slug.split('-').pop().toLowerCase();
-      const existingDataPath = `./data/generated/${stateCode}/${city.slug}.json`;
+      const stateCode = city.stateAbbreviation.toLowerCase();
+      const cityNameSlug = city.slug;
+      const existingDataPath = `./data/generated/${stateCode}/${cityNameSlug}.json`;
       
       if (await fs.pathExists(existingDataPath)) {
         console.log(`⏭️ Skipping ${city.name} (data already exists)`);
