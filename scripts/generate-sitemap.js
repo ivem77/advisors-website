@@ -38,32 +38,47 @@ async function generateSitemap() {
     // Array to hold all URL entries for the sitemap
     const urlEntries = [];
 
-    // Add the root URL with lower priority
-    urlEntries.push(
-      `<url>
-        <loc>${SITE_URL}/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-      </url>`
-    );
-
-    // Process each state directory
+    // Process each state directory (root URL is intentionally excluded from sitemap)
     for (const state of states) {
       const statePath = path.join(BUILD_DIR, state);
       const cities = (await fs.readdir(statePath, { withFileTypes: true }))
         .filter(dirent => dirent.isDirectory())
         .map(dirent => dirent.name);
 
-      // Add each city page
+      // Add each city page that has index: true
       for (const city of cities) {
-        const url = `${SITE_URL}/${state}/${city}/`;
-        urlEntries.push(
-          `<url>
-            <loc>${url}</loc>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-          </url>`
-        );
+        try {
+          // Check if the city has index: true in its data
+          const cityDataPath = path.join('./data/generated', state, `${city}.json`);
+          if (await fs.pathExists(cityDataPath)) {
+            const cityData = await fs.readJson(cityDataPath);
+            
+            // Only include in sitemap if index is true or not set (default behavior)
+            if (cityData.index !== false) {
+              const url = `${SITE_URL}/${state}/${city}/`;
+              urlEntries.push(
+                `<url>
+                  <loc>${url}</loc>
+                  <changefreq>weekly</changefreq>
+                  <priority>1.0</priority>
+                </url>`
+              );
+            } else {
+              console.log(`ℹ️  Excluding ${city}, ${state.toUpperCase()} from sitemap (index: false)`);
+            }
+          }
+        } catch (error) {
+          console.warn(`⚠️  Could not check index status for ${city}, ${state.toUpperCase()}:`, error.message);
+          // Include in sitemap by default if there's an error checking
+          const url = `${SITE_URL}/${state}/${city}/`;
+          urlEntries.push(
+            `<url>
+              <loc>${url}</loc>
+              <changefreq>weekly</changefreq>
+              <priority>1.0</priority>
+            </url>`
+          );
+        }
       }
     }
 
