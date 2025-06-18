@@ -37,8 +37,9 @@ async function buildCitySite(cityData) {
     // Copy assets
     await fs.copy('./assets', `${outputDir}/assets`);
     
-    console.log(`✅ Built ${cityData.name}, ${cityData.state} → /${stateCode}/${cityNameSlug}`);
-    return `/${stateCode}/${cityNameSlug}`;
+    const basePath = '/advisors';
+    console.log(`✅ Built ${cityData.name}, ${cityData.state} → ${basePath}/${stateCode}/${cityNameSlug}`);
+    return `${basePath}/${stateCode}/${cityNameSlug}`;
     
   } catch (error) {
     console.error(`❌ Error building ${cityData.name}, ${cityData.state}:`, error.message);
@@ -193,7 +194,7 @@ async function generateIndexPage(citiesData) {
     <h2>${state}</h2>
     <div class="cities-grid">
       ${stateCities.map(city => `
-      <a href="/${city.stateCode}/${city.cityNameSlug}" class="city-card">
+      <a href="/advisors/${city.stateCode.toLowerCase()}/${city.citySlug}" class="city-card">
         <div class="city-name">${city.name}</div>
         <div class="city-state">${city.state}</div>
         <div class="city-meta">Population: ${city.population.toLocaleString()}</div>
