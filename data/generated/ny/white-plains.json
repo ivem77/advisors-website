@@ -1,0 +1,186 @@
+{
+  "cityName": "White Plains",
+  "state": "New York",
+  "slug": "white-plains",
+  "population": "57.9K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in White Plains",
+  "metaDescription": "Find top-rated financial advisors in White Plains. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealth Habits",
+      "url": "https://wealthhabits.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Seven Bridges Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/seven-bridges-wealth-advisors/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "CPC Wealth Management",
+      "url": "https://cpcwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor Paul McKirgan",
+      "url": "https://advisor.ml.com/sites/ny/white-plains/bmegroup",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Fox Financial Services Inc",
+      "url": "http://www.foxfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "White Plains, NY, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "As the commercial hub of Westchester County, White Plains boasts a robust economy supported by finance, healthcare, and retail sectors. The city serves as a key transportation nexus, enhancing its economic appeal.",
+  "majorIndustries": "Finance, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "White Plains requires strategic planning in real estate and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "White Plains' finance sector concentration poses risks; housing market volatility and flooding are concerns. Diversify investments to stabilize economic growth.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), White Plains has shown steady economic growth, with a focus on expanding its service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in White Plains is approximately $85,000, reflecting a relatively affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in White Plains are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in White Plains is higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), White Plains' real estate market is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), White Plains offers a favorable business climate, attracting new companies and fostering innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york",
+      "population": 8405837,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo",
+      "population": 258959,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester",
+      "population": 210358,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers",
+      "population": 199766,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse",
+      "population": 144669,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany",
+      "population": 98424,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle",
+      "population": 79446,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon",
+      "population": 68224,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    }
+  ]
+}

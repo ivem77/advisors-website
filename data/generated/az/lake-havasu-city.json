@@ -1,0 +1,186 @@
+{
+  "cityName": "Lake Havasu City",
+  "state": "Arizona",
+  "slug": "lake-havasu-city",
+  "population": "52.8K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Lake Havasu City",
+  "metaDescription": "Find top-rated financial advisors in Lake Havasu City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Imagine Financial Services: Financial Advisor - Marianne Nolte, Certified Financial Planner - Lake Havasu City, AZ",
+      "url": "http://www.imaginefinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "LPL Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJx0AwLoLt0YARs24ozbsDnwI",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ron Hawley",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ron-hawley?y_source=1_MTM4Mjk3NjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David W Combs, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-combs?y_source=1_MTEyMDcyNjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Springberg McAndrew",
+      "url": "http://springbergmcandrew.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Lake Havasu City, Arizona, is a vibrant community known for its stunning lake views and recreational activities.",
+  "landscapeDescription": "The economy of Lake Havasu City is primarily driven by tourism, retail, and healthcare. The city benefits from its picturesque location, attracting visitors year-round.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "The city requires robust infrastructure to support tourism and healthcare services, alongside sustainable development practices.",
+  "citySpecificRiskAdvice": "Lake Havasu's tourism reliance poses economic risks. Real estate prices may face volatility due to seasonal demand. Monitor flood risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lake Havasu City's economy has shown steady growth, driven by increasing tourism and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lake Havasu City is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the region are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Lake Havasu City is lower than the national average, making it an attractive place for retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lake Havasu City is experiencing moderate growth, with prices reflecting seasonal demand fluctuations."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lake Havasu City offers a favorable business climate, with incentives for small businesses and tourism-related enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Rock Hill",
+  "state": "South Carolina",
+  "slug": "rock-hill",
+  "population": "69.1K (metro: 691K)",
+  "pageTitle": "Best Financial Advisors in Rock Hill",
+  "metaDescription": "Find top-rated financial advisors in Rock Hill. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "King Wealth Partners",
+      "url": "http://www.kingwealthpartners.com/contact-us.html",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jim Paolone, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jim-paolone?y_source=1_OTY0NTUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Palmetto Investment Consultants",
+      "url": "http://www.palmettoinvestmentconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael Penn",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-penn?y_source=1_MjMxNzU4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Burkett Financial Services, LLC",
+      "url": "http://burkettfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Rock Hill, SC, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Rock Hill's economy is supported by a mix of manufacturing, healthcare, and education sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Rock Hill requires tailored financial advice due to its growing population and diverse economic base.",
+  "citySpecificRiskAdvice": "Rock Hill's manufacturing focus poses economic risks; housing demand is rising, creating bubble concerns. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rock Hill's economy has grown by 3.5% annually, driven by manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rock Hill is $60,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rock Hill are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rock Hill's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Rock Hill have increased by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rock Hill's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    }
+  ]
+}

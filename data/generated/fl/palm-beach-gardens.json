@@ -1,0 +1,186 @@
+{
+  "cityName": "Palm Beach Gardens",
+  "state": "Florida",
+  "slug": "palm-beach-gardens",
+  "population": "50.7K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Palm Beach Gardens",
+  "metaDescription": "Find top-rated financial advisors in Palm Beach Gardens. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Helius Wealth Management - Raymond James",
+      "url": "https://www.raymondjames.com/heliuswm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 61
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/palm-beach-gardens-branch?y_source=1_MjM2MjA0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Oceanview Private Wealth - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/oceanview-private-wealth/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Center For Asset Management",
+      "url": "https://cf-am.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Richard Ewing - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/richard.s.ewing/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    }
+  ],
+  "heroDescription": "Palm Beach Gardens, a vibrant city in Florida, offers a blend of luxury living and business opportunities.",
+  "landscapeDescription": "The city boasts a diverse economy with a focus on retail, healthcare, and technology. Its strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Focus on sustainable growth, affordable housing, and disaster preparedness.",
+  "citySpecificRiskAdvice": "Palm Beach Gardens faces risks from real estate market fluctuations and hurricanes. Diversify investments beyond retail and tech to mitigate economic impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Palm Beach Gardens has seen a 3% annual growth rate, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Palm Beach Gardens is $85,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly specializing in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Palm Beach Gardens is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices have risen 10% over the past year, raising concerns about affordability and market stability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Palm Beach Gardens is recognized for its supportive business climate, attracting new startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

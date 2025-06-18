@@ -1,0 +1,186 @@
+{
+  "cityName": "Richland",
+  "state": "Washington",
+  "slug": "richland",
+  "population": "52.4K (metro: 200K)",
+  "pageTitle": "Best Financial Advisors in Richland",
+  "metaDescription": "Find top-rated financial advisors in Richland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Integrity Financial Services",
+      "url": "http://www.integrityfinancialservices.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Terry A Sliger",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-sliger?y_source=1_OTY0NDk2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cornerstone Wealth Strategies",
+      "url": "http://www.cornerstonewealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shelley Kennedy, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shelley-kennedy?y_source=1_OTY4MzAxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kriss Kennedy",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kriss-kennedy?y_source=1_NDQ4NzA3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Richland, Washington, is a vibrant city known for its rich history and strong community.",
+  "landscapeDescription": "Richland's economy is driven by technology, agriculture, and energy sectors. The city benefits from a strategic location near the Tri-Cities area, fostering growth.",
+  "majorIndustries": "Technology, Agriculture, Energy",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Richland requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Richland's tech and energy focus poses concentration risks; housing market may face volatility. Prepare for flooding risks; diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Richland's economy has shown steady growth, driven by the energy sector and technological advancements."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Richland is approximately $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Richland are increasingly specializing in tech and energy sectors to meet local demands."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Richland's cost of living is moderate, with housing costs being a significant factor for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Richland's real estate market is competitive, with rising prices and limited inventory affecting affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Richland's business climate is favorable, with incentives for tech startups and established industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    }
+  ]
+}

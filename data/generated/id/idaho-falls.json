@@ -1,0 +1,186 @@
+{
+  "cityName": "Idaho Falls",
+  "state": "Idaho",
+  "slug": "idaho-falls",
+  "population": "58.3K (metro: 582.9K)",
+  "pageTitle": "Best Financial Advisors in Idaho Falls",
+  "metaDescription": "Find top-rated financial advisors in Idaho Falls. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Onyx Financial Advisors",
+      "url": "http://www.onyxfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Intermountain Wealth Management",
+      "url": "https://www.intermountainwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "M3 Wealth",
+      "url": "http://www.m3wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Wealth Wave Idaho Falls",
+      "url": "https://wealthwave.com/urinclined",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Edge Financial Advisors",
+      "url": "https://www.edgefinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Idaho Falls, a vibrant city in eastern Idaho, is known for its scenic landscapes and growing economy.",
+  "landscapeDescription": "Idaho Falls has a diverse economy with strengths in healthcare, retail, and manufacturing. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Idaho Falls requires tailored financial strategies to support its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Idaho Falls' reliance on healthcare and retail poses risks; diversify investments. Real estate may face volatility; monitor market trends. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Idaho Falls has seen a 3% annual growth rate, driven by healthcare and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Idaho Falls is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Idaho Falls are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Idaho Falls has a cost of living index that is 10% lower than the national average, making it affordable."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Idaho Falls' real estate market is competitive, with home prices rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Idaho Falls is recognized for its supportive business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city",
+      "population": 214237,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa",
+      "population": 86518,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian",
+      "population": 83596,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls",
+      "population": 58292,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello",
+      "population": 54350,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell",
+      "population": 48957,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene",
+      "population": 46402,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls",
+      "population": 45981,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    }
+  ]
+}

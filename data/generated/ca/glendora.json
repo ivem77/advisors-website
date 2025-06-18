@@ -1,0 +1,186 @@
+{
+  "cityName": "Glendora",
+  "state": "California",
+  "slug": "glendora",
+  "population": "51K (metro: 10.2M)",
+  "pageTitle": "Best Financial Advisors in Glendora",
+  "metaDescription": "Find top-rated financial advisors in Glendora. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fortune Financial Group",
+      "url": "https://www.fortunefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "VOSBERG WEALTH MANAGEMENT",
+      "url": "http://www.vosbergwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Carl Grande- Grand Capital Management",
+      "url": "http://grandcapitalmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Graves Financial Wealth Management",
+      "url": "http://www.gravesfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Mc Clure Investment Management LLC",
+      "url": "https://mcclureinvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Glendora, California, is a vibrant city known for its scenic beauty and strong community spirit.",
+  "landscapeDescription": "Glendora's economy is primarily driven by retail, healthcare, and education sectors. The city benefits from its proximity to Los Angeles and a growing population.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Glendora requires tailored financial strategies due to its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Glendora's retail focus poses risks from e-commerce disruption. Real estate prices are rising, indicating potential bubble risks. Prepare for wildfires and economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Glendora's economy has shown steady growth, with a focus on local retail and service industries."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Glendora's median income is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Glendora are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Glendora's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Glendora's housing market is competitive, with home prices rising steadily, indicating a seller's market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Glendora offers a favorable business climate, with supportive local policies for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

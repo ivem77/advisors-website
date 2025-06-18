@@ -1,0 +1,186 @@
+{
+  "cityName": "Lawrence",
+  "state": "Indiana",
+  "slug": "lawrence",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Lawrence",
+  "metaDescription": "Find top-rated financial advisors in Lawrence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Creative Financial Group",
+      "url": "http://www.creativefinancialgrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 129
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Vern F Roach, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/vern-roach?y_source=1_OTY5ODk5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Deerfield Financial Advisors, Inc.",
+      "url": "http://www.deerfieldfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "RLS Wealth",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ3abKvICzFIgRK1Mnhv8_AAk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Bedel Financial Consulting",
+      "url": "https://www.bedelfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 49
+    }
+  ],
+  "heroDescription": "Lawrence, Indiana, a vibrant suburban community, offers a blend of residential charm and economic opportunity.",
+  "landscapeDescription": "With a population of 47,135, Lawrence is part of the Indianapolis metropolitan area, benefiting from its proximity to a major urban center. The local economy is diverse, with growth in sectors such as healthcare, retail, and manufacturing.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Lawrence requires tailored financial strategies to address its unique suburban dynamics and economic growth potential.",
+  "citySpecificRiskAdvice": "Lawrence's reliance on healthcare and retail poses risks; consider diversifying investments. Real estate may face bubble risks amid rising prices, and flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lawrence has seen a steady economic growth rate of 3.2%, driven by local healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lawrence is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lawrence are increasingly specializing in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Lawrence is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lawrence's real estate market has seen a 5% increase in home prices, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lawrence's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

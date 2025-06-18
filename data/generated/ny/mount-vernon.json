@@ -1,0 +1,186 @@
+{
+  "cityName": "Mount Vernon",
+  "state": "New York",
+  "slug": "mount-vernon",
+  "population": "68.2K (metro: 19.9M)",
+  "pageTitle": "Best Financial Advisors in Mount Vernon",
+  "metaDescription": "Find top-rated financial advisors in Mount Vernon. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "LPL Financial, Peter Sclavo CERTIFIED FINANCIAL PLANNER , CHARTERED LIFE UNDERWRITER , ENROLLED AGENT.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJhU-Cd6j0wokRxm6QQxMHHjU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sara A Mankins",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sara-mankins?y_source=1_OTYyNjY1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Nunez Wealth Management Inc",
+      "url": "https://www.nunezwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "White Plains Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJE69_CyTzwokRjtEQC4uzZJU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Mahichand Paryag: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ny/mtvernon/mahichand-paryag?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Mount Vernon, NY, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Mount Vernon serves as a suburban hub within the New York metropolitan area, providing access to urban amenities while maintaining a residential feel. The economy is supported by retail, healthcare, and education sectors.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Mount Vernon requires tailored financial strategies to address its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "Mount Vernon's reliance on retail and healthcare poses economic risks; real estate prices may face volatility. Prepare for flooding and diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Mount Vernon has shown steady economic growth, driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Mount Vernon is $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Mount Vernon increasingly specialize in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Mount Vernon is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Mount Vernon real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Mount Vernon offers a supportive business environment with various incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york",
+      "population": 8405837,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo",
+      "population": 258959,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester",
+      "population": 210358,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers",
+      "population": 199766,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse",
+      "population": 144669,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany",
+      "population": 98424,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle",
+      "population": 79446,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon",
+      "population": 68224,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    }
+  ]
+}

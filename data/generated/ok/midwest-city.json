@@ -1,0 +1,186 @@
+{
+  "cityName": "Midwest City",
+  "state": "Oklahoma",
+  "slug": "midwest-city",
+  "population": "1.4M (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Midwest City",
+  "metaDescription": "Find top-rated financial advisors in Midwest City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Powell Financial Services",
+      "url": "https://www.raymondjames.com/powellfinancialservices",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tanner R Hayes, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tanner-hayes?y_source=1_OTY3NTQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ryan McIlvoy",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ryan-mcilvoy?y_source=1_MjQ4NzI4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Castlepoint Wealth Advisors",
+      "url": "http://castlepointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Staton Financial Group Inc.",
+      "url": "http://statonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 106
+    }
+  ],
+  "heroDescription": "Midwest City, Oklahoma, is a vibrant community known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 56,756, Midwest City is part of the Oklahoma City metropolitan area, which boasts a growing economy. Key sectors include retail, healthcare, and education.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Midwest City requires tailored financial services focusing on healthcare and retail sectors.",
+  "citySpecificRiskAdvice": "Midwest City's retail focus poses economic risks; diversify into tech and healthcare. Monitor housing market for potential bubbles and prepare for tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Midwest City has shown steady economic growth, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Midwest City is approximately $54,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Midwest City are increasingly focusing on healthcare and retail investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Midwest City remains below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Midwest City is stable, with moderate price increases and a balanced supply-demand ratio."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Midwest City offers a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city",
+      "population": 610613,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa",
+      "population": 398121,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman",
+      "population": 118197,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow",
+      "population": 103500,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton",
+      "population": 97151,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond",
+      "population": 87004,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore",
+      "population": 58414,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city",
+      "population": 56756,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    }
+  ]
+}

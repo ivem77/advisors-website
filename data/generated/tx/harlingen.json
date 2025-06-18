@@ -1,0 +1,186 @@
+{
+  "cityName": "Harlingen",
+  "state": "Texas",
+  "slug": "harlingen",
+  "population": "65.7K (metro: 656.7K)",
+  "pageTitle": "Best Financial Advisors in Harlingen",
+  "metaDescription": "Find top-rated financial advisors in Harlingen. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "David Heffernan - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/david.j.heffernan/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Western Finance",
+      "url": "https://westernshamrock.com/locations/texas/western-finance-harlingen-tx?utm_source=google&utm_medium=organic&utm_campaign=gbp+western+finance+harlingen+tx+location",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 474
+    },
+    {
+      "name": "Little IV John M",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJxcATRiGAb4YRS31Vhxlo7tk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Security Finance",
+      "url": "https://www.securityfinance.com/locations/harlingen-tx-0378?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 207
+    },
+    {
+      "name": "Easy Solutions Credit Repair | Mortgage | Builder | Insurance",
+      "url": "https://myeasysolutions.com/credit/repair/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    }
+  ],
+  "heroDescription": "Harlingen, Texas, is a vibrant city known for its rich culture and economic opportunities.",
+  "landscapeDescription": "Harlingen's economy is primarily driven by healthcare, retail, and agriculture. The city benefits from its strategic location near the Mexico border, enhancing trade.",
+  "majorIndustries": "Healthcare, Retail, Agriculture",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Harlingen requires tailored financial services to support its growing population and diverse industries.",
+  "citySpecificRiskAdvice": "Harlingen's economy relies on healthcare and agriculture, posing risks from market fluctuations. Housing prices are rising; monitor for bubble risks. Prepare for hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Harlingen's GDP growth is driven by healthcare and retail, with a steady increase in job opportunities."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Harlingen is approximately $45,000, reflecting the city's economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Harlingen are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Harlingen's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Harlingen is experiencing growth, with home values rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Harlingen's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Salina",
+  "state": "Kansas",
+  "slug": "salina",
+  "population": "47.8K (metro: 47846)",
+  "pageTitle": "Best Financial Advisors in Salina",
+  "metaDescription": "Find top-rated financial advisors in Salina. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pathway Financial Solutions",
+      "url": "http://www.pathway-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Be Wealth",
+      "url": "http://www.bewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Wedel Financial Group",
+      "url": "https://www.wedelfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Billings Group",
+      "url": "https://www.billingsgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Colby A Bertrand, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/colby-bertrand?y_source=1_MTEzNTA5ODItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Salina, Kansas, a vibrant city in the heart of the Midwest, offers a unique blend of agriculture and manufacturing.",
+  "landscapeDescription": "Salina's economy is primarily driven by agriculture, manufacturing, and healthcare. The city is strategically located along major highways, enhancing its logistical advantages.",
+  "majorIndustries": "Agriculture, Manufacturing, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Salina requires support in diversifying its economy and enhancing workforce skills to meet future demands.",
+  "citySpecificRiskAdvice": "Salina's agriculture reliance poses risks from climate change. Housing market stability is crucial; watch for potential price bubbles. Diversify into tech and services.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Salina's economy has shown steady growth, with a focus on manufacturing and agriculture contributing significantly to GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Salina is approximately $50,000, reflecting the city's diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Salina are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Salina's cost of living remains below the national average, making it an attractive location for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Salina's real estate market is stable, but potential price increases could signal a bubble if not monitored closely."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Salina's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita",
+      "population": 386552,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park",
+      "population": 181260,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city",
+      "population": 148483,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe",
+      "population": 131885,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka",
+      "population": 127679,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence",
+      "population": 90811,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee",
+      "population": 64323,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan",
+      "population": 56143,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    }
+  ]
+}

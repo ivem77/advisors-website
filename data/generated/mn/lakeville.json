@@ -1,0 +1,186 @@
+{
+  "cityName": "Lakeville",
+  "state": "Minnesota",
+  "slug": "lakeville",
+  "population": "58.6K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Lakeville",
+  "metaDescription": "Find top-rated financial advisors in Lakeville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kelly Contreras",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelly-contreras?y_source=1_MTUzMTExNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jason Christenson",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jason-christenson?y_source=1_MTM5MjczMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kellee Ablard, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kellee-ablard?y_source=1_MTIxNzkzNzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Midwest Money Management",
+      "url": "http://www.midwestmoneymanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Josh Malwitz - Thrivent",
+      "url": "https://connect.thrivent.com/josh-malwitz?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzczNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Lakeville, Minnesota, is a growing suburban community known for its family-friendly atmosphere and vibrant economy.",
+  "landscapeDescription": "Lakeville's economy is characterized by a mix of retail, healthcare, and manufacturing sectors. The city benefits from its proximity to the Twin Cities, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Lakeville requires tailored financial planning for families and businesses, focusing on education and healthcare sectors.",
+  "citySpecificRiskAdvice": "Lakeville's retail and healthcare sectors face competition risks; housing market shows signs of overvaluation. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lakeville's economy has seen steady growth, with a focus on retail and healthcare contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Lakeville's median household income is approximately $100,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), local financial advisors are increasingly specializing in family wealth management and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lakeville's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lakeville's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lakeville's business climate is favorable, attracting new businesses with incentives and a skilled workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

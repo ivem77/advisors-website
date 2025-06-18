@@ -1,0 +1,186 @@
+{
+  "cityName": "Pensacola",
+  "state": "Florida",
+  "slug": "pensacola",
+  "population": "52.7K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Pensacola",
+  "metaDescription": "Find top-rated financial advisors in Pensacola. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Shawn E Bergstrom",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shawn-bergstrom?y_source=1_NTU5NzY5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Don Campbell, CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/don-campbell?y_source=1_MTY0NDI0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Warrior | American Heritage Financial",
+      "url": "https://www.financial-warrior.com/contact?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: John L Peacock Jr, CFP®|ChFC®|CEPA®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-peacock?y_source=1_NjQxMjIzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Tory Sokul, ChFC®|CFP®",
+      "url": "https://advisor.firstcommand.com/us/fl/pensacola/vpsokul?y_source=1_MjA5NjIyMDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    }
+  ],
+  "heroDescription": "Pensacola, Florida, is a vibrant coastal city known for its rich history and beautiful beaches.",
+  "landscapeDescription": "With a population of 52,703, Pensacola's economy is driven by tourism, healthcare, and military sectors. The city benefits from its strategic location and diverse economic activities.",
+  "majorIndustries": "Tourism, Healthcare, Military",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Pensacola requires a focus on disaster preparedness, economic diversification, and sustainable tourism development.",
+  "citySpecificRiskAdvice": "Pensacola's tourism reliance poses risks during downturns. Real estate is vulnerable to hurricanes and flooding; diversify investments and consider climate resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pensacola's economy is recovering post-pandemic, with growth in tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pensacola is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pensacola are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pensacola's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Pensacola's real estate market is competitive, with rising home prices due to demand from remote workers."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pensacola's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

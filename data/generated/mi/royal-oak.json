@@ -1,0 +1,186 @@
+{
+  "cityName": "Royal Oak",
+  "state": "Michigan",
+  "slug": "royal-oak",
+  "population": "58.9K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Royal Oak",
+  "metaDescription": "Find top-rated financial advisors in Royal Oak. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Royal Oak Financial Advisors",
+      "url": "http://www.royaloakfinancialadvisors.com/location.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "The Financial Planning Company",
+      "url": "http://thefinancialplanningcompany.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Kelly Capital Partners",
+      "url": "http://www.kellycapitalpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Saoud Financial Advisors & Wealth Management of Troy",
+      "url": "http://saoudfinancialoftroy.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Hoover & Associates",
+      "url": "http://www.hooverassociates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Royal Oak, Michigan, is a vibrant city known for its cultural scene and diverse economy.",
+  "landscapeDescription": "Royal Oak's economy is bolstered by a mix of retail, healthcare, and professional services. The city benefits from its proximity to Detroit's metropolitan area.",
+  "majorIndustries": "Healthcare, Retail, Professional Services",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Royal Oak requires a focus on sustainable growth, affordable housing, and enhanced public services.",
+  "citySpecificRiskAdvice": "Royal Oak's reliance on retail and healthcare poses economic risks. Housing market fluctuations and potential flooding require diversification and strategic planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Royal Oak's economy has shown steady growth, driven by local businesses and a resurgence in retail activity."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Royal Oak is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Royal Oak increasingly specialize in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Royal Oak is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Royal Oak's real estate market is competitive, with rising home prices and a limited inventory of affordable homes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Royal Oak offers a favorable business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

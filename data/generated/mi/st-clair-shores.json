@@ -1,0 +1,186 @@
+{
+  "cityName": "St. Clair Shores",
+  "state": "Michigan",
+  "slug": "st-clair-shores",
+  "population": "60.1K (metro: 600.7K)",
+  "pageTitle": "Best Financial Advisors in St. Clair Shores",
+  "metaDescription": "Find top-rated financial advisors in St. Clair Shores. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lakeshore Financial Planning",
+      "url": "https://www.lakeshorefinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "LPL Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJaa5iGxUoJYgRY6zfGWaqh2U",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mikhail Y Youdin, CFP®|CIMA®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mikhail-youdin?y_source=1_MTk1OTg3OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Erin M Rohn",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/erin-rohn?y_source=1_MTMwMTczNDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Bowline Financial",
+      "url": "http://www.bowlinefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    }
+  ],
+  "heroDescription": "St. Clair Shores, Michigan, a vibrant lakeside community, offers a blend of suburban charm and urban amenities.",
+  "landscapeDescription": "The economy of St. Clair Shores is primarily driven by manufacturing, healthcare, and retail sectors. The city's strategic location near Detroit enhances its economic prospects.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Focus on sustainable development and diversification to mitigate economic risks.",
+  "citySpecificRiskAdvice": "St. Clair Shores faces risks from manufacturing concentration and housing market fluctuations. Prepare for flooding and economic downturns by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Clair Shores has shown steady economic growth, driven by local manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Clair Shores is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in St. Clair Shores is competitive, with housing and utilities being the largest expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in St. Clair Shores is stable, but rising prices may indicate potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Clair Shores offers a supportive business climate with incentives for local entrepreneurs and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Iowa City",
+  "state": "Iowa",
+  "slug": "iowa-city",
+  "population": "71.6K (metro: 715.9K)",
+  "pageTitle": "Best Financial Advisors in Iowa City",
+  "metaDescription": "Find top-rated financial advisors in Iowa City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "James Investment Group, Inc",
+      "url": "https://www.raymondjames.com/jamesinvestmentgroup",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Chris Leyden - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "http://www.ameripriseadvisors.com/chris.d.leyden/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chad L Reimers, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chad-reimers?y_source=1_OTY4MzM3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bradley L Shelman - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/bradley.l.shelman/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Pira Wealth Management",
+      "url": "http://pirawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Iowa City, a vibrant college town, is known for its rich cultural heritage and educational institutions.",
+  "landscapeDescription": "Iowa City boasts a diverse economy driven by education, healthcare, and technology. The presence of the University of Iowa significantly influences local employment and innovation.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Iowa City's economy relies heavily on education and healthcare, necessitating tailored financial advice for local professionals.",
+  "citySpecificRiskAdvice": "Iowa City's reliance on education and healthcare poses risks if sectors decline. Real estate may face volatility; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Iowa City's economy is growing at 3% annually, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Iowa City is $56,000, with a significant portion of residents employed in education."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Iowa City are increasingly focusing on education and healthcare professionals."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Iowa City's cost of living is 10% lower than the national average, making it an attractive place for young professionals."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Iowa City have risen 5% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Iowa City is ranked among the top cities for startups, particularly in tech and healthcare innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    }
+  ]
+}

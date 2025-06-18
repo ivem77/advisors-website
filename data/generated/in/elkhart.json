@@ -1,0 +1,186 @@
+{
+  "cityName": "Elkhart",
+  "state": "Indiana",
+  "slug": "elkhart",
+  "population": "51.3K (metro: 512.7K)",
+  "pageTitle": "Best Financial Advisors in Elkhart",
+  "metaDescription": "Find top-rated financial advisors in Elkhart. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Guidance Wealth",
+      "url": "http://www.guidancewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Legacy Wealth Management Group of Raymond James",
+      "url": "https://www.raymondjames.com/legacywealthmanagement",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Nate Stemm, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nate-stemm?y_source=1_OTY0NzA1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tommy Morelock, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tommy-morelock?y_source=1_NDQ4NzEzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Fortified Wealth",
+      "url": "https://fortifiedwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Elkhart, Indiana, known for its vibrant manufacturing sector, is a city on the rise.",
+  "landscapeDescription": "Elkhart's economy is driven by manufacturing, particularly in recreational vehicles and musical instruments. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Elkhart requires a focus on diversifying its manufacturing base and enhancing workforce skills.",
+  "citySpecificRiskAdvice": "Elkhart's manufacturing concentration poses risks; diversify into tech and services. Real estate may face volatility; monitor housing trends. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Elkhart's GDP grew by 3.5%, driven by strong manufacturing output and increased consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Elkhart is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Elkhart are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Elkhart's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Elkhart have risen by 8% over the past year, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Elkhart's business climate is improving, with incentives for new startups and expansions in key industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

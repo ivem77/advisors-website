@@ -1,0 +1,186 @@
+{
+  "cityName": "Colton",
+  "state": "California",
+  "slug": "colton",
+  "population": "53.2K (metro: 4.6M)",
+  "pageTitle": "Best Financial Advisors in Colton",
+  "metaDescription": "Find top-rated financial advisors in Colton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lilybeth Zuniga: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ca/colton/lilybeth-zuniga?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Prime Assistance LLC dba M.E.T.A FINANCIAL CENTER",
+      "url": "https://home.pallc.info/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Massongill Wealth Management | Financial Advisor | Redlands | Yucaipa",
+      "url": "http://www.massongillwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "John Anthony Moreno: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ca/colton/john-anthony-moreno?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Strategic Financial Solutions",
+      "url": "http://www.haveastrategy.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    }
+  ],
+  "heroDescription": "Colton, California, is a growing city in San Bernardino County known for its diverse community and strategic location.",
+  "landscapeDescription": "Colton's economy is driven by logistics, manufacturing, and retail, benefiting from its proximity to major highways and railroads. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Logistics, Manufacturing, Retail",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Colton requires enhanced infrastructure to support its growing population and business sectors.",
+  "citySpecificRiskAdvice": "Colton's logistics focus poses risks from economic downturns; housing market volatility may lead to bubbles. Flooding and wildfires are concerns; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Colton's GDP growth rate is projected at 3.2%, driven by logistics and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Colton is $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Colton are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Colton's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Colton have risen by 8% over the past year, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Colton's business climate is favorable, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

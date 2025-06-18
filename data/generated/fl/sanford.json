@@ -1,0 +1,186 @@
+{
+  "cityName": "Sanford",
+  "state": "Florida",
+  "slug": "sanford",
+  "population": "56K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Sanford",
+  "metaDescription": "Find top-rated financial advisors in Sanford. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jesse M Plunkett, CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jesse-plunkett?y_source=1_MTc0NjE4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Leigh Ann Lyon, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/leighann-lyon?y_source=1_OTY1NzY5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Nelson Financial Planning",
+      "url": "https://www.nelsonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Financial Legacy Advisors",
+      "url": "https://www.financiallegacyadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Legacy Financial Advisors Orlando",
+      "url": "http://legacyadvisorsorlando.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Sanford, Florida, a vibrant city in Seminole County, is known for its rich history and scenic waterfront.",
+  "landscapeDescription": "Sanford's economy is diverse, driven by healthcare, retail, and tourism. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Sanford requires tailored financial advice due to its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Sanford's tourism reliance poses economic risks; housing market may face bubble concerns. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sanford's economy has grown by 3.5% annually, driven by increased tourism and local business expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sanford is $58,000, reflecting a diverse population with varied income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sanford are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sanford's cost of living is 5% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Sanford have risen by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sanford's business climate is improving, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

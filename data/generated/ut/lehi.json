@@ -1,0 +1,186 @@
+{
+  "cityName": "Lehi",
+  "state": "Utah",
+  "slug": "lehi",
+  "population": "54.4K (metro: 543.8K)",
+  "pageTitle": "Best Financial Advisors in Lehi",
+  "metaDescription": "Find top-rated financial advisors in Lehi. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "R.O.I. Wealth Management - Fee Only Financial Advisors",
+      "url": "http://www.roionweb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Sapphire Wealth Management",
+      "url": "https://www.sapphire-wm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Stonebriar Wealth Advisors",
+      "url": "https://www.stonebriarwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Drive Wealth Advisers",
+      "url": "http://drivewealthadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Tech Wealth, LLC",
+      "url": "https://www.techwealth.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 38
+    }
+  ],
+  "heroDescription": "Lehi, Utah, is a rapidly growing city known for its vibrant tech sector and family-friendly environment.",
+  "landscapeDescription": "Lehi's economy is driven by technology and manufacturing, with a strong presence of startups and established firms. The city benefits from its proximity to the Silicon Slopes, fostering innovation and job growth.",
+  "majorIndustries": "Technology, Manufacturing, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Lehi's growth demands infrastructure improvements and affordable housing solutions to accommodate its expanding population.",
+  "citySpecificRiskAdvice": "Lehi's tech concentration poses risks of economic downturns; housing prices may bubble. Prepare for natural disasters like flooding and diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lehi's economy grew by 5.2% in the past year, driven by tech and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lehi is $85,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lehi are increasingly focusing on tech and startup funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lehi's cost of living is rising, with housing costs significantly impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lehi's real estate market shows a 10% increase in home prices year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lehi's business climate is favorable, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "cityName": "Hattiesburg",
+  "state": "Mississippi",
+  "slug": "hattiesburg",
+  "population": "47.6K (metro: 475.6K)",
+  "pageTitle": "Best Financial Advisors in Hattiesburg",
+  "metaDescription": "Find top-rated financial advisors in Hattiesburg. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Simplified Wealth Management",
+      "url": "http://myswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/hattiesburg-branch?y_source=1_MjM2MjA5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Hunter J Ford, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/hunter-ford?y_source=1_MTA4NTEyMDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Client 1st Advisory Group",
+      "url": "http://www.c1ag.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott W Stover, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-stover?y_source=1_NjQwMTQ5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Hattiesburg, Mississippi, is a vibrant city known for its rich cultural heritage and educational institutions.",
+  "landscapeDescription": "Hattiesburg's economy is diverse, with strong contributions from education, healthcare, and manufacturing. The city is also a regional hub for retail and services.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Hattiesburg requires tailored financial strategies to address its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Hattiesburg's economy is vulnerable to education and healthcare sector fluctuations. Real estate may face bubble risks; consider diversification and prepare for flooding and tornado threats.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hattiesburg's GDP growth has been steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Hattiesburg is approximately $45,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hattiesburg are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hattiesburg's cost of living is below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hattiesburg's real estate market is experiencing moderate appreciation, with concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hattiesburg's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson",
+      "population": 172638,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport",
+      "population": 71012,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven",
+      "population": 50997,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg",
+      "population": 47556,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi",
+      "population": 44820,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian",
+      "population": 40921,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    }
+  ]
+}

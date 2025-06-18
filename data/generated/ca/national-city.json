@@ -1,0 +1,186 @@
+{
+  "cityName": "National City",
+  "state": "California",
+  "slug": "national-city",
+  "population": "59.8K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in National City",
+  "metaDescription": "Find top-rated financial advisors in National City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Platt Wealth Management",
+      "url": "https://plattwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Pure Financial Advisors, LLC",
+      "url": "http://purefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Define Financial",
+      "url": "https://www.definefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "One Degree Advisors",
+      "url": "http://www.onedegreeadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Daniel Shahmoradian, CFP - Financial Planner",
+      "url": "http://danielshahmoradian.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "National City, California, is a vibrant community with a rich cultural heritage and diverse economy.",
+  "landscapeDescription": "Home to 59,834 residents, National City is strategically located near San Diego, benefiting from a robust economy driven by trade, healthcare, and retail. The city's proximity to the border enhances its economic activity.",
+  "majorIndustries": "Healthcare, Retail, Trade",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "National City requires tailored financial advice to navigate its diverse economic landscape and community needs.",
+  "citySpecificRiskAdvice": "National City's reliance on retail and trade poses risks; housing market volatility and flooding concerns exist. Diversify investments and assess economic resilience.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), National City's economy has shown steady growth, driven by healthcare and retail sectors, contributing to local job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in National City is approximately $62,000, reflecting a diverse economic base and varying income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in National City is slightly above the national average, influenced by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), National City's real estate market is competitive, with rising prices and demand, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), National City's business climate is favorable, with support for small businesses and initiatives to attract new investments."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

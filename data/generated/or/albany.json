@@ -1,0 +1,186 @@
+{
+  "cityName": "Albany",
+  "state": "Oregon",
+  "slug": "albany",
+  "population": "51.6K (metro: 51.6K)",
+  "pageTitle": "Best Financial Advisors in Albany",
+  "metaDescription": "Find top-rated financial advisors in Albany. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jeff White, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeff-c-white?y_source=1_MTIxMjEwNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Crosby Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/crosby-wealth-advisors/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Krpalek Financial Services / Greg Krpalek, ChFC, CWS, CLU",
+      "url": "https://www.wealthadvisorforlife.com/team/gregory-j-krpalek-chfc-cws-clu",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sylvia M Ebbert",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sylvia-ebbert?y_source=1_MjQ4NzM0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor",
+      "url": "https://www.edwardjones.com/us-en/find-a-financial-advisor/locations/oregon/albany",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Albany, Oregon, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 51,583, Albany serves as a regional hub for commerce and education. Its economy is bolstered by manufacturing, healthcare, and retail sectors.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Albany requires tailored financial services to support its growing manufacturing and healthcare sectors.",
+  "citySpecificRiskAdvice": "Albany's economy relies on manufacturing and healthcare, risking over-dependence. Real estate may face bubble risks; diversify investments to mitigate weather-related threats like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Albany's economy has shown steady growth, driven by local manufacturing and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Albany's median income is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Albany are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Albany's cost of living is lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Albany's real estate market is competitive, with rising home prices indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Albany's business climate is favorable, with supportive local policies encouraging small business growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland",
+      "population": 609456,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem",
+      "population": 160614,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene",
+      "population": 159190,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham",
+      "population": 109397,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro",
+      "population": 97368,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton",
+      "population": 93542,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend",
+      "population": 81236,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford",
+      "population": 77677,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    }
+  ]
+}

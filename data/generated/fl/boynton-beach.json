@@ -1,0 +1,186 @@
+{
+  "cityName": "Boynton Beach",
+  "state": "Florida",
+  "slug": "boynton-beach",
+  "population": "71K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Boynton Beach",
+  "metaDescription": "Find top-rated financial advisors in Boynton Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Stoic Financial",
+      "url": "https://www.stoicfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott Doyno, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-doyno?y_source=1_MTE2MDM1MjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Wyn Yelin, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/wyn-yelin?y_source=1_OTcwMTMyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Raymond James",
+      "url": "http://www.raymondjames.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Structured Advisors",
+      "url": "http://structuredadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Boynton Beach, Florida, is a vibrant coastal city known for its beautiful beaches and diverse community.",
+  "landscapeDescription": "Boynton Beach's economy is bolstered by tourism, healthcare, and retail sectors. The city's strategic location enhances its appeal for business and residential growth.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Boynton Beach requires a focus on sustainable tourism and affordable housing to meet its growing population's needs.",
+  "citySpecificRiskAdvice": "Boynton Beach's tourism reliance poses economic risks; housing market volatility and hurricane threats necessitate diversification and prudent investment strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Boynton Beach has shown steady economic growth, driven by an increase in tourism and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Boynton Beach is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Boynton Beach are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Boynton Beach's cost of living is slightly above the national average, driven by housing and utility costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Boynton Beach is competitive, with rising home prices and demand for rentals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Boynton Beach offers a favorable business climate, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

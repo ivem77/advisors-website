@@ -1,0 +1,186 @@
+{
+  "cityName": "Greenville",
+  "state": "South Carolina",
+  "slug": "greenville",
+  "population": "61.4K (metro: 613.9K)",
+  "pageTitle": "Best Financial Advisors in Greenville",
+  "metaDescription": "Find top-rated financial advisors in Greenville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "NorthStar Financial & Retirement Planning, LLC",
+      "url": "https://www.northstar65.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Foster Victor Wealth Advisors",
+      "url": "https://fostervictor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Sovereign Private Wealth",
+      "url": "https://sovereignpw.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Family Legacy, Inc.",
+      "url": "https://www.familylegacyinc.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Blue Trust | Greenville Financial Advisors",
+      "url": "http://www.bluetrust.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    }
+  ],
+  "heroDescription": "Greenville, SC, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Greenville's economy is diverse, with a focus on manufacturing, healthcare, and technology. The city has seen steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Technology",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Greenville requires tailored financial services to support its growing population and diverse economy.",
+  "citySpecificRiskAdvice": "Greenville's tech growth demands diversification to mitigate risks. Real estate prices are rising, indicating potential bubbles. Be aware of flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Greenville's GDP growth rate stands at 3.5%, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Greenville is $56,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Greenville are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Greenville is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home values in Greenville have increased by 8% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Greenville's business climate is favorable, with low taxes and incentives for startups and established companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    }
+  ]
+}

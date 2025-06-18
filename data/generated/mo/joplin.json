@@ -1,0 +1,186 @@
+{
+  "cityName": "Joplin",
+  "state": "Missouri",
+  "slug": "joplin",
+  "population": "50.8K (metro: 50789)",
+  "pageTitle": "Best Financial Advisors in Joplin",
+  "metaDescription": "Find top-rated financial advisors in Joplin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kelley L Foust, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelley-foust?y_source=1_Mjg1NzQ4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kellen D Ryan, CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kellen-ryan?y_source=1_NDE3NjEyNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Patrick A Goodknight",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/patrick-goodknight?y_source=1_NjQxMjc1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Integrators (formerly Clevenger Financial)",
+      "url": "http://www.financialintegrators.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Chris Anderson: Cornerstone Wealth Management",
+      "url": "https://www.mycwmusa.com/team/chris-anderson",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Joplin, Missouri, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Joplin's economy is driven by healthcare, retail, and manufacturing sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Joplin requires enhanced infrastructure and diversified economic opportunities to sustain growth.",
+  "citySpecificRiskAdvice": "Joplin's economy relies on healthcare and retail, posing risks if these sectors falter. Real estate may face volatility; consider diversification and prepare for tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Joplin's economy has shown resilience with a growth rate of 3.2% over the past year."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Joplin is approximately $45,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Joplin are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Joplin's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Joplin is stable, with a median home price of $180,000, showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Joplin's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city",
+      "population": 467007,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis",
+      "population": 318416,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield",
+      "population": 164122,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence",
+      "population": 117240,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia",
+      "population": 115276,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit",
+      "population": 93184,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon",
+      "population": 82809,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph",
+      "population": 77147,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Terre Haute",
+  "state": "Indiana",
+  "slug": "terre-haute",
+  "population": "61K (metro: 61K)",
+  "pageTitle": "Best Financial Advisors in Terre Haute",
+  "metaDescription": "Find top-rated financial advisors in Terre Haute. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Swan Street Financial",
+      "url": "https://www.raymondjames.com/swanstreetfinancial",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "The Volkers Group",
+      "url": "http://volkersgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/terre-haute-branch?y_source=1_MjM2MjEyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Valley Group Wealth Management",
+      "url": "http://www.myvalleygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kyle J Simpson, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kyle-simpson?y_source=1_Mjc4MDU0MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Terre Haute, Indiana, a city rich in history and culture, offers a unique blend of urban and rural living.",
+  "landscapeDescription": "Terre Haute's economy is diverse, with strengths in education, healthcare, and manufacturing. The city is strategically located along major transportation routes, enhancing its economic potential.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Focus on economic diversification and addressing housing market stability.",
+  "citySpecificRiskAdvice": "Terre Haute's reliance on education and healthcare sectors poses risks; diversify investments. Watch for housing market fluctuations and potential flooding issues.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Terre Haute's GDP growth has been steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Terre Haute is $45,000, reflecting a moderate economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), local advisors are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Terre Haute's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market is stable, but rising prices may indicate a potential bubble."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Terre Haute's business climate is improving, with initiatives supporting local startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

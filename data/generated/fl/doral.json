@@ -1,0 +1,186 @@
+{
+  "cityName": "Doral",
+  "state": "Florida",
+  "slug": "doral",
+  "population": "50.2K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Doral",
+  "metaDescription": "Find top-rated financial advisors in Doral. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dream Cap Financial",
+      "url": "http://www.dreamcap.financial/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Miami Financial Advisors",
+      "url": "https://mannawealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Financial Designs",
+      "url": "http://www.fdnational.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 309
+    }
+  ],
+  "heroDescription": "Doral, Florida, is a vibrant city known for its strong economy and diverse community.",
+  "landscapeDescription": "Doral boasts a robust economy driven by tourism, logistics, and international trade. Its strategic location near Miami enhances its commercial appeal.",
+  "majorIndustries": "Tourism, Logistics, International Trade",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Doral's diverse population requires tailored financial services and investment strategies.",
+  "citySpecificRiskAdvice": "Doral's reliance on tourism and trade exposes it to economic fluctuations. Real estate prices are rising, posing bubble risks. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Doral's economy is expanding, with a focus on tourism and logistics, contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Doral is $55,000, reflecting a diverse economic base and growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Doral are increasingly focusing on real estate and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Doral's cost of living is competitive, with housing costs rising but still below Miami averages."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Doral's real estate market is experiencing rapid appreciation, with a 10% increase in home values over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Doral's business climate is favorable, with incentives for new businesses and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

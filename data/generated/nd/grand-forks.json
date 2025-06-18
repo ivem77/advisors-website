@@ -1,0 +1,154 @@
+{
+  "cityName": "Grand Forks",
+  "state": "North Dakota",
+  "slug": "grand-forks",
+  "population": "54.9K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Grand Forks",
+  "metaDescription": "Find top-rated financial advisors in Grand Forks. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Northern Plains Financial",
+      "url": "http://www.northernplainsfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ross P Johnson, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ross-johnson?y_source=1_OTExMTc0NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matt Odenbach, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matt-odenbach?y_source=1_OTY2ODA3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brian R Emerson, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brian-emerson?y_source=1_ODc1ODQzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bret A Bentow",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bret-bentow?y_source=1_OTYyMjkzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Grand Forks, North Dakota, is a vibrant city known for its educational institutions and growing economy.",
+  "landscapeDescription": "With a population of 54,932, Grand Forks is experiencing steady economic growth, driven by education, healthcare, and agriculture. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Education, Healthcare, Agriculture",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Focus on educational services and healthcare access, with a growing demand for diversified economic opportunities.",
+  "citySpecificRiskAdvice": "Grand Forks' economy relies on education and healthcare; diversify to mitigate risks. Real estate is stable, but watch for market fluctuations. Weather risks include severe winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Grand Forks has seen a 3% annual growth rate, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Grand Forks is $56,000, with a diverse income distribution."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Grand Forks are increasingly focusing on retirement and education planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Grand Forks has a lower cost of living compared to national averages, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Grand Forks is stable, with modest appreciation rates and affordable housing options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Grand Forks is fostering a supportive business climate, particularly for startups in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Fargo",
+      "state": "North Dakota",
+      "slug": "fargo",
+      "population": 113658,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Bismarck",
+      "state": "North Dakota",
+      "slug": "bismarck",
+      "population": 67034,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Grand Forks",
+      "state": "North Dakota",
+      "slug": "grand-forks",
+      "population": 54932,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Minot",
+      "state": "North Dakota",
+      "slug": "minot",
+      "population": 46321,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    }
+  ]
+}

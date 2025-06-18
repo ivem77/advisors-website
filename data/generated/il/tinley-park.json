@@ -1,0 +1,186 @@
+{
+  "cityName": "Tinley Park",
+  "state": "Illinois",
+  "slug": "tinley-park",
+  "population": "57.3K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Tinley Park",
+  "metaDescription": "Find top-rated financial advisors in Tinley Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jim Andresen - COUNTRY Financial Representative",
+      "url": "https://advisors.countryfinancial.com/usa/il/tinley-park/jim-andresen",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Kevin Raftery - Old National Wealth Advisors",
+      "url": "https://associates.oldnational.com/kevin-raftery?y_source=1_MTU0MjU3NjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Casey Wealth Management Inc.",
+      "url": "https://www.caseywealth.com/home",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Quinn Financial Planning LLC",
+      "url": "http://www.quinnfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "VIE Wealth Management",
+      "url": "https://www.viewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Tinley Park, Illinois, is a vibrant suburb of Chicago known for its family-friendly atmosphere and diverse community.",
+  "landscapeDescription": "With a population of 57,282, Tinley Park boasts a stable economy supported by retail, healthcare, and manufacturing sectors. The area benefits from its proximity to Chicago, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Focus on affordable housing and community services to support a growing population.",
+  "citySpecificRiskAdvice": "Tinley Park's retail reliance poses risks; diversify into tech and healthcare. Housing market volatility and flooding risks require strategic planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tinley Park's economy has shown steady growth, driven by local retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Tinley Park is approximately $80,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tinley Park are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Tinley Park is competitive, with housing costs being the most significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Tinley Park is experiencing moderate appreciation, with potential concerns for affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), the business climate in Tinley Park is favorable, with supportive local policies for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

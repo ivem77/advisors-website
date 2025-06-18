@@ -1,0 +1,178 @@
+{
+  "cityName": "Santa Fe",
+  "state": "New Mexico",
+  "slug": "santa",
+  "population": "69.9K (metro: 699.8K)",
+  "pageTitle": "Best Financial Advisors in Santa Fe",
+  "metaDescription": "Find top-rated financial advisors in Santa Fe. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Partners",
+      "url": "https://www.financialpartnersnm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Savant Wealth Management",
+      "url": "https://savantwealth.com/locations/santa-fe-new-mexico/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jeremy Campbell - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/jeremy.2.campbell/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/santa-fe-branch?y_source=1_MjM2MjAwNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Generational Asset Planning",
+      "url": "https://www.genassetplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Santa Fe, New Mexico, known for its rich cultural heritage and stunning landscapes, is a vibrant city with a unique blend of art and history.",
+  "landscapeDescription": "Santa Fe's economy is driven by tourism, arts, and government sectors, with a growing focus on technology and renewable energy. The city attracts visitors year-round, boosting local businesses.",
+  "majorIndustries": "Tourism, Arts, Government, Renewable Energy, Technology",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Santa Fe's unique cultural landscape requires tailored financial advice that considers local economic drivers and demographic trends.",
+  "citySpecificRiskAdvice": "Santa Fe's reliance on tourism and arts poses economic risks; housing market volatility exists due to demand. Be cautious of wildfires and flooding, and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Santa Fe's economy has seen a 3% growth rate, driven by tourism and government spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Santa Fe is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Santa Fe are increasingly focusing on estate planning and retirement strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Santa Fe is 10% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Santa Fe's real estate market has seen a 5% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Santa Fe's business climate is improving, with new incentives for startups in tech and renewable energy."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 3.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque",
+      "population": 556495,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces",
+      "population": 101324,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho",
+      "population": 91956,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe",
+      "population": 69976,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell",
+      "population": 48611,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington",
+      "population": 45426,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis",
+      "population": 39508,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    }
+  ]
+}

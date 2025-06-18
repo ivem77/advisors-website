@@ -1,0 +1,186 @@
+{
+  "cityName": "Utica",
+  "state": "New York",
+  "slug": "utica",
+  "population": "61.8K (metro: 61808)",
+  "pageTitle": "Best Financial Advisors in Utica",
+  "metaDescription": "Find top-rated financial advisors in Utica. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Strategic Financial Services, Inc.",
+      "url": "https://investstrategic.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Ascent Wealth Partners",
+      "url": "http://www.ascentwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Caruso Mc Lean & Co., Inc",
+      "url": "http://www.carusomclean.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Advanced Group Financial Services",
+      "url": "http://www.advancedgroupfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Leigh Baldwin & Co LLC of Utica",
+      "url": "https://www.leighbaldwin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Utica, NY, is a city rich in history and culture, known for its diverse community and vibrant local economy.",
+  "landscapeDescription": "Utica's economy is driven by healthcare, education, and manufacturing. The city is experiencing a resurgence with new investments and revitalization efforts.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Utica requires investment in infrastructure and workforce development to support its growing economy.",
+  "citySpecificRiskAdvice": "Utica's reliance on healthcare and manufacturing poses risks; diversify investments. Real estate may face volatility; monitor housing trends. Flooding risks exist.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Utica's GDP growth is projected at 3%, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Utica is approximately $45,000, reflecting economic challenges."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Utica are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Utica's cost of living is 10% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Utica's housing market shows signs of stabilization, with median home prices around $150,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Utica's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york",
+      "population": 8405837,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo",
+      "population": 258959,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester",
+      "population": 210358,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers",
+      "population": 199766,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse",
+      "population": 144669,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany",
+      "population": 98424,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle",
+      "population": 79446,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon",
+      "population": 68224,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    }
+  ]
+}

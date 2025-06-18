@@ -1,0 +1,154 @@
+{
+  "cityName": "Bellevue",
+  "state": "Nebraska",
+  "slug": "bellevue",
+  "population": "53.7K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Bellevue",
+  "metaDescription": "Find top-rated financial advisors in Bellevue. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pathfinder Wealth Advisors LLC",
+      "url": "http://www.pathfinderadv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Walnut Hill Advisors - Bellevue Location",
+      "url": "http://thewalnuthilladvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Pacific Financial Advisors, Inc.",
+      "url": "https://pacificfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Shunkwiler Financial",
+      "url": "https://shunkwilerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 81
+    },
+    {
+      "name": "Stabler Wealth Management",
+      "url": "http://www.stablerwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Bellevue, Nebraska, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "With a population of 53,663, Bellevue boasts a diverse economy driven by defense, healthcare, and education sectors. The city is strategically located near Omaha, enhancing its economic potential.",
+  "majorIndustries": "Defense, Healthcare, Education",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Bellevue requires tailored financial strategies to address its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Bellevue's economy is vulnerable to defense sector fluctuations. Real estate prices are rising, indicating potential bubble risks. Prepare for tornadoes and flooding, and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bellevue's economy is expanding, with a focus on technology and service industries contributing to job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bellevue is approximately $70,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bellevue are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bellevue's cost of living is competitive, with housing and transportation being the most significant expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bellevue's real estate market is experiencing growth, with home values rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bellevue offers a favorable business climate, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Omaha",
+      "state": "Nebraska",
+      "slug": "omaha",
+      "population": 434353,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Lincoln",
+      "state": "Nebraska",
+      "slug": "lincoln",
+      "population": 268738,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Nebraska",
+      "slug": "bellevue",
+      "population": 53663,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Grand Island",
+      "state": "Nebraska",
+      "slug": "grand-island",
+      "population": 50550,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    }
+  ]
+}

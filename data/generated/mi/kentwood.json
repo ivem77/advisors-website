@@ -1,0 +1,186 @@
+{
+  "cityName": "Kentwood",
+  "state": "Michigan",
+  "slug": "kentwood",
+  "population": "50.2K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Kentwood",
+  "metaDescription": "Find top-rated financial advisors in Kentwood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fiduciary Financial Advisors",
+      "url": "https://www.forfiduciary.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Mattson Financial Services",
+      "url": "https://mattsonfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Regal Financial Group",
+      "url": "https://www.regalfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Midwest Capital Advisors",
+      "url": "https://www.midwestcap.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Legacy Financial Network",
+      "url": "https://legacyfinancialnetwork.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Kentwood, Michigan, is a vibrant suburban community known for its family-friendly atmosphere and diverse economy.",
+  "landscapeDescription": "Kentwood's economy is characterized by a mix of retail, manufacturing, and healthcare sectors, contributing to steady growth. The city benefits from its proximity to Grand Rapids, enhancing its economic opportunities.",
+  "majorIndustries": "Retail, Manufacturing, Healthcare",
+  "medianIncome": "$63,000",
+  "uniqueNeeds": "Kentwood requires tailored financial strategies to address its diverse economic base and family-oriented demographic.",
+  "citySpecificRiskAdvice": "Kentwood's reliance on retail and healthcare poses risks amid economic shifts. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and severe weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kentwood's GDP growth rate has been steady at 3% annually, driven by local manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Kentwood is $63,000, reflecting a diverse economic base and stable employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kentwood are increasingly focusing on retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kentwood's cost of living is 5% lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Kentwood shows a 10% increase in home prices over the past year, indicating strong demand and potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kentwood's business climate is favorable, with low unemployment rates and supportive local policies encouraging small business growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

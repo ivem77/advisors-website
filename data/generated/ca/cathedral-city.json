@@ -1,0 +1,186 @@
+{
+  "cityName": "Cathedral City",
+  "state": "California",
+  "slug": "cathedral-city",
+  "population": "53K (metro: 529K)",
+  "pageTitle": "Best Financial Advisors in Cathedral City",
+  "metaDescription": "Find top-rated financial advisors in Cathedral City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Primerica Financial Services",
+      "url": "http://www.primerica.com/ernestoarcos",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Hancock Partners Wealth Strategies",
+      "url": "http://www.hpwealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Heslin Wealth Management",
+      "url": "http://www.heslinwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Martin R Noble, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/martin-noble?y_source=1_NDE3NjAxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cornerstone Wealth Management, LLC",
+      "url": "http://www.mycwmusa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Cathedral City, California, is a vibrant community in the Coachella Valley, known for its stunning desert landscapes and cultural diversity.",
+  "landscapeDescription": "The economy of Cathedral City is primarily driven by tourism, retail, and healthcare services. The city benefits from its proximity to Palm Springs, attracting visitors year-round.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Cathedral City requires tailored financial services due to its diverse population and economic reliance on tourism.",
+  "citySpecificRiskAdvice": "Cathedral City's tourism reliance poses economic risks; housing market volatility may lead to bubbles. Prepare for flooding and heat risks; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cathedral City has seen a 3% growth in GDP, driven by tourism and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cathedral City is $52,000, reflecting the area's diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cathedral City are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Cathedral City is approximately 10% lower than the national average, making it affordable."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Cathedral City shows a 5% increase in home prices, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cathedral City's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Port Orange",
+  "state": "Florida",
+  "slug": "port-orange",
+  "population": "57,203",
+  "pageTitle": "Best Financial Advisors in Port Orange",
+  "metaDescription": "Find top-rated financial advisors in Port Orange. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Handlin Wealth Management",
+      "url": "http://www.handlinwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jim Reardon, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jim-reardon?y_source=1_OTY4MjQzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott A Adams",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-adams?y_source=1_OTcxODgxNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Natalie W Tran",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/natalie-tran?y_source=1_MTAxMjUwNjA2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Peter J Arnold, WMCP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/peter-arnold2?y_source=1_OTMxMjQ5OTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Port Orange, Florida, is a vibrant coastal city known for its scenic views and community-oriented lifestyle.",
+  "landscapeDescription": "The economy of Port Orange is primarily driven by tourism, healthcare, and retail sectors. Its strategic location near Daytona Beach enhances its economic potential.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Port Orange requires a focus on sustainable tourism and healthcare services to support its growing population.",
+  "citySpecificRiskAdvice": "Port Orange's tourism reliance poses economic risks; housing market volatility may arise from demand surges. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Port Orange's economy has seen a steady growth rate of 3.5% annually, driven by tourism and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Port Orange is $58,000, reflecting a diverse economic base and stable employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Port Orange are increasingly focusing on retirement planning and investment strategies for local businesses."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Port Orange is approximately 5% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Port Orange has experienced a 10% increase in home values over the past year due to high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Port Orange's business climate is favorable, with supportive local policies encouraging small business growth and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

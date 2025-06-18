@@ -1,0 +1,186 @@
+{
+  "cityName": "Haverhill",
+  "state": "Massachusetts",
+  "slug": "haverhill",
+  "population": "62K (metro: 620K)",
+  "pageTitle": "Best Financial Advisors in Haverhill",
+  "metaDescription": "Find top-rated financial advisors in Haverhill. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jim Rubera",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jim-rubera?y_source=1_MzExOTA3Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Caleb Harty, Financial Advisor - Harty Financial",
+      "url": "https://www.hartyfinancial.com/?cmpid=ofll_fwll_wlgb_google_0_0_0_0_0_0_fwloc_0_0105012_V56_0",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 38
+    },
+    {
+      "name": "James Henry - TD Wealth Financial Advisor",
+      "url": "https://uswealthadvisors.td.com/us/ma/chelmsford/james-henry?utm_source=google-maps&utm_medium=yext&utm_campaign=always_on&utm_content=tdbank-store&y_source=1_MzY1ODkwMDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Todd S Schell",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/todd-schell?y_source=1_NjQwNjM3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "NEIRG Wealth Management, LLC",
+      "url": "http://neirg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Haverhill, Massachusetts, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "Haverhill's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city is experiencing steady growth, supported by its proximity to Boston.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Haverhill requires tailored financial advice to navigate its evolving economic landscape and real estate market.",
+  "citySpecificRiskAdvice": "Haverhill's manufacturing focus poses risks from economic downturns; housing market volatility and flooding are concerns. Diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Haverhill's GDP growth rate has been stable, reflecting resilience in local industries."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Haverhill is approximately $75,000, indicating a middle-income demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Haverhill are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Haverhill's cost of living is slightly below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Haverhill's real estate market shows steady appreciation, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Haverhill's business climate is improving, with new incentives attracting small and medium enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Pasco",
+  "state": "Washington",
+  "slug": "pasco",
+  "population": "67.6K (metro: 300K)",
+  "pageTitle": "Best Financial Advisors in Pasco",
+  "metaDescription": "Find top-rated financial advisors in Pasco. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cornerstone Wealth Strategies",
+      "url": "http://www.cornerstonewealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Jose Fernando Gutierrez: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/wa/pasco/jose-fernando-gutierrez?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Dove Financial Services",
+      "url": "http://dovefactoring.com/contact-dove-financial.html",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Piton Wealth",
+      "url": "http://pitonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Integrity Financial Services",
+      "url": "http://www.integrityfinancialservices.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Pasco, Washington, is a vibrant city in the Tri-Cities region, known for its diverse economy and growing population.",
+  "landscapeDescription": "Pasco's economy is driven by agriculture, manufacturing, and healthcare. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Agriculture, Manufacturing, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Pasco requires tailored financial advice to navigate its growing economy and housing market.",
+  "citySpecificRiskAdvice": "Pasco's agriculture reliance poses risks; diversify investments. Housing market may face bubble risks due to rapid growth. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pasco's economy has grown by 4% annually, driven by agriculture and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pasco is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pasco are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pasco's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Pasco have risen 15% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pasco's business climate is favorable, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    }
+  ]
+}

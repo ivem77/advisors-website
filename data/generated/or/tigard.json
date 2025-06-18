@@ -1,0 +1,186 @@
+{
+  "cityName": "Tigard",
+  "state": "Oregon",
+  "slug": "tigard",
+  "population": "50.4K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Tigard",
+  "metaDescription": "Find top-rated financial advisors in Tigard. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lifelong Wealth Management",
+      "url": "http://www.llwmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "Firenze Wealth Management",
+      "url": "http://www.firenzewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Willamette Financial Advisors, LLC (By Appointment Only)",
+      "url": "http://www.willamettefinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Holly K McNeil, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/holly-mcneil?y_source=1_OTYzOTM3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Beyond Wealth Management",
+      "url": "http://www.lifebeyondwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Tigard, Oregon is a vibrant city known for its family-friendly atmosphere and proximity to Portland.",
+  "landscapeDescription": "Tigard's economy is diverse, with strengths in retail, healthcare, and technology. The city benefits from its location within the Portland metropolitan area.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Tigard residents seek affordable housing, quality education, and access to outdoor activities.",
+  "citySpecificRiskAdvice": "Tigard's tech sector growth necessitates diversification to mitigate economic risks. Housing market appreciation raises bubble concerns; monitor natural disaster risks like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Tigard's economy has shown steady growth, driven by local businesses and an influx of tech firms."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Tigard is approximately $76,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Tigard are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Tigard is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Tigard's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Tigard's business climate is favorable, with supportive local policies and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland",
+      "population": 609456,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem",
+      "population": 160614,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene",
+      "population": 159190,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham",
+      "population": 109397,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro",
+      "population": 97368,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton",
+      "population": 93542,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend",
+      "population": 81236,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford",
+      "population": 77677,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    }
+  ]
+}

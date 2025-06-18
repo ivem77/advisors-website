@@ -1,0 +1,186 @@
+{
+  "cityName": "Mansfield",
+  "state": "Texas",
+  "slug": "mansfield",
+  "population": "60.9K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Mansfield",
+  "metaDescription": "Find top-rated financial advisors in Mansfield. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Guy Rodgers Private Wealth Strategies",
+      "url": "http://www.grpws.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Northwestern Mutual Mansfield",
+      "url": "https://www.northwesternmutual.com/office/tx/mansfield/87821448/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Gene Tennison, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/gene-tennison?y_source=1_OTY3NzI4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Schulz Wealth, Rob Schulz, CFP®, Austin Smith, CFA, CFP®",
+      "url": "https://schulzwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Ison, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-ison?y_source=1_OTYyODMzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Mansfield, Texas, is a vibrant city located in the Dallas-Fort Worth metroplex, known for its family-friendly environment and growing economy.",
+  "landscapeDescription": "Mansfield's economy is bolstered by its proximity to major cities like Dallas and Fort Worth. The city is experiencing steady growth in population and business development.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Mansfield requires tailored financial advice due to its rapid growth and unique demographic trends.",
+  "citySpecificRiskAdvice": "Mansfield's growth in retail and healthcare creates concentration risks. Monitor real estate for bubble signs and prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Mansfield's economy is expanding at a rate of 3.5% annually, driven by local business investments and population growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Mansfield is $85,000, reflecting a diverse economic base and a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Mansfield increasingly specialize in retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Mansfield's cost of living is 5% lower than the national average, making it an attractive place for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Mansfield is competitive, with home values increasing by 10% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Mansfield's business climate is favorable, with incentives for startups and established firms, contributing to job creation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

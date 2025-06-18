@@ -1,0 +1,186 @@
+{
+  "cityName": "Youngstown",
+  "state": "Ohio",
+  "slug": "youngstown",
+  "population": "65.2K (metro: 650K)",
+  "pageTitle": "Best Financial Advisors in Youngstown",
+  "metaDescription": "Find top-rated financial advisors in Youngstown. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Lori A Ferreri, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lori-ferreri?y_source=1_OTY3NTk0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Thomas W Titus - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/thomas.w.titus/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "WRS Wealth Advisors",
+      "url": "http://www.wrswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "World Financial Group",
+      "url": "http://www.deannarossi.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "The Handel2 Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/the-handel2-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Youngstown, Ohio, is a city with a rich industrial history, now transitioning towards diversified economic growth.",
+  "landscapeDescription": "Youngstown's economy is evolving, with a focus on manufacturing, healthcare, and education. The city's strategic location supports trade and logistics.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$40,000",
+  "uniqueNeeds": "Youngstown requires investment in tech and healthcare sectors to boost economic resilience and attract talent.",
+  "citySpecificRiskAdvice": "Youngstown's manufacturing reliance poses economic risks; diversify into tech and healthcare. Real estate market shows volatility; monitor housing prices and consider flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Youngstown's GDP growth has been steady, driven by a resurgence in manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Youngstown is $40,000, reflecting economic challenges and opportunities for growth."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Youngstown are increasingly focusing on retirement planning and wealth management strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Youngstown's cost of living remains below the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Youngstown's real estate market is recovering, with home prices stabilizing but still presenting affordability challenges."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Youngstown's business climate is improving, with initiatives to attract startups and support local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

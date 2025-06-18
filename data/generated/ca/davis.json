@@ -1,0 +1,186 @@
+{
+  "cityName": "Davis",
+  "state": "California",
+  "slug": "davis",
+  "population": "66.2K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Davis",
+  "metaDescription": "Find top-rated financial advisors in Davis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pure Financial Advisors, LLC",
+      "url": "https://purefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Nicole Davis",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nicole-davis?y_source=1_OTYyMzA1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Apella Wealth",
+      "url": "https://apellawealth.com/locations/davis-ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David P Cougevan",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-cougevan?y_source=1_OTY0NTY0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jen Kukis, AAMS®|CRPC™|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jen-kukis?y_source=1_MzQxMzI0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Davis, California is a vibrant college town known for its strong community and innovative spirit.",
+  "landscapeDescription": "Davis boasts a diverse economy anchored by education, agriculture, and technology. The city benefits from its proximity to the Sacramento metropolitan area.",
+  "majorIndustries": "Education, Agriculture, Technology",
+  "medianIncome": "$64,000",
+  "uniqueNeeds": "Davis requires a focus on sustainable growth and affordable housing to accommodate its student population.",
+  "citySpecificRiskAdvice": "Davis's tech and education sectors face volatility; housing prices may bubble. Prepare for flooding risks and diversify investments to stabilize economic impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Davis has shown steady economic growth, driven by its educational institutions and tech startups."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Davis is approximately $64,000, reflecting a mix of student and professional residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Davis increasingly focus on education planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Davis is higher than the national average, driven by housing and education expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Davis is competitive, with rising prices due to demand from students and professionals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Davis offers a supportive business climate, particularly for startups in tech and sustainability sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

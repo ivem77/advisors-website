@@ -1,0 +1,186 @@
+{
+  "cityName": "Palm Springs",
+  "state": "California",
+  "slug": "palm-springs",
+  "population": "46.3K (metro: 46281)",
+  "pageTitle": "Best Financial Advisors in Palm Springs",
+  "metaDescription": "Find top-rated financial advisors in Palm Springs. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Hancock Partners Wealth Strategies",
+      "url": "http://www.hpwealthstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Heslin Wealth Management",
+      "url": "http://www.heslinwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Martin R Noble, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/martin-noble?y_source=1_NDE3NjAxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Hansen Financial",
+      "url": "http://www.hansen-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Anthony J. Mancini Investment Advisor",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJKTbMkX4b24AR9DgXOAXuPVI",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Palm Springs is a vibrant desert city known for its stunning landscapes and rich cultural heritage.",
+  "landscapeDescription": "The economy of Palm Springs is primarily driven by tourism, hospitality, and real estate. With a growing population, the city is diversifying its economic base.",
+  "majorIndustries": "Tourism, Hospitality, Real Estate",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Palm Springs requires tailored financial advice due to its unique tourism-driven economy and seasonal population fluctuations.",
+  "citySpecificRiskAdvice": "Palm Springs' tourism reliance poses economic risks; real estate prices may bubble. Prepare for weather events like floods and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Palm Springs has seen a 4% growth in tourism-related revenues, reflecting a rebound post-pandemic."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Palm Springs is $55,000, with a significant percentage of retirees."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Palm Springs are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Palm Springs is about 10% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Palm Springs has increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Palm Springs is fostering a supportive business climate with incentives for new hospitality ventures."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

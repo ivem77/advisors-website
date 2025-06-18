@@ -1,0 +1,186 @@
+{
+  "cityName": "Ankeny",
+  "state": "Iowa",
+  "slug": "ankeny",
+  "population": "51.6K (metro: 515.7K)",
+  "pageTitle": "Best Financial Advisors in Ankeny",
+  "metaDescription": "Find top-rated financial advisors in Ankeny. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Custom Wealth Planners",
+      "url": "https://customwealthplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Triplett-Westendorf Financial Group",
+      "url": "https://www.triplett-westendorf.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "WealthCharter Retirement Planning + Tax",
+      "url": "http://www.wealthcharterretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brandt R Hockman, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brandt-hockman?y_source=1_OTg4NjU2NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Luke A Boyd, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/luke-boyd?y_source=1_OTcxODc5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Ankeny, Iowa, a rapidly growing suburb of Des Moines, combines suburban charm with economic vitality.",
+  "landscapeDescription": "Ankeny has seen substantial growth, driven by its proximity to Des Moines and a burgeoning local economy. The city is diversifying its economic base while maintaining a strong community focus.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Ankeny requires tailored financial strategies to address its rapid growth and housing market dynamics.",
+  "citySpecificRiskAdvice": "Ankeny's growth in manufacturing poses industry concentration risks. The housing market shows signs of a bubble; diversify investments. Be aware of tornado risks and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ankeny's economy has expanded by 4.5% annually, driven by manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Ankeny is $76,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ankeny are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Ankeny's cost of living is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Ankeny have risen by 10% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ankeny is recognized for its supportive business climate, attracting new startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Daytona Beach",
+  "state": "Florida",
+  "slug": "daytona-beach",
+  "population": "62.3K (metro: 623.2K)",
+  "pageTitle": "Best Financial Advisors in Daytona Beach",
+  "metaDescription": "Find top-rated financial advisors in Daytona Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Sarah Smith, Financial Advisor - Eagle Strategies",
+      "url": "http://www.sarahsmitheagle.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Stephens Wealth Management of Raymond James",
+      "url": "https://www.raymondjames.com/debstephens",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Wynn Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/the-wynn-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "David Carson - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/david.s.carson/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wells Fargo Advisors",
+      "url": "https://home.wellsfargoadvisors.com/001_PFL6?excid=FA1500050253",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Daytona Beach, known for its iconic beaches and motorsports, is a vibrant coastal city in Florida.",
+  "landscapeDescription": "The economy of Daytona Beach is primarily driven by tourism, healthcare, and education. The city benefits from a growing population and diverse economic activities.",
+  "majorIndustries": "Tourism, Healthcare, Education",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Daytona Beach requires a focus on disaster preparedness, tourism sustainability, and affordable housing.",
+  "citySpecificRiskAdvice": "Daytona's tourism reliance poses economic risks; housing market faces bubble concerns. Hurricane threats necessitate disaster planning. Diversify into tech and healthcare.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Daytona Beach's economy is recovering post-pandemic, with a focus on tourism and healthcare sectors driving growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Daytona Beach is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Daytona Beach are increasingly focusing on retirement planning and investment strategies for retirees."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Daytona Beach's cost of living is slightly below the national average, making it an attractive location for retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Daytona Beach is experiencing rising prices, with concerns about affordability and potential bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Daytona Beach's business climate is improving, with incentives for small businesses and a focus on tourism-related industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "St. Cloud",
+  "state": "Minnesota",
+  "slug": "st-cloud",
+  "population": "66.3K (metro: 66297)",
+  "pageTitle": "Best Financial Advisors in St. Cloud",
+  "metaDescription": "Find top-rated financial advisors in St. Cloud. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jacobs Financial",
+      "url": "http://www.jacobs-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "AIS Planning",
+      "url": "http://www.aisplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Midwest Financial Partners, Inc.",
+      "url": "http://www.mfpmn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Curtis L Brown",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/curtis-brown?y_source=1_MTQ5NjYxMDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "RBC Wealth Management Branch - St Cloud",
+      "url": "https://us.rbcwealthmanagement.com/stcloud?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "St. Cloud, Minnesota, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "St. Cloud's economy is driven by healthcare, education, and manufacturing. The city benefits from a strategic location along the Mississippi River, enhancing trade and commerce.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "St. Cloud requires a focus on healthcare and education sectors while addressing housing affordability and economic diversification.",
+  "citySpecificRiskAdvice": "St. Cloud's reliance on healthcare and education poses risks; housing market may face affordability issues. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Cloud's economy is projected to grow by 3% annually, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Cloud is $55,000, with a growing middle class and increasing economic opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Cloud are increasingly specializing in retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), St. Cloud's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Cloud's real estate market shows steady growth, with median home prices rising 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Cloud offers a supportive business climate with incentives for startups in healthcare and technology."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

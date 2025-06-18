@@ -1,0 +1,186 @@
+{
+  "cityName": "Janesville",
+  "state": "Wisconsin",
+  "slug": "janesville",
+  "population": "63.8K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Janesville",
+  "metaDescription": "Find top-rated financial advisors in Janesville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "kf. Wealth Management",
+      "url": "https://www.kfwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Uncommon Cents Investing",
+      "url": "https://www.uncommoncentsinvesting.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Baird Financial Advisors (Janesville Office)",
+      "url": "http://www.rwbaird.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lonnie M Klecker, CFP®|ABFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lonnie-klecker?y_source=1_OTY4MjAxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Impact Advisors",
+      "url": "http://www.financialimpactadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 44
+    }
+  ],
+  "heroDescription": "Janesville, Wisconsin, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 63,820, Janesville has a stable economic base, primarily driven by manufacturing, healthcare, and retail sectors. The city is strategically located along major highways, enhancing its connectivity.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Janesville requires investment in workforce development and infrastructure to support its growing industries.",
+  "citySpecificRiskAdvice": "Janesville's manufacturing focus poses risks from economic downturns. Real estate may face volatility; consider diversification. Flooding is a concern; prepare for weather-related impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Janesville's economy has shown steady growth, driven by a resurgence in manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Janesville is approximately $58,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Janesville are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Janesville's cost of living is lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Janesville is stable, with moderate price appreciation and a healthy inventory of homes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Janesville's business climate is favorable, with supportive local policies and a strong network of small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    }
+  ]
+}

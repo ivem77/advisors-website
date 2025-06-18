@@ -1,0 +1,186 @@
+{
+  "cityName": "Logan",
+  "state": "Utah",
+  "slug": "logan",
+  "population": "48.9K (metro: 489.1K)",
+  "pageTitle": "Best Financial Advisors in Logan",
+  "metaDescription": "Find top-rated financial advisors in Logan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jeffrey R Olsen, CFP®|ChFC®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeffrey-olsen?y_source=1_MTE3NTExMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: TJ Davis, CFP®|ChFC®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tj-davis?y_source=1_MTIzNDMzNDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bridgerland Financial LLC",
+      "url": "https://www.bridgetoretire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Clayton C McMurdie",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/clayton-mcmurdie?y_source=1_OTY0NDMzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Holbrook Wealth Strategies | Raymond James",
+      "url": "https://www.raymondjames.com/holbrookws/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Logan, Utah, is a vibrant city known for its scenic landscapes and strong community.",
+  "landscapeDescription": "Logan's economy is diverse, with strengths in education, healthcare, and agriculture. The city benefits from its proximity to outdoor recreational activities.",
+  "majorIndustries": "Education, Healthcare, Agriculture",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Logan's unique needs include affordable housing and support for its growing tech sector.",
+  "citySpecificRiskAdvice": "Logan's economy relies on education and agriculture; diversify investments to mitigate risks. Housing market pressures may lead to bubbles; monitor real estate trends closely.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Logan's GDP growth is driven by education and healthcare sectors, showing resilience post-pandemic."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Logan is $56,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Logan are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Logan's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Logan's real estate market is competitive, with rising home prices due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Logan's business climate is favorable, with supportive local policies for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

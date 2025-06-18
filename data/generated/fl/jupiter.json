@@ -1,0 +1,186 @@
+{
+  "cityName": "Jupiter",
+  "state": "Florida",
+  "slug": "jupiter",
+  "population": "58.3K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Jupiter",
+  "metaDescription": "Find top-rated financial advisors in Jupiter. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lee Wealth Management",
+      "url": "http://www.leewealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Asset Advisory Services, Inc.",
+      "url": "https://www.assetadvisoryservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/fl/jupiter-fl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Blue Ocean Financial Services, Inc.",
+      "url": "http://blueoceanfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brian Baughman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brian-baughman?y_source=1_OTYyMjk4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Jupiter, Florida is a vibrant coastal town known for its beautiful beaches and thriving community.",
+  "landscapeDescription": "With a population of 58,298, Jupiter boasts a diverse economy driven by tourism, healthcare, and retail. The town's strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Jupiter requires tailored financial strategies focusing on real estate and disaster preparedness.",
+  "citySpecificRiskAdvice": "Jupiter's tourism reliance poses economic risks; real estate prices are volatile. Hurricane threats necessitate robust insurance and diversification in local investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jupiter's economy is expanding, driven by tourism and healthcare sectors, with a growth rate of 3.5% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jupiter is $75,000, reflecting a relatively affluent community with a high standard of living."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jupiter are increasingly specializing in real estate and retirement planning to meet local needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Jupiter is approximately 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Jupiter's real estate market is competitive, with median home prices around $500,000, reflecting strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jupiter's business climate is favorable, with supportive local policies encouraging small business growth and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

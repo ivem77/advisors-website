@@ -1,0 +1,186 @@
+{
+  "cityName": "Flagstaff",
+  "state": "Arizona",
+  "slug": "flagstaff",
+  "population": "68.7K (metro: 68667)",
+  "pageTitle": "Best Financial Advisors in Flagstaff",
+  "metaDescription": "Find top-rated financial advisors in Flagstaff. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Benefit & Financial Strategies, LLC",
+      "url": "http://www.benefitandfinancial.com/?utm_source=google_business_profile&utm_medium=website_link&utm_id=local_seo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "TCI Wealth Advisors",
+      "url": "https://tciwealth.com/locations/flagstaff/?utm_source=maps&utm_medium=google&utm_content=flagstaff",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "WT Wealth Management",
+      "url": "https://www.wtwealthmanagement.com/flagstaff",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Babb Financial Group",
+      "url": "http://www.babbfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Dwyer Financial",
+      "url": "https://dwyerfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Flagstaff, Arizona, is a vibrant city known for its stunning natural beauty and outdoor recreational opportunities.",
+  "landscapeDescription": "Flagstaff's economy is driven by tourism, education, and healthcare. The city benefits from its proximity to national parks and a strong university presence.",
+  "majorIndustries": "Tourism, Education, Healthcare",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Flagstaff requires a focus on sustainable tourism and affordable housing to accommodate its growing population.",
+  "citySpecificRiskAdvice": "Flagstaff's tourism reliance poses risks during downturns; housing market volatility exists. Prepare for wildfires and snow impacts; diversify local economy.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Flagstaff's economy grew by 3.5% last year, driven by tourism and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Flagstaff is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Flagstaff increasingly focus on sustainable investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Flagstaff is approximately 10% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Flagstaff's housing market is competitive, with median home prices rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Flagstaff's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

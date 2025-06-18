@@ -1,0 +1,186 @@
+{
+  "cityName": "Wheaton",
+  "state": "Illinois",
+  "slug": "wheaton",
+  "population": "53.6K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Wheaton",
+  "metaDescription": "Find top-rated financial advisors in Wheaton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edge Financial Advisors",
+      "url": "http://www.edgefa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Foundation Wealth Strategies",
+      "url": "http://www.foundationws.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Prizm Financial Advisors Inc",
+      "url": "http://www.prizm-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Benjamin F. Edwards",
+      "url": "https://www.benjaminfedwards.com/branch/benjamin-f-edwards-wheaton-il/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "High Point Planning",
+      "url": "https://highpointplanningpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Wheaton, Illinois, a vibrant suburb of Chicago, boasts a rich history and a strong community spirit.",
+  "landscapeDescription": "Wheaton's economy is diverse, with a focus on education, healthcare, and retail. The city benefits from its proximity to Chicago, enhancing its economic opportunities.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Wheaton's residents value education and community services, requiring tailored financial advice for families and retirees.",
+  "citySpecificRiskAdvice": "Wheaton's economy relies on education and healthcare; diversify investments to mitigate sector risks. Monitor housing market trends to avoid bubble risks and prepare for tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wheaton's economy has shown steady growth, driven by local educational institutions and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wheaton is approximately $85,000, reflecting a stable and affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wheaton increasingly focus on retirement planning and education funding strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wheaton's cost of living is slightly above the national average, influenced by housing and education expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wheaton's real estate market remains competitive, with home values appreciating steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wheaton offers a supportive business climate, particularly for educational and healthcare startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

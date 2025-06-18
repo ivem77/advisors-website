@@ -1,0 +1,154 @@
+{
+  "cityName": "Bismarck",
+  "state": "North Dakota",
+  "slug": "bismarck",
+  "population": "67K (metro: 67K)",
+  "pageTitle": "Best Financial Advisors in Bismarck",
+  "metaDescription": "Find top-rated financial advisors in Bismarck. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "North Point Financial Planners",
+      "url": "http://www.northpointfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Capital City Wealth Management",
+      "url": "http://www.retirementstartstoday.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Thrivent - Infinity Financial Advisors",
+      "url": "https://connect.thrivent.com/infinity-financial-advisors",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sarah S Rooney - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/sarah.s.rooney/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Freedom Financial Group",
+      "url": "https://www.planwithfreedom.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Bismarck, the capital of North Dakota, is known for its rich history and vibrant community.",
+  "landscapeDescription": "Bismarck's economy is primarily driven by government services, healthcare, and energy sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Government, Healthcare, Energy",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Bismarck requires a focus on sustainable energy and healthcare innovation to support its growing population.",
+  "citySpecificRiskAdvice": "Bismarck's energy sector poses concentration risks; diversify investments. Real estate may face volatility due to economic shifts. Monitor flooding risks and pursue economic diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bismarck's economy has seen a 3% growth rate, driven by healthcare and energy investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bismarck is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bismarck are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bismarck's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bismarck's real estate market is stable, with a median home price of $250,000, showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bismarck's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Fargo",
+      "state": "North Dakota",
+      "slug": "fargo",
+      "population": 113658,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Bismarck",
+      "state": "North Dakota",
+      "slug": "bismarck",
+      "population": 67034,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Grand Forks",
+      "state": "North Dakota",
+      "slug": "grand-forks",
+      "population": 54932,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Minot",
+      "state": "North Dakota",
+      "slug": "minot",
+      "population": 46321,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Lafayette",
+  "state": "Indiana",
+  "slug": "lafayette",
+  "population": "70.4K (metro: 703.7K)",
+  "pageTitle": "Best Financial Advisors in Lafayette",
+  "metaDescription": "Find top-rated financial advisors in Lafayette. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer C Russell, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-russell?y_source=1_OTY3OTg1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "BlueSafe Financial LLC",
+      "url": "http://bluesafefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Credent Wealth Management - Lafayette Fee-Only Financial Planner",
+      "url": "http://www.credentwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cardwell, King and Downey Wealth Management of RJ - Raymond James",
+      "url": "https://www.raymondjames.com/cardwellkingdowney",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Turquoise Wealth Management",
+      "url": "http://www.turquoisewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Lafayette, Indiana, a vibrant city known for its educational institutions and diverse economy.",
+  "landscapeDescription": "Lafayette's economy is bolstered by education, manufacturing, and healthcare sectors. The city serves as a regional hub with a growing population and job market.",
+  "majorIndustries": "Education, Manufacturing, Healthcare",
+  "medianIncome": "$53,000",
+  "uniqueNeeds": "Lafayette requires tailored financial advice due to its educational focus and emerging industries.",
+  "citySpecificRiskAdvice": "Lafayette's reliance on education and manufacturing poses economic risks. Real estate may face volatility due to market fluctuations; consider diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lafayette's GDP growth is driven by educational services and healthcare, showing resilience post-pandemic."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lafayette is $53,000, reflecting a stable economic environment for families."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lafayette increasingly specialize in education funding and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lafayette's cost of living remains below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lafayette's real estate market is competitive, with home prices rising steadily, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lafayette's business climate is improving, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

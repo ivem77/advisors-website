@@ -1,0 +1,186 @@
+{
+  "cityName": "Novi",
+  "state": "Michigan",
+  "slug": "novi",
+  "population": "57.9K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Novi",
+  "metaDescription": "Find top-rated financial advisors in Novi. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Waldo Wealth Partners",
+      "url": "http://www.waldowealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    },
+    {
+      "name": "The Financial Center, LLC",
+      "url": "http://www.thefinctr.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Blue Chip Partners",
+      "url": "https://www.bluechippartners.com/?utm_source=gmb&utm_medium=organic&utm_campaign=farmingtonhills",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 216
+    },
+    {
+      "name": "Alliance Advisors Wealth Management LLC",
+      "url": "http://www.allianceadvisors.financial/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Russell Winkler Private Wealth Management of Raymond James",
+      "url": "https://www.raymondjames.com/russellwinklerpwm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Novi, Michigan, is a vibrant suburban city known for its strong community and economic growth.",
+  "landscapeDescription": "Novi's economy is diverse, with significant contributions from retail, healthcare, and technology sectors. The city is part of the Detroit metropolitan area, benefiting from regional economic activities.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Novi requires tailored financial services to support its growing population and diverse industries.",
+  "citySpecificRiskAdvice": "Novi's tech and retail sectors face volatility; housing market risks include potential bubbles. Prepare for flooding and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Novi's economy has shown steady growth, with a focus on retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Novi is approximately $85,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Novi are increasingly specializing in retirement and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Novi's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Novi's real estate market is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Novi offers a favorable business climate, attracting new companies and fostering entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

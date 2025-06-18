@@ -1,0 +1,186 @@
+{
+  "cityName": "St. Peters",
+  "state": "Missouri",
+  "slug": "st-peters",
+  "population": "54.8K (metro: 2.8M)",
+  "pageTitle": "Best Financial Advisors in St. Peters",
+  "metaDescription": "Find top-rated financial advisors in St. Peters. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "One Financial Group",
+      "url": "https://www.raymondjames.com/onefinancialstl/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Mission Financial",
+      "url": "http://raymondjames.com/missionfinancial",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Anushri S Fischer, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anushri-fischer?y_source=1_MTEzNTA5OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sara C Fitzpatrick, ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sara-fitzpatrick?y_source=1_OTY2OTMwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Money Concepts",
+      "url": "https://cbi.moneyconcepts.com/wealth-concepts-inc-saint-peters-mo-63376/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "St. Peters, Missouri is a vibrant city known for its family-friendly atmosphere and robust economic growth.",
+  "landscapeDescription": "With a population of 54,842, St. Peters boasts a diverse economy supported by retail, healthcare, and manufacturing sectors. The city is strategically located near major highways, enhancing its appeal for businesses.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "St. Peters requires tailored financial advice to navigate its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "St. Peters' retail focus poses risks amid e-commerce growth. Housing market may face volatility; diversify investments. Prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Peters has seen a steady economic growth rate of 3.2%, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in St. Peters is approximately $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Peters are increasingly specializing in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), St. Peters' cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Peters' real estate market is competitive, with home prices increasing by 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Peters is recognized for its favorable business climate, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city",
+      "population": 467007,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis",
+      "population": 318416,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield",
+      "population": 164122,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence",
+      "population": 117240,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia",
+      "population": 115276,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit",
+      "population": 93184,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon",
+      "population": 82809,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph",
+      "population": 77147,
+      "priority": 1,
+      "stateAbbreviation": "MO"
+    }
+  ]
+}

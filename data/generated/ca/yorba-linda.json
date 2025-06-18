@@ -1,0 +1,186 @@
+{
+  "cityName": "Yorba Linda",
+  "state": "California",
+  "slug": "yorba-linda",
+  "population": "67K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Yorba Linda",
+  "metaDescription": "Find top-rated financial advisors in Yorba Linda. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ark Wealth Advisors",
+      "url": "https://arkwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Laura L Schroeder",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/laura-schroeder?y_source=1_OTY4MzkzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lighthouse Financial Services Inc",
+      "url": "http://www.lighthouselink.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 38
+    },
+    {
+      "name": "Pure Financial Advisors, LLC",
+      "url": "https://purefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kent Arnold, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kent-arnold?y_source=1_OTY4ODQ1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Yorba Linda, California, is a suburban city known for its affluent neighborhoods and rich history.",
+  "landscapeDescription": "Yorba Linda's economy is bolstered by its proximity to major tech hubs and affluent demographics. The city benefits from a strong residential market and local businesses.",
+  "majorIndustries": "Real Estate, Retail, Professional Services",
+  "medianIncome": "$105,000",
+  "uniqueNeeds": "Yorba Linda requires tailored financial advice due to its affluent population and unique real estate market dynamics.",
+  "citySpecificRiskAdvice": "Yorba Linda's reliance on real estate poses bubble risks amid rising prices. Diversify investments to mitigate economic downturns and prepare for potential wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Yorba Linda shows steady economic growth driven by local businesses and affluent consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Yorba Linda is $105,000, reflecting its affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Yorba Linda are increasingly focusing on real estate and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Yorba Linda is higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Yorba Linda's real estate market remains competitive, with home values appreciating steadily."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Yorba Linda's business climate is favorable, with support for local enterprises and a growing entrepreneurial spirit."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

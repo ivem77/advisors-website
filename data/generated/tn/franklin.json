@@ -1,0 +1,186 @@
+{
+  "cityName": "Franklin",
+  "state": "Tennessee",
+  "slug": "franklin",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Franklin",
+  "metaDescription": "Find top-rated financial advisors in Franklin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Abound Wealth Management",
+      "url": "http://www.aboundwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Mercer Advisors - Franklin",
+      "url": "https://www.merceradvisors.com/location/franklin/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Dobyns McMillin Wealth Team",
+      "url": "https://www.sagespring.com/advisors/dobyns-mcmillin-wealth-team/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "William Bevins Financial Advisor & Planner",
+      "url": "https://williambevins.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Retirement Renegade",
+      "url": "https://retirementrenegade.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 92
+    }
+  ],
+  "heroDescription": "Franklin, Tennessee, is a vibrant city known for its rich history and thriving economy.",
+  "landscapeDescription": "With a population of 68,886, Franklin boasts a diverse economy driven by healthcare, retail, and technology sectors. The city is part of the Nashville metropolitan area, contributing to its growth.",
+  "majorIndustries": "Healthcare, Retail, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Franklin requires tailored financial advice focusing on real estate, healthcare, and tech industries.",
+  "citySpecificRiskAdvice": "Franklin's tech and healthcare sectors face concentration risks; real estate prices may bubble. Prepare for flooding and tornado risks; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Franklin's economy has seen a steady growth rate of 3.5% annually, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Franklin is approximately $85,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Franklin increasingly specialize in real estate and retirement planning due to demographic trends."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Franklin's cost of living is 10% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Franklin has risen to $450,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Franklin's business climate is favorable, with low unemployment and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    }
+  ]
+}

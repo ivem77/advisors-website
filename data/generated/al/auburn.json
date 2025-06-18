@@ -1,0 +1,186 @@
+{
+  "cityName": "Auburn",
+  "state": "Alabama",
+  "slug": "auburn",
+  "population": "58.6K (metro: 585.8K)",
+  "pageTitle": "Best Financial Advisors in Auburn",
+  "metaDescription": "Find top-rated financial advisors in Auburn. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kelly R Wilson, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelly-r-wilson?y_source=1_MTEzMzQ5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "LaMar Wealth Management",
+      "url": "https://www.raymondjames.com/LamarFinancial",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "20/20 Wealth Management Group, LLC",
+      "url": "http://2020wmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wilson Investment Group",
+      "url": "http://www.wilsoninvestmentgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lipscomb Wealth",
+      "url": "http://www.lipscombwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Auburn, Alabama, is a vibrant city known for its rich history and educational institutions.",
+  "landscapeDescription": "Auburn's economy is driven by education, healthcare, and manufacturing. The city benefits from a strong university presence and a growing tech sector.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Auburn's economy requires diversification to mitigate risks from education and manufacturing reliance.",
+  "citySpecificRiskAdvice": "Auburn's education sector poses risks; diversify investments beyond local industries. Real estate may face bubble risks; monitor housing prices. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Auburn's economy has shown steady growth, driven by educational expansion and local business development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Auburn is $45,000, reflecting a diverse economic base with significant student population influence."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Auburn are increasingly focusing on education funding and retirement planning for local families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Auburn's cost of living is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Auburn's real estate market is competitive, with home prices rising due to demand from students and families."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Auburn's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham",
+      "population": 212113,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery",
+      "population": 201332,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile",
+      "population": 194899,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville",
+      "population": 186254,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa",
+      "population": 95334,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover",
+      "population": 84126,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan",
+      "population": 68001,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn",
+      "population": 58582,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "West Allis",
+  "state": "Wisconsin",
+  "slug": "west-allis",
+  "population": "60.7K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in West Allis",
+  "metaDescription": "Find top-rated financial advisors in West Allis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Colin J Dewey, ABFP®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/colin-dewey?y_source=1_MTQ1MTUxOTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Alliance Wealth Management Milwaukee",
+      "url": "http://www.awmmil.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Planners Group",
+      "url": "http://www.plannersfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Missy Wahlen",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/missy-wahlen?y_source=1_MjY4MTcyNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Broadview Financial Management, LLC",
+      "url": "https://www.broadviewfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "West Allis, Wisconsin, is a vibrant city known for its rich industrial history and diverse community.",
+  "landscapeDescription": "The economy of West Allis is characterized by a mix of manufacturing, healthcare, and retail sectors. The city is strategically located near Milwaukee, enhancing its economic prospects.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "West Allis requires tailored financial strategies to address its unique industrial landscape and community needs.",
+  "citySpecificRiskAdvice": "West Allis faces manufacturing concentration risks and potential real estate market volatility. Prepare for flooding and economic shifts by diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), West Allis has shown steady economic growth, driven by a resurgence in manufacturing and local business development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in West Allis is $54,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in West Allis are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in West Allis is relatively affordable, making it an attractive option for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in West Allis is experiencing moderate appreciation, with concerns about potential bubbles in certain neighborhoods."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), West Allis offers a supportive business environment, with incentives for manufacturing and healthcare sectors to thrive."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    }
+  ]
+}

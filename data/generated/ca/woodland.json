@@ -1,0 +1,186 @@
+{
+  "cityName": "Woodland",
+  "state": "California",
+  "slug": "woodland",
+  "population": "56.6K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Woodland",
+  "metaDescription": "Find top-rated financial advisors in Woodland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Main Street Wealth Group",
+      "url": "http://www.mainstreetwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Ameriprise Financial Advisors",
+      "url": "http://www.mainstreetwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kevin C Haarberg, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kevin-haarberg?y_source=1_OTYxOTQ0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "David Pinto - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/david.pinto/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Leah Roman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/leah-roman?y_source=1_OTY3NzA4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Woodland, California, is a vibrant city known for its agricultural roots and growing economy.",
+  "landscapeDescription": "Woodland's economy is diverse, with agriculture, manufacturing, and retail as key sectors. The city benefits from proximity to Sacramento, enhancing its economic potential.",
+  "majorIndustries": "Agriculture, Manufacturing, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Woodland requires tailored financial advice due to its unique agricultural economy and growing suburban demographic.",
+  "citySpecificRiskAdvice": "Woodland's agriculture sector faces climate risks; housing market may be overvalued. Diversify investments to mitigate economic downturns and natural disaster impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Woodland's economy has shown steady growth, driven by agriculture and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Woodland is approximately $70,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), advisors in Woodland are increasingly focusing on agricultural investments and real estate."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Woodland's cost of living is moderate, with housing costs rising due to demand."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Woodland's real estate market is competitive, with prices increasing due to limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Woodland offers a supportive business climate with incentives for local startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

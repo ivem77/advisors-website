@@ -1,0 +1,138 @@
+{
+  "cityName": "Huntington",
+  "state": "West Virginia",
+  "slug": "huntington",
+  "population": "49.2K (metro: 49177)",
+  "pageTitle": "Best Financial Advisors in Huntington",
+  "metaDescription": "Find top-rated financial advisors in Huntington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Baird Private Wealth Management",
+      "url": "https://huntington.bairdwealth.com/?_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Raymond James & Associates",
+      "url": "https://www.raymondjames.com/huntington-branch",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/huntington-branch?y_source=1_MjM2MTc0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Peter Dewald - Raymond James",
+      "url": "https://www.raymondjames.com/roismandewaldgroup",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Rooney Financial LLC",
+      "url": "http://www.rooneyfinancial.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Huntington, WV, a vibrant city on the Ohio River, blends rich history with modern development.",
+  "landscapeDescription": "Huntington's economy is diverse, driven by healthcare, education, and manufacturing sectors. The city is experiencing gradual growth, attracting new businesses and residents.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$41,000",
+  "uniqueNeeds": "Huntington requires tailored financial services to address its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Huntington's economy relies on healthcare and education, posing risks if these sectors falter. Real estate may face volatility; diversify investments to mitigate flooding and economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Huntington's GDP growth is steady, driven by healthcare and education investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Huntington is $41,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Huntington focus on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Huntington's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Huntington shows moderate appreciation, but affordability remains a concern."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Huntington's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charleston",
+      "state": "West Virginia",
+      "slug": "charleston",
+      "population": 50821,
+      "priority": 1,
+      "stateAbbreviation": "WV"
+    },
+    {
+      "name": "Huntington",
+      "state": "West Virginia",
+      "slug": "huntington",
+      "population": 49177,
+      "priority": 1,
+      "stateAbbreviation": "WV"
+    }
+  ]
+}

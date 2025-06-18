@@ -1,0 +1,186 @@
+{
+  "cityName": "Manhattan",
+  "state": "Kansas",
+  "slug": "manhattan",
+  "population": "56.1K (metro: 56.1K)",
+  "pageTitle": "Best Financial Advisors in Manhattan",
+  "metaDescription": "Find top-rated financial advisors in Manhattan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CGN Advisors, LLC",
+      "url": "https://cgnadvisors.com/mhk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Catherine McKinley, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/catherine-mckinley?y_source=1_MTc4NDkxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "AMICUS Wealth Partners: Gail M Urban - Financial Advisor",
+      "url": "http://www.amicus-partners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "J Caleb Bradley - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/caleb.j.bradley/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Dan Seemann, ChFC®|CFP®",
+      "url": "https://advisor.firstcommand.com/us/ks/manhattan/dfseemann?y_source=1_MjA5NjE4ODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Manhattan, Kansas, known as the 'Little Apple,' is a vibrant college town with a rich history and a growing economy.",
+  "landscapeDescription": "Home to Kansas State University, Manhattan's economy thrives on education, agriculture, and healthcare. The city is experiencing steady growth in population and business activity.",
+  "majorIndustries": "Education, Agriculture, Healthcare",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Manhattan requires tailored financial services to support its diverse population and growing economy.",
+  "citySpecificRiskAdvice": "Manhattan's reliance on education and agriculture poses risks; housing market may face volatility. Prepare for tornado risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Manhattan's economy has grown steadily, driven by educational services and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Manhattan is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Manhattan are increasingly focusing on education and agriculture sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Manhattan's cost of living is lower than the national average, making it attractive for families and students."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Manhattan is competitive, with rising prices driven by demand from students and families."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Manhattan's business climate is favorable, supported by local universities and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita",
+      "population": 386552,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park",
+      "population": 181260,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city",
+      "population": 148483,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe",
+      "population": 131885,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka",
+      "population": 127679,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence",
+      "population": 90811,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee",
+      "population": 64323,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan",
+      "population": 56143,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    }
+  ]
+}

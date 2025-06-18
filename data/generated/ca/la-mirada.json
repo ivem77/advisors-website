@@ -1,0 +1,186 @@
+{
+  "cityName": "La Mirada",
+  "state": "California",
+  "slug": "la-mirada",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in La Mirada",
+  "metaDescription": "Find top-rated financial advisors in La Mirada. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Retirement Planning Advisors, Inc.",
+      "url": "http://www.retirementplanningadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Prosper Financial Mortgage Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zV7hCst3YARjvXWWw4FeR8",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 69
+    },
+    {
+      "name": "Adam Lafarga Lender",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJM6tXscrTtyQRpMpUwo5T3v8",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Anna Li Castro, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anna-licastro?y_source=1_MTM1NTg0Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ken Whittenbury, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ken-whittenbury?y_source=1_OTY4OTY1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "La Mirada, California, is a vibrant city known for its community spirit and diverse economy.",
+  "landscapeDescription": "The city has a population of 49,133 and is characterized by a mix of retail, education, and healthcare sectors. Its proximity to Los Angeles provides additional economic opportunities.",
+  "majorIndustries": "Retail, Education, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "La Mirada requires tailored financial services to support its diverse population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "La Mirada's retail focus risks economic downturns; diversify into tech and healthcare. Real estate prices may bubble; monitor housing trends. Prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), La Mirada's economy shows steady growth, driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in La Mirada is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in La Mirada increasingly specialize in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), La Mirada's cost of living is competitive, with housing costs being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), La Mirada's real estate market is experiencing moderate appreciation, with potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), La Mirada offers a supportive business climate, attracting small to medium enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

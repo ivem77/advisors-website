@@ -1,0 +1,186 @@
+{
+  "cityName": "Hendersonville",
+  "state": "Tennessee",
+  "slug": "hendersonville",
+  "population": "54K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in Hendersonville",
+  "metaDescription": "Find top-rated financial advisors in Hendersonville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Collier Wealth Management Inc.",
+      "url": "https://collierwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 137
+    },
+    {
+      "name": "Chad Richards, Partner - Rock Castle Wealth Advisors",
+      "url": "http://rockcastlewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Guided Wealth Financial Partners, LLC",
+      "url": "https://www.guidedwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Eric Berner, Partner - Rock Castle Wealth Advisors",
+      "url": "https://www.rockcastlewealth.com/team/eric-berner",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Clint Ruth, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/clint-ruth?y_source=1_MzI1ODg3Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Hendersonville, TN, a vibrant suburb of Nashville, offers a blend of suburban charm and proximity to urban amenities.",
+  "landscapeDescription": "Hendersonville's economy is driven by healthcare, retail, and manufacturing. The city benefits from its location near Nashville, enhancing its economic prospects.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Hendersonville requires tailored financial advice due to its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Hendersonville's reliance on healthcare and retail poses risks; housing market appreciation may indicate bubble concerns. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hendersonville's economy has shown steady growth, driven by local healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hendersonville is approximately $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hendersonville are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hendersonville's cost of living is slightly below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Hendersonville is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hendersonville's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Eden Prairie",
+  "state": "Minnesota",
+  "slug": "eden-prairie",
+  "population": "62.6K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Eden Prairie",
+  "metaDescription": "Find top-rated financial advisors in Eden Prairie. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Strategic Wealth Group",
+      "url": "https://www.strategicwg.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "The Wealth Group - Austin B. Colby & Associates | Eden Prairie, MN",
+      "url": "https://thewealthgroup.com/home",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Mission Wealth",
+      "url": "https://missionwealth.com/location/eden-prairie/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "G4 Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/g4-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Boulevard Wealth Management",
+      "url": "https://blvdwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Eden Prairie, Minnesota, is a vibrant suburb known for its strong community and economic opportunities.",
+  "landscapeDescription": "Eden Prairie boasts a diverse economy with a focus on technology, healthcare, and retail. The city is part of the larger Minneapolis-St. Paul metropolitan area, enhancing its economic potential.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Eden Prairie requires tailored financial strategies due to its tech focus and housing market dynamics.",
+  "citySpecificRiskAdvice": "Eden Prairie's tech sector needs diversification to mitigate economic downturns. Rapid housing price increases pose bubble risks; consider geographic investment spread. Monitor for severe weather impa...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Eden Prairie's economy is growing steadily, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Eden Prairie is approximately $100,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Eden Prairie are increasingly focusing on tech and healthcare investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Eden Prairie is higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Eden Prairie shows strong demand, with home values appreciating significantly."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Eden Prairie offers a favorable business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

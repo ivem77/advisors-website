@@ -1,0 +1,186 @@
+{
+  "cityName": "Newark",
+  "state": "Ohio",
+  "slug": "newark",
+  "population": "47.8K (metro: 477.8K)",
+  "pageTitle": "Best Financial Advisors in Newark",
+  "metaDescription": "Find top-rated financial advisors in Newark. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Van Winkle Wealth Management Group, LLC",
+      "url": "https://www.financialplanningnewarkoh.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Doug Stutz, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/doug-stutz?y_source=1_OTYyOTAzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Farnsworth Financial Services Inc",
+      "url": "https://www.farnsworthfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kevin W Cox, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kevin-cox?y_source=1_MjY4MTY5Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tyler N Dunlap",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tyler-dunlap?y_source=1_MTU0NTIzMzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Newark, Ohio, a growing city with a rich history and vibrant community.",
+  "landscapeDescription": "Newark's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city is experiencing steady population growth and investment in infrastructure.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Newark requires enhanced economic diversification and investment in technology sectors to sustain growth.",
+  "citySpecificRiskAdvice": "Newark's manufacturing focus poses risks; diversify into tech and healthcare. Watch for real estate bubbles and flooding risks; invest wisely.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Newark's GDP growth is projected at 2.5%, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Newark is $55,000, reflecting a stable middle-class presence."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Newark are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Newark's cost of living is 10% lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Newark's housing market shows a 5% increase in home prices, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Newark's business climate is improving, with new incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

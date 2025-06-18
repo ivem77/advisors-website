@@ -1,0 +1,186 @@
+{
+  "cityName": "Alpharetta",
+  "state": "Georgia",
+  "slug": "alpharetta",
+  "population": "62.3K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Alpharetta",
+  "metaDescription": "Find top-rated financial advisors in Alpharetta. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Active Wealth Management, Inc.",
+      "url": "http://www.activewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "ATLas Investment Advisors",
+      "url": "https://invest-atlas.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Daner Wealth Management",
+      "url": "http://danerwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Elm3 Financial Group, LLC",
+      "url": "https://www.elm3financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 81
+    },
+    {
+      "name": "Solley Financial Services",
+      "url": "http://www.solleyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 57
+    }
+  ],
+  "heroDescription": "Alpharetta, Georgia, is a vibrant city known for its robust economy and high quality of life.",
+  "landscapeDescription": "Alpharetta's economy thrives on technology, healthcare, and retail sectors. The city boasts a skilled workforce and a growing population, contributing to its dynamic growth.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Alpharetta requires tailored financial strategies to support its tech-driven economy and affluent residents.",
+  "citySpecificRiskAdvice": "Alpharetta's tech focus necessitates diversification to mitigate industry risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Alpharetta's economy has expanded by 5% annually, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Alpharetta is approximately $100,000, reflecting its affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Alpharetta are increasingly specializing in tech investments and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Alpharetta is 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Alpharetta has risen to $450,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Alpharetta is ranked as one of the best places for business due to its favorable tax policies and infrastructure."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta",
+      "population": 447841,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus",
+      "population": 202824,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county",
+      "population": 197350,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah",
+      "population": 142772,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county",
+      "population": 119980,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs",
+      "population": 99770,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell",
+      "population": 94034,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon",
+      "population": 89981,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    }
+  ]
+}

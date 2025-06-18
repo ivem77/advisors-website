@@ -1,0 +1,186 @@
+{
+  "cityName": "Collierville",
+  "state": "Tennessee",
+  "slug": "collierville",
+  "population": "47.3K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Collierville",
+  "metaDescription": "Find top-rated financial advisors in Collierville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "MidSouth Advisors",
+      "url": "http://www.midsouthadvisors.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Wealth Strategies Group",
+      "url": "http://thewealthstrategiesgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Pickler Wealth Advisors",
+      "url": "https://www.picklerwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Financial Consulting Group",
+      "url": "http://www.fcgtn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 36
+    },
+    {
+      "name": "Sego Wealth Management, LLC",
+      "url": "http://www.segowealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Collierville, Tennessee, is a vibrant suburb of Memphis known for its rich history and family-friendly atmosphere.",
+  "landscapeDescription": "With a population of 47,333, Collierville boasts a diverse economy anchored by retail, healthcare, and education. The town's strategic location enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Collierville requires tailored financial advice due to its suburban growth and family-oriented demographics.",
+  "citySpecificRiskAdvice": "Collierville's retail focus poses risks from e-commerce shifts. Housing market growth may indicate bubble risks. Prepare for tornadoes and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Collierville's economy has seen a steady growth rate of 3.2%, driven by retail expansion and local business development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Collierville is approximately $85,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Collierville are increasingly focusing on retirement planning and wealth management for families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Collierville is about 10% higher than the national average, driven by housing and education costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Collierville is competitive, with home values increasing by 5% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Collierville's business climate is favorable, with a supportive local government and incentives for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    }
+  ]
+}

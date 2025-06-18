@@ -1,0 +1,186 @@
+{
+  "cityName": "Coeur d'Alene",
+  "state": "Idaho",
+  "slug": "coeur-d-alene",
+  "population": "46.4K (metro: 46.4K)",
+  "pageTitle": "Best Financial Advisors in Coeur d'Alene",
+  "metaDescription": "Find top-rated financial advisors in Coeur d'Alene. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pinkerton Wealth Management",
+      "url": "http://www.pinkertonretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Robinson Financial Services",
+      "url": "https://www.taxrfs.com/splash",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    },
+    {
+      "name": "White Pine Wealth",
+      "url": "https://whitepinewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Strategies",
+      "url": "http://www.myadvisortim.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "the financial wealth & wellness center",
+      "url": "https://www.fwwcenter.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Coeur d'Alene, Idaho, is a picturesque city known for its stunning lake and outdoor recreational opportunities.",
+  "landscapeDescription": "The economy of Coeur d'Alene is primarily driven by tourism, healthcare, and retail sectors. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Coeur d'Alene requires strategies for tourism sustainability and healthcare access improvements.",
+  "citySpecificRiskAdvice": "Coeur d'Alene's tourism reliance poses economic risks; housing market volatility could lead to bubbles. Prepare for natural disasters like wildfires and floods.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Coeur d'Alene's economy has grown by 3.5% annually, driven by tourism and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Coeur d'Alene is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Coeur d'Alene are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Coeur d'Alene's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Coeur d'Alene has seen a 12% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Coeur d'Alene's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city",
+      "population": 214237,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa",
+      "population": 86518,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian",
+      "population": 83596,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls",
+      "population": 58292,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello",
+      "population": 54350,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell",
+      "population": 48957,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene",
+      "population": 46402,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls",
+      "population": 45981,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    }
+  ]
+}

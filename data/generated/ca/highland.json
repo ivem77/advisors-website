@@ -1,0 +1,186 @@
+{
+  "cityName": "Highland",
+  "state": "California",
+  "slug": "highland",
+  "population": "54.3K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Highland",
+  "metaDescription": "Find top-rated financial advisors in Highland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Massongill Wealth Management | Financial Advisor | Redlands | Yucaipa",
+      "url": "http://www.massongillwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "KWB Wealth",
+      "url": "https://kwbwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Maupin Payne Financial Advisors - David Maupin CFP® Daniel Payne CFP®",
+      "url": "https://www.maupinfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Strategic Financial Solutions",
+      "url": "http://www.haveastrategy.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Marshall Life and Financial Solutions, Inc.",
+      "url": "https://marshall-life.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    }
+  ],
+  "heroDescription": "Highland, California, is a vibrant city with a diverse community and a growing economy.",
+  "landscapeDescription": "Highland's economy is bolstered by retail, healthcare, and education sectors. The city is strategically located near major transportation routes, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Highland requires tailored financial planning due to its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Highland's retail focus poses risks from e-commerce trends. Real estate values may face volatility; diversify investments. Prepare for flooding and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Highland's economy has shown steady growth, with a focus on retail and healthcare services driving local employment."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Highland's median household income is approximately $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Highland are increasingly focusing on retirement planning and investment diversification strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Highland's cost of living is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Highland's real estate market is competitive, with home prices rising steadily, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Highland offers a supportive business climate with incentives for small businesses and startups, fostering local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

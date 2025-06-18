@@ -1,0 +1,138 @@
+{
+  "cityName": "Casper",
+  "state": "Wyoming",
+  "slug": "casper",
+  "population": "59.6K (metro: 59.6K)",
+  "pageTitle": "Best Financial Advisors in Casper",
+  "metaDescription": "Find top-rated financial advisors in Casper. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Focus Partners Wealth",
+      "url": "https://wealth.focuspartners.com/?y_source=1_MTAwNjA3NTExMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lincoln Financial Advisors",
+      "url": "http://www.lfawyoming.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Paul W Baxter, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/paul-baxter?y_source=1_OTY3OTAxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "LPL Financial",
+      "url": "https://www.wyomingwealthsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Stifel",
+      "url": "https://mhm-wealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Casper, Wyoming, is a vibrant city known for its rich history and outdoor recreational opportunities.",
+  "landscapeDescription": "Casper's economy is primarily driven by energy, healthcare, and education sectors. The city is experiencing stable growth, attracting new businesses and residents.",
+  "majorIndustries": "Energy, Healthcare, Education",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Casper requires a focus on economic diversification and sustainable growth strategies to mitigate risks.",
+  "citySpecificRiskAdvice": "Casper's energy sector concentration poses risks; diversify investments. Real estate may face volatility; monitor housing trends. Prepare for winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Casper's economy has shown resilience with a 3% growth rate driven by energy and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Casper is $56,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Casper are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Casper's cost of living is approximately 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Casper is stable, with a median home price of $250,000, showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Casper's business climate is improving, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Cheyenne",
+      "state": "Wyoming",
+      "slug": "cheyenne",
+      "population": 62448,
+      "priority": 1,
+      "stateAbbreviation": "WY"
+    },
+    {
+      "name": "Casper",
+      "state": "Wyoming",
+      "slug": "casper",
+      "population": 59628,
+      "priority": 1,
+      "stateAbbreviation": "WY"
+    }
+  ]
+}

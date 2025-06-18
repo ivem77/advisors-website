@@ -1,0 +1,186 @@
+{
+  "cityName": "Kettering",
+  "state": "Ohio",
+  "slug": "kettering",
+  "population": "55.9K (metro: 800K)",
+  "pageTitle": "Best Financial Advisors in Kettering",
+  "metaDescription": "Find top-rated financial advisors in Kettering. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Secure Future Advisors",
+      "url": "http://securefutureadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Bayer Financial Group, LLC",
+      "url": "http://www.bayerfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ron Solada, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ron-solada?y_source=1_OTYyNDUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Anderson Financial Strategies, LLC",
+      "url": "https://www.andersonfinancialstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Karn Singh",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/karn-singh?y_source=1_NDkwNjMxNDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Kettering, Ohio, a vibrant suburb of Dayton, offers a blend of residential charm and economic opportunity.",
+  "landscapeDescription": "Kettering's economy is diverse, with strengths in healthcare, education, and manufacturing. The city is part of the Dayton metropolitan area, fostering regional collaboration.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Kettering requires tailored financial advice for its aging population and growing healthcare sector.",
+  "citySpecificRiskAdvice": "Kettering's healthcare focus necessitates diversification to mitigate economic downturns. Real estate prices are rising, posing bubble risks. Tornadoes and flooding are local weather concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kettering's economy has shown steady growth, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Kettering is $62,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kettering are increasingly focusing on retirement planning and healthcare-related investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kettering's cost of living is slightly below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Kettering's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kettering's business climate is favorable, with supportive local policies for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

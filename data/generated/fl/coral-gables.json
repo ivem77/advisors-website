@@ -1,0 +1,186 @@
+{
+  "cityName": "Coral Gables",
+  "state": "Florida",
+  "slug": "coral-gables",
+  "population": "49.6K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Coral Gables",
+  "metaDescription": "Find top-rated financial advisors in Coral Gables. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Private Wealth Management of Coral Gables",
+      "url": "https://pwmcg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Anthem Advisors",
+      "url": "https://www.anthemadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Alexander S. Tecle - Financial Advisor",
+      "url": "http://ztpwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Ladin Tax & Financial Group - Coral Gables & Miami Financial Advisors",
+      "url": "http://www.ladintax.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Coral Gables, known as 'The City Beautiful', features Mediterranean Revival architecture and lush landscapes.",
+  "landscapeDescription": "Coral Gables boasts a vibrant economy with a strong focus on finance, real estate, and tourism. Its proximity to Miami enhances its appeal as a business hub.",
+  "majorIndustries": "Finance, Real Estate, Tourism",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Coral Gables requires tailored financial services due to its affluent demographic and unique real estate market.",
+  "citySpecificRiskAdvice": "Coral Gables' real estate market faces bubble risks from high demand and limited supply. Diversify investments to mitigate hurricane and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Coral Gables' economy is expanding, driven by a surge in tourism and real estate development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Coral Gables is approximately $80,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Coral Gables are increasingly focusing on wealth management and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Coral Gables is higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Coral Gables' real estate market shows strong appreciation, with median home prices exceeding $1 million."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Coral Gables offers a favorable business climate with incentives for startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

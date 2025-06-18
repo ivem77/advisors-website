@@ -1,0 +1,186 @@
+{
+  "cityName": "Decatur",
+  "state": "Alabama",
+  "slug": "decatur",
+  "population": "55.8K (metro: 558.2K)",
+  "pageTitle": "Best Financial Advisors in Decatur",
+  "metaDescription": "Find top-rated financial advisors in Decatur. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dewayne Eddy - LPL Financial",
+      "url": "http://www.providentwealthsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "RIVERFRONT WEALTH MANAGEMENT",
+      "url": "http://www.riverfrontwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "The Albany Group",
+      "url": "http://www.thealbanygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Lentz Thompson Retirement Advisors",
+      "url": "http://www.lentzthompson.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tore K Haavik, AAMS®|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tore-haavik?y_source=1_NDE3NjM5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Decatur, Alabama, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Decatur's economy is bolstered by manufacturing, healthcare, and retail sectors. The city benefits from its strategic location along the Tennessee River.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$48,000",
+  "uniqueNeeds": "Decatur requires investment in tech and healthcare sectors to foster economic growth and stability.",
+  "citySpecificRiskAdvice": "Decatur's manufacturing focus risks economic downturns; housing market shows signs of inflation. Prepare for tornadoes and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Decatur's economy has seen a 3% growth rate, driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Decatur is approximately $48,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Decatur are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Decatur's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Decatur have increased by 5% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Decatur's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham",
+      "population": 212113,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery",
+      "population": 201332,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile",
+      "population": 194899,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville",
+      "population": 186254,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa",
+      "population": 95334,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover",
+      "population": 84126,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan",
+      "population": 68001,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn",
+      "population": 58582,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    }
+  ]
+}

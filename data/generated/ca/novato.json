@@ -1,0 +1,186 @@
+{
+  "cityName": "Novato",
+  "state": "California",
+  "slug": "novato",
+  "population": "54.2K (metro: 54194)",
+  "pageTitle": "Best Financial Advisors in Novato",
+  "metaDescription": "Find top-rated financial advisors in Novato. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Valley Oak Wealth Management",
+      "url": "http://www.valleyoakwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Pharos Wealth Management",
+      "url": "http://www.pharoswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "LFA Private Wealth Management",
+      "url": "http://www.lfaprivatewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Alders Financial Solutions",
+      "url": "https://www.aldersfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Fiduciary Financial Group",
+      "url": "http://www.ffgwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    }
+  ],
+  "heroDescription": "Novato, California, is a vibrant city in Marin County known for its scenic beauty and community-focused lifestyle.",
+  "landscapeDescription": "The economy of Novato is primarily driven by healthcare, retail, and technology sectors. The city benefits from its proximity to San Francisco, attracting businesses and residents alike.",
+  "majorIndustries": "Healthcare, Retail, Technology",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Novato residents seek affordable housing and improved public transportation options.",
+  "citySpecificRiskAdvice": "Novato's tech reliance poses diversification risks; housing market shows bubble signs. Prepare for flooding and wildfires; diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Novato's economy has shown steady growth, with a focus on healthcare and technology sectors contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Novato is approximately $100,000, reflecting a relatively affluent community with diverse income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Novato often specialize in retirement planning and investment strategies tailored to high-net-worth individuals."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Novato is higher than the national average, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Novato's real estate market is competitive, with home prices rising due to limited inventory and high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Novato's business climate is favorable, with support for startups and established firms, particularly in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

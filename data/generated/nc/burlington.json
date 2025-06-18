@@ -1,0 +1,186 @@
+{
+  "cityName": "Burlington",
+  "state": "North Carolina",
+  "slug": "burlington",
+  "population": "51.5K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Burlington",
+  "metaDescription": "Find top-rated financial advisors in Burlington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fisher Wealth Management",
+      "url": "https://www.fisher-wealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Anchor Wealth Management LLC",
+      "url": "http://www.anchorwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Betty Andrews Investment Management",
+      "url": "http://bettyandrewsinvestmentmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sherry Stanley-Martin",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sherry-stanley?y_source=1_OTY2Njg0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Milestone Wealth Management",
+      "url": "http://www.milestone-wm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Burlington, NC, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "With a population of 51,510, Burlington's economy is diverse, featuring manufacturing, retail, and healthcare. The city is strategically located in the Piedmont region, enhancing its economic potential.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Burlington requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Burlington's manufacturing focus poses risks; diversify into tech and healthcare. Real estate may face bubble risks; monitor housing trends. Prepare for flooding and tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Burlington's economy has shown steady growth, driven by a resurgence in manufacturing and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Burlington is $54,000, reflecting a diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Burlington are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Burlington's cost of living is below the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Burlington's real estate market is experiencing moderate growth, with home prices rising steadily but not excessively."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Burlington's business climate is favorable, with supportive local policies and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    }
+  ]
+}

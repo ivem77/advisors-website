@@ -1,0 +1,186 @@
+{
+  "cityName": "North Richland Hills",
+  "state": "Texas",
+  "slug": "north-richland-hills",
+  "population": "67K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in North Richland Hills",
+  "metaDescription": "Find top-rated financial advisors in North Richland Hills. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Michael W Brown, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-brown?y_source=1_OTY4NjA5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Gary E Short, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/gary-short?y_source=1_OTY1MDc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Christa B Miller",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/christa-b-miller?y_source=1_MTA2NjgwMzU4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Schooler Financial",
+      "url": "http://www.schoolerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jody L Corbet, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jody-corbet?y_source=1_NjM5OTc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "North Richland Hills is a vibrant suburban city in the Dallas-Fort Worth area, known for its family-friendly environment and diverse community.",
+  "landscapeDescription": "The city boasts a robust economy driven by retail, healthcare, and education. Its proximity to major metropolitan areas enhances business opportunities.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "North Richland Hills requires a focus on sustainable growth and diversification to mitigate risks from industry concentration.",
+  "citySpecificRiskAdvice": "North Richland Hills faces risks from retail and healthcare concentration. Housing market appreciation raises bubble concerns. Prepare for tornadoes and flooding; diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Richland Hills has seen a steady economic growth rate of 3.5% annually, driven by local business expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in North Richland Hills is approximately $76,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly specializing in retirement planning and investment management to meet local needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in North Richland Hills is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in North Richland Hills is competitive, with home prices rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Richland Hills offers a favorable business climate with low taxes and a supportive local government for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Pocatello",
+  "state": "Idaho",
+  "slug": "pocatello",
+  "population": "54.4K (metro: 54.4K)",
+  "pageTitle": "Best Financial Advisors in Pocatello",
+  "metaDescription": "Find top-rated financial advisors in Pocatello. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Merit Financial Advisors",
+      "url": "https://www.meritfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Larsen Financial",
+      "url": "http://larsenfinancial.us/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jared Cook",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jared-cook?y_source=1_ODYyMDQzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Becky Walls",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/becky-walls?y_source=1_MTIxMjA4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Gateway Capital Advisory Group",
+      "url": "https://www.gatewaycag.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Pocatello, Idaho, is a vibrant city known for its rich history and outdoor recreational opportunities.",
+  "landscapeDescription": "Pocatello's economy is diverse, with strengths in education, healthcare, and manufacturing. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Pocatello requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Pocatello's economy is vulnerable to education sector fluctuations. Real estate prices may rise, creating bubble risks. Prepare for potential natural disasters like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pocatello's GDP growth has been steady, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Pocatello is approximately $52,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pocatello are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pocatello's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Pocatello's real estate market shows signs of growth, with home prices rising due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pocatello's business climate is favorable for small businesses, supported by local government initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city",
+      "population": 214237,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa",
+      "population": 86518,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian",
+      "population": 83596,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls",
+      "population": 58292,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello",
+      "population": 54350,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell",
+      "population": 48957,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene",
+      "population": 46402,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls",
+      "population": 45981,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    }
+  ]
+}

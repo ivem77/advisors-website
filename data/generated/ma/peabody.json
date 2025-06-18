@@ -1,0 +1,186 @@
+{
+  "cityName": "Peabody",
+  "state": "Massachusetts",
+  "slug": "peabody",
+  "population": "52K (metro: 4.9M)",
+  "pageTitle": "Best Financial Advisors in Peabody",
+  "metaDescription": "Find top-rated financial advisors in Peabody. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "High Mark Wealth Strategies",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJMdureoMS44kRMkSvb1NjBNU",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Apex Wealth",
+      "url": "http://apex-wealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ashley Brothers, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ashley-brothers?y_source=1_MjI0OTA2Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Terranova & Associates CPA, LLC",
+      "url": "https://www.terranovacpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 226
+    },
+    {
+      "name": "Nishan Mootafian, CRPC",
+      "url": "http://nishanmootafian.com/menu/contact-us",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Peabody, Massachusetts, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Peabody's economy is bolstered by retail, manufacturing, and healthcare sectors. The city benefits from its proximity to Boston, enhancing its economic landscape.",
+  "majorIndustries": "Retail, Manufacturing, Healthcare",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Peabody requires investment in infrastructure and workforce development to support its growing economy.",
+  "citySpecificRiskAdvice": "Peabody's retail and manufacturing sectors face economic shifts; real estate prices may be inflated. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Peabody's economy has shown steady growth, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Peabody is $76,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Peabody are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Peabody's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Peabody's real estate market is competitive, with home values rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Peabody's business climate is favorable, with supportive local policies encouraging entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    }
+  ]
+}

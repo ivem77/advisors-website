@@ -1,0 +1,186 @@
+{
+  "cityName": "Petaluma",
+  "state": "California",
+  "slug": "petaluma",
+  "population": "59.4K (metro: 594.4K)",
+  "pageTitle": "Best Financial Advisors in Petaluma",
+  "metaDescription": "Find top-rated financial advisors in Petaluma. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Breen Wealth Management, LLC",
+      "url": "http://www.breenwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katherine Wells",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katherine-wells?y_source=1_MTE3NTEyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Spiritus Financial Planning",
+      "url": "http://www.spiritusfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Craig Walker",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/craig-walker?y_source=1_Mzc5NTAxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Zim Wealth Management - Financial Advisor for Business Owners & CEOs, Petaluma CA",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJqaBaEqe2hYAR-qTZPHZQV6E",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Petaluma, California, is a vibrant city known for its rich history and agricultural roots.",
+  "landscapeDescription": "Petaluma's economy thrives on agriculture, manufacturing, and a growing tech sector. The city benefits from its proximity to the San Francisco Bay Area.",
+  "majorIndustries": "Agriculture, Manufacturing, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Petaluma requires sustainable growth strategies to balance agriculture with urban development.",
+  "citySpecificRiskAdvice": "Petaluma's tech growth poses concentration risks; housing prices may bubble. Flooding and wildfires are concerns. Diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Petaluma's economy is expanding, driven by tech and agriculture, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Petaluma is approximately $80,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Petaluma are increasingly focusing on sustainable investments and tech sector strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Petaluma is rising, with housing costs significantly impacting affordability."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Petaluma's real estate market shows a 10% increase in home prices year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Petaluma's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

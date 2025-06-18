@@ -1,0 +1,172 @@
+{
+  "cityName": "Porterville",
+  "state": "California",
+  "slug": "porterville",
+  "population": "55K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Porterville",
+  "metaDescription": "Find top-rated financial advisors in Porterville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ball Wealth Management",
+      "url": "http://www.eballwealth.com/team/eric-s-ball-msfs-clu-cfp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "First Allied Sec Reed & Shmkr",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ-W1Vx0a46oARuUuMdzM2Xbo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Roger Dhillon CPA",
+      "url": "https://www.rd4cpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "John S Hardin - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/john.s.hardin/?cid=IP_local_google",
+      "rating": 4,
+      "stars": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Porterville, CA, is a vibrant city known for its agricultural roots and growing economy.",
+  "landscapeDescription": "With a population of 55,174, Porterville's economy is primarily driven by agriculture, healthcare, and retail. The city is strategically located in the San Joaquin Valley, providing access to major markets.",
+  "majorIndustries": "Agriculture, Healthcare, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Porterville requires tailored financial advice focusing on agricultural investments and local market dynamics.",
+  "citySpecificRiskAdvice": "Porterville's agriculture-heavy economy faces climate risks; diversify investments to mitigate real estate market bubbles and consider flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Porterville's economy is growing steadily, driven by agriculture and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Porterville is approximately $45,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Porterville are increasingly focusing on agricultural investments and local business growth."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Porterville's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Porterville shows signs of growth, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Porterville's business climate is favorable for small businesses, particularly in agriculture and retail sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

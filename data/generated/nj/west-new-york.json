@@ -1,0 +1,186 @@
+{
+  "cityName": "West New York",
+  "state": "New Jersey",
+  "slug": "west-new-york",
+  "population": "52.1K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in West New York",
+  "metaDescription": "Find top-rated financial advisors in West New York. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Highland Financial Advisors, LLC",
+      "url": "https://www.highlandplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Summit Financial Consulting",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJsZjF9RlYwokRBj51lu7IC7I",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Green Ridge Wealth Planning",
+      "url": "http://www.grwealthplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Carson Wealth, LLC",
+      "url": "https://www.carsonwealth.com/insights/blog/cwm-locations/franklin-lakes-nj-franklin-ave/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 98
+    },
+    {
+      "name": "Wharton Wealth Planning",
+      "url": "http://www.whartonwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "West New York, NJ is a vibrant urban community with a rich cultural heritage and diverse population.",
+  "landscapeDescription": "The economy of West New York is primarily driven by retail, healthcare, and service industries. Its proximity to New York City enhances its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Services",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "West New York requires tailored financial planning due to its diverse population and urban challenges.",
+  "citySpecificRiskAdvice": "West New York's retail-heavy economy faces risks from e-commerce. Housing market volatility and flooding from storms are concerns; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), West New York's economy is growing steadily, with a focus on service sector expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in West New York is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in West New York are increasingly specializing in urban investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in West New York is higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in West New York shows signs of appreciation, with potential bubble risks due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), West New York's business climate is favorable for small businesses, though competition is intense."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    }
+  ]
+}

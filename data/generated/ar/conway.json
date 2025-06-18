@@ -1,0 +1,186 @@
+{
+  "cityName": "Conway",
+  "state": "Arkansas",
+  "slug": "conway",
+  "population": "63.8K (metro: 1.1M)",
+  "pageTitle": "Best Financial Advisors in Conway",
+  "metaDescription": "Find top-rated financial advisors in Conway. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Gratus Wealth Management",
+      "url": "https://gratus.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 164
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Stacey Alston, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/stacey-alston?y_source=1_MTI3NjY0MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Cardinal Investment Group",
+      "url": "http://www.cardinalinvestmentgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew F Carpenter, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-carpenter?y_source=1_MjM3MzI4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Jeremiah Cascairo - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Jeremiah.Cascairo/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Conway, Arkansas is a vibrant city known for its educational institutions and growing economy.",
+  "landscapeDescription": "With a population of 63,816, Conway is experiencing steady economic growth driven by education, healthcare, and retail sectors. The city benefits from its proximity to Little Rock, enhancing its economic opportunities.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Conway requires tailored financial services to support its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Conway's reliance on education and retail sectors poses risks; diversify investments. Real estate is booming, raising bubble concerns. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Conway's economy has grown by 3.5% annually, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Conway is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Conway are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Conway's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Conway have increased by 8% year-over-year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Conway's business climate is favorable, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock",
+      "population": 197357,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith",
+      "population": 87650,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville",
+      "population": 78960,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale",
+      "population": 75229,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro",
+      "population": 71551,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock",
+      "population": 66075,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway",
+      "population": 63816,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers",
+      "population": 60112,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    }
+  ]
+}

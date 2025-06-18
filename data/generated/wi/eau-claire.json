@@ -1,0 +1,186 @@
+{
+  "cityName": "Eau Claire",
+  "state": "Wisconsin",
+  "slug": "eau-claire",
+  "population": "67.5K (metro: 675K)",
+  "pageTitle": "Best Financial Advisors in Eau Claire",
+  "metaDescription": "Find top-rated financial advisors in Eau Claire. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Bernicke Wealth Management",
+      "url": "https://bit.ly/43I4jaG",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 80
+    },
+    {
+      "name": "KeyStone Financial",
+      "url": "http://keystonecv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 25
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bill Hilgedick, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bill-hilgedick?y_source=1_NjM5NzQxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Trust Point",
+      "url": "http://www.trustpointinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Orgel Wealth Management",
+      "url": "https://www.orgelwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Eau Claire, Wisconsin, is a vibrant city known for its rich cultural scene and strong community ties.",
+  "landscapeDescription": "Eau Claire's economy is diverse, with a mix of healthcare, education, and manufacturing sectors driving growth. The city is also experiencing a resurgence in tech startups.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Eau Claire requires tailored financial advice due to its unique economic landscape and community-focused environment.",
+  "citySpecificRiskAdvice": "Eau Claire's economy relies on healthcare and education; diversify investments to mitigate risks. Monitor housing market trends to avoid bubbles, and prepare for winter weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Eau Claire's economy has shown a steady growth rate of 3.2% over the past year, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Eau Claire is $58,000, reflecting a diverse economic base and stable employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Eau Claire are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Eau Claire's cost of living is approximately 10% lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Eau Claire's real estate market is experiencing moderate growth, with home prices rising by 5% year-over-year, indicating a stable market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Eau Claire's business climate is favorable, with supportive local policies and a growing number of startups in the tech sector."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI"
+    }
+  ]
+}

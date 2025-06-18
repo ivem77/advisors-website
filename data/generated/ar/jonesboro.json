@@ -1,0 +1,186 @@
+{
+  "cityName": "Jonesboro",
+  "state": "Arkansas",
+  "slug": "jonesboro",
+  "population": "71.6K (metro: 71.6K)",
+  "pageTitle": "Best Financial Advisors in Jonesboro",
+  "metaDescription": "Find top-rated financial advisors in Jonesboro. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew B Kraus",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-kraus?y_source=1_OTYyMTA3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Alan Preston",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/alan-preston?y_source=1_MjI0OTAwMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/jonesboro-branch?y_source=1_MjM2MTkxMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Benjamin F. Edwards",
+      "url": "https://www.benjaminfedwards.com/branch/benjamin-f-edwards-jonesboro-ar/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Barry Hesse - Thrivent",
+      "url": "https://connect.thrivent.com/barry-hesse?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzU0MTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Jonesboro, Arkansas, a vibrant city with a rich cultural heritage and a growing economy.",
+  "landscapeDescription": "Jonesboro's economy is diverse, with strengths in agriculture, healthcare, and education. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Agriculture, Healthcare, Education",
+  "medianIncome": "$48,000",
+  "uniqueNeeds": "Jonesboro requires tailored financial strategies to address its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Jonesboro's reliance on agriculture poses economic risks; consider diversifying investments. Real estate may face volatility due to local market conditions and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jonesboro's economy has shown steady growth, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jonesboro is approximately $48,000, reflecting the city's economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jonesboro are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jonesboro's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Jonesboro is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jonesboro's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock",
+      "population": 197357,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith",
+      "population": 87650,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville",
+      "population": 78960,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale",
+      "population": 75229,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro",
+      "population": 71551,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock",
+      "population": 66075,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway",
+      "population": 63816,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers",
+      "population": 60112,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    }
+  ]
+}

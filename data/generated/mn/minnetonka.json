@@ -1,0 +1,186 @@
+{
+  "cityName": "Minnetonka",
+  "state": "Minnesota",
+  "slug": "minnetonka",
+  "population": "51.4K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Minnetonka",
+  "metaDescription": "Find top-rated financial advisors in Minnetonka. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Marks Group Wealth Management",
+      "url": "https://marksgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Refine Wealth Strategies",
+      "url": "http://www.refinewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Endeavr Financial Planning & Wealth Management",
+      "url": "https://www.endeavrweatlth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Fiat Wealth Management",
+      "url": "http://fiatwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "TreeLine Wealth Management - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/treeline-wealth-management/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Minnetonka, Minnesota, is a vibrant suburban city known for its excellent schools and recreational opportunities.",
+  "landscapeDescription": "Minnetonka boasts a diverse economy with a strong focus on retail, healthcare, and technology. The city benefits from its proximity to the Twin Cities, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Minnetonka requires tailored financial strategies due to its suburban dynamics and diverse economic base.",
+  "citySpecificRiskAdvice": "Minnetonka's tech sector growth necessitates diversification to mitigate market volatility. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Minnetonka's economy is expanding, driven by retail and healthcare sectors, contributing to stable job growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Minnetonka is $85,000, reflecting a prosperous community with high educational attainment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Minnetonka are increasingly focusing on retirement planning and investment strategies tailored to affluent clients."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Minnetonka is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Minnetonka is competitive, with home prices increasing due to high demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Minnetonka's business climate is favorable, with supportive local policies and a strong entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

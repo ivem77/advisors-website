@@ -1,0 +1,186 @@
+{
+  "cityName": "Wilson",
+  "state": "North Carolina",
+  "slug": "wilson",
+  "population": "49.6K (metro: 496.3K)",
+  "pageTitle": "Best Financial Advisors in Wilson",
+  "metaDescription": "Find top-rated financial advisors in Wilson. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Collins, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-collins?y_source=1_NjQwOTgwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Plan4it Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/plan4it-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Wes Brown",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/wes-brown?y_source=1_OTY4NTQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael C Strickland, ChFC®|CLU®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-strickland?y_source=1_Mjk1MjczMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Susan Worrell-Bridgers",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/susan-worrell-bridgers?y_source=1_NjQxMDk2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Wilson, NC, a vibrant city with a rich agricultural heritage and growing economic sectors.",
+  "landscapeDescription": "Wilson's economy is diversifying with growth in healthcare, manufacturing, and logistics. The city benefits from its strategic location along major highways.",
+  "majorIndustries": "Healthcare, Manufacturing, Logistics",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Wilson's economy requires diversification to mitigate risks associated with agriculture and manufacturing.",
+  "citySpecificRiskAdvice": "Wilson's reliance on agriculture and manufacturing poses risks; housing market may face volatility. Prepare for flooding and hurricanes; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wilson's economy is projected to grow by 3% annually, driven by healthcare and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wilson is $52,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wilson are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wilson's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wilson's real estate market is experiencing steady growth, with home prices rising 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wilson's business environment is improving, with new incentives attracting small to medium enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    }
+  ]
+}

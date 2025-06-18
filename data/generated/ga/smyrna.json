@@ -1,0 +1,186 @@
+{
+  "cityName": "Smyrna",
+  "state": "Georgia",
+  "slug": "smyrna",
+  "population": "53438",
+  "pageTitle": "Best Financial Advisors in Smyrna",
+  "metaDescription": "Find top-rated financial advisors in Smyrna. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wiser Wealth Management, Inc",
+      "url": "https://www.wiserinvestor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 148
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Casey M Field, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/casey-field?y_source=1_OTYzOTMwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Paces Ferry Wealth Advisors",
+      "url": "https://pacesferrywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Arbor Portfolio Management",
+      "url": "http://arborportfoliomanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Signature Wealth Management Group",
+      "url": "http://www.signaturewmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Smyrna, Georgia, is a vibrant suburb of Atlanta, known for its family-friendly atmosphere and growing economy.",
+  "landscapeDescription": "With a population of 53,438, Smyrna is part of the Atlanta metropolitan area, benefiting from its proximity to major urban centers. The local economy is diversifying, with a mix of retail, healthcare, and technology sectors.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$64,000",
+  "uniqueNeeds": "Smyrna's community values family-friendly amenities and local business support.",
+  "citySpecificRiskAdvice": "Smyrna's tech and retail sectors face competition risks; housing market shows signs of bubble. Prepare for flooding and tornado risks. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Smyrna's economy is expanding, driven by retail and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Smyrna is approximately $64,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Smyrna are increasingly focusing on retirement planning and investment diversification strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Smyrna's cost of living is slightly above the national average, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Smyrna's housing market is competitive, with home prices rising 8% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Smyrna offers a favorable business climate with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta",
+      "population": 447841,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus",
+      "population": 202824,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county",
+      "population": 197350,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah",
+      "population": 142772,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county",
+      "population": 119980,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs",
+      "population": 99770,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell",
+      "population": 94034,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon",
+      "population": 89981,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    }
+  ]
+}

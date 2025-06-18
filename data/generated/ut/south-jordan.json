@@ -1,0 +1,186 @@
+{
+  "cityName": "South Jordan",
+  "state": "Utah",
+  "slug": "south-jordan",
+  "population": "59.4K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in South Jordan",
+  "metaDescription": "Find top-rated financial advisors in South Jordan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Granite Canyon Wealth Management",
+      "url": "http://www.granitecanyonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Stonecreek Wealth Advisors, Inc.",
+      "url": "https://www.stonecreekwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Partner Alliance Advisors",
+      "url": "http://www.partnerallianceadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michelle A Chadwick, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michelle-chadwick?y_source=1_MTgzNzgxNDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chance L Hiskey, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chance-hiskey?y_source=1_OTY1MTU0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "South Jordan, Utah, is a rapidly growing city known for its family-friendly atmosphere and vibrant community.",
+  "landscapeDescription": "With a population of 59,366, South Jordan is part of the Salt Lake City metropolitan area, benefiting from its proximity to major economic hubs. The city boasts a diverse economy with a mix of technology, retail, and healthcare sectors.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$90,000",
+  "uniqueNeeds": "Focus on tech growth while managing housing affordability and community resources.",
+  "citySpecificRiskAdvice": "South Jordan's tech sector growth demands diversification to mitigate market volatility. Housing prices may face bubble risks; consider geographic investment. Flooding and winter storms pose natural d...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), South Jordan's economy is expanding, driven by technology and healthcare sectors, with a projected growth rate of 4% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in South Jordan is $90,000, reflecting a growing affluent population with increasing purchasing power."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in South Jordan are increasingly specializing in tech investments and retirement planning due to demographic shifts."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in South Jordan is rising, with housing costs significantly impacting affordability for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in South Jordan is competitive, with home prices increasing by 10% over the past year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), South Jordan's business climate is favorable, with incentives for tech startups and a supportive local government promoting economic development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

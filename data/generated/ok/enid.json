@@ -1,0 +1,186 @@
+{
+  "cityName": "Enid",
+  "state": "Oklahoma",
+  "slug": "enid",
+  "population": "50.7K (metro: 507.25K)",
+  "pageTitle": "Best Financial Advisors in Enid",
+  "metaDescription": "Find top-rated financial advisors in Enid. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Equity Financial Group - Investments | Estate Planning | Insurance",
+      "url": "http://www.equityfg.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Clay H Hutson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/clay-hutson?y_source=1_OTY0MzAwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jenna L Rosine",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jenna-rosine?y_source=1_MTIxNzY1NTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "K/H Financial, LLC",
+      "url": "http://kh.financial/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Rob Bullis, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rob-bullis?y_source=1_OTY2MDQ1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Enid, Oklahoma, is a vibrant city known for its rich agricultural heritage and growing economy.",
+  "landscapeDescription": "Enid's economy is primarily driven by agriculture, manufacturing, and energy sectors. The city is strategically located, enhancing its trade and logistics capabilities.",
+  "majorIndustries": "Agriculture, Manufacturing, Energy",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Enid requires support for agricultural innovation and diversification into tech and renewable energy sectors.",
+  "citySpecificRiskAdvice": "Enid's reliance on agriculture and energy poses risks; diversify into tech. Real estate may face volatility due to economic shifts and weather-related disruptions.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Enid's economy has shown steady growth, driven by agricultural exports and manufacturing expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Enid is $56,000, reflecting a stable economic environment for residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Enid are increasingly focusing on agricultural investments and local business support."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Enid's cost of living remains below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Enid's real estate market is stable, with moderate appreciation rates and a balanced supply-demand dynamic."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Enid's business climate is favorable, with incentives for startups and established firms in key industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city",
+      "population": 610613,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa",
+      "population": 398121,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman",
+      "population": 118197,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow",
+      "population": 103500,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton",
+      "population": 97151,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond",
+      "population": 87004,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore",
+      "population": 58414,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city",
+      "population": 56756,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    }
+  ]
+}

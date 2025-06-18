@@ -1,0 +1,186 @@
+{
+  "cityName": "Weymouth Town",
+  "state": "Massachusetts",
+  "slug": "weymouth-town",
+  "population": "55.4K (metro: 554.2K)",
+  "pageTitle": "Best Financial Advisors in Weymouth Town",
+  "metaDescription": "Find top-rated financial advisors in Weymouth Town. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Harper Financial Associates, LLC",
+      "url": "http://www.harperfinancialassociates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Lowrey Financial Group",
+      "url": "http://lowreyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor Christopher Fahey",
+      "url": "https://advisor.ml.com/sites/ma/hingham/faheyobrien",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sebastian Gonzalez - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/sebastian.b.gonzalez/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "LRVS Advisory Group",
+      "url": "https://www.lrvsadvisory.com/?utm_source=GBP&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Weymouth Town, MA, is a vibrant community with rich history and diverse economic opportunities.",
+  "landscapeDescription": "Weymouth Town boasts a stable economy supported by healthcare, retail, and education sectors. The town's proximity to Boston enhances its economic prospects.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$83,000",
+  "uniqueNeeds": "Weymouth requires a focus on sustainable growth and infrastructure improvements to support its expanding population.",
+  "citySpecificRiskAdvice": "Weymouth's retail and healthcare sectors face economic shifts; housing market volatility and flooding risks necessitate diversification and strategic planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Weymouth's economy has shown resilience with a growth rate of 2.5% in the past year, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Weymouth is $83,000, reflecting a stable middle-class demographic with potential for growth."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Weymouth are increasingly specializing in retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Weymouth's cost of living is approximately 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Weymouth is competitive, with home values rising 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Weymouth's business climate is favorable, with a supportive local government and access to Boston's economic resources."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA"
+    }
+  ]
+}

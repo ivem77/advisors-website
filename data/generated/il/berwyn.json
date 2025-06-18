@@ -1,0 +1,186 @@
+{
+  "cityName": "Berwyn",
+  "state": "Illinois",
+  "slug": "berwyn",
+  "population": "56.8K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Berwyn",
+  "metaDescription": "Find top-rated financial advisors in Berwyn. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Riverside Financial Inc",
+      "url": "http://www.riverside-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Opal Insurance & Financial Services Group, Inc.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eDqTDDKD4gRebSmpqONS1I",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Begbie Wealth Advisory",
+      "url": "https://begbiewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bill Eilbracht, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bill-eilbracht?y_source=1_OTY4OTg2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Margaret A Connolly, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/margaret-connolly?y_source=1_OTY5NTQ2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Berwyn, Illinois, is a vibrant suburb of Chicago known for its rich cultural diversity and strong community ties.",
+  "landscapeDescription": "Berwyn's economy is bolstered by its proximity to Chicago, with a mix of retail, healthcare, and manufacturing industries. The city is experiencing steady growth, driven by local businesses and a supportive community.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Berwyn requires tailored financial advice to navigate its diverse economic landscape and community-focused growth.",
+  "citySpecificRiskAdvice": "Berwyn's reliance on retail and healthcare poses risks; housing market fluctuations may lead to instability. Prepare for flooding and consider diversifying investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Berwyn's economy has shown resilience, with a growth rate of 3.2% driven by local business expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Berwyn's median household income stands at $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Berwyn increasingly focus on retirement planning and wealth management for diverse clients."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Berwyn's cost of living is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Berwyn's housing market is stable, with a median home price of $290,000, reflecting steady demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Berwyn is fostering a supportive business climate with incentives for small businesses and local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

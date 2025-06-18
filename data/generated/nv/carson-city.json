@@ -1,0 +1,170 @@
+{
+  "cityName": "Carson City",
+  "state": "Nevada",
+  "slug": "carson-city",
+  "population": "54.1K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Carson City",
+  "metaDescription": "Find top-rated financial advisors in Carson City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kendra L Wilson, ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kendra-wilson?y_source=1_MTk1OTc3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: John E Dooley III",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-dooley?y_source=1_OTY3NzE5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael D Haakinson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-haakinson?y_source=1_MTE1NTgyNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dana Uken",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dana-uken?y_source=1_OTY5MDQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer Rust, ChFC®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-rust?y_source=1_OTYyNTQyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Carson City, the capital of Nevada, blends rich history with a growing economy.",
+  "landscapeDescription": "The economy of Carson City is diverse, with a focus on government, tourism, and healthcare. Recent growth trends indicate a steady increase in local employment opportunities.",
+  "majorIndustries": "Government, Tourism, Healthcare",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Carson City requires tailored financial services due to its unique economic structure and demographic profile.",
+  "citySpecificRiskAdvice": "Carson City's reliance on government jobs poses economic risks; housing market fluctuations and potential flooding require diversification in investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Carson City's economy has shown a 3% growth rate, driven by increased government spending and tourism activities."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Carson City is approximately $62,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Carson City are increasingly focusing on retirement planning and government employee benefits."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Carson City's cost of living is 10% lower than the national average, making it an attractive place for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Carson City have risen by 5% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Carson City is fostering a business-friendly environment with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Las Vegas",
+      "state": "Nevada",
+      "slug": "las-vegas",
+      "population": 603488,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    },
+    {
+      "name": "Henderson",
+      "state": "Nevada",
+      "slug": "henderson",
+      "population": 270811,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    },
+    {
+      "name": "Reno",
+      "state": "Nevada",
+      "slug": "reno",
+      "population": 233294,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    },
+    {
+      "name": "North Las Vegas",
+      "state": "Nevada",
+      "slug": "north-las-vegas",
+      "population": 226877,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    },
+    {
+      "name": "Sparks",
+      "state": "Nevada",
+      "slug": "sparks",
+      "population": 93282,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    },
+    {
+      "name": "Carson City",
+      "state": "Nevada",
+      "slug": "carson-city",
+      "population": 54080,
+      "priority": 1,
+      "stateAbbreviation": "NV"
+    }
+  ]
+}

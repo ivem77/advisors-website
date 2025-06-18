@@ -1,0 +1,186 @@
+{
+  "cityName": "Brentwood",
+  "state": "California",
+  "slug": "brentwood",
+  "population": "55K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Brentwood",
+  "metaDescription": "Find top-rated financial advisors in Brentwood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Tony Aguilar Jr",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tony-aguilar?y_source=1_NTk1NTAzOTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Berean Wealth Management",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8_xd3-j4ARZksRVwTfigs",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "California Financial Advisors",
+      "url": "https://calfinad.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Andrews Consulting, CPA's & Business Advisors",
+      "url": "http://www.andrewsconsultingcpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Homeowners Financial Group",
+      "url": "https://homeownersfg.com/location/brentwood-discovery-bay/?y_source=1_MjkyMTQ1MjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Brentwood, California, is a growing suburban city known for its family-friendly environment and vibrant community.",
+  "landscapeDescription": "Brentwood's economy is primarily driven by retail, healthcare, and agriculture, with a focus on community development. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Retail, Healthcare, Agriculture",
+  "medianIncome": "$95,000",
+  "uniqueNeeds": "Brentwood requires tailored financial planning for families and retirees, focusing on education and healthcare funding.",
+  "citySpecificRiskAdvice": "Brentwood's retail sector faces e-commerce risks. Housing prices are rising, indicating potential bubble risks. Prepare for wildfires and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Brentwood's economy is expanding, with a growth rate of 3.5% driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Brentwood is $95,000, reflecting a prosperous community with a high standard of living."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Brentwood are increasingly focusing on retirement planning and wealth management for families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Brentwood's cost of living is approximately 15% higher than the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Brentwood's real estate market is competitive, with median home prices rising 10% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Brentwood's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

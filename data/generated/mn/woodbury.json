@@ -1,0 +1,186 @@
+{
+  "cityName": "Woodbury",
+  "state": "Minnesota",
+  "slug": "woodbury",
+  "population": "65.7K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Woodbury",
+  "metaDescription": "Find top-rated financial advisors in Woodbury. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Bernicke Wealth Management",
+      "url": "https://bit.ly/3FmE6o1",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Pine Grove Financial Group",
+      "url": "http://www.pinegrovefg.com/?utm_medium=GMB&utm_source=Google&utm_campaign=Profile",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Pursuit Wealth Management",
+      "url": "http://www.pursuit-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Woodbury Wealth Management",
+      "url": "http://www.woodburywealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4a41000000BMZuAAO/woodbury-mn?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=woodbury&utm_term=woodbury",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Woodbury, Minnesota, is a vibrant suburban city known for its family-friendly atmosphere and strong community engagement.",
+  "landscapeDescription": "Woodbury's economy is diverse, with a mix of retail, healthcare, and professional services driving growth. The city benefits from its proximity to the Twin Cities, enhancing its economic prospects.",
+  "majorIndustries": "Healthcare, Retail, Professional Services",
+  "medianIncome": "$92,000",
+  "uniqueNeeds": "Woodbury requires tailored financial strategies to address suburban growth and family-oriented services.",
+  "citySpecificRiskAdvice": "Woodbury's retail and healthcare sectors face competition; real estate prices are rising, posing bubble risks. Prepare for flooding and diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Woodbury's economy has shown steady growth, driven by population influx and local business expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Woodbury's median household income is approximately $92,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Woodbury increasingly focus on retirement planning and family wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Woodbury's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Woodbury is competitive, with home prices increasing due to high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Woodbury offers a favorable business climate with supportive local policies and a growing workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

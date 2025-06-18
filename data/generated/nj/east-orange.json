@@ -1,0 +1,186 @@
+{
+  "cityName": "East Orange",
+  "state": "New Jersey",
+  "slug": "east-orange",
+  "population": "64.5K (metro: 19.9M)",
+  "pageTitle": "Best Financial Advisors in East Orange",
+  "metaDescription": "Find top-rated financial advisors in East Orange. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RAP Financial Services",
+      "url": "http://www.rapfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Highland Financial Advisors, LLC",
+      "url": "https://www.highlandplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    },
+    {
+      "name": "Gary Ginsberg - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Gary.Ginsberg/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Beacon Wealth Partners",
+      "url": "http://www.beaconwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "JB Wealth Financial Solutions",
+      "url": "http://www.jbwfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 31
+    }
+  ],
+  "heroDescription": "East Orange, NJ, is a vibrant city known for its rich cultural heritage and diverse community.",
+  "landscapeDescription": "East Orange serves as a suburban hub within the New York metropolitan area, fostering a mix of residential and commercial growth. The local economy is supported by healthcare, education, and retail sectors.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "East Orange requires attention to housing affordability, economic diversification, and community development initiatives.",
+  "citySpecificRiskAdvice": "East Orange's reliance on healthcare and education poses risks; diversify investments. Housing market pressures may lead to affordability issues. Monitor flooding risks and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), East Orange's economy has seen a modest growth rate of 2.5%, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income for East Orange residents is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in East Orange are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), East Orange's cost of living is approximately 10% higher than the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the East Orange real estate market is competitive, with home prices rising by 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), East Orange's business climate is improving, with new incentives attracting small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    }
+  ]
+}

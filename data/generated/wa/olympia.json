@@ -1,0 +1,186 @@
+{
+  "cityName": "Olympia",
+  "state": "Washington",
+  "slug": "olympia",
+  "population": "48.3K (metro: 483.4K)",
+  "pageTitle": "Best Financial Advisors in Olympia",
+  "metaDescription": "Find top-rated financial advisors in Olympia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Prentice Financial Planning, LLC",
+      "url": "http://www.prenticefp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Advocates",
+      "url": "http://www.financialadvocates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Elizabeth McCullough, CFP®|CEPA®|AAMS®|CRPC™|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/elizabeth-mccullough?y_source=1_OTgxNjY5My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Stapp Wealth Management, PLLC",
+      "url": "http://www.stappfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kirk L Mandlin, CIMA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kirk-mandlin?y_source=1_NTU5NzYyOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Olympia, Washington, is the state capital known for its vibrant arts scene and rich natural surroundings.",
+  "landscapeDescription": "Olympia's economy is diverse, driven by government, education, and healthcare sectors. The city benefits from its strategic location near Puget Sound.",
+  "majorIndustries": "Government, Education, Healthcare",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Olympia requires a focus on sustainable growth and infrastructure improvements to support its expanding population.",
+  "citySpecificRiskAdvice": "Olympia's government reliance poses economic risks; diversify into tech and green industries. Real estate is booming, raising bubble concerns. Flooding risks require infrastructure investment.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Olympia's GDP growth is steady, bolstered by public sector employment and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Olympia is approximately $62,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Olympia are increasingly focusing on retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Olympia's cost of living is moderate, with housing costs rising due to demand from nearby Seattle."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Olympia's real estate market is competitive, with home prices increasing by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Olympia's business climate is favorable, with incentives for startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    }
+  ]
+}

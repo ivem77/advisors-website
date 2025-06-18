@@ -1,0 +1,138 @@
+{
+  "cityName": "Charleston",
+  "state": "West Virginia",
+  "slug": "charleston",
+  "population": "50.8K (metro: 508.2K)",
+  "pageTitle": "Best Financial Advisors in Charleston",
+  "metaDescription": "Find top-rated financial advisors in Charleston. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Fourth Avenue Financial LLC",
+      "url": "http://www.fourthavenuefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/charleston-branch-2452205?y_source=1_MjQ1MjIwNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Freedom Financial",
+      "url": "http://www.theffig.com/contact",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4aUT0000002FFtYAM/charleston-wv?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=charleston-wv&utm_term=charleston-wv",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Heritage Investment Group Inc",
+      "url": "http://heritagegroupinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Charleston, West Virginia, is a historic city known for its vibrant culture and scenic landscapes.",
+  "landscapeDescription": "Charleston's economy is primarily driven by healthcare, education, and government services. The city is experiencing modest growth, bolstered by local investments.",
+  "majorIndustries": "Healthcare, Education, Government",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Charleston requires economic diversification to mitigate risks associated with its reliance on public sector jobs.",
+  "citySpecificRiskAdvice": "Charleston's economy is vulnerable due to its public sector reliance. Real estate may face downturns; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Charleston's GDP growth is steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Charleston is $45,000, reflecting the city's economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Charleston focus on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Charleston's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Charleston's housing market is stable, with moderate price growth and a balanced supply-demand ratio."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Charleston's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charleston",
+      "state": "West Virginia",
+      "slug": "charleston",
+      "population": 50821,
+      "priority": 1,
+      "stateAbbreviation": "WV"
+    },
+    {
+      "name": "Huntington",
+      "state": "West Virginia",
+      "slug": "huntington",
+      "population": 49177,
+      "priority": 1,
+      "stateAbbreviation": "WV"
+    }
+  ]
+}

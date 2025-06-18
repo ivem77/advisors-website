@@ -1,0 +1,186 @@
+{
+  "cityName": "Georgetown",
+  "state": "Texas",
+  "slug": "georgetown",
+  "population": "964K (metro: 2.4M)",
+  "pageTitle": "Best Financial Advisors in Georgetown",
+  "metaDescription": "Find top-rated financial advisors in Georgetown. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Goodwater Wealth Management Group of Raymond James",
+      "url": "http://www.goodwaterwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michelle L Marshall, CFP®|CEPA®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michelle-marshall?y_source=1_MTUzMTE4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Growth Horizons Wealth Management",
+      "url": "https://www.growthhorizonswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Len Fischman, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/len-fischman?y_source=1_OTY3MDMyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott Murphy, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-murphy?y_source=1_OTY4MTY5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Georgetown, Texas, is a rapidly growing city known for its vibrant community and scenic landscapes.",
+  "landscapeDescription": "With a population of 54,898, Georgetown is part of the Austin metropolitan area, benefiting from its economic growth and cultural vibrancy. The city is experiencing a surge in development and investment opportunities.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Georgetown requires tailored financial strategies to address its unique growth dynamics and community needs.",
+  "citySpecificRiskAdvice": "Georgetown's growth in healthcare and retail poses real estate bubble risks. Prepare for flooding and severe weather impacts; diversify investments to mitigate economic risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Georgetown's economy is expanding, driven by healthcare and retail sectors, with a projected growth rate of 4% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Georgetown is approximately $75,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Georgetown are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Georgetown is competitive, with housing costs rising due to increased demand."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Georgetown is robust, with home values appreciating significantly over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Georgetown's business climate is favorable, attracting new startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

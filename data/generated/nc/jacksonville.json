@@ -1,0 +1,186 @@
+{
+  "cityName": "Jacksonville",
+  "state": "North Carolina",
+  "slug": "jacksonville",
+  "population": "69K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Jacksonville",
+  "metaDescription": "Find top-rated financial advisors in Jacksonville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Command Financial Advisor - Walt Eldridge, RICP®",
+      "url": "https://advisor.firstcommand.com/us/nc/jacksonville/wkeldridge?y_source=1_MjA5NjIyMTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kelley R Tyson, ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelley-tyson?y_source=1_OTY3MzgxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cindi Williams, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cindi-williams?y_source=1_NjQxNTUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "First Command Financial Advisor - Joe McLaughlin, CFP®",
+      "url": "https://advisor.firstcommand.com/us/nc/jacksonville/jrmclaughlin?y_source=1_MjA5NjE5MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "First Command District Advisor - Joe Spencer, RICP®",
+      "url": "https://advisor.firstcommand.com/us/nc/jacksonville/jkspencer?y_source=1_MjA5NjIxMjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Jacksonville, NC, a growing city with a rich military history and vibrant community.",
+  "landscapeDescription": "Jacksonville's economy is bolstered by military presence and retail sectors. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Military, Retail, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Focus on military families and healthcare services due to local demographics.",
+  "citySpecificRiskAdvice": "Jacksonville's economy relies on military and retail sectors, posing risks if these decline. Real estate is vulnerable to hurricanes; diversify investments and consider flood zones.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jacksonville's GDP growth is driven by military spending and retail expansion, with a focus on sustainable development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Jacksonville is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jacksonville are increasingly specializing in military benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jacksonville's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Jacksonville's housing market is competitive, with rising prices due to demand from military families."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jacksonville offers a supportive business climate with incentives for new businesses, particularly in healthcare and retail."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    }
+  ]
+}

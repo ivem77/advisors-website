@@ -1,0 +1,186 @@
+{
+  "cityName": "North Little Rock",
+  "state": "Arkansas",
+  "slug": "north-little-rock",
+  "population": "660K (metro: 730K)",
+  "pageTitle": "Best Financial Advisors in North Little Rock",
+  "metaDescription": "Find top-rated financial advisors in North Little Rock. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lukas Total Wealth, (David Lukas Financial, David Lucas Financial)",
+      "url": "https://totalwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bob Jackson, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bob-jackson?y_source=1_NjQwNzA5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Wealth Management, Inc.",
+      "url": "http://www.canistillretire.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "ClientFirst Wealth, Legacy & Estate Planning",
+      "url": "https://www.clientfirstwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joel D Rice Jr, CFP®|ChFC®|CLU®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joel-rice?y_source=1_NjQxODI3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "North Little Rock, Arkansas, is a vibrant city known for its community spirit and diverse economic landscape.",
+  "landscapeDescription": "With a population of 66,075, North Little Rock serves as a key part of the Little Rock-North Little Rock-Conway metropolitan area. The city benefits from a mix of manufacturing, healthcare, and retail sectors.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "North Little Rock requires tailored financial strategies due to its unique economic landscape and community-focused initiatives.",
+  "citySpecificRiskAdvice": "North Little Rock's manufacturing sector faces economic volatility; housing market risks include affordability issues. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Little Rock's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in North Little Rock is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in North Little Rock increasingly specialize in retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), North Little Rock's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in North Little Rock is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Little Rock's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock",
+      "population": 197357,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith",
+      "population": 87650,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville",
+      "population": 78960,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale",
+      "population": 75229,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro",
+      "population": 71551,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock",
+      "population": 66075,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway",
+      "population": 63816,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers",
+      "population": 60112,
+      "priority": 1,
+      "stateAbbreviation": "AR"
+    }
+  ]
+}

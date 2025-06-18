@@ -1,0 +1,186 @@
+{
+  "cityName": "Taylor",
+  "state": "Michigan",
+  "slug": "taylor",
+  "population": "61.8K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Taylor",
+  "metaDescription": "Find top-rated financial advisors in Taylor. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Keith Lehman: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/mi/taylor/keith-lehman?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Smith - Prudential Financial",
+      "url": "https://www.prudential.com/advisor/edward-smith",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "TL Financial Group",
+      "url": "http://www.tlfgroup.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bespoke Financial Planning LLC",
+      "url": "http://www.bespokeplanning.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Rite Financial",
+      "url": "https://www.ritefin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Taylor, Michigan, is a vibrant city with a diverse economy and a rich community spirit.",
+  "landscapeDescription": "Taylor's economy is bolstered by manufacturing and retail sectors, contributing to its growth. The city benefits from its strategic location near Detroit, enhancing business opportunities.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Taylor requires tailored financial advice due to its unique economic landscape and community demographics.",
+  "citySpecificRiskAdvice": "Taylor's manufacturing focus poses risks during economic downturns. Real estate prices may face volatility; diversify investments. Monitor weather risks like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Taylor's economy has shown steady growth, driven by local manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Taylor is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Taylor are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Taylor's cost of living is competitive, making it an attractive location for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Taylor is experiencing moderate growth, with home prices stabilizing."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Taylor's business climate is favorable, supported by local government initiatives to attract new businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

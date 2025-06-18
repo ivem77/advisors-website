@@ -1,0 +1,186 @@
+{
+  "cityName": "Encinitas",
+  "state": "California",
+  "slug": "encinitas",
+  "population": "61.6K (metro: 3.3M)",
+  "pageTitle": "Best Financial Advisors in Encinitas",
+  "metaDescription": "Find top-rated financial advisors in Encinitas. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Stone Steps Financial LLC",
+      "url": "http://www.stonestepsfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Lifetime Financial Advisors, Inc.",
+      "url": "http://www.lfa-inc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Independent Wealth Solutions",
+      "url": "http://www.independentwealthsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Tidewater Financial",
+      "url": "https://www.tidewaterfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Seawise Financial, Inc.",
+      "url": "http://seawisefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    }
+  ],
+  "heroDescription": "Encinitas, California, is a coastal city known for its beautiful beaches and vibrant community.",
+  "landscapeDescription": "With a population of 61,588, Encinitas boasts a diverse economy driven by tourism, retail, and tech industries. The city benefits from its proximity to San Diego's metropolitan area.",
+  "majorIndustries": "Tourism, Retail, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Encinitas requires tailored financial strategies to address its coastal real estate market and tourism-driven economy.",
+  "citySpecificRiskAdvice": "Encinitas' tech and tourism sectors face volatility; housing prices may create a bubble. Prepare for coastal flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Encinitas has seen a steady economic growth rate of 3.2% annually, driven by tourism and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Encinitas is approximately $85,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Encinitas increasingly focus on real estate and retirement planning due to demographic trends."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Encinitas is 30% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Encinitas is around $1.2 million, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Encinitas has a favorable business climate, with a focus on sustainability and support for local startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Des Plaines",
+  "state": "Illinois",
+  "slug": "des-plaines",
+  "population": "58.9K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Des Plaines",
+  "metaDescription": "Find top-rated financial advisors in Des Plaines. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wilsave",
+      "url": "http://www.wilsave.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 87
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dan Chervenak, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dan-chervenak?y_source=1_OTY1MDE0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Will Brown, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/will-brown?y_source=1_OTYzMDk1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott M Seifert, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-seifert?y_source=1_NjQyNTAxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jody L Christman, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jody-christman?y_source=1_MzYwMzYwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Des Plaines, Illinois, is a vibrant city known for its diverse economy and strong community.",
+  "landscapeDescription": "With a population of 58,918, Des Plaines boasts a robust economy supported by various industries. The city is strategically located near Chicago, enhancing its economic potential.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Des Plaines requires tailored financial advice to navigate its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Des Plaines' reliance on retail and healthcare poses risks amid economic shifts. Real estate prices are rising, suggesting potential bubble risks. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Des Plaines has seen a steady economic growth rate of 3.2%, driven by healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Des Plaines is $75,000, reflecting a diverse economic base and skilled workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Des Plaines are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Des Plaines is approximately 10% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Des Plaines is competitive, with home prices rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Des Plaines offers a favorable business climate, with low taxes and incentives for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

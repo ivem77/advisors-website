@@ -1,0 +1,186 @@
+{
+  "cityName": "Mentor",
+  "state": "Ohio",
+  "slug": "mentor",
+  "population": "46.9K (metro: 2.0M)",
+  "pageTitle": "Best Financial Advisors in Mentor",
+  "metaDescription": "Find top-rated financial advisors in Mentor. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Regano Financial Services, Inc.",
+      "url": "https://www.reganofinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "Lakehouse Family Wealth | Financial Advisor | Financial Planning & Wealth Management - Benjamin Simerly, CFP®",
+      "url": "https://lakehousefamilywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Family Life Financial Planning",
+      "url": "http://www.saveforyourfamily.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Benjamin F. Edwards",
+      "url": "https://www.benjaminfedwards.com/branch/benjamin-f-edwards-mentor-oh/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "LakePointe Advisors LLC",
+      "url": "https://lakepointeadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Mentor, Ohio, is a vibrant city known for its rich history and community-focused living.",
+  "landscapeDescription": "Mentor's economy is diverse, with a mix of manufacturing, healthcare, and retail sectors. The city benefits from its proximity to Cleveland, enhancing its economic opportunities.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Mentor requires tailored financial strategies to address its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Mentor's manufacturing focus poses economic risks; diversify into tech and services. Real estate may face volatility; monitor housing trends. Flooding risks exist.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Mentor's economy shows steady growth, driven by local manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Mentor is $65,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Mentor increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Mentor's cost of living is competitive, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Mentor's real estate market is stable, with moderate appreciation and a balanced supply-demand dynamic."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Mentor's business climate is favorable, supported by local government initiatives and community engagement."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

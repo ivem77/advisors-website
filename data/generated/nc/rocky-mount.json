@@ -1,0 +1,186 @@
+{
+  "cityName": "Rocky Mount",
+  "state": "North Carolina",
+  "slug": "rocky-mount",
+  "population": "56.9K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Rocky Mount",
+  "metaDescription": "Find top-rated financial advisors in Rocky Mount. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Rocky Speight, AAMS®|FPQP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rocky-speight?y_source=1_OTYzNDcyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cathy G Porter, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cathy-porter?y_source=1_NjQwODc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Taylor Financial Strategies",
+      "url": "http://www.taylorfinancialrmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Christy T Warrick, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/christy-warrick?y_source=1_OTMxMDc4OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Stifel",
+      "url": "http://www.stifel.com/branch/nc/rocky-mount",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Rocky Mount, NC, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "With a population of 56,954, Rocky Mount serves as a regional hub for commerce and culture. The city is strategically located along major highways, enhancing its economic potential.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Rocky Mount requires focused economic diversification and investment in infrastructure to support growth.",
+  "citySpecificRiskAdvice": "Rocky Mount's reliance on manufacturing poses risks; diversify into tech and healthcare. Housing market shows signs of inflation; monitor for bubble risks. Prepare for flooding and hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rocky Mount's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rocky Mount is $45,000, reflecting the economic challenges faced by many residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rocky Mount are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rocky Mount's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Rocky Mount's real estate market is experiencing rising prices, indicating potential investment opportunities but also bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rocky Mount's business climate is improving, with incentives for new businesses and a focus on economic development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC"
+    }
+  ]
+}

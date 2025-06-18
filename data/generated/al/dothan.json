@@ -1,0 +1,186 @@
+{
+  "cityName": "Dothan",
+  "state": "Alabama",
+  "slug": "dothan",
+  "population": "68K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Dothan",
+  "metaDescription": "Find top-rated financial advisors in Dothan. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Magnolia Wealth Management",
+      "url": "http://www.magnoliawm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "CapSouth Wealth Management",
+      "url": "http://www.capsouthwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ron Sommer, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ron-sommer?y_source=1_OTY1MTUzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Greg Wakefield",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/greg-wakefield?y_source=1_OTY4ODc3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Les Pinckard, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/les-pinckard?y_source=1_OTY2NjY0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Dothan, Alabama, known as the 'Peanut Capital of the World,' boasts a rich agricultural heritage and a growing economy.",
+  "landscapeDescription": "Dothan's economy is primarily driven by agriculture, healthcare, and retail. The city is experiencing steady growth, supported by a diverse economic base.",
+  "majorIndustries": "Agriculture, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Dothan's economy requires focus on healthcare and agriculture, with a need for enhanced infrastructure and workforce development.",
+  "citySpecificRiskAdvice": "Dothan's reliance on agriculture and healthcare poses risks; diversify into tech and manufacturing. Monitor housing market for bubble risks and prepare for tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dothan's GDP growth has been stable, driven by healthcare expansions and agricultural productivity."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dothan is approximately $50,000, reflecting a moderate economic status."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dothan are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Dothan's cost of living is below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Dothan's real estate market shows moderate growth, with concerns about housing affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dothan's business climate is improving, with incentives for new businesses and expansions."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham",
+      "population": 212113,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery",
+      "population": 201332,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile",
+      "population": 194899,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville",
+      "population": 186254,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa",
+      "population": 95334,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover",
+      "population": 84126,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan",
+      "population": 68001,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn",
+      "population": 58582,
+      "priority": 1,
+      "stateAbbreviation": "AL"
+    }
+  ]
+}

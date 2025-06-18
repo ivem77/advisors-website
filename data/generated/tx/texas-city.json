@@ -1,0 +1,186 @@
+{
+  "cityName": "Texas City",
+  "state": "Texas",
+  "slug": "texas-city",
+  "population": "46081",
+  "pageTitle": "Best Financial Advisors in Texas City",
+  "metaDescription": "Find top-rated financial advisors in Texas City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Steven T Callaway, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/steven-callaway?y_source=1_NjQxMDkzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wilson Wealth Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/wilson-wealth-advisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 278
+    },
+    {
+      "name": "Worthen Financial Advisors",
+      "url": "https://worthenadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    },
+    {
+      "name": "Texas Wealth Management LLC",
+      "url": "http://www.texaswealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: James B Scardami Jr, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-scardami?y_source=1_MjY4MTY4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Texas City, a vibrant coastal community, offers a unique blend of industry and culture.",
+  "landscapeDescription": "With a population of 46,081, Texas City thrives on its strategic location near the Gulf of Mexico, supporting its shipping and petrochemical industries. The local economy is bolstered by its proximity to Houston's larger metropolitan area.",
+  "majorIndustries": "Petrochemicals, Shipping, Manufacturing",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Texas City requires a focus on disaster preparedness due to its coastal location and industrial base.",
+  "citySpecificRiskAdvice": "Texas City's heavy reliance on petrochemicals poses economic risks; housing market volatility and hurricane threats necessitate diversification and robust disaster planning.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Texas City's economy has shown resilience, with a growth rate of 3.2% driven by the petrochemical sector."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Texas City stands at $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Texas City are increasingly focusing on risk management and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Texas City's cost of living is approximately 5% lower than the national average, making it an attractive locale."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Texas City is experiencing steady appreciation, but concerns about a potential bubble are rising."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Texas City benefits from a favorable business climate, with incentives for manufacturing and shipping industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "New Braunfels",
+  "state": "Texas",
+  "slug": "new-braunfels",
+  "population": "63.3K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in New Braunfels",
+  "metaDescription": "Find top-rated financial advisors in New Braunfels. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Christian Financial Advisors",
+      "url": "https://christianfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    },
+    {
+      "name": "Oakwell Private Wealth Management",
+      "url": "https://www.oakwellpwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Intentional Living FP",
+      "url": "https://www.intentionallivingfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Hoffmann Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJKaPntmm9XIYR1Q73iVy4tmk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Dollar Wealth Management - LPL Financial",
+      "url": "http://www.lpl.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "New Braunfels, Texas, is a vibrant city known for its rich German heritage and outdoor recreational activities.",
+  "landscapeDescription": "With a population of 63,279, New Braunfels is experiencing steady economic growth driven by tourism and local businesses. The city benefits from its proximity to larger metropolitan areas.",
+  "majorIndustries": "Tourism, Manufacturing, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "New Braunfels requires tailored financial advice due to its unique blend of tourism and local industry.",
+  "citySpecificRiskAdvice": "New Braunfels' tourism reliance poses risks in economic downturns. Real estate values may face volatility, and flooding risks necessitate insurance. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Braunfels has seen a 4% growth in GDP, driven by tourism and local manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Braunfels is approximately $70,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Braunfels are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in New Braunfels is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in New Braunfels have risen by 8% in the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Braunfels is ranked as one of the top small cities for business growth, thanks to its supportive local policies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

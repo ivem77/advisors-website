@@ -1,0 +1,186 @@
+{
+  "cityName": "Aliso Viejo",
+  "state": "California",
+  "slug": "aliso-viejo",
+  "population": "50K (metro: 3.2M)",
+  "pageTitle": "Best Financial Advisors in Aliso Viejo",
+  "metaDescription": "Find top-rated financial advisors in Aliso Viejo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Eden Financial",
+      "url": "https://edenfinancial.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Your Financial Genie",
+      "url": "https://yourfinancialgenie.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Ken Franklin CFP®, CRPC®, APMA®, Wealth Advisor | Focus Wealth Advisors",
+      "url": "http://www.focuswa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Rudy Anguiano - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Rudy.Anguiano/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Trusted Financial Advisors",
+      "url": "http://www.trustedfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Aliso Viejo, a vibrant city in Orange County, offers a blend of suburban charm and urban amenities.",
+  "landscapeDescription": "With a population of 50,175, Aliso Viejo thrives in a diverse economy supported by technology and healthcare sectors. The city benefits from its proximity to major urban centers.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$92,000",
+  "uniqueNeeds": "Aliso Viejo requires tailored financial strategies for its tech-heavy workforce and growing real estate market.",
+  "citySpecificRiskAdvice": "Aliso Viejo's tech focus necessitates economic diversification to mitigate downturn risks. Rapid housing price increases suggest potential bubble risks, while wildfire and earthquake threats require p...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Aliso Viejo's economy is expanding, driven by tech and healthcare sectors, with a growth rate of 3.5%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Aliso Viejo is $92,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Aliso Viejo increasingly specialize in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Aliso Viejo's cost of living is 15% above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Aliso Viejo is approximately $800,000, with a 10% increase year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Aliso Viejo's business climate is favorable, with a supportive local government and access to venture capital."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

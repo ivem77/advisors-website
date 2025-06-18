@@ -1,0 +1,186 @@
+{
+  "cityName": "North Port",
+  "state": "Florida",
+  "slug": "north-port",
+  "population": "59.2K (metro: 592.1K)",
+  "pageTitle": "Best Financial Advisors in North Port",
+  "metaDescription": "Find top-rated financial advisors in North Port. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Rob Nelson Jr, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rob-nelson?y_source=1_OTY4OTQ3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kristie Marshall",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kristie-marshall?y_source=1_MTIwMzU1MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "King Retirement Solutions",
+      "url": "https://kingretirementsolutions.com/about",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ideal Retirement Solutions",
+      "url": "http://www.idealretirementsolutions.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "United Mortgage Advisors, Inc.",
+      "url": "https://www.unitedmortgageadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 85
+    }
+  ],
+  "heroDescription": "North Port, Florida, is a growing city known for its suburban charm and proximity to natural attractions.",
+  "landscapeDescription": "North Port's economy is primarily driven by healthcare, retail, and construction. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Healthcare, Retail, Construction",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "North Port requires tailored financial services for its diverse population and growing economy.",
+  "citySpecificRiskAdvice": "North Port's economy relies on construction and retail, posing risks from housing market fluctuations. Prepare for hurricane impacts and diversify investments to mitigate economic risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Port's economy is projected to grow by 3% annually, driven by population influx and infrastructure development."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in North Port is $58,000, reflecting a diverse economic base and growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in North Port are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), North Port's cost of living is 5% below the national average, making it an attractive option for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), North Port's real estate market shows a 10% increase in home prices, raising concerns about affordability and potential bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Port's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

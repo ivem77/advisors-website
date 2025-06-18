@@ -1,0 +1,186 @@
+{
+  "cityName": "Bartlett",
+  "state": "Tennessee",
+  "slug": "bartlett",
+  "population": "58.2K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Bartlett",
+  "metaDescription": "Find top-rated financial advisors in Bartlett. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Randy Lillard",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/randy-lillard?y_source=1_OTY5Nzg1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew J Syron, CFP®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-syron?y_source=1_MjY0NDQzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Brian Douglas - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/brian.douglas/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Memphis Planning and Wealth",
+      "url": "http://memphisadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Scott Giles - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/scott.c.giles/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Bartlett, Tennessee, is a vibrant suburban community near Memphis, known for its family-friendly atmosphere and growing economy.",
+  "landscapeDescription": "Bartlett's economy is diverse, with strong retail, healthcare, and manufacturing sectors. The city benefits from its proximity to Memphis, enhancing its economic opportunities.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Bartlett requires tailored financial advice to navigate its suburban growth and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Bartlett's retail and healthcare sectors face competition risks. Real estate prices may inflate, creating bubble concerns. Prepare for tornadoes and flooding risks; diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bartlett's economy has shown steady growth, driven by retail expansion and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bartlett is approximately $75,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bartlett increasingly specialize in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bartlett's cost of living is competitive, with housing costs being the most significant expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Bartlett is experiencing rising prices, with a 10% increase over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bartlett's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    }
+  ]
+}

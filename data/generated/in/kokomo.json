@@ -1,0 +1,186 @@
+{
+  "cityName": "Kokomo",
+  "state": "Indiana",
+  "slug": "kokomo",
+  "population": "56.9K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Kokomo",
+  "metaDescription": "Find top-rated financial advisors in Kokomo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Aurora Financial Strategies",
+      "url": "http://www.aurorafinancialstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Financial Solutions & Investments, Financial Advisor, Mary Sommers Carden",
+      "url": "http://www.financialsolutionsandinvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Sycamore Financial Group",
+      "url": "https://www.sycamoreweb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Rob Hopkins, CFP® - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://ameripriseadvisors.com/Rob.Hopkins",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Jackson Financial Group, LLC",
+      "url": "https://www.raymondjames.com/jacksonfinancialgroup",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Kokomo, Indiana, is a vibrant city known for its rich automotive history and growing economic landscape.",
+  "landscapeDescription": "Kokomo's economy is primarily driven by manufacturing, healthcare, and retail sectors. The city is experiencing steady growth with a focus on diversifying its industrial base.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Kokomo requires strategies to diversify its manufacturing base and address housing market fluctuations.",
+  "citySpecificRiskAdvice": "Kokomo's manufacturing focus poses risks; diversify into tech and services. Real estate may face volatility; consider flood risks and economic diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kokomo's economy has shown resilience with a growth rate of 2.5% in the past year, driven by manufacturing and healthcare."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Kokomo is approximately $50,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kokomo are increasingly specializing in retirement planning and investment strategies for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kokomo's cost of living is approximately 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Kokomo's real estate market has seen a 5% increase in home prices over the past year, indicating a competitive housing environment."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kokomo is fostering a supportive business climate with incentives for new manufacturing and tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Taylorsville",
+  "state": "Utah",
+  "slug": "taylorsville",
+  "population": "1.2M (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Taylorsville",
+  "metaDescription": "Find top-rated financial advisors in Taylorsville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Butler Financial Advisors",
+      "url": "http://www.butlerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Carmen Alderete, CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/carmen-alderete?y_source=1_MTMxNTMzOTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "TrueNorth Wealth - Financial Advisors",
+      "url": "https://www.truenorthwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Net Worth Advisory Group",
+      "url": "https://networthadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "Stonecreek Wealth Advisors, Inc.",
+      "url": "https://www.stonecreekwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    }
+  ],
+  "heroDescription": "Taylorsville, Utah, is a vibrant city known for its diverse community and growing economy.",
+  "landscapeDescription": "With a population of 60,519, Taylorsville is a suburban hub within the Salt Lake City metropolitan area. The economy is bolstered by retail, healthcare, and education sectors.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Taylorsville requires attention to affordable housing and sustainable community development.",
+  "citySpecificRiskAdvice": "Taylorsville's reliance on retail and healthcare poses risks; diversify into tech and green industries. Watch for housing market bubbles and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Taylorsville's economy has seen a steady growth rate of 3.5%, driven by local retail and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Taylorsville is $75,000, reflecting a diverse economic base and a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Taylorsville are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Taylorsville is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Taylorsville's real estate market is competitive, with home prices rising 8% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Taylorsville's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

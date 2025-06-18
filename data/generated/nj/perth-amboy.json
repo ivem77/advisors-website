@@ -1,0 +1,186 @@
+{
+  "cityName": "Perth Amboy",
+  "state": "New Jersey",
+  "slug": "perth-amboy",
+  "population": "51.9K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Perth Amboy",
+  "metaDescription": "Find top-rated financial advisors in Perth Amboy. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Elias Burgos - Financial Advisor",
+      "url": "https://jonathan-barrett.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Jonathan Barrett CFP®, CLU®, ChFC®, RICP®, RPS®",
+      "url": "http://www.jonathan-barrett.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "Stephen Blazejewski CFP - Equitable Advisors",
+      "url": "https://atlantic-liberty.equitableadvisors.com/Stephen-Blazejewski,-CFP.e1122159.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Convery Accountants & Advisors, LLC",
+      "url": "https://converyaccountants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Justin Branch - Barrett Financial Solutions",
+      "url": "https://jonathan-barrett.com/team/justin-branch",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Perth Amboy, NJ, is a vibrant city with a rich history and diverse community.",
+  "landscapeDescription": "Perth Amboy's economy is driven by manufacturing, healthcare, and retail. The city benefits from its strategic location along the Raritan Bay.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Perth Amboy requires tailored economic strategies to address its unique demographic and industrial landscape.",
+  "citySpecificRiskAdvice": "Perth Amboy's reliance on manufacturing poses risks; diversify into tech and healthcare. Real estate faces affordability issues; monitor flood risks and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Perth Amboy's economy has shown steady growth, driven by local manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Perth Amboy is $65,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Perth Amboy increasingly specialize in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Perth Amboy is moderate, with housing being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Perth Amboy is competitive, with rising prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Perth Amboy's business climate is improving, attracting new investments and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    }
+  ]
+}

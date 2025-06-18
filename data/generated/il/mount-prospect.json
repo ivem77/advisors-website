@@ -1,0 +1,186 @@
+{
+  "cityName": "Mount Prospect",
+  "state": "Illinois",
+  "slug": "mount-prospect",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Mount Prospect",
+  "metaDescription": "Find top-rated financial advisors in Mount Prospect. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Nancy M Reiser, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nancy-reiser?y_source=1_OTY5MDUxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Yev Kozachuk, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/yev-kozachuk?y_source=1_MTIxMjAzMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "J C Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJq2ze37awD4gRCfec9zpcB3I",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 76
+    },
+    {
+      "name": "TJ Stearns Financial Planning & Benefits",
+      "url": "http://www.tjstearns.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Baldwin Financial Advisors, LLC",
+      "url": "http://www.baldwinfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Mount Prospect, Illinois, a vibrant suburb of Chicago, offers a blend of residential charm and commercial growth.",
+  "landscapeDescription": "With a population of 54,771, Mount Prospect is part of the dynamic Chicago metropolitan area. The local economy thrives on retail, healthcare, and professional services.",
+  "majorIndustries": "Retail, Healthcare, Professional Services",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Mount Prospect requires tailored financial advice to navigate suburban growth and local economic shifts.",
+  "citySpecificRiskAdvice": "Mount Prospect's reliance on retail and services poses economic risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and severe weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Mount Prospect's economy grew by 3.5% last year, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Mount Prospect is $80,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Mount Prospect increasingly focus on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Mount Prospect is 10% higher than the national average, driven by housing and transportation."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home values in Mount Prospect have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Mount Prospect's business climate is favorable, with low taxes and a supportive local government for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

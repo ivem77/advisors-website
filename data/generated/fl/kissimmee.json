@@ -1,0 +1,186 @@
+{
+  "cityName": "Kissimmee",
+  "state": "Florida",
+  "slug": "kissimmee",
+  "population": "65.2K (metro: 651.7K)",
+  "pageTitle": "Best Financial Advisors in Kissimmee",
+  "metaDescription": "Find top-rated financial advisors in Kissimmee. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Robert Rosen",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rob-rosen?y_source=1_OTYxNTUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Vario Advisors | Alternative Investments",
+      "url": "https://www.varioadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Elaine Lee-Spears",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/elaine-lee-spears?y_source=1_NDkzNTg5OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kaley N Mora, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kaley-mora?y_source=1_Mzc5NTA1OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Signature Wealth Partners, LLC",
+      "url": "http://www.yoursignaturewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Kissimmee, Florida, is a vibrant city known for its tourism and proximity to Orlando's attractions.",
+  "landscapeDescription": "Kissimmee's economy thrives on tourism, hospitality, and retail, supported by its strategic location near major attractions. The city is experiencing growth in residential development and service industries.",
+  "majorIndustries": "Tourism, Hospitality, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Kissimmee requires tailored financial advice for its tourism-driven economy and growing residential market.",
+  "citySpecificRiskAdvice": "Kissimmee's tourism reliance poses economic risks; real estate may face bubble concerns. Prepare for hurricane impacts and diversify investments beyond hospitality.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Kissimmee's economy is growing, driven by tourism and service sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Kissimmee is $52,000, reflecting a diverse population with varying economic backgrounds."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Kissimmee are increasingly focusing on real estate and tourism-related financial planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Kissimmee's cost of living is slightly below the national average, making it an attractive location for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Kissimmee's real estate market is competitive, with home prices rising due to increased demand from new residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Kissimmee offers a favorable business climate with incentives for tourism and hospitality businesses, fostering growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

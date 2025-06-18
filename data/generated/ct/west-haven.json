@@ -1,0 +1,186 @@
+{
+  "cityName": "West Haven",
+  "state": "Connecticut",
+  "slug": "west-haven",
+  "population": "55K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in West Haven",
+  "metaDescription": "Find top-rated financial advisors in West Haven. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Noble Wealth Advisors of Janney Montgomery Scott",
+      "url": "https://www.noblewealthadvisors.com/?utm_medium=yext&utm_source=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jeff Jolly - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Jeffrey.T.Jolly/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Thimble Island Private Wealth",
+      "url": "https://www.thimblepw.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "John Hursh - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/John.Hursh/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Morrissey Wealth Management",
+      "url": "http://www.morrisseywealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    }
+  ],
+  "heroDescription": "West Haven, Connecticut, is a vibrant coastal city known for its rich history and diverse community.",
+  "landscapeDescription": "West Haven's economy is bolstered by healthcare, education, and retail sectors. The city benefits from proximity to New Haven's metropolitan amenities.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "West Haven requires strategies for economic diversification and housing market stability.",
+  "citySpecificRiskAdvice": "West Haven's reliance on healthcare and education poses risks; housing prices may bubble. Prepare for flooding and storms; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), West Haven's GDP growth is steady, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in West Haven is approximately $70,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in West Haven increasingly specialize in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), West Haven's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), West Haven's real estate market shows rising home prices, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), West Haven's business climate is favorable, with support for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Bridgeport",
+      "state": "Connecticut",
+      "slug": "bridgeport",
+      "population": 147216,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Haven",
+      "state": "Connecticut",
+      "slug": "new-haven",
+      "population": 130660,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Stamford",
+      "state": "Connecticut",
+      "slug": "stamford",
+      "population": 126456,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Hartford",
+      "state": "Connecticut",
+      "slug": "hartford",
+      "population": 125017,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Waterbury",
+      "state": "Connecticut",
+      "slug": "waterbury",
+      "population": 109676,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Norwalk",
+      "state": "Connecticut",
+      "slug": "norwalk",
+      "population": 87776,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Danbury",
+      "state": "Connecticut",
+      "slug": "danbury",
+      "population": 83684,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Britain",
+      "state": "Connecticut",
+      "slug": "new-britain",
+      "population": 72939,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    }
+  ]
+}

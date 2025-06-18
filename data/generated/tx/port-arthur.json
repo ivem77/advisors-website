@@ -1,0 +1,186 @@
+{
+  "cityName": "Port Arthur",
+  "state": "Texas",
+  "slug": "port-arthur",
+  "population": "54.1K (metro: 541.3K)",
+  "pageTitle": "Best Financial Advisors in Port Arthur",
+  "metaDescription": "Find top-rated financial advisors in Port Arthur. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Trenton J Scott, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/trenton-scott?y_source=1_Mjg2NzYyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Carl A Wolford",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/carl-wolford?y_source=1_OTY1Mjk3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jadon K Ellender",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jadon-ellender?y_source=1_Mjc4MDUxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Debbie Spittler, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/debbie-spittler?y_source=1_NjQwNzc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Olin G Clotiaux",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/olin-clotiaux?y_source=1_OTY2ODQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Port Arthur, Texas, is a vibrant coastal city known for its rich cultural heritage and economic potential.",
+  "landscapeDescription": "Port Arthur's economy is primarily driven by the energy sector, particularly oil refining and petrochemicals. The city also benefits from its strategic location near the Gulf of Mexico, enhancing trade and logistics.",
+  "majorIndustries": "Energy, Manufacturing, Shipping",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Port Arthur requires investment in disaster preparedness and economic diversification to mitigate risks associated with its energy sector reliance.",
+  "citySpecificRiskAdvice": "Port Arthur's heavy energy sector reliance poses risks; diversify into tech and logistics. Real estate may face volatility from natural disasters like hurricanes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Port Arthur's economy has shown resilience, with a growth rate of 3.2% driven by energy sector investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Port Arthur is approximately $45,000, reflecting the city's economic challenges."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Port Arthur are increasingly focusing on retirement planning and risk management due to economic volatility."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Port Arthur's cost of living is lower than the national average, making it an attractive option for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Port Arthur is recovering, with home prices increasing by 5% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Port Arthur's business climate is improving, with incentives for new businesses in the tech and logistics sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Twin Falls",
+  "state": "Idaho",
+  "slug": "twin-falls",
+  "population": "45.9K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Twin Falls",
+  "metaDescription": "Find top-rated financial advisors in Twin Falls. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Lynn R Hansen, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lynn-hansen?y_source=1_OTYzODIwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northwestern Mutual - Layne Financial",
+      "url": "http://laynefinancial.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mark L Martin, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-martin?y_source=1_OTY0Njg4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Capricorn Financial Strategies",
+      "url": "http://www.capricornfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jeffrey Freckleton",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeffrey-freckleton?y_source=1_NDE3NjM2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Twin Falls, Idaho, is a vibrant city known for its stunning landscapes and agricultural economy.",
+  "landscapeDescription": "With a population of 45,981, Twin Falls boasts a diverse economy primarily driven by agriculture, manufacturing, and tourism. The city is strategically located near major highways, facilitating trade and commerce.",
+  "majorIndustries": "Agriculture, Manufacturing, Tourism",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Twin Falls requires investment in infrastructure and diversification to sustain economic growth.",
+  "citySpecificRiskAdvice": "Twin Falls' agricultural focus poses risks from climate variability. Housing market may face volatility; diversify investments and consider flood risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Twin Falls has shown steady economic growth, primarily driven by agriculture and tourism sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Twin Falls is approximately $54,000, reflecting a modest but stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Twin Falls are increasingly focusing on agricultural investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Twin Falls has a lower cost of living compared to national averages, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Twin Falls is experiencing moderate growth, with home prices rising steadily."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Twin Falls offers a favorable business climate, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city",
+      "population": 214237,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa",
+      "population": 86518,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian",
+      "population": 83596,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls",
+      "population": 58292,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello",
+      "population": 54350,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell",
+      "population": 48957,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene",
+      "population": 46402,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls",
+      "population": 45981,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    }
+  ]
+}

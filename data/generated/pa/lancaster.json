@@ -1,0 +1,186 @@
+{
+  "cityName": "Lancaster",
+  "state": "Pennsylvania",
+  "slug": "lancaster",
+  "population": "59,325",
+  "pageTitle": "Best Financial Advisors in Lancaster",
+  "metaDescription": "Find top-rated financial advisors in Lancaster. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Faithward Advisors",
+      "url": "https://faithwardadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 49
+    },
+    {
+      "name": "Premier One Financial Company",
+      "url": "https://www.premieronefc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Regal Wealth Advisors",
+      "url": "https://regal-wealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Harold Wenger - Raymond James",
+      "url": "https://raymondjames.com/wengerwealth",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Hershey Financial Advisers, LLC",
+      "url": "http://www.hersheyfinancialadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Lancaster, PA, known for its rich history and vibrant community, is a growing city with a diverse economy.",
+  "landscapeDescription": "Lancaster's economy is bolstered by agriculture, manufacturing, and healthcare sectors. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Agriculture, Manufacturing, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Lancaster requires tailored financial advice focusing on agriculture and small business growth.",
+  "citySpecificRiskAdvice": "Lancaster's agriculture reliance poses risks; diversify into tech and healthcare. Real estate prices are rising, indicating potential bubble risks. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lancaster's economy grew by 3.2% last year, driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lancaster is $60,000, with a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lancaster are increasingly specializing in agricultural finance and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lancaster's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Lancaster have increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lancaster's business climate is favorable, with numerous incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    }
+  ]
+}

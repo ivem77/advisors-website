@@ -1,0 +1,154 @@
+{
+  "cityName": "Minot",
+  "state": "North Dakota",
+  "slug": "minot",
+  "population": "46.3K (metro: 46.3K)",
+  "pageTitle": "Best Financial Advisors in Minot",
+  "metaDescription": "Find top-rated financial advisors in Minot. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Freedom Financial Group",
+      "url": "http://www.freedomfinancialgroupllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tom Miller, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/t-miller?y_source=1_MjI0ODk5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Mike Lauckner - Thrivent",
+      "url": "https://connect.thrivent.com/mike-lauckner?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzYxNTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Tina Morey - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Christine.Morey/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ginger Quam, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ginger-quam?y_source=1_OTYxODc5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Minot, North Dakota, known as the Magic City, is a vibrant community with a rich history and diverse economy.",
+  "landscapeDescription": "Minot's economy is driven by agriculture, healthcare, and energy sectors. The city is experiencing steady growth, supported by its strategic location and infrastructure.",
+  "majorIndustries": "Agriculture, Healthcare, Energy",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Minot requires tailored financial advice due to its unique economic landscape and population dynamics.",
+  "citySpecificRiskAdvice": "Minot's reliance on agriculture and energy poses risks; diversify investments. Real estate may face volatility from economic shifts and weather events like floods.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Minot's economy grew by 3.2% last year, driven by energy and agriculture sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Minot is approximately $60,000, reflecting the city's diverse job market."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Minot increasingly focus on agriculture and energy sectors, adapting to local economic needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Minot's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Minot's real estate market is stable, with moderate price increases and a healthy inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Minot's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Fargo",
+      "state": "North Dakota",
+      "slug": "fargo",
+      "population": 113658,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Bismarck",
+      "state": "North Dakota",
+      "slug": "bismarck",
+      "population": 67034,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Grand Forks",
+      "state": "North Dakota",
+      "slug": "grand-forks",
+      "population": 54932,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    },
+    {
+      "name": "Minot",
+      "state": "North Dakota",
+      "slug": "minot",
+      "population": 46321,
+      "priority": 1,
+      "stateAbbreviation": "ND"
+    }
+  ]
+}

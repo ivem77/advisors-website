@@ -1,0 +1,170 @@
+{
+  "cityName": "Southaven",
+  "state": "Mississippi",
+  "slug": "southaven",
+  "population": "50.9K (metro: 1.3M)",
+  "pageTitle": "Best Financial Advisors in Southaven",
+  "metaDescription": "Find top-rated financial advisors in Southaven. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew J Kelso, ChFC®|ABFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-kelso?y_source=1_OTI1NzMwOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Fairley Wealth Management Group",
+      "url": "https://www.fairleywealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "GIVENS LPL FINANCIAL",
+      "url": "http://www.tfgivens.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Moore's Financial Group",
+      "url": "https://www.mooresfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Crandall Craigen: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ms/southaven/crandall-craigen?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    }
+  ],
+  "heroDescription": "Southaven, Mississippi, is a vibrant city with a growing economy and a strong community focus.",
+  "landscapeDescription": "As a suburb of Memphis, Southaven benefits from its proximity to a major metropolitan area, fostering economic growth. The city is characterized by a diverse economy with retail, healthcare, and logistics as key sectors.",
+  "majorIndustries": "Retail, Healthcare, Logistics",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Southaven needs to address infrastructure improvements and housing affordability to support its growing population.",
+  "citySpecificRiskAdvice": "Southaven's retail focus poses risks from e-commerce trends. Housing market growth may lead to affordability issues. Monitor tornado and flooding risks while diversifying the economy.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Southaven's economy has seen a steady growth rate of 3.5% over the past year, driven by retail and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Southaven is $66,000, reflecting a diverse economic base and stable job market."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Southaven are increasingly specializing in retirement planning and investment strategies for middle-income families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Southaven's cost of living is approximately 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Southaven real estate market has seen a 5% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Southaven's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson",
+      "population": 172638,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport",
+      "population": 71012,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven",
+      "population": 50997,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg",
+      "population": 47556,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi",
+      "population": 44820,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian",
+      "population": 40921,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    }
+  ]
+}

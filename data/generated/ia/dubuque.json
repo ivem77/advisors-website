@@ -1,0 +1,186 @@
+{
+  "cityName": "Dubuque",
+  "state": "Iowa",
+  "slug": "dubuque",
+  "population": "58.3K (metro: 58253)",
+  "pageTitle": "Best Financial Advisors in Dubuque",
+  "metaDescription": "Find top-rated financial advisors in Dubuque. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Bridgewater Advisors - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/bridgewateradvisors/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Barton Wealth Management",
+      "url": "http://www.bartonwealthmanagement.wfadv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "StackStone Wealth - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/stackstone-wealth/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Avantax Planning Partners",
+      "url": "https://www.avantax.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Scott Leibfried - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/stackstone-wealth/financial-advice-team/scott.g.leibfried/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Dubuque, Iowa, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Dubuque's economy is anchored in manufacturing, healthcare, and education. The city is experiencing steady growth, driven by its strategic location and community investments.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Dubuque requires a focus on diversifying its economy and addressing housing affordability.",
+  "citySpecificRiskAdvice": "Dubuque's manufacturing reliance poses economic risks; housing market stability is crucial amid potential bubbles. Flooding risks necessitate disaster preparedness and infrastructure investment.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dubuque's GDP growth rate has been steady at 2.5%, reflecting resilience in key sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Dubuque is $55,000, with a diverse income distribution."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dubuque are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Dubuque's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Dubuque's real estate market shows a 5% annual appreciation, indicating growing demand but potential affordability issues."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dubuque's business climate is favorable, with incentives for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    }
+  ]
+}

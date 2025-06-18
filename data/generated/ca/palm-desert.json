@@ -1,0 +1,186 @@
+{
+  "cityName": "Palm Desert",
+  "state": "California",
+  "slug": "palm-desert",
+  "population": "50.5K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Palm Desert",
+  "metaDescription": "Find top-rated financial advisors in Palm Desert. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Desert Financial Planning",
+      "url": "https://www.desertfinancialplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "FLC Capital Advisors",
+      "url": "http://www.flccapital.com/home",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "United Capital Financial Advisors",
+      "url": "https://unitedcapitalwealth.com/location/palm-desert/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmdesert_ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Amy H Jeandron",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/amy-jeandron?y_source=1_OTY5NjM1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Radiant Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/radiant-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Palm Desert, California, is a vibrant city known for its stunning desert landscapes and thriving tourism industry.",
+  "landscapeDescription": "The economy of Palm Desert is primarily driven by tourism, retail, and healthcare services. The city attracts visitors year-round, contributing to its economic stability.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Palm Desert requires tailored financial services to address its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "Palm Desert's tourism reliance poses economic risks; diversify investments. Real estate may face bubble risks due to high demand. Monitor for natural disasters like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Palm Desert's economy has shown resilience with a steady growth rate of 3% annually, driven by tourism and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Palm Desert is approximately $60,000, reflecting a diverse economic base with significant retirees."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Palm Desert increasingly focus on retirement planning and wealth management for affluent retirees."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Palm Desert is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Palm Desert's real estate market is competitive, with home prices rising due to high demand from retirees and investors."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Palm Desert's business climate is favorable for small businesses, particularly in hospitality and retail sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

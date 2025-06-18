@@ -1,0 +1,186 @@
+{
+  "cityName": "East Lansing",
+  "state": "Michigan",
+  "slug": "east-lansing",
+  "population": "48.6K (metro: 485.5K)",
+  "pageTitle": "Best Financial Advisors in East Lansing",
+  "metaDescription": "Find top-rated financial advisors in East Lansing. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Flynn Wealth Partners",
+      "url": "http://www.flynnwp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Fairhaven Financial Advisory Corporation",
+      "url": "http://www.fairhavenfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Michigan Financial Group",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJtUGGWMrpIogRD-g8ymi502Y",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Perrone Wolfe Group - Morgan Stanley",
+      "url": "https://advisor.morganstanley.com/the-perrone-wolfe-group?y_source=1_MTA4MjM5MTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Michigan Money Management",
+      "url": "http://www.michiganmoneymanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "East Lansing, Michigan, is a vibrant college town known for its educational institutions and diverse community.",
+  "landscapeDescription": "With a population of 48,554, East Lansing's economy thrives on education and research, driven by Michigan State University. The city benefits from a mix of local businesses and academic institutions.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "East Lansing requires tailored financial advice for its student population and local businesses.",
+  "citySpecificRiskAdvice": "East Lansing's reliance on education may pose risks if enrollment declines. Housing prices are rising, suggesting bubble risks. Diversify investments to mitigate economic downturns and consider local ...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), East Lansing's economy is bolstered by a strong educational sector, contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in East Lansing is $52,000, reflecting a diverse economic base with students and professionals."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in East Lansing often specialize in education funding and retirement planning for faculty."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), East Lansing's cost of living is moderate, with housing and education costs being significant factors."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in East Lansing is competitive, with rising prices driven by demand from students and faculty."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), East Lansing's business climate is favorable for startups, particularly in tech and education-related sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

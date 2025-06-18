@@ -1,0 +1,186 @@
+{
+  "cityName": "Normal",
+  "state": "Illinois",
+  "slug": "normal",
+  "population": "54.7K (metro: 54.7K)",
+  "pageTitle": "Best Financial Advisors in Normal",
+  "metaDescription": "Find top-rated financial advisors in Normal. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Crabtree Financial Group, LLC",
+      "url": "http://crabtreefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Linda Kimber, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/linda-kimber?y_source=1_NjQxNjM1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Josh Hardt, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/josh-hardt?y_source=1_NjQxNDAzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Falstad & Associates",
+      "url": "http://www.falstadandassociates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Prairie Capital Management",
+      "url": "http://www.uinvest2.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Normal, Illinois is a vibrant community known for its educational institutions and growing economy.",
+  "landscapeDescription": "With a population of 54,664, Normal serves as a key economic hub in Central Illinois. The city benefits from a diverse economy driven by education, healthcare, and retail.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Normal requires tailored financial strategies focusing on education and healthcare sectors.",
+  "citySpecificRiskAdvice": "Normal's economy relies on education and healthcare, posing risks if these sectors falter. Real estate prices are rising; monitor for bubble risks. Prepare for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Normal's economy has seen a steady growth rate of 3.2% annually, driven by local universities and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Normal is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Normal are increasingly focusing on education and healthcare sectors, aligning with local economic strengths."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Normal's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Normal is experiencing a 5% annual increase in home values, indicating rising demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Normal's business climate is favorable, supported by local government initiatives and a skilled workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

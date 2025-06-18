@@ -1,0 +1,186 @@
+{
+  "cityName": "Lorain",
+  "state": "Ohio",
+  "slug": "lorain",
+  "population": "63.7K (metro: 637.1K)",
+  "pageTitle": "Best Financial Advisors in Lorain",
+  "metaDescription": "Find top-rated financial advisors in Lorain. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Tim Uras, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tim-uras?y_source=1_OTY2Mjc1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "De Los Santos & Co. d.b.a. Navy Financial",
+      "url": "https://www.navyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lloyd Wright",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lloyd-wright?y_source=1_OTcxODUyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Cleveland Financial Group",
+      "url": "http://clevelandfg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tom Chaplin",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tom-chaplin?y_source=1_MTgyNTQ1Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Lorain, Ohio, is a vibrant city located on the shores of Lake Erie, known for its rich history and diverse community.",
+  "landscapeDescription": "Lorain's economy is driven by manufacturing, healthcare, and retail sectors. The city benefits from its strategic location and access to transportation networks.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$47,000",
+  "uniqueNeeds": "Lorain requires tailored financial strategies to address its manufacturing base and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Lorain's manufacturing focus poses risks from economic downturns. Real estate may face volatility; diversify investments. Monitor flooding risks from Lake Erie.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lorain's economy is recovering with a projected growth rate of 2.5% driven by manufacturing and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lorain is $47,000, reflecting the city's diverse economic base and workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lorain are increasingly focusing on retirement planning and investment strategies tailored to manufacturing workers."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lorain's cost of living is approximately 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lorain's real estate market shows a steady increase in home prices, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lorain's business climate is improving, with incentives for manufacturing and small business growth being prioritized."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

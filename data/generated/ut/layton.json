@@ -1,0 +1,186 @@
+{
+  "cityName": "Layton",
+  "state": "Utah",
+  "slug": "layton",
+  "population": "70.8K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Layton",
+  "metaDescription": "Find top-rated financial advisors in Layton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jon Gates, CFP®, CRPC®, Intermountain Financial Partners",
+      "url": "https://www.jongatesadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "First Command Financial Advisor - Mike Lyon, RICP®",
+      "url": "https://advisor.firstcommand.com/us/ut/layton/malyon?y_source=1_MjA5NjIwMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "First Command Financial Advisor - Blake Manuel",
+      "url": "https://advisor.firstcommand.com/us/ut/layton/bsmanuel?y_source=1_MTA4NTgxOTY4NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jared W Davis",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ26X0XJ0DU4cRAZSTBn1xrvc",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Priority Wealth Partners",
+      "url": "https://www.priority-wealth.com/priority-wealth-partners-salt-lake",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    }
+  ],
+  "heroDescription": "Layton, Utah, is a rapidly growing city known for its family-friendly environment and proximity to outdoor recreational activities.",
+  "landscapeDescription": "The economy of Layton is diverse, with significant contributions from retail, healthcare, and manufacturing sectors. The city benefits from its strategic location near major highways and the Wasatch Front.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Layton's growth requires infrastructure improvements and sustainable development to support its increasing population.",
+  "citySpecificRiskAdvice": "Layton's reliance on retail and healthcare poses risks; diversify investments to mitigate real estate bubble concerns. Prepare for natural disasters like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Layton's economy has seen a steady growth rate of 3.5% annually, driven by local business expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Layton is approximately $76,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Layton are increasingly focusing on retirement planning and investment strategies for young families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Layton's cost of living is 10% lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the housing market in Layton is competitive, with home prices rising 8% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Layton's business climate is favorable, with a growing number of startups and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

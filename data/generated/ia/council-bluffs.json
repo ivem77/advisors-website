@@ -1,0 +1,186 @@
+{
+  "cityName": "Council Bluffs",
+  "state": "Iowa",
+  "slug": "council-bluffs",
+  "population": "61.9K (metro: 619.7K)",
+  "pageTitle": "Best Financial Advisors in Council Bluffs",
+  "metaDescription": "Find top-rated financial advisors in Council Bluffs. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dickinson Investment Advisors",
+      "url": "http://www.dickinsoninvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Compass Wealth Partners - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/compass-wealth-partners/contact?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: David Lawrence",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-lawrence?y_source=1_ODk4NDM3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Investment Center Advisors",
+      "url": "https://www.investmentcenteradvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Stephen M Urlaub",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/stephen-urlaub?y_source=1_MTI2NDc3MTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Council Bluffs, Iowa, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "Council Bluffs serves as a key economic hub in the Omaha-Council Bluffs metropolitan area. The city is experiencing steady growth, driven by diverse industries.",
+  "majorIndustries": "Transportation, Manufacturing, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Council Bluffs requires tailored financial strategies to address its unique economic landscape and demographic needs.",
+  "citySpecificRiskAdvice": "Council Bluffs' manufacturing focus poses economic risks; diversify investments. Real estate may face volatility; monitor housing trends. Prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Council Bluffs has seen a 3% increase in GDP, driven by transportation and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Council Bluffs is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Council Bluffs are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Council Bluffs has a cost of living index 10% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Council Bluffs is stable, with a median home price of $250,000, showing consistent appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Council Bluffs has a favorable business climate, attracting new companies and fostering local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "cityName": "Great Falls",
+  "state": "Montana",
+  "slug": "great-falls",
+  "population": "59.4K (metro: 59.4K)",
+  "pageTitle": "Best Financial Advisors in Great Falls",
+  "metaDescription": "Find top-rated financial advisors in Great Falls. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Michael Porter, ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-porter?y_source=1_MzExOTEzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Jesse Cameron, RICP®",
+      "url": "https://advisor.firstcommand.com/us/mt/great-falls/jcameron?y_source=1_MjA5NjE5MDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Amy M Flynn",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/amy-flynn?y_source=1_OTYxNTMwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Greg Ferriter, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/greg-ferriter?y_source=1_NzMwMzQ5Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "First Command District Advisor - Corry Prestidge, ChFC®|CFP®",
+      "url": "https://advisor.firstcommand.com/us/mt/great-falls/cprestidge?y_source=1_MjA5NjI0MDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Great Falls, Montana, is a vibrant city known for its rich history and scenic landscapes.",
+  "landscapeDescription": "The economy of Great Falls is diverse, with significant contributions from agriculture, healthcare, and manufacturing. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Agriculture, Healthcare, Manufacturing",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Great Falls requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Great Falls' economy relies on agriculture and manufacturing, posing risks from market fluctuations. Real estate prices may face volatility; diversify investments to mitigate risks from natural disast...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Great Falls has shown steady economic growth, with a focus on expanding healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Great Falls is $52,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Great Falls are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Great Falls is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Great Falls is stable, with moderate price growth and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Great Falls offers a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Billings",
+      "state": "Montana",
+      "slug": "billings",
+      "population": 109059,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Missoula",
+      "state": "Montana",
+      "slug": "missoula",
+      "population": 69122,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Great Falls",
+      "state": "Montana",
+      "slug": "great-falls",
+      "population": 59351,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Bozeman",
+      "state": "Montana",
+      "slug": "bozeman",
+      "population": 39860,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    }
+  ]
+}

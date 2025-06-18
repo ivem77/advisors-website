@@ -1,0 +1,186 @@
+{
+  "cityName": "Brookhaven",
+  "state": "Georgia",
+  "slug": "brookhaven",
+  "population": "50.6K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Brookhaven",
+  "metaDescription": "Find top-rated financial advisors in Brookhaven. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ironclad Wealth Management",
+      "url": "http://www.ironcladwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Creative Financial Partners",
+      "url": "http://www.creativefinpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Paces Ferry Wealth Advisors",
+      "url": "https://pacesferrywealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Linda Kuryloski, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/linda-kuryloski?y_source=1_OTY2OTUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Buckhead Wealth Management",
+      "url": "http://www.buckheadwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    }
+  ],
+  "heroDescription": "Brookhaven, Georgia, is a vibrant suburban city known for its parks, community events, and proximity to Atlanta.",
+  "landscapeDescription": "Brookhaven's economy is diverse, with a blend of retail, healthcare, and professional services. The city benefits from its location near Atlanta, enhancing its economic prospects.",
+  "majorIndustries": "Healthcare, Retail, Professional Services",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Brookhaven requires tailored financial advice due to its unique suburban dynamics and proximity to urban Atlanta.",
+  "citySpecificRiskAdvice": "Brookhaven's reliance on retail and healthcare poses economic risks; housing market appreciation raises bubble concerns. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Brookhaven has shown steady economic growth, driven by local businesses and proximity to Atlanta's job market."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Brookhaven is approximately $75,000, indicating a relatively affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Brookhaven are increasingly focusing on retirement planning and wealth management for affluent clients."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Brookhaven is slightly above the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Brookhaven's real estate market is competitive, with home prices appreciating rapidly, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Brookhaven's business climate is favorable, with supportive local policies encouraging small business growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta",
+      "population": 447841,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus",
+      "population": 202824,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county",
+      "population": 197350,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah",
+      "population": 142772,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county",
+      "population": 119980,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs",
+      "population": 99770,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell",
+      "population": 94034,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon",
+      "population": 89981,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    }
+  ]
+}

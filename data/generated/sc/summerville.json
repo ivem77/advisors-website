@@ -1,0 +1,186 @@
+{
+  "cityName": "Summerville",
+  "state": "South Carolina",
+  "slug": "summerville",
+  "population": "46K (metro: 460K)",
+  "pageTitle": "Best Financial Advisors in Summerville",
+  "metaDescription": "Find top-rated financial advisors in Summerville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Scipio Financial - Financial Advisor: Terry Scipio",
+      "url": "https://www.scipiofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 89
+    },
+    {
+      "name": "Compass Investment Advisors, LLC",
+      "url": "http://www.myinvestingadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "First Command Financial Advisor - Dave Thompson, CFP®",
+      "url": "https://advisor.firstcommand.com/us/sc/summerville/dhthompson?y_source=1_MjA5NjE5NzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Clark Williams",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/clark-williams?y_source=1_MTQzNzQyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Cornerstone Financial Strategies",
+      "url": "https://www.theonlycornerstone.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Summerville, SC, known for its historic charm and vibrant community, offers a unique blend of suburban living and economic opportunity.",
+  "landscapeDescription": "Summerville's economy is bolstered by its proximity to Charleston, with growth in healthcare, retail, and manufacturing sectors. The city is experiencing a population boom, enhancing local demand for services.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Summerville requires tailored financial advice to navigate its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Summerville's growth in retail and healthcare presents real estate risks amid rising prices. Natural disaster threats like hurricanes necessitate diversified investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Summerville's economy has grown by 4.5% annually, driven by population influx and service sector expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Summerville is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Summerville are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Summerville's cost of living is 5% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Summerville have risen by 10% over the past year, indicating a competitive housing market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Summerville's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC"
+    }
+  ]
+}

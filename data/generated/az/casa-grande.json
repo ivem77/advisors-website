@@ -1,0 +1,186 @@
+{
+  "cityName": "Casa Grande",
+  "state": "Arizona",
+  "slug": "casa-grande",
+  "population": "50K (metro: 1.7M)",
+  "pageTitle": "Best Financial Advisors in Casa Grande",
+  "metaDescription": "Find top-rated financial advisors in Casa Grande. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Fred Tucker",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/fred-tucker?y_source=1_OTY4MTczLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jack W Stonebraker",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jack-stonebraker?y_source=1_OTY5MTUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Robert Miller",
+      "url": "https://www.edwardjones.com/robert-miller",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ernie Esqueda: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/az/casagrande/ernie-esqueda?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "ALLn1 Finance Management",
+      "url": "https://alln1financemanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    }
+  ],
+  "heroDescription": "Casa Grande, Arizona, is a growing city with a vibrant community and diverse economic opportunities.",
+  "landscapeDescription": "With a population of 50,111, Casa Grande is strategically located between Phoenix and Tucson, fostering economic growth. The city benefits from agriculture, manufacturing, and retail sectors.",
+  "majorIndustries": "Agriculture, Manufacturing, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Casa Grande requires a focus on sustainable growth and infrastructure development to support its expanding population.",
+  "citySpecificRiskAdvice": "Casa Grande's reliance on agriculture poses risks from climate variability. Housing market growth may lead to bubble concerns. Diversify the economy to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Casa Grande's economy has shown steady growth, driven by manufacturing and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Casa Grande is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Casa Grande are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Casa Grande's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Casa Grande is experiencing growth, with home values rising steadily."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Casa Grande's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

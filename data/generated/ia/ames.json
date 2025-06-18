@@ -1,0 +1,186 @@
+{
+  "cityName": "Ames",
+  "state": "Iowa",
+  "slug": "ames",
+  "population": "61.8K (metro: 617.9K)",
+  "pageTitle": "Best Financial Advisors in Ames",
+  "metaDescription": "Find top-rated financial advisors in Ames. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Freedom Wealth Advisors - Northwestern Mutual",
+      "url": "http://freedomwealthadvisors.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Mercer Advisors - Ames",
+      "url": "https://www.merceradvisors.com/location/ames/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Clarity Asset Management, Inc.",
+      "url": "https://www.investmentclarity.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Cross Wealth Management",
+      "url": "http://www.crosswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Thrivent - Pathway Wealth Advisors",
+      "url": "https://connect.thrivent.com/pathway-wealth-advisors",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Ames, Iowa, is a vibrant college town known for its research institutions and diverse economy.",
+  "landscapeDescription": "Ames boasts a strong economy driven by education, technology, and agriculture. The presence of Iowa State University fosters innovation and attracts talent.",
+  "majorIndustries": "Education, Technology, Agriculture",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Ames requires investment in tech diversification and housing stability to support its growing population.",
+  "citySpecificRiskAdvice": "Ames' tech sector needs diversification to mitigate risks. Rapid housing growth raises bubble concerns. Flooding and tornado risks necessitate preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ames has experienced steady economic growth, driven by its educational institutions and tech startups."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Ames is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ames are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Ames is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Ames real estate market is competitive, with rising prices due to demand from new residents and students."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ames offers a supportive business climate with resources for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Oak Park",
+  "state": "Illinois",
+  "slug": "oak-park",
+  "population": "52.1K (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Oak Park",
+  "metaDescription": "Find top-rated financial advisors in Oak Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: James A Kingsley, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-kingsley?y_source=1_NjQyMTkzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "G/R Wealth Management Group, LLC",
+      "url": "http://www.grwmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Stonebrook Capital Management",
+      "url": "https://www.stonebrookcapital.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Joe O'Krepky, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joe-okrepky?y_source=1_OTYyMzcxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Keon Long",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/keon-long?y_source=1_OTYyMzcwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Oak Park, Illinois, is a vibrant suburb known for its rich architectural history and diverse community.",
+  "landscapeDescription": "Oak Park's economy is characterized by a mix of retail, healthcare, and education sectors. The proximity to Chicago enhances its economic vitality.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Oak Park requires tailored financial strategies due to its diverse population and proximity to urban economic shifts.",
+  "citySpecificRiskAdvice": "Oak Park's reliance on retail and education poses economic risks; housing prices may bubble due to demand. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Oak Park's economy has shown steady growth, driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Oak Park stands at $85,000, reflecting a diverse and affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Oak Park are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Oak Park's cost of living is slightly above the national average, influenced by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Oak Park's real estate market is competitive, with home values appreciating steadily, raising concerns of a potential bubble."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Oak Park offers a supportive business climate, with incentives for small businesses and a focus on community development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL"
+    }
+  ]
+}

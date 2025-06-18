@@ -1,0 +1,186 @@
+{
+  "cityName": "Broomfield",
+  "state": "Colorado",
+  "slug": "broomfield",
+  "population": "59.5K (metro: 594.7K)",
+  "pageTitle": "Best Financial Advisors in Broomfield",
+  "metaDescription": "Find top-rated financial advisors in Broomfield. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CayDen Wealth Management",
+      "url": "http://www.caydenwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Millennial Wealth Management",
+      "url": "https://www.millennialwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "ACE Wealth Partners",
+      "url": "http://acewealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Springbok Wealth Partners",
+      "url": "https://www.springbokwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Lighthouse Financial LLC",
+      "url": "https://lighthousefinancialllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Broomfield, Colorado, is a vibrant city known for its strategic location and diverse economy.",
+  "landscapeDescription": "Broomfield's economy thrives on technology, healthcare, and retail sectors. The city benefits from its proximity to Denver and Boulder, enhancing its economic potential.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$90,000",
+  "uniqueNeeds": "Broomfield requires tailored financial strategies to address its unique economic landscape and growth opportunities.",
+  "citySpecificRiskAdvice": "Broomfield's tech focus necessitates diversification to mitigate industry risks. Rapid housing price increases pose bubble threats, while weather risks include flooding. Economic diversification is cr...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Broomfield's GDP growth rate is projected at 3.5%, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Broomfield is $90,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Broomfield are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Broomfield's cost of living is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Broomfield's housing market shows a 10% increase in home prices year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Broomfield ranks high for business friendliness, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver",
+      "population": 649495,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs",
+      "population": 439886,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora",
+      "population": 345803,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins",
+      "population": 152061,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood",
+      "population": 147214,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton",
+      "population": 127359,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada",
+      "population": 111707,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster",
+      "population": 110945,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    }
+  ]
+}

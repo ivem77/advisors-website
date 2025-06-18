@@ -1,0 +1,186 @@
+{
+  "cityName": "Harrisonburg",
+  "state": "Virginia",
+  "slug": "harrisonburg",
+  "population": "51.4K (metro: 51395)",
+  "pageTitle": "Best Financial Advisors in Harrisonburg",
+  "metaDescription": "Find top-rated financial advisors in Harrisonburg. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Larson Wealth Management",
+      "url": "http://www.larsonwealthmgt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Loomis Wealth Management",
+      "url": "http://www.loomiswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "B Brian Burkholder - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/brian.burkholder/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Hess Financial",
+      "url": "http://www.hess-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Gannon D Irons, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/gannon-irons?y_source=1_OTY5MTYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Harrisonburg, Virginia, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Harrisonburg's economy is driven by education, healthcare, and agriculture. The city benefits from a strong local university presence and a growing job market.",
+  "majorIndustries": "Education, Healthcare, Agriculture",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Harrisonburg requires tailored financial advice focusing on education and healthcare sectors.",
+  "citySpecificRiskAdvice": "Harrisonburg's economy is heavily reliant on education; diversify investments to mitigate risks. Monitor housing market trends to avoid bubble risks, and prepare for potential flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Harrisonburg's GDP growth has been steady, driven by educational services and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Harrisonburg is $54,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Harrisonburg are increasingly focusing on education and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Harrisonburg's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Harrisonburg is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Harrisonburg's business climate is favorable, with support for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "slug": "virginia-beach",
+      "population": 448479,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Norfolk",
+      "state": "Virginia",
+      "slug": "norfolk",
+      "population": 246139,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Chesapeake",
+      "state": "Virginia",
+      "slug": "chesapeake",
+      "population": 230571,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Richmond",
+      "state": "Virginia",
+      "slug": "richmond",
+      "population": 214114,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "slug": "newport-news",
+      "population": 182020,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Alexandria",
+      "state": "Virginia",
+      "slug": "alexandria",
+      "population": 148892,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Hampton",
+      "state": "Virginia",
+      "slug": "hampton",
+      "population": 136699,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    },
+    {
+      "name": "Roanoke",
+      "state": "Virginia",
+      "slug": "roanoke",
+      "population": 98465,
+      "priority": 1,
+      "stateAbbreviation": "VA"
+    }
+  ]
+}

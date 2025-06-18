@@ -1,0 +1,186 @@
+{
+  "cityName": "Pontiac",
+  "state": "Michigan",
+  "slug": "pontiac",
+  "population": "59.9K (metro: 4.3M)",
+  "pageTitle": "Best Financial Advisors in Pontiac",
+  "metaDescription": "Find top-rated financial advisors in Pontiac. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Titan Wealth Advisors",
+      "url": "https://titanwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Integrated Fiduciary Advisory Services",
+      "url": "http://www.integratedfas.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Bridgeriver Advisors LLC",
+      "url": "http://www.bridgeriverllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Thomas Financial Company",
+      "url": "http://www.thomasfinancialconsultants.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "InvestWise Financial LLC",
+      "url": "http://www.investwisefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Pontiac, Michigan, is a city with rich automotive history and a growing economy.",
+  "landscapeDescription": "Pontiac's economy is diversifying beyond its automotive roots, with emerging sectors in healthcare and technology. The city is part of the Detroit metropolitan area, benefiting from regional economic growth.",
+  "majorIndustries": "Automotive, Healthcare, Technology",
+  "medianIncome": "$48,000",
+  "uniqueNeeds": "Pontiac requires investment in infrastructure and workforce development to support its evolving economy.",
+  "citySpecificRiskAdvice": "Pontiac's automotive focus poses risks; diversify into healthcare and tech. Real estate may face volatility, and flooding is a concern. Economic diversification is crucial.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Pontiac's economy is rebounding, with a projected growth rate of 3.2% driven by new business investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Pontiac is $48,000, reflecting a diverse economic landscape with varying income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Pontiac are increasingly focusing on retirement planning and investment strategies for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Pontiac's cost of living is approximately 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Pontiac shows a steady increase in home values, with a current median price of $150,000."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Pontiac's business climate is improving, with incentives for startups and established businesses to thrive."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

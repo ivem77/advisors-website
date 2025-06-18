@@ -1,0 +1,154 @@
+{
+  "cityName": "Grand Island",
+  "state": "Nebraska",
+  "slug": "grand-island",
+  "population": "50.6K (metro: 505.5K)",
+  "pageTitle": "Best Financial Advisors in Grand Island",
+  "metaDescription": "Find top-rated financial advisors in Grand Island. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Terry M Pfeifer, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-pfeifer?y_source=1_OTY3MTQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Flatwater Wealth",
+      "url": "https://www.flatwaterwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Mark A Perry - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Mark.Perry/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Phil Hranac",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/phil-hranac?y_source=1_MTA5NjQxOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew E Armstrong",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-armstrong?y_source=1_OTY3MTI4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Grand Island, Nebraska, is a vibrant city known for its agricultural roots and growing economy.",
+  "landscapeDescription": "The economy of Grand Island is diverse, with agriculture, manufacturing, and healthcare as key sectors. The city is experiencing steady growth in population and employment opportunities.",
+  "majorIndustries": "Agriculture, Manufacturing, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Grand Island requires tailored financial advice to navigate its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Grand Island's economy relies on agriculture and manufacturing, posing risks from market fluctuations. Housing market growth may lead to bubble concerns; diversify investments. Tornadoes and flooding ...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Grand Island's economy has grown by 3.2% over the past year, driven by agricultural exports and manufacturing output."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Grand Island is $60,000, reflecting a stable economic environment for families."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Grand Island are increasingly focusing on agricultural investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Grand Island is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Grand Island have increased by 5% year-over-year, indicating a strong real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Grand Island's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Omaha",
+      "state": "Nebraska",
+      "slug": "omaha",
+      "population": 434353,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Lincoln",
+      "state": "Nebraska",
+      "slug": "lincoln",
+      "population": 268738,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Nebraska",
+      "slug": "bellevue",
+      "population": 53663,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    },
+    {
+      "name": "Grand Island",
+      "state": "Nebraska",
+      "slug": "grand-island",
+      "population": 50550,
+      "priority": 1,
+      "stateAbbreviation": "NE"
+    }
+  ]
+}

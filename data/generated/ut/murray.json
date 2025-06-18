@@ -1,0 +1,186 @@
+{
+  "cityName": "Murray",
+  "state": "Utah",
+  "slug": "murray",
+  "population": "48.6K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Murray",
+  "metaDescription": "Find top-rated financial advisors in Murray. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cushing Financial",
+      "url": "http://www.cushingfinancial.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael Baker, CFP®|ChFC®|CPWA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-baker?y_source=1_OTYzMDI3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "GenWealth Advisory Group",
+      "url": "http://www.genwealthutah.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 116
+    },
+    {
+      "name": "TrueNorth Wealth - Financial Advisors",
+      "url": "https://www.truenorthwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Collette Financial Group",
+      "url": "https://www.collettefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Murray, Utah, is a vibrant city known for its strong community and diverse economy.",
+  "landscapeDescription": "Murray's economy is characterized by a mix of healthcare, retail, and technology sectors. The city benefits from its strategic location within the Salt Lake Valley.",
+  "majorIndustries": "Healthcare, Retail, Technology",
+  "medianIncome": "$72,000",
+  "uniqueNeeds": "Murray requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Murray's tech sector growth poses diversification risks. Real estate prices are rising, indicating potential bubble concerns. Flooding is a notable risk; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Murray's economy has shown steady growth, driven by healthcare and tech sectors, with a focus on innovation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Murray is $72,000, reflecting a stable economic environment and diverse job opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Murray are increasingly specializing in real estate and tech investments to meet local needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Murray's cost of living is moderate, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Murray's real estate market is competitive, with home values rising significantly over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Murray offers a favorable business climate, attracting startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

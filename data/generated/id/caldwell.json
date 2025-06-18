@@ -1,0 +1,186 @@
+{
+  "cityName": "Caldwell",
+  "state": "Idaho",
+  "slug": "caldwell",
+  "population": "48.9K (metro: 489.6K)",
+  "pageTitle": "Best Financial Advisors in Caldwell",
+  "metaDescription": "Find top-rated financial advisors in Caldwell. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Daniel P Jones",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/daniel-jones3?y_source=1_OTYxNjMzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Treasure Valley Financial Planning",
+      "url": "https://www.treasurevalleyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 143
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jon T Clark",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jon-clark?y_source=1_OTY4NDgwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Elison Financial Group, LLC",
+      "url": "http://elisonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bryant T Albi, ABFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bryant-albi?y_source=1_MTM5MjcxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 66
+    }
+  ],
+  "heroDescription": "Caldwell, Idaho, is a growing city in the Treasure Valley, known for its agricultural roots and vibrant community.",
+  "landscapeDescription": "Caldwell's economy is diversifying with growth in agriculture, retail, and healthcare sectors. The city benefits from proximity to Boise, enhancing its economic potential.",
+  "majorIndustries": "Agriculture, Retail, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Caldwell requires investment in infrastructure and education to support its growing population and economy.",
+  "citySpecificRiskAdvice": "Caldwell's reliance on agriculture poses risks from climate change. Housing market growth may indicate bubble risks; diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Caldwell's economy is expanding, driven by population growth and increased local business activity."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Caldwell's median income is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Caldwell are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Caldwell's cost of living is lower than the national average, making it an attractive place for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Caldwell's real estate market is experiencing rapid growth, with home prices rising due to increased demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Caldwell's business climate is favorable, with incentives for startups and small businesses to thrive."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Boise City",
+      "state": "Idaho",
+      "slug": "boise-city",
+      "population": 214237,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Nampa",
+      "state": "Idaho",
+      "slug": "nampa",
+      "population": 86518,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Meridian",
+      "state": "Idaho",
+      "slug": "meridian",
+      "population": 83596,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Idaho Falls",
+      "state": "Idaho",
+      "slug": "idaho-falls",
+      "population": 58292,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Pocatello",
+      "state": "Idaho",
+      "slug": "pocatello",
+      "population": 54350,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Caldwell",
+      "state": "Idaho",
+      "slug": "caldwell",
+      "population": 48957,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "state": "Idaho",
+      "slug": "coeur-d-alene",
+      "population": 46402,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    },
+    {
+      "name": "Twin Falls",
+      "state": "Idaho",
+      "slug": "twin-falls",
+      "population": 45981,
+      "priority": 1,
+      "stateAbbreviation": "ID"
+    }
+  ]
+}

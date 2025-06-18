@@ -1,0 +1,186 @@
+{
+  "cityName": "Blaine",
+  "state": "Minnesota",
+  "slug": "blaine",
+  "population": "60.4K (metro: 3.6M)",
+  "pageTitle": "Best Financial Advisors in Blaine",
+  "metaDescription": "Find top-rated financial advisors in Blaine. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Nathaniel Loge, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nathaniel-loge?y_source=1_MTI2NDc2OTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Anthony Roberts, CFP®|CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anthony-roberts?y_source=1_OTY0MDE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Pinnacle Planning",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJMeh7pa4ls1IRgDqBM2LNisk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Medicare Advisors",
+      "url": "http://www.fourpointsadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Jason Moehring - Thrivent",
+      "url": "https://connect.thrivent.com/jason-moehring?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzU4MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Blaine, Minnesota, is a vibrant suburb in the Twin Cities metropolitan area, known for its parks and family-friendly environment.",
+  "landscapeDescription": "Blaine's economy is diverse, with strong contributions from retail, healthcare, and manufacturing sectors. The city benefits from its proximity to Minneapolis-St. Paul, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Blaine requires tailored financial planning for families and retirees, focusing on education and healthcare.",
+  "citySpecificRiskAdvice": "Blaine's retail and healthcare sectors face competition risks; housing market shows signs of overvaluation. Monitor for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Blaine's economy has seen a steady growth rate of 3.2%, driven by local business expansions and job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Blaine is $85,000, with a growing number of households earning over $100,000."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Blaine are increasingly specializing in retirement planning and tax strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Blaine's cost of living is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Blaine's real estate market has appreciated by 6% over the past year, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Blaine's business climate is favorable, with low taxes and supportive local government initiatives for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN"
+    }
+  ]
+}

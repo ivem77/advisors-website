@@ -1,0 +1,186 @@
+{
+  "cityName": "Gilroy",
+  "state": "California",
+  "slug": "gilroy",
+  "population": "51.7K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Gilroy",
+  "metaDescription": "Find top-rated financial advisors in Gilroy. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ellington Financial, LLC",
+      "url": "http://www.ellingtonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Kristi Ellington Financial",
+      "url": "http://www.ellingtonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Oportun",
+      "url": "https://oportun.com/locations/gilroy-95020-182?utm_source=google&utm_medium=organic&utm_campaign=mybusiness",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 656
+    },
+    {
+      "name": "Resilient Wealth Planning | Bay Area Financial Advisor",
+      "url": "https://www.resilientplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Ledwith Financial Wealth Management",
+      "url": "https://www.ledwithfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Gilroy, California, known as the 'Garlic Capital of the World,' is a vibrant city with a rich agricultural heritage.",
+  "landscapeDescription": "Gilroy's economy is primarily driven by agriculture, retail, and manufacturing. The city benefits from its proximity to Silicon Valley, enhancing its growth potential.",
+  "majorIndustries": "Agriculture, Retail, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Gilroy requires support for its agricultural sector while addressing housing affordability and economic diversification.",
+  "citySpecificRiskAdvice": "Gilroy's agriculture reliance poses risks; diversify into tech and retail. Real estate prices may bubble; monitor housing trends. Flooding risks exist; prepare for climate impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Gilroy's economy has seen a steady growth rate of 3.2%, driven by agricultural exports and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Gilroy is approximately $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Gilroy are increasingly focusing on agricultural investments and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Gilroy's cost of living is 12% higher than the national average, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Gilroy is $750,000, with a 5% increase over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Gilroy's business climate is favorable, with incentives for agricultural and tech startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

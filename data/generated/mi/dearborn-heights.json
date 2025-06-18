@@ -1,0 +1,186 @@
+{
+  "cityName": "Dearborn Heights",
+  "state": "Michigan",
+  "slug": "dearborn-heights",
+  "population": "1.3M (metro: 7.8M)",
+  "pageTitle": "Best Financial Advisors in Dearborn Heights",
+  "metaDescription": "Find top-rated financial advisors in Dearborn Heights. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Elder Financial Consultants",
+      "url": "https://www.andyelder.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 92
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Norm Turfe",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/norm-turfe?y_source=1_NjQxMDM4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/mi/se-michigan",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Peak Wealth Management, LLC",
+      "url": "http://peakwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 118
+    },
+    {
+      "name": "Samantha Granata - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Samantha.Granata/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Dearborn Heights, Michigan, is a vibrant suburban city known for its diverse community and strong local economy.",
+  "landscapeDescription": "With a population of 56,620, Dearborn Heights benefits from its proximity to Detroit, fostering economic growth in manufacturing and retail. The city is also experiencing a resurgence in small business development.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Dearborn Heights requires tailored financial advice due to its diverse population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Dearborn Heights faces risks from manufacturing concentration and real estate fluctuations. Monitor housing market trends and prepare for potential flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dearborn Heights has shown steady economic growth, driven by local manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dearborn Heights is approximately $60,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly specializing in retirement planning and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Dearborn Heights is competitive, making it an attractive option for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Dearborn Heights has seen a 5% increase in home values over the past year, indicating a healthy demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), the business climate in Dearborn Heights is favorable, with supportive local policies for small businesses and entrepreneurs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI"
+    }
+  ]
+}

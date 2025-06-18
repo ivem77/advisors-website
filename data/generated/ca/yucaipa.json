@@ -1,0 +1,186 @@
+{
+  "cityName": "Yucaipa",
+  "state": "California",
+  "slug": "yucaipa",
+  "population": "52.5K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Yucaipa",
+  "metaDescription": "Find top-rated financial advisors in Yucaipa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "On Point Wealth Management",
+      "url": "http://www.onpointwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Sterling First Financial",
+      "url": "https://sterlingfirstfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Massongill Wealth Management | Financial Advisor | Redlands | Yucaipa",
+      "url": "http://www.massongillwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Collective VFO",
+      "url": "http://collectivevfo.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Kaalund Professional Fiduciary & Trustee Services",
+      "url": "http://kaalundfiduciary.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Yucaipa, California, is a growing city known for its scenic views and community-focused living.",
+  "landscapeDescription": "Yucaipa's economy is driven by retail, healthcare, and education. The city benefits from its proximity to larger metropolitan areas while maintaining a small-town feel.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Yucaipa requires tailored services in healthcare and education due to its growing population and family-oriented community.",
+  "citySpecificRiskAdvice": "Yucaipa's economy is vulnerable to retail downturns; housing prices may face bubble risks. Flooding and wildfires pose natural disaster threats. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Yucaipa's economy is expanding, with a focus on retail and healthcare sectors driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Yucaipa is approximately $65,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Yucaipa are increasingly specializing in retirement planning and family wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Yucaipa's cost of living is moderate, with housing costs being the most significant expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Yucaipa's real estate market shows steady appreciation, but potential bubble risks are emerging due to rapid price increases."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Yucaipa's business climate is supportive, with incentives for small businesses and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

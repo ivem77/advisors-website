@@ -1,0 +1,186 @@
+{
+  "cityName": "Shawnee",
+  "state": "Kansas",
+  "slug": "shawnee",
+  "population": "64.3K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Shawnee",
+  "metaDescription": "Find top-rated financial advisors in Shawnee. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Canvas Wealth Advisors",
+      "url": "http://www.canvaswealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jason W Haney",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jason-haney?y_source=1_OTY4NzI2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Andrew Mitchell, CFP®|CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/andrew-mitchell?y_source=1_MzQxMzE2NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kevin E Makalous, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kevin-makalous?y_source=1_OTY5NDUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Dogwood Wealth Management",
+      "url": "https://www.dogwoodwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    }
+  ],
+  "heroDescription": "Shawnee, Kansas, is a vibrant city in the Kansas City metropolitan area, known for its family-friendly atmosphere and economic growth.",
+  "landscapeDescription": "Shawnee's economy is diverse, with significant contributions from retail, healthcare, and manufacturing sectors. The city benefits from its proximity to Kansas City, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Shawnee requires tailored financial advice due to its unique economic landscape and family-oriented community.",
+  "citySpecificRiskAdvice": "Shawnee's economy relies on retail and healthcare; diversify investments to mitigate sector risks. Monitor housing market trends to avoid bubbles, and prepare for tornado risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Shawnee's GDP growth is steady, driven by retail and healthcare expansions, reflecting a resilient local economy."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Shawnee is $76,000, indicating a stable and affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Shawnee are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Shawnee's cost of living is competitive, making it an attractive option for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Shawnee's real estate market is experiencing moderate growth, with home prices rising steadily but not excessively."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Shawnee's business climate is favorable, with supportive local policies encouraging entrepreneurship and investment."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita",
+      "population": 386552,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park",
+      "population": 181260,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city",
+      "population": 148483,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe",
+      "population": 131885,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka",
+      "population": 127679,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence",
+      "population": 90811,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee",
+      "population": 64323,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan",
+      "population": 56143,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    }
+  ]
+}

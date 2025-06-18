@@ -1,0 +1,186 @@
+{
+  "cityName": "San Luis Obispo",
+  "state": "California",
+  "slug": "san-luis-obispo",
+  "population": "46.4K (metro: 463.8K)",
+  "pageTitle": "Best Financial Advisors in San Luis Obispo",
+  "metaDescription": "Find top-rated financial advisors in San Luis Obispo. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Aquila Wealth Advisors, LLC",
+      "url": "https://www.aquilawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Central Coast Wealth Management",
+      "url": "http://www.centralcoastwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Mustang Private Wealth",
+      "url": "https://mustangprivatewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Crew Wealth Management",
+      "url": "http://crewwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "EP Wealth Advisors",
+      "url": "https://www.epwealth.com/our-team/central-coast",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    }
+  ],
+  "heroDescription": "San Luis Obispo is a vibrant city on California's Central Coast, known for its stunning landscapes and rich cultural heritage.",
+  "landscapeDescription": "The economy of San Luis Obispo is diverse, with a focus on tourism, agriculture, and education. The city benefits from its proximity to coastal attractions and a strong local community.",
+  "majorIndustries": "Tourism, Agriculture, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "San Luis Obispo requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "San Luis Obispo's tourism reliance poses risks during downturns. Real estate prices are high, indicating potential bubble risks. Prepare for droughts and wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Luis Obispo's economy grew by 3.2% last year, driven by tourism and local agriculture."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Luis Obispo is $75,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in San Luis Obispo is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in San Luis Obispo is approximately $800,000, with a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Luis Obispo's business climate is favorable, with a focus on sustainability and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

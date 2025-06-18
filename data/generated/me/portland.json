@@ -1,0 +1,130 @@
+{
+  "cityName": "Portland",
+  "state": "Maine",
+  "slug": "portland",
+  "population": "66.3K (metro: 663.2K)",
+  "pageTitle": "Best Financial Advisors in Portland",
+  "metaDescription": "Find top-rated financial advisors in Portland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Penobscot Financial Advisors - Portland, Maine",
+      "url": "http://www.penobscotfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 54
+    },
+    {
+      "name": "Bigelow Investment Advisors",
+      "url": "https://www.bigelowadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Portland Financial Planning Group, LLC",
+      "url": "http://www.pfpg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "WealthSmith Financial Planning",
+      "url": "http://www.wealthsmithfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Matthew Brown - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/matthew.h.brown/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Portland, Maine, is a vibrant coastal city known for its rich maritime history and thriving arts scene.",
+  "landscapeDescription": "Portland's economy is driven by tourism, healthcare, and education, with a growing emphasis on technology and renewable energy. The city serves as a regional hub for commerce and culture.",
+  "majorIndustries": "Tourism, Healthcare, Education, Technology, Renewable Energy",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Portland requires strategies to address housing affordability, diversify its economy, and prepare for climate-related risks.",
+  "citySpecificRiskAdvice": "Portland's tech sector growth necessitates diversification to mitigate economic downturns. Housing demand may inflate prices, risking a bubble. Prepare for flooding and storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Portland's economy has seen a steady growth rate of 3.2%, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Portland is $65,000, reflecting a diverse economic base and a growing population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Portland are increasingly focusing on real estate and retirement planning due to demographic shifts."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Portland's cost of living has risen by 4.5% over the past year, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Portland has increased to $400,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Portland's business climate is favorable, with a focus on sustainability and innovation attracting new startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Maine",
+      "slug": "portland",
+      "population": 66318,
+      "priority": 1,
+      "stateAbbreviation": "ME"
+    }
+  ]
+}

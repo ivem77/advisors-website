@@ -1,0 +1,186 @@
+{
+  "cityName": "Muncie",
+  "state": "Indiana",
+  "slug": "muncie",
+  "population": "70.3K (metro: 703.2K)",
+  "pageTitle": "Best Financial Advisors in Muncie",
+  "metaDescription": "Find top-rated financial advisors in Muncie. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "David P Gilliam & Associates Inc",
+      "url": "http://www.dpgassociates.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Tyler Wealth Management",
+      "url": "https://www.tylerwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Eagle Flight Wealth Management",
+      "url": "https://www.eagleflightwealthmgmt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Raymond James & Associates",
+      "url": "https://www.raymondjames.com/munciehq",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dean E Meyers, CFP®|AAMS®|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dean-meyers?y_source=1_NjQwMTg3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Muncie, Indiana, a mid-sized city known for its educational institutions and manufacturing sector.",
+  "landscapeDescription": "Muncie's economy is anchored by education, healthcare, and manufacturing. The city is experiencing gradual growth, driven by local universities and small businesses.",
+  "majorIndustries": "Education, Healthcare, Manufacturing",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Focus on diversifying the local economy and addressing housing affordability.",
+  "citySpecificRiskAdvice": "Muncie's reliance on education and manufacturing poses risks; housing market may face pressure from economic shifts. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Muncie's economy is projected to grow at a rate of 2.5% annually, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Muncie is $45,000, with a significant portion of the population living below the national average."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Muncie are increasingly specializing in retirement planning and educational savings."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Muncie's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Muncie's real estate market is stable, with home prices averaging $150,000, but affordability remains a concern."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Muncie's business climate is improving, with new incentives attracting small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

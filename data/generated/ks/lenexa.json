@@ -1,0 +1,186 @@
+{
+  "cityName": "Lenexa",
+  "state": "Kansas",
+  "slug": "lenexa",
+  "population": "50.3K (metro: 2.9M)",
+  "pageTitle": "Best Financial Advisors in Lenexa",
+  "metaDescription": "Find top-rated financial advisors in Lenexa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Dogwood Wealth Management",
+      "url": "https://www.dogwoodwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 37
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brian J Hamilton, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brian-hamilton?y_source=1_ODQ2MjI5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jeremiah Wright, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeremiah-wright?y_source=1_MTgyNTUxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "LFS Wealth Advisors",
+      "url": "https://lfswealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Lighthouse Financial Strategies",
+      "url": "http://www.lighthousestrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    }
+  ],
+  "heroDescription": "Lenexa, Kansas, is a thriving suburban city known for its vibrant community and robust economy.",
+  "landscapeDescription": "Lenexa's economy is diverse, with a strong presence in technology, healthcare, and retail sectors. The city benefits from its proximity to Kansas City, enhancing its economic opportunities.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Lenexa requires a focus on sustainable growth, affordable housing, and infrastructure improvements to support its expanding population.",
+  "citySpecificRiskAdvice": "Lenexa's tech and retail sectors face competition risks; housing market may see bubble concerns. Tornadoes and flooding are natural risks; diversify economy for stability.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lenexa's economy has shown a steady growth rate of 3.5% annually, driven by technology and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lenexa is approximately $85,000, reflecting a well-educated workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lenexa are increasingly specializing in retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lenexa's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lenexa's real estate market is competitive, with home prices rising by 8% year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lenexa's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita",
+      "population": 386552,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park",
+      "population": 181260,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city",
+      "population": 148483,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe",
+      "population": 131885,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka",
+      "population": 127679,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence",
+      "population": 90811,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee",
+      "population": 64323,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan",
+      "population": 56143,
+      "priority": 1,
+      "stateAbbreviation": "KS"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Delray Beach",
+  "state": "Florida",
+  "slug": "delray-beach",
+  "population": "64K (metro: 640K)",
+  "pageTitle": "Best Financial Advisors in Delray Beach",
+  "metaDescription": "Find top-rated financial advisors in Delray Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Holistic Wealth Planning™️",
+      "url": "http://www.holisticwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Weinstein Wealth Insurance Solutions",
+      "url": "http://weinsteinwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 52
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor Jeff Kaplan",
+      "url": "https://advisor.ml.com/sites/fl/delray-beach/jeff-kaplan",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Maclendon Wealth Management",
+      "url": "http://www.maclendon.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Annuity Depot",
+      "url": "https://annuitydepot.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    }
+  ],
+  "heroDescription": "Delray Beach, Florida, is a vibrant coastal city known for its beautiful beaches and thriving arts scene.",
+  "landscapeDescription": "Delray Beach has a diverse economy primarily driven by tourism, retail, and healthcare. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Delray Beach requires a focus on sustainable tourism and housing affordability.",
+  "citySpecificRiskAdvice": "Delray's tourism reliance poses economic risks; housing market volatility may lead to affordability issues. Prepare for hurricane impacts and diversify local industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Delray Beach's economy grew by 3.5% last year, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Delray Beach is approximately $70,000, reflecting a mix of affluent and middle-class households."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Delray Beach are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Delray Beach is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Delray Beach is around $450,000, with a competitive market and rising demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Delray Beach's business climate is favorable, with supportive local policies encouraging small business growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Yuba City",
+  "state": "California",
+  "slug": "yuba-city",
+  "population": "65.4K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Yuba City",
+  "metaDescription": "Find top-rated financial advisors in Yuba City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ryan Wealth Management",
+      "url": "http://www.ryanwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Steven P Olin",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/steven-olin?y_source=1_OTcwMzE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brad Willoughby, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brad-willoughby?y_source=1_NjQyMzk3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "U.S. Bank - Wealth Management Banker: Puneet Gill",
+      "url": "https://www.usbank.com/wealth-management/find-an-advisor/ca/yuba-city/puneet-gill/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tiffany D Howland",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tiffany-howland?y_source=1_MTA4OTk2MzIzNC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Yuba City, California, is a vibrant community known for its agricultural roots and growing economy.",
+  "landscapeDescription": "With a population of 65,416, Yuba City is experiencing steady economic growth driven by agriculture, healthcare, and retail sectors. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Agriculture, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Yuba City requires tailored financial advice due to its unique agricultural economy and growing housing market.",
+  "citySpecificRiskAdvice": "Yuba City's reliance on agriculture poses economic risks; housing market growth may indicate a bubble. Flooding risks necessitate diversification in investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Yuba City's economy has grown by 3.5% annually, driven by agricultural exports and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Yuba City is $55,000, reflecting a diverse income distribution among residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Yuba City are increasingly focusing on agricultural investments and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Yuba City is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Yuba City's real estate market shows a 5% annual increase in home values, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Yuba City has a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.2,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "New Brunswick",
+  "state": "New Jersey",
+  "slug": "new-brunswick",
+  "population": "55.8K (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in New Brunswick",
+  "metaDescription": "Find top-rated financial advisors in New Brunswick. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Brunswick Wealth Management LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bQZEnHPw4kRhyXvq95rNVo",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "PCB FINANCIAL ADVISORY GROUP",
+      "url": "http://www.pcbfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Jonathan Barrett CFP®, CLU®, ChFC®, RICP®, RPS®",
+      "url": "http://www.jonathan-barrett.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 142
+    },
+    {
+      "name": "Unlimited Financial Services LLC",
+      "url": "http://www.njcpablog.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Stephen Blazejewski CFP - Equitable Advisors",
+      "url": "https://atlantic-liberty.equitableadvisors.com/Stephen-Blazejewski,-CFP.e1122159.htm",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    }
+  ],
+  "heroDescription": "New Brunswick, NJ, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Home to Rutgers University, New Brunswick boasts a strong educational sector alongside healthcare and technology industries. The city's economy is bolstered by its strategic location between New York City and Philadelphia.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Focus on educational services, healthcare access, and tech innovation.",
+  "citySpecificRiskAdvice": "New Brunswick's tech and healthcare concentration poses risks; monitor real estate fluctuations and potential flooding. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Brunswick's economy is growing steadily, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in New Brunswick is $65,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Brunswick are increasingly focusing on healthcare and education sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in New Brunswick is slightly above the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in New Brunswick shows signs of appreciation, raising concerns about a potential bubble."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Brunswick's business climate is favorable, particularly for startups in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ"
+    }
+  ]
+}

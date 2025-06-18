@@ -1,0 +1,162 @@
+{
+  "cityName": "Owensboro",
+  "state": "Kentucky",
+  "slug": "owensboro",
+  "population": "58.4K (metro: 584.2K)",
+  "pageTitle": "Best Financial Advisors in Owensboro",
+  "metaDescription": "Find top-rated financial advisors in Owensboro. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: David W Renshaw, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/david-renshaw?y_source=1_OTYzNzczLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brooke Obermann, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brooke-obermann?y_source=1_MjY0NDQwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ed Krahwinkel, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ed-krahwinkel?y_source=1_OTcxODc2MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Marcus W. Bosley & Associates",
+      "url": "http://www.bosleyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katie Kolonich, ABFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katie-kolonich?y_source=1_ODQ2MjIyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Owensboro, Kentucky, is a vibrant city known for its rich cultural heritage and economic potential.",
+  "landscapeDescription": "With a population of 58,416, Owensboro serves as a regional hub for commerce and industry in western Kentucky. The city boasts a diverse economy with strengths in manufacturing, healthcare, and agriculture.",
+  "majorIndustries": "Manufacturing, Healthcare, Agriculture",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Owensboro requires tailored financial strategies to address its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Owensboro's economy, reliant on manufacturing, faces risks from market fluctuations. Real estate may see volatility; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Owensboro's economy has shown steady growth, particularly in manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Owensboro is approximately $50,000, reflecting the city's economic diversity."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Owensboro are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Owensboro's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Owensboro is experiencing moderate growth, with a focus on affordable housing options."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Owensboro's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Louisville/Jefferson County",
+      "state": "Kentucky",
+      "slug": "louisville-jefferson-county",
+      "population": 609893,
+      "priority": 1,
+      "stateAbbreviation": "KY"
+    },
+    {
+      "name": "Lexington-Fayette",
+      "state": "Kentucky",
+      "slug": "lexington-fayette",
+      "population": 308428,
+      "priority": 1,
+      "stateAbbreviation": "KY"
+    },
+    {
+      "name": "Bowling Green",
+      "state": "Kentucky",
+      "slug": "bowling-green",
+      "population": 61488,
+      "priority": 1,
+      "stateAbbreviation": "KY"
+    },
+    {
+      "name": "Owensboro",
+      "state": "Kentucky",
+      "slug": "owensboro",
+      "population": 58416,
+      "priority": 1,
+      "stateAbbreviation": "KY"
+    },
+    {
+      "name": "Covington",
+      "state": "Kentucky",
+      "slug": "covington",
+      "population": 40956,
+      "priority": 1,
+      "stateAbbreviation": "KY"
+    }
+  ]
+}

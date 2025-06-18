@@ -1,0 +1,186 @@
+{
+  "cityName": "Elyria",
+  "state": "Ohio",
+  "slug": "elyria",
+  "population": "53.9K (metro: 539.6K)",
+  "pageTitle": "Best Financial Advisors in Elyria",
+  "metaDescription": "Find top-rated financial advisors in Elyria. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Kim Plzak, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kim-plzak?y_source=1_Mjc4MDU1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Gary M Gilbert and Associates LLC",
+      "url": "http://www.garymgilbert.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Meridian Senior Advisors",
+      "url": "https://www.meridiansenioradvisors.com/contact",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Raymond Loeser, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/raymond-loeser?y_source=1_MTIwMzU4OTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Paul Hoffman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/p-hoffman?y_source=1_MTQ2ODMxNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Elyria, Ohio, a vibrant city in Lorain County, offers a blend of industrial heritage and modern amenities.",
+  "landscapeDescription": "Elyria's economy is diverse, with a strong manufacturing base and growing service sector. The city benefits from its proximity to Cleveland, enhancing economic opportunities.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Elyria requires focus on economic diversification and infrastructure improvement to support growth.",
+  "citySpecificRiskAdvice": "Elyria's manufacturing focus poses risks if economic shifts occur. Real estate may face volatility; consider diversifying investments. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Elyria's GDP growth is steady, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Elyria is approximately $52,000, reflecting moderate economic stability."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Elyria are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Elyria's cost of living is lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Elyria's housing market shows stable prices, but potential for fluctuations due to economic conditions."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Elyria's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

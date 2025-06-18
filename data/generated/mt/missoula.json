@@ -1,0 +1,154 @@
+{
+  "cityName": "Missoula",
+  "state": "Montana",
+  "slug": "missoula",
+  "population": "69.1K (metro: 69.1K)",
+  "pageTitle": "Best Financial Advisors in Missoula",
+  "metaDescription": "Find top-rated financial advisors in Missoula. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Link Financial Advisory",
+      "url": "http://linkfinancialadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 114
+    },
+    {
+      "name": "Montana Wealth Management",
+      "url": "http://montanawm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "WestPac® Wealth Partners (Missoula)",
+      "url": "https://www.westpacwealth.com/missoula",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Susan Colyer, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/susan-colyer?y_source=1_OTYxNjg0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Glacier Wealth Management",
+      "url": "http://glacierwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Missoula, Montana, is a vibrant city known for its outdoor recreation and cultural scene.",
+  "landscapeDescription": "Missoula's economy is driven by education, healthcare, and tourism. The city is home to the University of Montana, which significantly influences local employment.",
+  "majorIndustries": "Education, Healthcare, Tourism",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Missoula's economy relies heavily on education and tourism, necessitating diversification and sustainable growth strategies.",
+  "citySpecificRiskAdvice": "Missoula's reliance on education and tourism poses risks; consider diversifying investments. Real estate may face volatility due to seasonal demand and natural disaster risks like wildfires.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Missoula's economy has shown steady growth, primarily driven by the education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Missoula is $56,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Missoula are increasingly focusing on retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Missoula's cost of living is moderate, with housing costs rising due to demand from new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Missoula's real estate market is competitive, with home values increasing steadily, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Missoula's business climate is supportive, with incentives for startups and a focus on sustainable practices."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Billings",
+      "state": "Montana",
+      "slug": "billings",
+      "population": 109059,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Missoula",
+      "state": "Montana",
+      "slug": "missoula",
+      "population": 69122,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Great Falls",
+      "state": "Montana",
+      "slug": "great-falls",
+      "population": 59351,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    },
+    {
+      "name": "Bozeman",
+      "state": "Montana",
+      "slug": "bozeman",
+      "population": 39860,
+      "priority": 1,
+      "stateAbbreviation": "MT"
+    }
+  ]
+}

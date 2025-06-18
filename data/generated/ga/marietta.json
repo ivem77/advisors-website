@@ -1,0 +1,186 @@
+{
+  "cityName": "Marietta",
+  "state": "Georgia",
+  "slug": "marietta",
+  "population": "59K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Marietta",
+  "metaDescription": "Find top-rated financial advisors in Marietta. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wiser Wealth Management, Inc",
+      "url": "https://www.wiserinvestor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 148
+    },
+    {
+      "name": "Marietta Wealth",
+      "url": "https://www.mariettawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "American Financial Advisors LLC",
+      "url": "http://www.afainvestments.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Senior Financial Planning, LLC",
+      "url": "http://www.srfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Christian Salhuana, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/christian-salhuana?y_source=1_MTQ5MzY4MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Marietta, Georgia, a vibrant city in Cobb County, blends rich history with modern growth.",
+  "landscapeDescription": "Marietta's economy is diverse, with a strong presence in manufacturing, retail, and healthcare. The city benefits from its proximity to Atlanta's metropolitan area.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Marietta requires tailored financial advice due to its diverse economic base and growing population.",
+  "citySpecificRiskAdvice": "Marietta's manufacturing sector faces global supply chain risks. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and tornadoes.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Marietta's GDP growth has outpaced national averages, driven by local manufacturing and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Marietta is $68,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Marietta increasingly focus on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Marietta's cost of living is slightly below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Marietta's housing market is competitive, with home prices rising 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Marietta's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta",
+      "population": 447841,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus",
+      "population": 202824,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county",
+      "population": 197350,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah",
+      "population": 142772,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county",
+      "population": 119980,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs",
+      "population": 99770,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell",
+      "population": 94034,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon",
+      "population": 89981,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    }
+  ]
+}

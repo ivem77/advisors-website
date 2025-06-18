@@ -1,0 +1,186 @@
+{
+  "cityName": "Middletown",
+  "state": "Connecticut",
+  "slug": "middletown",
+  "population": "47.3K (metro: 473.3K)",
+  "pageTitle": "Best Financial Advisors in Middletown",
+  "metaDescription": "Find top-rated financial advisors in Middletown. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "James Beyer, AIF®, CLTC® | Financial Advisor Integrity Wealth",
+      "url": "https://www.integritywealthretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 368
+    },
+    {
+      "name": "Reliance Wealth Management",
+      "url": "https://www.reliancewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Cahill & Associates",
+      "url": "https://www.cahillfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Centurion Wealth Management - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/centurion-wealth-management/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Wooster Corthell Wealth Management, Inc.",
+      "url": "https://www.woostercorthell.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    }
+  ],
+  "heroDescription": "Middletown, Connecticut, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Middletown's economy is supported by healthcare, education, and manufacturing. The city benefits from its strategic location along the Connecticut River.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Middletown requires tailored financial services for its diverse population and growing industries.",
+  "citySpecificRiskAdvice": "Middletown's healthcare and education sectors face concentration risks. Real estate may see price volatility; prepare for flooding risks. Diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Middletown's economy shows steady growth, driven by healthcare and educational services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Middletown is approximately $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Middletown increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Middletown is slightly above the national average, influenced by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Middletown is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Middletown's business climate is favorable, with support for small businesses and startups from local initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Bridgeport",
+      "state": "Connecticut",
+      "slug": "bridgeport",
+      "population": 147216,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Haven",
+      "state": "Connecticut",
+      "slug": "new-haven",
+      "population": 130660,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Stamford",
+      "state": "Connecticut",
+      "slug": "stamford",
+      "population": 126456,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Hartford",
+      "state": "Connecticut",
+      "slug": "hartford",
+      "population": 125017,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Waterbury",
+      "state": "Connecticut",
+      "slug": "waterbury",
+      "population": 109676,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Norwalk",
+      "state": "Connecticut",
+      "slug": "norwalk",
+      "population": 87776,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "Danbury",
+      "state": "Connecticut",
+      "slug": "danbury",
+      "population": 83684,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    },
+    {
+      "name": "New Britain",
+      "state": "Connecticut",
+      "slug": "new-britain",
+      "population": 72939,
+      "priority": 1,
+      "stateAbbreviation": "CT"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Moore",
+  "state": "Oklahoma",
+  "slug": "moore",
+  "population": "1.4M (metro: 1.4M)",
+  "pageTitle": "Best Financial Advisors in Moore",
+  "metaDescription": "Find top-rated financial advisors in Moore. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Moorestreet Financial Group",
+      "url": "https://www.moorestreetfg.com/contact",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Staton Financial Group Inc.",
+      "url": "http://statonfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 106
+    },
+    {
+      "name": "Bulmer Financial Group",
+      "url": "http://www.bulmerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Empire Finance of Moore",
+      "url": "https://www.loansanywhere.net/empire",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 131
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Angela Vetrano, CFP®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/angela-vetrano?y_source=1_MTUwMzcxNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Moore, Oklahoma, a growing suburban city, offers a blend of residential and commercial opportunities.",
+  "landscapeDescription": "With a population of 58,414, Moore is part of the Oklahoma City metropolitan area, showcasing steady economic growth and community development.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$59,000",
+  "uniqueNeeds": "Moore's growth necessitates infrastructure improvements and diversified economic development to support its expanding population.",
+  "citySpecificRiskAdvice": "Moore's retail focus risks over-reliance; housing market shows signs of bubble. Tornadoes pose natural disaster threats—diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Moore's economy has expanded with a focus on retail and healthcare, contributing to job creation and stability."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Moore is $59,000, reflecting a diverse economic base and growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Moore are increasingly specializing in retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Moore's cost of living is 10% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Moore's real estate market is experiencing rising prices, with a 7% increase year-over-year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Moore's business climate is improving, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Oklahoma City",
+      "state": "Oklahoma",
+      "slug": "oklahoma-city",
+      "population": 610613,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Tulsa",
+      "state": "Oklahoma",
+      "slug": "tulsa",
+      "population": 398121,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Norman",
+      "state": "Oklahoma",
+      "slug": "norman",
+      "population": 118197,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Broken Arrow",
+      "state": "Oklahoma",
+      "slug": "broken-arrow",
+      "population": 103500,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Lawton",
+      "state": "Oklahoma",
+      "slug": "lawton",
+      "population": 97151,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Edmond",
+      "state": "Oklahoma",
+      "slug": "edmond",
+      "population": 87004,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Moore",
+      "state": "Oklahoma",
+      "slug": "moore",
+      "population": 58414,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    },
+    {
+      "name": "Midwest City",
+      "state": "Oklahoma",
+      "slug": "midwest-city",
+      "population": 56756,
+      "priority": 1,
+      "stateAbbreviation": "OK"
+    }
+  ]
+}

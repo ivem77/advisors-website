@@ -1,0 +1,186 @@
+{
+  "cityName": "San Clemente",
+  "state": "California",
+  "slug": "san-clemente",
+  "population": "65K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in San Clemente",
+  "metaDescription": "Find top-rated financial advisors in San Clemente. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "NCG Financial Inc.",
+      "url": "http://www.ncgfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Williams Financial Advisors",
+      "url": "http://www.williamsfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "The Clark Group Asset Management",
+      "url": "http://www.clarkgroupam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Professional Financial Advisor",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJb9CBTxbu3IARke8FciSa_NE",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Warren Street Wealth Advisors, LLC",
+      "url": "https://warrenstreetwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    }
+  ],
+  "heroDescription": "San Clemente, a coastal city in California, is renowned for its beautiful beaches and vibrant community.",
+  "landscapeDescription": "The economy of San Clemente is driven by tourism, real estate, and small businesses. Its scenic location attracts both residents and visitors, contributing to steady growth.",
+  "majorIndustries": "Tourism, Real Estate, Retail",
+  "medianIncome": "$90,000",
+  "uniqueNeeds": "San Clemente requires tailored financial advice due to its unique coastal economy and real estate market.",
+  "citySpecificRiskAdvice": "San Clemente's tourism reliance poses economic risks; housing market volatility may lead to bubbles. Prepare for coastal erosion and flooding while diversifying investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Clemente's economy has seen a 3% growth rate, driven by tourism and real estate investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Clemente is approximately $90,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in San Clemente is 20% higher than the national average, driven by housing and amenities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in San Clemente is around $1.2 million, with a strong demand for coastal properties."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Clemente's business climate is favorable for small businesses, particularly in retail and hospitality."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

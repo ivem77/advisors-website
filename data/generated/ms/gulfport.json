@@ -1,0 +1,170 @@
+{
+  "cityName": "Gulfport",
+  "state": "Mississippi",
+  "slug": "gulfport",
+  "population": "71K (metro: 710K)",
+  "pageTitle": "Best Financial Advisors in Gulfport",
+  "metaDescription": "Find top-rated financial advisors in Gulfport. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Van Kirk Wealth Advisors",
+      "url": "http://www.vankirkwa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Terry L Cutrer, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-cutrer?y_source=1_OTYzODY3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Agape Wealth",
+      "url": "https://agapewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Justin Jones, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/justin-jones?y_source=1_NjQyNjUxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: RLee Flowers",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rlee-flowers?y_source=1_OTcxODc3OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Gulfport, Mississippi, a vibrant coastal city, offers a blend of economic opportunities and natural beauty.",
+  "landscapeDescription": "Gulfport's economy is driven by tourism, shipping, and healthcare, contributing to steady growth. The city serves as a regional hub for commerce and recreation.",
+  "majorIndustries": "Tourism, Shipping, Healthcare",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Gulfport requires strategies for disaster preparedness, economic diversification, and housing market stability.",
+  "citySpecificRiskAdvice": "Gulfport's reliance on tourism and shipping poses economic risks; real estate is vulnerable to hurricanes and flooding. Diversify investments to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Gulfport's GDP growth is driven by tourism and shipping, with a projected annual increase of 3%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Gulfport is $45,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Gulfport are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Gulfport's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Gulfport's real estate market shows steady appreciation, but concerns about hurricane impacts persist."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Gulfport's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson",
+      "population": 172638,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport",
+      "population": 71012,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven",
+      "population": 50997,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg",
+      "population": 47556,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi",
+      "population": 44820,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian",
+      "population": 40921,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    }
+  ]
+}

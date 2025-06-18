@@ -1,0 +1,186 @@
+{
+  "cityName": "Sarasota",
+  "state": "Florida",
+  "slug": "sarasota",
+  "population": "53.3K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Sarasota",
+  "metaDescription": "Find top-rated financial advisors in Sarasota. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "SRQ Wealth",
+      "url": "http://www.srqwealth.com/?utm_medium=organic&utm_source=google&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 137
+    },
+    {
+      "name": "WealthGen Advisors",
+      "url": "https://wealthgenadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Beacon Pointe Advisors",
+      "url": "https://beaconpointe.com/contact-us/florida-sarasota/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Ranch Capital Advisors",
+      "url": "https://ranchcap.com/?utm_campaign=gmb&utm_medium=wix_google_business_profile&utm_source=google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "LCM Capital Advisors, LLC",
+      "url": "https://lcmcapitaladvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    }
+  ],
+  "heroDescription": "Sarasota, Florida, is a vibrant coastal city known for its cultural attractions and beautiful beaches.",
+  "landscapeDescription": "Sarasota's economy is driven by tourism, healthcare, and real estate. The city has seen steady growth, attracting retirees and young professionals alike.",
+  "majorIndustries": "Tourism, Healthcare, Real Estate",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Sarasota's unique needs include affordable housing, sustainable tourism, and healthcare accessibility.",
+  "citySpecificRiskAdvice": "Sarasota's tourism reliance poses economic risks; housing market volatility may indicate bubbles. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sarasota's GDP growth rate was 3.5%, driven by increased tourism and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sarasota is $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sarasota are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Sarasota is 5% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Sarasota real estate market has seen a 10% increase in home prices over the past year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sarasota's business climate is favorable, with growing opportunities in tech and healthcare sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

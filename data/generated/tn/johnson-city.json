@@ -1,0 +1,186 @@
+{
+  "cityName": "Johnson City",
+  "state": "Tennessee",
+  "slug": "johnson-city",
+  "population": "65K (metro: 200K)",
+  "pageTitle": "Best Financial Advisors in Johnson City",
+  "metaDescription": "Find top-rated financial advisors in Johnson City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Talley Financial",
+      "url": "https://www.mytalleyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 53
+    },
+    {
+      "name": "Highlands Wealth Partners",
+      "url": "https://highlandswealthpartners.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "BCS Wealth Management",
+      "url": "http://bcswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "East Tennessee Financial Partners - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/east-tennessee-financial-partners/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/locations/johnson-city-tn-peoples-st/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Johnson City, TN, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "With a population of 65,123, Johnson City is part of the Tri-Cities metropolitan area. The economy is diverse, with healthcare, education, and manufacturing as key sectors.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Focus on healthcare and education sectors, with a growing need for tech integration.",
+  "citySpecificRiskAdvice": "Johnson City's healthcare and education focus needs diversification to mitigate economic risks. Real estate may face volatility; consider flood risks and invest in varied sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Johnson City's economy has shown steady growth, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Johnson City is approximately $50,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the region are increasingly specializing in retirement planning and healthcare investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Johnson City's cost of living is below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market is competitive, with rising prices but still affordable compared to larger cities."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Johnson City is fostering a supportive business climate, encouraging startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN"
+    }
+  ]
+}

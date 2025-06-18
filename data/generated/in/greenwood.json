@@ -1,0 +1,186 @@
+{
+  "cityName": "Greenwood",
+  "state": "Indiana",
+  "slug": "greenwood",
+  "population": "53.7K (metro: 1.9M)",
+  "pageTitle": "Best Financial Advisors in Greenwood",
+  "metaDescription": "Find top-rated financial advisors in Greenwood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Creative Financial Group",
+      "url": "http://www.creativefinancialgrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 129
+    },
+    {
+      "name": "Financial Plans & Strategies",
+      "url": "http://www.finplans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Independence Team",
+      "url": "https://www.fitwg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Christopher P Rosser, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-rosser?y_source=1_OTY5MjE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Scott B Frye, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/scott-frye?y_source=1_MTk1OTg5MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Greenwood, Indiana, a vibrant suburb of Indianapolis, offers a balanced lifestyle with access to urban amenities.",
+  "landscapeDescription": "Greenwood's economy is driven by retail, healthcare, and manufacturing sectors. The city benefits from its proximity to Indianapolis, enhancing its economic growth potential.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Greenwood requires tailored financial advice due to its suburban growth and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Greenwood's retail and healthcare sectors face competition from urban centers. Monitor housing market trends to avoid bubble risks. Prepare for potential flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Greenwood's economy has shown steady growth, with a focus on retail and healthcare services driving local employment."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Greenwood is $65,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Greenwood are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Greenwood's cost of living remains below the national average, making it an attractive option for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Greenwood's real estate market is competitive, with home prices rising steadily due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Greenwood's business environment is favorable, supported by local incentives and a growing workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}

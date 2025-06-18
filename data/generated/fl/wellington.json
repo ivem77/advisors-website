@@ -1,0 +1,186 @@
+{
+  "cityName": "Wellington",
+  "state": "Florida",
+  "slug": "wellington",
+  "population": "60.2K (metro: 602K)",
+  "pageTitle": "Best Financial Advisors in Wellington",
+  "metaDescription": "Find top-rated financial advisors in Wellington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Lou LoFranco",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lou-lofranco?y_source=1_MjI0ODk2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Josh Davis, CFP(r) Financial Planner",
+      "url": "http://www.davisprivatewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Family Retirement Services, LLC",
+      "url": "http://www.frsinvestmentadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "One Call Financial",
+      "url": "https://onecallfinancial.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Davis Private Wealth, LLC",
+      "url": "http://www.davisprivatewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Wellington, Florida, is a vibrant community known for its equestrian culture and family-friendly atmosphere.",
+  "landscapeDescription": "Wellington's economy is diverse, with a focus on equestrian activities, retail, and healthcare. The area benefits from its proximity to larger metropolitan economies.",
+  "majorIndustries": "Equestrian, Retail, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Wellington requires tailored financial strategies due to its unique equestrian economy and seasonal population fluctuations.",
+  "citySpecificRiskAdvice": "Wellington's equestrian focus poses niche market risks. Real estate prices may face volatility from seasonal demand. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wellington's economy has shown steady growth, driven by tourism and local businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wellington is approximately $85,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wellington are increasingly focusing on real estate and equestrian-related investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wellington's cost of living is higher than the national average, influenced by housing and amenities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wellington's real estate market is competitive, with prices rising due to demand for equestrian properties."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wellington offers a supportive business climate, especially for niche markets like equestrian services."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

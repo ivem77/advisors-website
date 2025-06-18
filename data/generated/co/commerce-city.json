@@ -1,0 +1,186 @@
+{
+  "cityName": "Commerce City",
+  "state": "Colorado",
+  "slug": "commerce-city",
+  "population": "49.8K (metro: 3.0M)",
+  "pageTitle": "Best Financial Advisors in Commerce City",
+  "metaDescription": "Find top-rated financial advisors in Commerce City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Colorado Wealth Group",
+      "url": "https://coloradowealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 119
+    },
+    {
+      "name": "Dechtman Wealth Management",
+      "url": "https://dechtmanwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 130
+    },
+    {
+      "name": "Kyle Kinsinger - Thrivent",
+      "url": "https://connect.thrivent.com/kyle-kinsinger?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4Nzc0MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shawn Faurote, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shawn-faurote?y_source=1_MjY0NDE4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ryan M Walker, CFP®|CEPA®|CRPC™|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ryan-walker?y_source=1_MTM1NTc0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Commerce City, Colorado, is a vibrant community known for its diverse economy and proximity to Denver.",
+  "landscapeDescription": "With a population of 49,799, Commerce City is part of the Denver-Aurora-Lakewood metro area. The city boasts a mix of industries, contributing to its economic resilience.",
+  "majorIndustries": "Manufacturing, Transportation, Retail",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Commerce City requires tailored financial advice due to its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Commerce City's manufacturing sector faces volatility; diversify investments. Housing market shows signs of bubble risk. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Commerce City has experienced a 3% annual growth rate, driven by manufacturing and logistics sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Commerce City is $75,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Commerce City are increasingly focusing on real estate and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Commerce City is 5% lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Commerce City have risen 10% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Commerce City offers a favorable business climate with incentives for new businesses and expansions."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Denver",
+      "state": "Colorado",
+      "slug": "denver",
+      "population": 649495,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Colorado Springs",
+      "state": "Colorado",
+      "slug": "colorado-springs",
+      "population": 439886,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Aurora",
+      "state": "Colorado",
+      "slug": "aurora",
+      "population": 345803,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Fort Collins",
+      "state": "Colorado",
+      "slug": "fort-collins",
+      "population": 152061,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Lakewood",
+      "state": "Colorado",
+      "slug": "lakewood",
+      "population": 147214,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Thornton",
+      "state": "Colorado",
+      "slug": "thornton",
+      "population": 127359,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Arvada",
+      "state": "Colorado",
+      "slug": "arvada",
+      "population": 111707,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    },
+    {
+      "name": "Westminster",
+      "state": "Colorado",
+      "slug": "westminster",
+      "population": 110945,
+      "priority": 1,
+      "stateAbbreviation": "CO"
+    }
+  ]
+}

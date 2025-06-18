@@ -1,0 +1,186 @@
+{
+  "cityName": "Dunwoody",
+  "state": "Georgia",
+  "slug": "dunwoody",
+  "population": "47.6K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Dunwoody",
+  "metaDescription": "Find top-rated financial advisors in Dunwoody. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Integrated Financial Group",
+      "url": "http://www.integrated-financial-group.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Compass Wealth Management, LLC",
+      "url": "http://www.compasswm.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Creative Financial Partners",
+      "url": "http://www.creativefinpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 47
+    },
+    {
+      "name": "Gaynes Financial Services",
+      "url": "http://www.capitalgaynes.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Element Wealth Advisors",
+      "url": "https://elementwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    }
+  ],
+  "heroDescription": "Dunwoody, Georgia, is a vibrant suburban city known for its strong community and economic growth.",
+  "landscapeDescription": "Dunwoody boasts a diverse economy with a mix of retail, healthcare, and technology sectors. Its proximity to Atlanta enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Dunwoody requires tailored financial services to support its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Dunwoody's tech sector growth necessitates diversification to mitigate economic risks. Real estate prices are rising, posing bubble risks. Prepare for flooding and storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dunwoody's economy has seen a 4% growth rate, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dunwoody is approximately $85,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dunwoody are increasingly specializing in retirement planning and tax strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Dunwoody is 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Dunwoody has increased by 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dunwoody's business climate is favorable, with low taxes and support for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Atlanta",
+      "state": "Georgia",
+      "slug": "atlanta",
+      "population": 447841,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Columbus",
+      "state": "Georgia",
+      "slug": "columbus",
+      "population": 202824,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Augusta-Richmond County",
+      "state": "Georgia",
+      "slug": "augusta-richmond-county",
+      "population": 197350,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Savannah",
+      "state": "Georgia",
+      "slug": "savannah",
+      "population": 142772,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Athens-Clarke County",
+      "state": "Georgia",
+      "slug": "athens-clarke-county",
+      "population": 119980,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Sandy Springs",
+      "state": "Georgia",
+      "slug": "sandy-springs",
+      "population": 99770,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Roswell",
+      "state": "Georgia",
+      "slug": "roswell",
+      "population": 94034,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    },
+    {
+      "name": "Macon",
+      "state": "Georgia",
+      "slug": "macon",
+      "population": 89981,
+      "priority": 1,
+      "stateAbbreviation": "GA"
+    }
+  ]
+}

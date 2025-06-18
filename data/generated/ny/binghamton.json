@@ -1,0 +1,186 @@
+{
+  "cityName": "Binghamton",
+  "state": "New York",
+  "slug": "binghamton",
+  "population": "46.4K (metro: 100K)",
+  "pageTitle": "Best Financial Advisors in Binghamton",
+  "metaDescription": "Find top-rated financial advisors in Binghamton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Hawkes Wealth Management, Inc",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJZbIIH1nl2okRuy80Wua5K_c",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/binghamton-branch?y_source=1_MjM2MTczNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Merrill Lynch Financial Advisor James Freeman",
+      "url": "https://advisor.ml.com/sites/ny/binghamton-ny/freeman-and-associates",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Matthew Feldman",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/matthew-feldman?y_source=1_MTM5NzQ0MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Faithward Advisors",
+      "url": "https://faithwardadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Binghamton, NY, known as the Carousel Capital of the World, blends rich history with a vibrant community.",
+  "landscapeDescription": "Binghamton's economy is anchored in healthcare, education, and manufacturing. The city is experiencing gradual growth with a focus on revitalization.",
+  "majorIndustries": "Healthcare, Education, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Binghamton requires investment in tech and infrastructure to enhance economic resilience.",
+  "citySpecificRiskAdvice": "Binghamton's reliance on healthcare and education poses risks; diversify into tech. Real estate may face stagnation; monitor housing market trends. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Binghamton's economy is projected to grow at 2.5% annually, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Binghamton is approximately $50,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Binghamton are increasingly specializing in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Binghamton's cost of living is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Binghamton is stable, with median home prices around $150,000, showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Binghamton's business climate is improving, with incentives for startups and a focus on local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york",
+      "population": 8405837,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo",
+      "population": 258959,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester",
+      "population": 210358,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers",
+      "population": 199766,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse",
+      "population": 144669,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany",
+      "population": 98424,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle",
+      "population": 79446,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon",
+      "population": 68224,
+      "priority": 1,
+      "stateAbbreviation": "NY"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "cityName": "Harrisburg",
+  "state": "Pennsylvania",
+  "slug": "harrisburg",
+  "population": "49.2K (metro: 491.9K)",
+  "pageTitle": "Best Financial Advisors in Harrisburg",
+  "metaDescription": "Find top-rated financial advisors in Harrisburg. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Langan Financial Group Retirement & Wealth Management",
+      "url": "https://langanfinancialgroup.com/locations/camp-hill-pa-financial-advisor-services/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsitecamphill",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 130
+    },
+    {
+      "name": "LifeGuide Financial Advisors",
+      "url": "http://www.lifeguidefa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 201
+    },
+    {
+      "name": "Fort Pitt Capital Group",
+      "url": "https://www.fortpittcapital.com/locations/harrisburg-pa/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=harrisburg",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "evolve Financial Planning, Inc.",
+      "url": "https://www.raymondjames.com/evolvefpl/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "SevenBridge Financial Group",
+      "url": "http://www.sevenbridgefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Harrisburg, the capital of Pennsylvania, is a vibrant city with rich history and diverse culture.",
+  "landscapeDescription": "Harrisburg's economy is driven by government services, healthcare, and education. The city is strategically located, enhancing its logistics and transportation sectors.",
+  "majorIndustries": "Government, Healthcare, Education",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Harrisburg requires infrastructure improvements and economic diversification to enhance resilience against economic fluctuations.",
+  "citySpecificRiskAdvice": "Harrisburg's reliance on government jobs poses economic risks. Real estate may face volatility due to urban development pressures. Flooding risks exist; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Harrisburg's GDP growth is steady, driven by public sector employment and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Harrisburg is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Harrisburg are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Harrisburg's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Harrisburg is recovering, with home prices showing moderate appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Harrisburg's business climate is improving, with incentives for startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    }
+  ]
+}

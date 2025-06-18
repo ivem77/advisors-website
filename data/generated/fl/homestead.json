@@ -1,0 +1,186 @@
+{
+  "cityName": "Homestead",
+  "state": "Florida",
+  "slug": "homestead",
+  "population": "64K (metro: 6.1M)",
+  "pageTitle": "Best Financial Advisors in Homestead",
+  "metaDescription": "Find top-rated financial advisors in Homestead. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "Marie David Charles: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/fl/homestead/marie-david-charles?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Ocean Trust Insurance & Financial Services",
+      "url": "https://oceantrustinsurance.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 203
+    },
+    {
+      "name": "Eastern Financial Florida CU",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJCyYmpWjn2YgRnIwcYwUaD20",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Homestead, Florida, is a vibrant city known for its agricultural roots and proximity to natural parks.",
+  "landscapeDescription": "Homestead's economy is driven by agriculture, tourism, and retail. The city serves as a gateway to the Everglades and Biscayne National Park.",
+  "majorIndustries": "Agriculture, Tourism, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Homestead requires robust infrastructure and disaster preparedness due to its vulnerability to hurricanes and flooding.",
+  "citySpecificRiskAdvice": "Homestead's agriculture focus poses risks from climate change; housing prices may rise due to demand, creating bubble concerns. Prepare for hurricanes and diversify the economy.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Homestead's economy is expanding, with a focus on agriculture and tourism contributing significantly to growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Homestead is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Homestead are increasingly specializing in real estate and agricultural investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Homestead's cost of living is relatively low compared to nearby Miami, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Homestead is experiencing growth, with rising prices due to increased demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Homestead's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

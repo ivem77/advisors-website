@@ -1,0 +1,170 @@
+{
+  "cityName": "East Providence",
+  "state": "Rhode Island",
+  "slug": "east-providence",
+  "population": "47.1K (metro: 1.6M)",
+  "pageTitle": "Best Financial Advisors in East Providence",
+  "metaDescription": "Find top-rated financial advisors in East Providence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Providence Financial Advisors",
+      "url": "https://www.pfari.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "SK Wealth Management | Fee-Only Financial Planner",
+      "url": "https://skwealth.com/?utm_source=BusinessProfile&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: William Francis, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/william-francis?y_source=1_MTAxNDA0NjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Eliot Rose Wealth Management, LLC",
+      "url": "http://www.eliotrose.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "Northwestern Mutual - Financial Advisor: Adam Badeau",
+      "url": "http://adambadeau.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 21
+    }
+  ],
+  "heroDescription": "East Providence, RI is a vibrant city with a rich history and diverse community.",
+  "landscapeDescription": "The economy of East Providence is supported by a mix of manufacturing, healthcare, and retail sectors. Its strategic location near Providence enhances its economic potential.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "East Providence requires tailored financial strategies to address its unique economic landscape and demographic needs.",
+  "citySpecificRiskAdvice": "East Providence's reliance on manufacturing poses risks; diversify investments. Real estate may face bubble risks; monitor housing trends. Flooding and storms are concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), East Providence's economy has shown steady growth, driven by local manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in East Providence is approximately $65,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), East Providence's cost of living is slightly above the national average, influenced by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in East Providence is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), East Providence offers a supportive business environment, though challenges remain in attracting new industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Providence",
+      "state": "Rhode Island",
+      "slug": "providence",
+      "population": 177994,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    },
+    {
+      "name": "Warwick",
+      "state": "Rhode Island",
+      "slug": "warwick",
+      "population": 81971,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    },
+    {
+      "name": "Cranston",
+      "state": "Rhode Island",
+      "slug": "cranston",
+      "population": 80566,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    },
+    {
+      "name": "Pawtucket",
+      "state": "Rhode Island",
+      "slug": "pawtucket",
+      "population": 71172,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    },
+    {
+      "name": "East Providence",
+      "state": "Rhode Island",
+      "slug": "east-providence",
+      "population": 47149,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    },
+    {
+      "name": "Woonsocket",
+      "state": "Rhode Island",
+      "slug": "woonsocket",
+      "population": 41026,
+      "priority": 1,
+      "stateAbbreviation": "RI"
+    }
+  ]
+}

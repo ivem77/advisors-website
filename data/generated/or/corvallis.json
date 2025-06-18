@@ -1,0 +1,186 @@
+{
+  "cityName": "Corvallis",
+  "state": "Oregon",
+  "slug": "corvallis",
+  "population": "55.3K (metro: 55298)",
+  "pageTitle": "Best Financial Advisors in Corvallis",
+  "metaDescription": "Find top-rated financial advisors in Corvallis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Northwest Financial Group, LLC",
+      "url": "https://www.nw-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Eric M Sundstrom",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/eric-sundstrom?y_source=1_MjU1MTY4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bronwyn Evans",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJLbMpkJNAwFQR6QvMJ-nk6eM",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Michael Cross - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Michael.Cross/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Andrew Beck - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Andrew.W.Beck/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Corvallis, Oregon, is a vibrant city known for its strong educational institutions and a growing tech sector.",
+  "landscapeDescription": "Corvallis boasts a diverse economy with a focus on education, technology, and agriculture. The city is home to Oregon State University, driving innovation and research.",
+  "majorIndustries": "Education, Technology, Agriculture",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Corvallis requires a focus on sustainable growth, balancing tech expansion with housing affordability.",
+  "citySpecificRiskAdvice": "Corvallis' tech sector growth poses risks of over-reliance; housing demand may create a bubble. Flooding and seismic risks necessitate diversification in investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Corvallis has seen a steady economic growth rate of 3.2%, driven by educational and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Corvallis is approximately $60,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Corvallis are increasingly specializing in education and tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Corvallis has risen by 4% over the past year, primarily due to housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Corvallis shows a 10% increase in home prices, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Corvallis is recognized for its supportive business climate, particularly for startups and tech firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland",
+      "population": 609456,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem",
+      "population": 160614,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene",
+      "population": 159190,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham",
+      "population": 109397,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro",
+      "population": 97368,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton",
+      "population": 93542,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend",
+      "population": 81236,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford",
+      "population": 77677,
+      "priority": 1,
+      "stateAbbreviation": "OR"
+    }
+  ]
+}

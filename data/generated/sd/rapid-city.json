@@ -1,0 +1,138 @@
+{
+  "cityName": "Rapid City",
+  "state": "South Dakota",
+  "slug": "rapid-city",
+  "population": "70.8K (metro: 70.8K)",
+  "pageTitle": "Best Financial Advisors in Rapid City",
+  "metaDescription": "Find top-rated financial advisors in Rapid City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Applied Financial Wisdom",
+      "url": "http://www.appliedfinancialwisdom.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 44
+    },
+    {
+      "name": "Summit Wealth Group",
+      "url": "https://www.summitwealthgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northwestern Mutual - Rapid City",
+      "url": "http://rapidcity.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "David Hillard - RBC Wealth Management Branch Director",
+      "url": "https://us.rbcwealthmanagement.com/hillardwilliams?utm_source=GMB&utm_medium=Yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kandyce S Meinhardt, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kandyce-meinhardt?y_source=1_MTUxNjY0NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Rapid City, South Dakota, is a vibrant city known for its proximity to natural wonders and a growing economy.",
+  "landscapeDescription": "The economy of Rapid City is diverse, with a focus on tourism, healthcare, and manufacturing. Recent growth trends indicate a steady increase in job opportunities and population.",
+  "majorIndustries": "Tourism, Healthcare, Manufacturing",
+  "medianIncome": "$56,000",
+  "uniqueNeeds": "Rapid City requires attention to tourism sustainability and healthcare accessibility.",
+  "citySpecificRiskAdvice": "Rapid City's economy relies on tourism, posing risks during downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for severe weather events.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rapid City's economy has seen a 3% growth rate, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Rapid City is approximately $56,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rapid City are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Rapid City is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Rapid City have increased by 8% over the last year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rapid City has a favorable business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "70+",
+  "nearbyLocations": [
+    {
+      "name": "Sioux Falls",
+      "state": "South Dakota",
+      "slug": "sioux-falls",
+      "population": 164676,
+      "priority": 1,
+      "stateAbbreviation": "SD"
+    },
+    {
+      "name": "Rapid City",
+      "state": "South Dakota",
+      "slug": "rapid-city",
+      "population": 70812,
+      "priority": 1,
+      "stateAbbreviation": "SD"
+    }
+  ]
+}
