@@ -163,5 +163,6 @@
       "stateAbbreviation": "CA",
       "index": true
     }
-  ]
+  ],
+  "index": false
 }

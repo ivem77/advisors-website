@@ -126,5 +126,6 @@
       "priority": 1,
       "stateAbbreviation": "ME"
     }
-  ]
+  ],
+  "index": false
 }

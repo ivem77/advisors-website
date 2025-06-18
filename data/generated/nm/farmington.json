@@ -174,5 +174,6 @@
       "priority": 1,
       "stateAbbreviation": "NM"
     }
-  ]
+  ],
+  "index": false
 }

@@ -166,5 +166,6 @@
       "priority": 1,
       "stateAbbreviation": "NV"
     }
-  ]
+  ],
+  "index": false
 }

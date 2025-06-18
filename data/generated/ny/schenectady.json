@@ -182,5 +182,6 @@
       "priority": 1,
       "stateAbbreviation": "NY"
     }
-  ]
+  ],
+  "index": false
 }

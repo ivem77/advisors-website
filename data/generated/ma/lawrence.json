@@ -182,5 +182,6 @@
       "priority": 1,
       "stateAbbreviation": "MA"
     }
-  ]
+  ],
+  "index": false
 }

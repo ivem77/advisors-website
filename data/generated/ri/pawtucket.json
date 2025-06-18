@@ -166,5 +166,6 @@
       "priority": 1,
       "stateAbbreviation": "RI"
     }
-  ]
+  ],
+  "index": false
 }

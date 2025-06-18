@@ -190,5 +190,6 @@
       "stateAbbreviation": "TX",
       "index": true
     }
-  ]
+  ],
+  "index": false
 }

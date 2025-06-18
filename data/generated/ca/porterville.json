@@ -168,5 +168,6 @@
       "priority": 1,
       "stateAbbreviation": "CA"
     }
-  ]
+  ],
+  "index": false
 }

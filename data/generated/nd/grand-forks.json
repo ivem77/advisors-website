@@ -150,5 +150,6 @@
       "priority": 1,
       "stateAbbreviation": "ND"
     }
-  ]
+  ],
+  "index": false
 }

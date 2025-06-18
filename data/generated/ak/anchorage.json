@@ -125,5 +125,6 @@
       "population": 300950,
       "priority": 1
     }
-  ]
+  ],
+  "index": true
 }

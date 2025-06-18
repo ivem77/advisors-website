@@ -10,35 +10,65 @@
       "name": "Financial Partners",
       "url": "https://www.financialpartnersnm.com/",
       "rating": 5,
-      "stars": [null, null, null, null, null],
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "reviewCount": 5
     },
     {
       "name": "Savant Wealth Management",
       "url": "https://savantwealth.com/locations/santa-fe-new-mexico/",
       "rating": 5,
-      "stars": [null, null, null, null, null],
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "reviewCount": 1
     },
     {
       "name": "Jeremy Campbell - Private Wealth Advisor, Ameriprise Financial Services, LLC",
       "url": "https://www.ameripriseadvisors.com/jeremy.2.campbell/?cid=IP_local_google",
       "rating": 5,
-      "stars": [null, null, null, null, null],
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "reviewCount": 1
     },
     {
       "name": "Morgan Stanley Financial Advisors",
       "url": "https://advisor.morganstanley.com/santa-fe-branch?y_source=1_MjM2MjAwNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
       "rating": 5,
-      "stars": [null, null, null, null, null],
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "reviewCount": 1
     },
     {
       "name": "Generational Asset Planning",
       "url": "https://www.genassetplan.com/",
       "rating": 5,
-      "stars": [null, null, null, null, null],
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "reviewCount": 1
     }
   ],
@@ -144,5 +174,6 @@
       "priority": 1,
       "stateAbbreviation": "NM"
     }
-  ]
+  ],
+  "index": false
 }
