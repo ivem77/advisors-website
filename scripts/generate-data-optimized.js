@@ -11,6 +11,7 @@ function getNearbyLocations(state) {
       slug,
       state,
       stateAbbreviation,
+      stateCode: stateAbbreviation.toLowerCase(),
       population
     }));
   return stateCitiesByPopulationDesc.slice(0, 8);

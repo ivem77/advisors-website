@@ -138,14 +138,33 @@ function mockGenerateMarketInsights(cityName, state) {
 }
 
 function getNearbyLocations(cityName, state) {
+  const stateAbbreviationMap = {
+    'Texas': 'TX',
+    'California': 'CA',
+    // Add more states as needed
+  };
+  
   const locationMap = {
     'Texas': ['Houston', 'Dallas', 'Austin', 'San Antonio', 'Fort Worth', 'El Paso', 'Arlington', 'Corpus Christi'],
     'California': ['Los Angeles', 'San Francisco', 'San Diego', 'Sacramento', 'San Jose', 'Fresno'],
     // Add more states as needed
   };
   
+  const stateAbbr = stateAbbreviationMap[state] || 'XX';
   const stateCities = locationMap[state] || [];
-  return stateCities.filter(city => city !== cityName).slice(0, 8);
+  
+  return stateCities
+    .filter(city => city !== cityName)
+    .slice(0, 8)
+    .map(city => ({
+      name: city,
+      nameLower: city.toLowerCase().replace(/\s+/g, '-'), // Add nameLower for URLs
+      slug: city.toLowerCase().replace(/\s+/g, '-'),
+      state: state,
+      stateAbbreviation: stateAbbr,
+      stateCode: stateAbbr.toLowerCase(),
+      population: 100000 // Default population for demo
+    }));
 }
 
 async function generateCityData(city) {

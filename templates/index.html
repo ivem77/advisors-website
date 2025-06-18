@@ -290,7 +290,7 @@
         <p class="locations__subtitle">Explore financial advisor options in these nearby {{state}} locations</p>
         <div class="locations__list">
           {{#nearbyLocations}}
-          <a href="../{{slug}}/" class="locations__item locations__item--link"
+          <a href="/advisors/{{stateCode}}/{{citySlug}}/" class="locations__item locations__item--link"
             ><span class="locations__icon"><img src="assets/pin.svg" alt="" width="24" height="24" /></span>{{name}}</a
           >
           {{/nearbyLocations}}

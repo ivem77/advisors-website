@@ -17,6 +17,14 @@ async function buildCitySite(cityData) {
     // Clean the slug by removing the state code if present (e.g., 'houston-tx' -> 'houston')
     const cityNameSlug = cityData.slug.replace(/\-\w{2}$/, '');
     
+    // Ensure citySlug is available for nearby locations
+    if (cityData.nearbyLocations) {
+      cityData.nearbyLocations = cityData.nearbyLocations.map(location => ({
+        ...location,
+        citySlug: location.slug.toLowerCase().replace(/\-\w{2}$/, '')
+      }));
+    }
+
     // Add state code, city slug, and noindex flag for templates
     cityData.stateCode = stateCode;
     cityData.citySlug = cityNameSlug;
