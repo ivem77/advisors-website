@@ -1,8 +1,8 @@
 {
   "cityName": "Santa Fe",
   "state": "New Mexico",
-  "slug": "santa",
-  "population": "69.9K (metro: 699.8K)",
+  "slug": "santa-fe",
+  "population": "69.9K (metro: 99.5K)",
   "pageTitle": "Best Financial Advisors in Santa Fe",
   "metaDescription": "Find top-rated financial advisors in Santa Fe. Expert guidance for retirement planning, wealth management, and investment strategies.",
   "advisors": [
@@ -10,89 +10,59 @@
       "name": "Financial Partners",
       "url": "https://www.financialpartnersnm.com/",
       "rating": 5,
-      "stars": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "stars": [null, null, null, null, null],
       "reviewCount": 5
     },
     {
       "name": "Savant Wealth Management",
       "url": "https://savantwealth.com/locations/santa-fe-new-mexico/",
       "rating": 5,
-      "stars": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "stars": [null, null, null, null, null],
       "reviewCount": 1
     },
     {
       "name": "Jeremy Campbell - Private Wealth Advisor, Ameriprise Financial Services, LLC",
       "url": "https://www.ameripriseadvisors.com/jeremy.2.campbell/?cid=IP_local_google",
       "rating": 5,
-      "stars": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "stars": [null, null, null, null, null],
       "reviewCount": 1
     },
     {
       "name": "Morgan Stanley Financial Advisors",
       "url": "https://advisor.morganstanley.com/santa-fe-branch?y_source=1_MjM2MjAwNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
       "rating": 5,
-      "stars": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "stars": [null, null, null, null, null],
       "reviewCount": 1
     },
     {
       "name": "Generational Asset Planning",
       "url": "https://www.genassetplan.com/",
       "rating": 5,
-      "stars": [
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
+      "stars": [null, null, null, null, null],
       "reviewCount": 1
     }
   ],
-  "heroDescription": "Santa Fe, New Mexico, known for its rich cultural heritage and stunning landscapes, is a vibrant city with a unique blend of art and history.",
-  "landscapeDescription": "Santa Fe's economy is driven by tourism, arts, and government sectors, with a growing focus on technology and renewable energy. The city attracts visitors year-round, boosting local businesses.",
-  "majorIndustries": "Tourism, Arts, Government, Renewable Energy, Technology",
+  "heroDescription": "Santa Fe, New Mexico, is known for its rich cultural heritage and vibrant arts scene, attracting tourists and residents alike.",
+  "landscapeDescription": "The economy of Santa Fe is primarily driven by tourism, arts, and government services. The city is experiencing steady growth, with an emphasis on sustainable development.",
+  "majorIndustries": "Tourism, Arts, Government Services",
   "medianIncome": "$54,000",
-  "uniqueNeeds": "Santa Fe's unique cultural landscape requires tailored financial advice that considers local economic drivers and demographic trends.",
-  "citySpecificRiskAdvice": "Santa Fe's reliance on tourism and arts poses economic risks; housing market volatility exists due to demand. Be cautious of wildfires and flooding, and diversify investments.",
+  "uniqueNeeds": "Santa Fe requires a focus on sustainable tourism and affordable housing to accommodate its growing population.",
+  "citySpecificRiskAdvice": "Santa Fe's tourism reliance poses risks during downturns; housing demand may inflate prices. Prepare for droughts and wildfires; diversify economy beyond tourism.",
   "insights": [
     {
       "category": "Market Insights",
       "sections": [
         {
           "title": "Economic Growth",
-          "description": "According to BEA (2023), Santa Fe's economy has seen a 3% growth rate, driven by tourism and government spending."
+          "description": "According to BEA (2023), Santa Fe's economy grew by 3.2%, driven by tourism and local arts, reflecting resilience in post-pandemic recovery."
         },
         {
           "title": "Wealth Demographics",
-          "description": "According to Census (2023), the median income in Santa Fe is $54,000, reflecting a diverse economic base."
+          "description": "According to Census (2023), the median income in Santa Fe is $54,000, with a significant portion of residents engaged in creative industries."
         },
         {
           "title": "Advisor Specializations",
-          "description": "Based on BLS (2023), financial advisors in Santa Fe are increasingly focusing on estate planning and retirement strategies."
+          "description": "Based on BLS (2023), financial advisors in Santa Fe are increasingly focusing on sustainable investments and real estate planning."
         }
       ]
     },
@@ -101,15 +71,15 @@
       "sections": [
         {
           "title": "Cost of Living",
-          "description": "According to BLS (2024), the cost of living in Santa Fe is 10% higher than the national average, driven by housing and utilities."
+          "description": "According to BLS (2024), Santa Fe's cost of living is 10% above the national average, driven by housing and healthcare expenses."
         },
         {
           "title": "Real Estate Market",
-          "description": "According to Zillow (2024), Santa Fe's real estate market has seen a 5% increase in home prices over the past year, indicating strong demand."
+          "description": "According to Zillow (2024), Santa Fe's real estate market is competitive, with home prices rising 8% year-over-year, raising affordability concerns."
         },
         {
           "title": "Business Environment",
-          "description": "According to Fortune (2024), Santa Fe's business climate is improving, with new incentives for startups in tech and renewable energy."
+          "description": "According to Fortune (2024), Santa Fe's business climate is favorable for startups, particularly in arts and tech, with supportive local policies."
         }
       ]
     }

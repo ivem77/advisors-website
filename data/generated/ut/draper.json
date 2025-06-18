@@ -1,0 +1,186 @@
+{
+  "cityName": "Draper",
+  "state": "Utah",
+  "slug": "draper",
+  "population": "45.3K (metro: 1.2M)",
+  "pageTitle": "Best Financial Advisors in Draper",
+  "metaDescription": "Find top-rated financial advisors in Draper. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Medicus Wealth Planning",
+      "url": "http://www.medicuswealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 48
+    },
+    {
+      "name": "Phibbs Financial",
+      "url": "https://phibbsfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Tencap Wealth Coaching - Financial Advisor",
+      "url": "https://www.tencap.com/?utm_source=google&utm_medium=organic&utm_campaign=GBP-Draper",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Capita Financial Network",
+      "url": "https://www.capitafinancialnetwork.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Coign Capital Advisors",
+      "url": "https://www.coigncapital.com/?utm_sourceGMB&utm_medium=Website",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    }
+  ],
+  "heroDescription": "Draper, Utah, is a vibrant city known for its scenic views and booming economy.",
+  "landscapeDescription": "Draper has experienced rapid growth, driven by its proximity to tech hubs and outdoor recreation. The economy is diverse, with a strong emphasis on technology and healthcare.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$95,000",
+  "uniqueNeeds": "Draper requires tailored financial advice due to its tech-driven economy and growing population.",
+  "citySpecificRiskAdvice": "Draper's tech focus poses concentration risks; housing prices are rising, indicating potential bubble risks. Prepare for natural disasters like flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Draper's economy grew by 4.5% last year, fueled by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Draper is $95,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Draper increasingly specialize in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Draper's cost of living is 15% higher than the national average, driven by housing costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Draper have surged by 12% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Draper is recognized for its supportive business climate, attracting startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT"
+    }
+  ]
+}

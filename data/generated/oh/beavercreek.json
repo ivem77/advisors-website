@@ -1,0 +1,186 @@
+{
+  "cityName": "Beavercreek",
+  "state": "Ohio",
+  "slug": "beavercreek",
+  "population": "45.7K (metro: 1.0M)",
+  "pageTitle": "Best Financial Advisors in Beavercreek",
+  "metaDescription": "Find top-rated financial advisors in Beavercreek. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Command Financial Advisor - Woody Tegtmeier",
+      "url": "https://advisor.firstcommand.com/us/oh/beavercreek/eategtmeier?y_source=1_NDE1Nzk1MDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    },
+    {
+      "name": "Rodriguez Financial Strategies, LLC",
+      "url": "http://www.askrafi.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Skip Whitworth",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/skip-whitworth?y_source=1_MTk1OTg5NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/beavercreek-market?y_source=1_MjM2MTk3MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Tim Schmale, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tim-schmale?y_source=1_ODc1ODQyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Beavercreek, Ohio, is a vibrant suburban community known for its strong economy and family-friendly environment.",
+  "landscapeDescription": "Beavercreek's economy is bolstered by its proximity to Dayton and a diverse range of industries. The city benefits from a mix of retail, healthcare, and education sectors.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Beavercreek requires attention to housing affordability and economic diversification to sustain growth.",
+  "citySpecificRiskAdvice": "Beavercreek's reliance on healthcare and retail poses economic risks; housing market volatility and flooding potential necessitate diversification and strategic investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Beavercreek's economy has shown steady growth, driven by healthcare and retail sectors, contributing to local job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Beavercreek is approximately $75,000, indicating a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Beavercreek are increasingly focusing on retirement planning and investment strategies for local families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Beavercreek's cost of living is slightly above the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Beavercreek is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Beavercreek offers a favorable business climate with supportive local policies and access to a skilled workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

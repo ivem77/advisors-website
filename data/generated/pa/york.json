@@ -1,0 +1,194 @@
+{
+  "cityName": "York",
+  "state": "Pennsylvania",
+  "slug": "york",
+  "population": "43.9K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in York",
+  "metaDescription": "Find top-rated financial advisors in York. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Advisory Group",
+      "url": "https://financialadvisoryyork.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "White Rose Wealth Management",
+      "url": "http://www.whiterosewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Concierge Financial Advisory",
+      "url": "https://www.conciergefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "York Independents, Inc.",
+      "url": "https://yorkindependentfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Wellington Adams Financial Group",
+      "url": "http://www.wellingtonadams.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "York, Pennsylvania, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 43,935, York serves as a regional hub for manufacturing, healthcare, and retail. The economy is supported by a mix of small businesses and larger employers.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "York requires investment in infrastructure and workforce development to support its growing economy.",
+  "citySpecificRiskAdvice": "York's manufacturing focus poses risks from economic downturns. Real estate prices are rising, indicating potential bubble risks. Flooding is a concern; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), York's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in York is approximately $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in York are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), York's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), York's real estate market is experiencing growth, with home prices rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), York offers a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    }
+  ]
+}

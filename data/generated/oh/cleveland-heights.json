@@ -1,0 +1,186 @@
+{
+  "cityName": "Cleveland Heights",
+  "state": "Ohio",
+  "slug": "cleveland-heights",
+  "population": "45.4K (metro: 2.1M)",
+  "pageTitle": "Best Financial Advisors in Cleveland Heights",
+  "metaDescription": "Find top-rated financial advisors in Cleveland Heights. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Beacon Financial Partners",
+      "url": "https://www.beaconplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Reserve Investment Group",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJvYbO_Kv9MIgRfYi46IIfLik",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Clearstead",
+      "url": "https://www.clearstead.com/?utm_source=GoogleMyBusiness&utm_medium=organic",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Purtill Financial LLC",
+      "url": "http://www.purtillfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Reed Financial Services",
+      "url": "http://www.reed-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Cleveland Heights, Ohio, is a vibrant suburb known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "Cleveland Heights has a stable economy with a focus on education, healthcare, and retail. The city benefits from its proximity to Cleveland's urban amenities.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Cleveland Heights requires tailored financial advice due to its diverse economic base and unique community needs.",
+  "citySpecificRiskAdvice": "Cleveland Heights faces risks from healthcare and retail concentration. Real estate may be overvalued; consider diversification. Weather risks include snowstorms and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cleveland Heights has shown steady economic growth, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cleveland Heights is $66,000, reflecting a diverse socioeconomic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cleveland Heights are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Cleveland Heights is moderate, with housing being the largest expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Cleveland Heights is competitive, with home values rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cleveland Heights offers a supportive business environment, particularly for small and medium-sized enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH"
+    }
+  ]
+}

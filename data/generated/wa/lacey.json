@@ -1,0 +1,186 @@
+{
+  "cityName": "Lacey",
+  "state": "Washington",
+  "slug": "lacey",
+  "population": "44.9K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Lacey",
+  "metaDescription": "Find top-rated financial advisors in Lacey. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cameron Wealth Management, Inc",
+      "url": "http://www.cameronwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cameron A Daniels",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cameron-daniels?y_source=1_MzY1OTgxMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kevin Rowe",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kevin-rowe?y_source=1_ODM0MjU5MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Pillar Financial Group",
+      "url": "http://www.pillar-financialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jon Emerson, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jon-emerson?y_source=1_OTY4MzUxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Lacey, Washington, is a vibrant city known for its scenic parks and proximity to the Puget Sound.",
+  "landscapeDescription": "Lacey's economy is diverse, with significant contributions from retail, healthcare, and education sectors. The city benefits from its strategic location near Olympia and Tacoma.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$72,000",
+  "uniqueNeeds": "Lacey requires a focus on sustainable growth and infrastructure to support its expanding population.",
+  "citySpecificRiskAdvice": "Lacey's economy relies on retail and healthcare, posing risks if these sectors falter. Housing market growth raises bubble concerns; diversify investments and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lacey's GDP growth rate is projected at 3.2%, driven by retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Lacey is $72,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lacey are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lacey's cost of living is approximately 10% lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lacey's real estate market shows a 5% annual appreciation, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lacey's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA"
+    }
+  ]
+}

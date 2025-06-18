@@ -1,0 +1,186 @@
+{
+  "cityName": "Lincoln",
+  "state": "California",
+  "slug": "lincoln",
+  "population": "45.2K (metro: 1.5M)",
+  "pageTitle": "Best Financial Advisors in Lincoln",
+  "metaDescription": "Find top-rated financial advisors in Lincoln. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Mark O Schumacher, CFP®|ChFC®|CPWA®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-schumacher?y_source=1_OTY5ODQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shayla R Cloutier",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shayla-cloutier?y_source=1_MTY2NjEwNzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "TAD Executive Fiduciary Services",
+      "url": "http://www.tadfiduciary.com/contact-us.html",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bangerter Financial Strategies, Inc.",
+      "url": "http://www.bangerterfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 107
+    },
+    {
+      "name": "Diligence Wealth Management, LLC",
+      "url": "http://www.diligencewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    }
+  ],
+  "heroDescription": "Lincoln, California, is a growing city known for its family-friendly atmosphere and proximity to Sacramento.",
+  "landscapeDescription": "Lincoln's economy is bolstered by residential development and local agriculture. The city benefits from its location near major metropolitan areas, enhancing its economic prospects.",
+  "majorIndustries": "Agriculture, Retail, Healthcare",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "Lincoln requires tailored financial advice for its growing population and housing market.",
+  "citySpecificRiskAdvice": "Lincoln's housing market faces bubble risks amid rapid growth; diversify investments. Monitor agricultural sector volatility and prepare for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lincoln's economy is expanding, driven by residential development and local agriculture."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lincoln is $82,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lincoln are increasingly focusing on real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lincoln's cost of living is rising, driven by housing demand and local amenities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lincoln's real estate market is competitive, with home prices increasing significantly over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lincoln's business climate is favorable, attracting new retail and service enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.1,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA"
+    }
+  ]
+}

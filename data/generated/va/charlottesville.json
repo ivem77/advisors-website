@@ -1,0 +1,194 @@
+{
+  "cityName": "Charlottesville",
+  "state": "Virginia",
+  "slug": "charlottesville",
+  "population": "44.3K (metro: 443.5K)",
+  "pageTitle": "Best Financial Advisors in Charlottesville",
+  "metaDescription": "Find top-rated financial advisors in Charlottesville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Lohr & Company",
+      "url": "https://www.lohrandcompany.com/?utm_source=+google&utm_medium=+gmb&utm_campaign=+webbutton&utm_id=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 55
+    },
+    {
+      "name": "Morris & Wells Wealth Management",
+      "url": "http://www.morrisandwells.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Wilkinson Wealth Management, LLC",
+      "url": "https://www.wilkinsonwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "OakHeart Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/oakheart-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Woods and Waters Financial Group",
+      "url": "https://www.woodsandwatersfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Charlottesville, Virginia, is known for its rich history, vibrant culture, and beautiful landscapes.",
+  "landscapeDescription": "Charlottesville's economy is diverse, with a strong focus on education, healthcare, and tourism. The city benefits from its proximity to major universities and a growing tech sector.",
+  "majorIndustries": "Education, Healthcare, Tourism",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Charlottesville requires tailored financial advice due to its unique blend of education and tourism-driven economy.",
+  "citySpecificRiskAdvice": "Charlottesville's reliance on education and tourism poses economic risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Charlottesville's economy has shown steady growth, primarily driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Charlottesville is $65,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Charlottesville are increasingly focusing on education and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Charlottesville is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Charlottesville is competitive, with home prices increasing due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Charlottesville's business climate is favorable, with support for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "slug": "virginia-beach",
+      "population": 448479,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Norfolk",
+      "state": "Virginia",
+      "slug": "norfolk",
+      "population": 246139,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Chesapeake",
+      "state": "Virginia",
+      "slug": "chesapeake",
+      "population": 230571,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Richmond",
+      "state": "Virginia",
+      "slug": "richmond",
+      "population": 214114,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "slug": "newport-news",
+      "population": 182020,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Alexandria",
+      "state": "Virginia",
+      "slug": "alexandria",
+      "population": 148892,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Hampton",
+      "state": "Virginia",
+      "slug": "hampton",
+      "population": 136699,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Roanoke",
+      "state": "Virginia",
+      "slug": "roanoke",
+      "population": 98465,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "cityName": "Lombard",
+  "state": "Illinois",
+  "slug": "lombard",
+  "population": "43.9K (metro: 9.5M)",
+  "pageTitle": "Best Financial Advisors in Lombard",
+  "metaDescription": "Find top-rated financial advisors in Lombard. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Northwestern Mutual Rob Dalaskey CLU ChFC RICP",
+      "url": "https://robdalaskey.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Financial Advisor - Mario J Tenuta - Northwestern Mutual Wealth Management Company",
+      "url": "https://mariotenuta.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "LT Family Financial, Inc",
+      "url": "https://ltfamilyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Paul Cord, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/paul-cord?y_source=1_OTY0MzU4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Northwestern Mutual - The Mathur Financial Group",
+      "url": "http://www.mathurfinancialgroup.com/?cmpid=loc3",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Lombard, Illinois, is a vibrant suburb known for its family-friendly atmosphere and strong community ties.",
+  "landscapeDescription": "Lombard's economy is diverse, with a mix of retail, healthcare, and professional services. The area benefits from its proximity to Chicago, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Professional Services",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "Lombard's suburban nature demands focus on family services, education, and local business support.",
+  "citySpecificRiskAdvice": "Lombard's retail sector faces e-commerce risks; housing prices may bubble due to demand. Monitor flooding risks and diversify investments across sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lombard's GDP growth has been steady, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lombard is $82,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lombard increasingly focus on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lombard's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lombard's real estate market shows a 5% increase in home values, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lombard's business climate is favorable, with supportive local policies for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": true
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    }
+  ]
+}

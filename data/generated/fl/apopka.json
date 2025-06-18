@@ -1,0 +1,186 @@
+{
+  "cityName": "Apopka",
+  "state": "Florida",
+  "slug": "apopka",
+  "population": "45.6K (metro: 2.5M)",
+  "pageTitle": "Best Financial Advisors in Apopka",
+  "metaDescription": "Find top-rated financial advisors in Apopka. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Byron C Tobias",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/byron-tobias?y_source=1_MTc0NjI1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Fischer Wealth Management",
+      "url": "http://www.fischerwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Nelson Financial Planning",
+      "url": "https://www.nelsonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Ogden Wealth LLC",
+      "url": "http://www.ogdenwealthllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Legacy Financial Advisors Orlando",
+      "url": "http://legacyadvisorsorlando.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Apopka, Florida, is a vibrant city known for its rich natural beauty and growing economy.",
+  "landscapeDescription": "Apopka's economy is diverse, with significant growth in retail, healthcare, and agriculture. The city benefits from its proximity to Orlando's metropolitan area.",
+  "majorIndustries": "Retail, Healthcare, Agriculture",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Apopka requires tailored financial advice due to its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Apopka's growth in retail and healthcare necessitates diversification to mitigate risks. Real estate prices may face volatility; prepare for potential hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Apopka's economy has seen a 4% growth rate, driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Apopka is $62,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Apopka are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Apopka's cost of living is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Apopka's real estate market has appreciated by 8% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Apopka's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL"
+    }
+  ]
+}

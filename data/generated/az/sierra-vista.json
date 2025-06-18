@@ -1,0 +1,186 @@
+{
+  "cityName": "Sierra Vista",
+  "state": "Arizona",
+  "slug": "sierra-vista",
+  "population": "45.1K (metro: N/A)",
+  "pageTitle": "Best Financial Advisors in Sierra Vista",
+  "metaDescription": "Find top-rated financial advisors in Sierra Vista. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Haws Financial Planning",
+      "url": "https://hawsfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Justin L Haymore",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/justin-haymore?y_source=1_OTYyNTk4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Landon K Spilsbury, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/landon-spilsbury?y_source=1_OTYyNTk5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Howard M Merkwan, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/howard-merkwan?y_source=1_OTY4NDEyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Craig S Moore",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/craig-moore?y_source=1_NzMwMzUwMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Sierra Vista, Arizona, is a vibrant city known for its military presence and growing economy.",
+  "landscapeDescription": "Sierra Vista's economy is bolstered by its proximity to Fort Huachuca, driving growth in defense and technology sectors. The city is also seeing diversification in healthcare and retail.",
+  "majorIndustries": "Defense, Technology, Healthcare",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Sierra Vista requires attention to its military-driven economy and housing market stability.",
+  "citySpecificRiskAdvice": "Sierra Vista's reliance on defense may pose risks; diversify investments. Real estate is sensitive to military changes, and flooding can occur during monsoon season.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sierra Vista's economy is growing steadily, driven by military and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sierra Vista is $62,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sierra Vista are increasingly focusing on military benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sierra Vista's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the housing market in Sierra Vista is stable, with moderate appreciation rates and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sierra Vista's business climate is improving, with incentives for tech startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

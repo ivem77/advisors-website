@@ -1,0 +1,178 @@
+{
+  "cityName": "Farmington",
+  "state": "New Mexico",
+  "slug": "farmington",
+  "population": "45.4K (metro: 45426)",
+  "pageTitle": "Best Financial Advisors in Farmington",
+  "metaDescription": "Find top-rated financial advisors in Farmington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/farmington-branch-2361787?y_source=1_MjM2MTc4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Angela M Brandt",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/angela-brandt?y_source=1_MTU4NjI5NjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Heather Holmes - Morgan Stanley",
+      "url": "https://advisor.morganstanley.com/heather.holmes?y_source=1_MTQzODM3MTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Oxford Wealth Advisors",
+      "url": "http://www.oxfordwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dennis M Gross, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dennis-gross?y_source=1_OTY2NzUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Farmington, New Mexico, is a vibrant city known for its rich cultural heritage and outdoor recreational opportunities.",
+  "landscapeDescription": "Farmington's economy is driven by energy, healthcare, and retail sectors. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Energy, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Farmington requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Farmington's energy sector concentration poses economic risks; diversify investments. Real estate may face volatility due to market fluctuations and natural disaster risks like flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Farmington's economy has shown resilience with a growth rate of 2.5% in the past year."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Farmington stands at $54,000, reflecting the city's diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Farmington are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Farmington's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Farmington is stable, with a median home price of $250,000 and steady demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Farmington's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque",
+      "population": 556495,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces",
+      "population": 101324,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho",
+      "population": 91956,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe",
+      "population": 69976,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell",
+      "population": 48611,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington",
+      "population": 45426,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis",
+      "population": 39508,
+      "priority": 1,
+      "stateAbbreviation": "NM"
+    }
+  ]
+}

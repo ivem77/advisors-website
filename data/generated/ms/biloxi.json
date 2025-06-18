@@ -1,0 +1,170 @@
+{
+  "cityName": "Biloxi",
+  "state": "Mississippi",
+  "slug": "biloxi",
+  "population": "44.8K (metro: 448.2K)",
+  "pageTitle": "Best Financial Advisors in Biloxi",
+  "metaDescription": "Find top-rated financial advisors in Biloxi. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Agape Wealth",
+      "url": "https://agapewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "First Command Financial Advisor - Jillian Echang",
+      "url": "https://advisor.firstcommand.com/us/ms/biloxi/jdechang?y_source=1_MTAwMjQyMjQ5MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Van Kirk Wealth Advisors",
+      "url": "http://www.vankirkwa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Rebecca Jarrell",
+      "url": "https://advisor.firstcommand.com/us/ms/biloxi/rajarrell?y_source=1_MTAyODg2NzE3NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "First Command District Advisor - Dave Belcher",
+      "url": "https://advisor.firstcommand.com/us/ms/biloxi/dwbelcher?y_source=1_MjA5NjIwNjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Biloxi, Mississippi, a coastal city known for its casinos and beaches, offers a unique blend of tourism and local culture.",
+  "landscapeDescription": "Biloxi's economy is heavily influenced by tourism, with a significant presence of casinos and hospitality. The city is also diversifying into healthcare and retail sectors.",
+  "majorIndustries": "Tourism, Gaming, Healthcare",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Biloxi requires strategies for disaster resilience, economic diversification, and sustainable tourism development.",
+  "citySpecificRiskAdvice": "Biloxi's tourism reliance poses economic risks; diversify into healthcare and tech. Real estate faces hurricane and flooding threats—monitor housing market stability.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Biloxi's economy is rebounding post-pandemic, with a focus on tourism and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Biloxi is $45,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Biloxi are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Biloxi's cost of living is lower than the national average, making it attractive for retirees and families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Biloxi is stable, but potential buyers should be cautious of flood zones."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Biloxi's business climate is improving, with incentives for new businesses in tech and healthcare."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson",
+      "population": 172638,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport",
+      "population": 71012,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven",
+      "population": 50997,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg",
+      "population": 47556,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi",
+      "population": 44820,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian",
+      "population": 40921,
+      "priority": 1,
+      "stateAbbreviation": "MS"
+    }
+  ]
+}

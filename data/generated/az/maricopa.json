@@ -1,0 +1,184 @@
+{
+  "cityName": "Maricopa",
+  "state": "Arizona",
+  "slug": "maricopa",
+  "population": "1.7M (metro: 5.1M)",
+  "pageTitle": "Best Financial Advisors in Maricopa",
+  "metaDescription": "Find top-rated financial advisors in Maricopa. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "J. Martin Wealth Management",
+      "url": "https://www.jmartinwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "The Jeff Diaz Team - Barrett Financial Group, L.L.C.",
+      "url": "http://www.barrettfinancial.com/jdiaz",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 66
+    },
+    {
+      "name": "Asset Preservation Wealth & Tax, Financial Advisors",
+      "url": "https://www.apsitaxes.com/location/phoenix-az",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 128
+    },
+    {
+      "name": "Ironwood Wealth Management LLC",
+      "url": "http://www.ironwoodwm.com/",
+      "rating": 4.9,
+      "stars": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Larson Wealth Management Arizona - Investment Services Financial Planning",
+      "url": "https://larsonwm.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=76a0cae4-3638-4c2a-978b-d166e31503ab",
+      "rating": 4.9,
+      "stars": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 63
+    }
+  ],
+  "heroDescription": "Maricopa, Arizona, is a rapidly growing city known for its vibrant community and diverse economic landscape.",
+  "landscapeDescription": "With a population of 45,508, Maricopa is part of the Phoenix metropolitan area, which boasts a diverse economy centered around healthcare, retail, and manufacturing.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "Maricopa requires infrastructure improvements to support its growing population and economic development.",
+  "citySpecificRiskAdvice": "Maricopa's growth in retail and healthcare may lead to over-reliance on these sectors. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and heat risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Maricopa's economy is expanding, driven by population growth and increased local business activity."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Maricopa is approximately $62,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Maricopa are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Maricopa's cost of living is relatively low compared to nearby Phoenix, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Maricopa's real estate market is competitive, with home prices rising due to increased demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Maricopa is fostering a supportive business climate with incentives for startups and established companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ"
+    }
+  ]
+}

@@ -17,9 +17,10 @@ async function buildCitySite(cityData) {
     // Clean the slug by removing the state code if present (e.g., 'houston-tx' -> 'houston')
     const cityNameSlug = cityData.slug.replace(/\-\w{2}$/, '');
     
-    // Add state code and city slug to city data for templates
+    // Add state code, city slug, and noindex flag for templates
     cityData.stateCode = stateCode;
     cityData.citySlug = cityNameSlug;
+    cityData.noindex = !cityData.index;
     
     // Create output directory: build/{stateCode}/{cityNameSlug}
     const outputDir = `./build/${stateCode}/${cityNameSlug}`;

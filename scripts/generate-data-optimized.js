@@ -41,6 +41,7 @@ async function generateCityDataOptimized(city) {
       state: city.state,
       slug: cityNameSlug,
       population: city.population,
+      index: city.index,  // Include the index flag from the source data
       
       // SEO
       pageTitle: `Best Financial Advisors in ${city.name}`,

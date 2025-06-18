@@ -1,0 +1,186 @@
+{
+  "cityName": "Altoona",
+  "state": "Pennsylvania",
+  "slug": "altoona",
+  "population": "45.8K (metro: 45796)",
+  "pageTitle": "Best Financial Advisors in Altoona",
+  "metaDescription": "Find top-rated financial advisors in Altoona. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Seltzer Financial Strategies",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJm_D0JgmRy4kRSCv_YqpoBNc",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "VIP Financial Matters, LLC",
+      "url": "https://www.vipfinancialmatters.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "David L. Holtz CFP - Next Financial Group",
+      "url": "https://www.brittanylmadden.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Luchini Financial",
+      "url": "http://luchinifinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Beck, Smithbower, Ickes Financial, LLC.",
+      "url": "http://becksmithbowerickes.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Altoona, PA, a city rich in history and culture, is a vibrant community with diverse economic opportunities.",
+  "landscapeDescription": "Altoona's economy is supported by healthcare, retail, and manufacturing sectors. The city is strategically located, enhancing its logistical advantages.",
+  "majorIndustries": "Healthcare, Retail, Manufacturing",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Altoona requires investment in infrastructure and workforce development to sustain economic growth.",
+  "citySpecificRiskAdvice": "Altoona's reliance on healthcare and retail poses risks; diversify investments. Real estate may face volatility; monitor housing trends. Flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Altoona's GDP growth is steady, driven by healthcare and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Altoona is $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Altoona focus on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Altoona's cost of living is below the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Altoona shows signs of stabilization after recent fluctuations."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Altoona's business climate is improving, with incentives for small business development."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA"
+    }
+  ]
+}

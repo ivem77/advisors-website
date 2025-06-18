@@ -1,0 +1,194 @@
+{
+  "cityName": "Titusville",
+  "state": "Florida",
+  "slug": "titusville",
+  "population": "44.2K (metro: 44206)",
+  "pageTitle": "Best Financial Advisors in Titusville",
+  "metaDescription": "Find top-rated financial advisors in Titusville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Kerry B Kennedy - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/kerry.b.kennedy/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Osprey Money Management LLC",
+      "url": "http://www.ospreywealthcoaching.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Management Accounting - Titusville, Florida",
+      "url": "https://wmateam.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Daniel Ciuro",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/daniel-ciuro?y_source=1_MTc0NjIzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Eads Financial Group",
+      "url": "http://www.eadsfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Titusville, Florida, is a vibrant city known for its rich history and proximity to the Kennedy Space Center.",
+  "landscapeDescription": "Titusville's economy is driven by aerospace, tourism, and healthcare. The city benefits from its strategic location along the Space Coast.",
+  "majorIndustries": "Aerospace, Tourism, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Titusville requires tailored financial strategies to address its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Titusville's aerospace focus necessitates diversification beyond tech and tourism. Real estate may face volatility due to hurricane risks; consider geographic investment spread.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Titusville's economy is rebounding with a focus on aerospace and tourism, contributing to steady job growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Titusville is $52,000, reflecting a diverse economic base with growth potential."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Titusville are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Titusville's cost of living is moderate, with housing costs being a significant factor for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Titusville shows signs of growth, but potential buyers should be cautious of price volatility."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Titusville's business climate is favorable for startups, particularly in tech and tourism sectors, but faces competition from nearby cities."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.2,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

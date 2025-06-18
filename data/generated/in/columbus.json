@@ -1,0 +1,186 @@
+{
+  "cityName": "Columbus",
+  "state": "Indiana",
+  "slug": "columbus",
+  "population": "45.8K (metro: 457.8K)",
+  "pageTitle": "Best Financial Advisors in Columbus",
+  "metaDescription": "Find top-rated financial advisors in Columbus. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Integrity Wealth Management",
+      "url": "http://integritywealthmanagement.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Hanner Financial Services, Inc.",
+      "url": "http://www.smallbizadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Heath Johnson, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/heath-johnson?y_source=1_MTIyMTAzNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Prime Capital Financial, Formerly Giesting Financial",
+      "url": "https://primefinancialindiana.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Eric M Robbins, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/eric-robbins?y_source=1_OTY3NTIwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Columbus, Indiana, is a vibrant city known for its architectural innovation and diverse economy.",
+  "landscapeDescription": "With a population of 45,775, Columbus boasts a strong manufacturing base and a growing service sector. The city is recognized for its design and engineering excellence.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Columbus requires tailored financial advice due to its unique industrial base and demographic trends.",
+  "citySpecificRiskAdvice": "Columbus's manufacturing focus needs diversification to mitigate economic downturns. Real estate may face volatility; monitor housing prices. Flooding risks exist.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Columbus's economy is expanding, driven by manufacturing and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Columbus is $60,000, reflecting a stable economic environment with a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Columbus are increasingly specializing in retirement planning and wealth management for local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Columbus is 10% lower than the national average, making it an attractive place for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the Columbus real estate market shows steady appreciation, with median home prices rising 5% year-over-year, indicating demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Columbus is ranked as a top city for small businesses, with supportive local policies and a collaborative business community."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Indianapolis",
+      "state": "Indiana",
+      "slug": "indianapolis",
+      "population": 843393,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fort Wayne",
+      "state": "Indiana",
+      "slug": "fort-wayne",
+      "population": 256496,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Evansville",
+      "state": "Indiana",
+      "slug": "evansville",
+      "population": 120310,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "South Bend",
+      "state": "Indiana",
+      "slug": "south-bend",
+      "population": 100886,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Carmel",
+      "state": "Indiana",
+      "slug": "carmel",
+      "population": 85927,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Fishers",
+      "state": "Indiana",
+      "slug": "fishers",
+      "population": 83891,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Bloomington",
+      "state": "Indiana",
+      "slug": "bloomington",
+      "population": 82575,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    },
+    {
+      "name": "Hammond",
+      "state": "Indiana",
+      "slug": "hammond",
+      "population": 78967,
+      "priority": 1,
+      "stateAbbreviation": "IN"
+    }
+  ]
+}
