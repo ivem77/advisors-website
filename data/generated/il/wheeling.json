@@ -1,0 +1,195 @@
+{
+  "cityName": "Wheeling",
+  "state": "Illinois",
+  "slug": "wheeling",
+  "population": "38K (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Wheeling",
+  "metaDescription": "Find top-rated financial advisors in Wheeling. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Antos Advisors",
+      "url": "http://www.antosadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "TJ Stearns Financial Planning & Benefits",
+      "url": "http://www.tjstearns.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Hunter W Hamilton, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/hunter-hamilton?y_source=1_OTY0OTI0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Baldwin Financial Advisors, LLC",
+      "url": "http://www.baldwinfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Roy A Mason, ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/roy-mason?y_source=1_OTIzMzI2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Wheeling, Illinois, is a vibrant suburb known for its diverse economy and strong community.",
+  "landscapeDescription": "With a population of 38,015, Wheeling boasts a mix of residential and commercial developments. The local economy thrives on retail, manufacturing, and hospitality.",
+  "majorIndustries": "Retail, Manufacturing, Hospitality",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Wheeling requires tailored financial services for its diverse population and growing businesses.",
+  "citySpecificRiskAdvice": "Wheeling's retail focus poses risks from e-commerce shifts. Housing market stability is vital; watch for potential bubble risks. Prepare for flooding and diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wheeling's economy is expanding, driven by retail and manufacturing sectors, with a steady growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Wheeling's median income stands at $75,000, reflecting a diverse economic base and stable employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wheeling are increasingly focusing on retirement planning and investment strategies for local businesses."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wheeling's cost of living is approximately 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wheeling's real estate market is stable, with home values appreciating steadily, but potential bubble risks exist due to demand spikes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wheeling's business climate is favorable, with supportive local policies and a growing number of startups in the area."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": true
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    }
+  ]
+}

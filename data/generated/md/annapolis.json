@@ -1,0 +1,186 @@
+{
+  "cityName": "Annapolis",
+  "state": "Maryland",
+  "slug": "annapolis",
+  "population": "38.7K (metro: 1.6M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Annapolis",
+  "metaDescription": "Find top-rated financial advisors in Annapolis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Marks Wealth Management",
+      "url": "http://markswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 80
+    },
+    {
+      "name": "RCS Financial Planning",
+      "url": "https://rcsplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Modera Wealth Management - Financial Advisors & Financial Planners - Annapolis, MD",
+      "url": "https://moderawealth.com/office/maryland/annapolis/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "HF Advisory Group",
+      "url": "http://www.hfadvisorygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Severn Financial Advisors, LLC",
+      "url": "http://www.severnfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Annapolis, Maryland, is a historic city known for its maritime heritage and vibrant arts scene.",
+  "landscapeDescription": "Annapolis has a diverse economy driven by government, education, and tourism. The city benefits from its proximity to Washington D.C., enhancing its economic prospects.",
+  "majorIndustries": "Government, Education, Tourism",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Annapolis requires tailored financial advice due to its unique economic landscape and historical significance.",
+  "citySpecificRiskAdvice": "Annapolis' economy relies on government and tourism, posing risks during downturns. Real estate is vulnerable to market fluctuations and flooding risks; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Annapolis has seen a steady economic growth rate of 3.2%, primarily driven by tourism and government spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Annapolis is approximately $85,000, reflecting a relatively affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Annapolis are increasingly focusing on retirement planning and estate management due to the aging population."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Annapolis is 15% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Annapolis is competitive, with home prices rising by 7% year-over-year, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Annapolis offers a supportive business climate, particularly for startups in the tech and service sectors, aided by local government incentives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Baltimore",
+      "state": "Maryland",
+      "slug": "baltimore",
+      "population": 622104,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": true
+    },
+    {
+      "name": "Frederick",
+      "state": "Maryland",
+      "slug": "frederick",
+      "population": 66893,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Gaithersburg",
+      "state": "Maryland",
+      "slug": "gaithersburg",
+      "population": 65690,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Rockville",
+      "state": "Maryland",
+      "slug": "rockville",
+      "population": 64072,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Bowie",
+      "state": "Maryland",
+      "slug": "bowie",
+      "population": 56759,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Hagerstown",
+      "state": "Maryland",
+      "slug": "hagerstown",
+      "population": 40612,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Annapolis",
+      "state": "Maryland",
+      "slug": "annapolis",
+      "population": 38722,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    }
+  ]
+}

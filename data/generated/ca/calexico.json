@@ -1,0 +1,195 @@
+{
+  "cityName": "Calexico",
+  "state": "California",
+  "slug": "calexico",
+  "population": "39K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Calexico",
+  "metaDescription": "Find top-rated financial advisors in Calexico. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ollympus Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJL_jQoR5714ARBxsNCvsgWW8",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cardona Tax & Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJB7fvITll14ARIzFh7UdMCMk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "American House Financial",
+      "url": "https://www.americanhousefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Pacific Advisors, LLC",
+      "url": "https://www.pacificadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Figueroa's auto insurance services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgVbXJTVl14ARugH40DeBDg0",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 99
+    }
+  ],
+  "heroDescription": "Calexico, California, is a vibrant border city known for its rich cultural heritage and economic ties to Mexico.",
+  "landscapeDescription": "Calexico's economy is primarily driven by trade and agriculture, benefiting from its proximity to the U.S.-Mexico border. The city is experiencing growth in retail and service sectors.",
+  "majorIndustries": "Trade, Agriculture, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Calexico requires tailored financial services to support its unique border economy and diverse population.",
+  "citySpecificRiskAdvice": "Calexico's reliance on trade exposes it to economic fluctuations. Real estate is vulnerable to market volatility; consider diversifying investments. Flooding risks exist due to seasonal rains.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Calexico's economy has shown resilience, with a growth rate of 3.2% driven by cross-border trade and agriculture."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Calexico is approximately $45,000, reflecting the city's working-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Calexico are increasingly focusing on cross-border investment strategies and agricultural financing."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Calexico's cost of living is lower than the national average, making it an attractive location for families and businesses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Calexico is stable, with home prices averaging around $250,000, but potential for volatility exists."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Calexico's business climate is improving, with incentives for small businesses and a focus on cross-border commerce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "30+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

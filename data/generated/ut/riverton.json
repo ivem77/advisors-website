@@ -1,0 +1,195 @@
+{
+  "cityName": "Riverton",
+  "state": "Utah",
+  "slug": "riverton",
+  "population": "40.9K (metro: 1.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Riverton",
+  "metaDescription": "Find top-rated financial advisors in Riverton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Granite Canyon Wealth Management",
+      "url": "http://www.granitecanyonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Stonecreek Wealth Advisors, Inc.",
+      "url": "https://www.stonecreekwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Net Worth Advisory Group",
+      "url": "https://networthadvice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 77
+    },
+    {
+      "name": "R.O.I. Wealth Management - Fee Only Financial Advisors",
+      "url": "http://www.roionweb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Partner Alliance Advisors",
+      "url": "http://www.partnerallianceadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    }
+  ],
+  "heroDescription": "Riverton, Utah, is a growing suburban city known for its family-friendly atmosphere and outdoor recreational opportunities.",
+  "landscapeDescription": "Riverton's economy is bolstered by a mix of technology, retail, and healthcare sectors. The city's strategic location near Salt Lake City enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Riverton requires tailored financial advice to navigate its growing tech sector and housing market.",
+  "citySpecificRiskAdvice": "Riverton's tech focus invites diversification to mitigate sector risks. Rapid housing growth poses bubble concerns, while flooding risks necessitate disaster preparedness.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Riverton's economy has seen a 4% growth rate driven by tech and retail expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Riverton is approximately $85,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Riverton are increasingly focusing on tech sector investments and real estate strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Riverton's cost of living is 10% higher than the national average, driven by housing and utilities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Riverton's housing market has appreciated by 12% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Riverton's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    }
+  ]
+}

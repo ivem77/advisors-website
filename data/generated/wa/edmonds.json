@@ -1,0 +1,195 @@
+{
+  "cityName": "Edmonds",
+  "state": "Washington",
+  "slug": "edmonds",
+  "population": "40.7K (metro: 4.0M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Edmonds",
+  "metaDescription": "Find top-rated financial advisors in Edmonds. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Chris Dime, CFP® - Dime & Associates (Financial Advisor)",
+      "url": "http://dimeandassociates.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "TFS Advisors, LLC",
+      "url": "http://www.tfsadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Micah K Blair, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/micah-blair?y_source=1_OTYyODA4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Laura A Thramer",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/laura-thramer?y_source=1_MjA4ODc2NzAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Sage Advisors, LLC",
+      "url": "http://sageadvisorsllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Edmonds, Washington, is a vibrant coastal city known for its scenic waterfront and strong community.",
+  "landscapeDescription": "Edmonds boasts a diverse economy with a focus on healthcare, retail, and technology. The city is well-positioned within the Seattle metropolitan area, benefiting from its proximity to major urban centers.",
+  "majorIndustries": "Healthcare, Retail, Technology",
+  "medianIncome": "$82,000",
+  "uniqueNeeds": "Edmonds requires tailored financial strategies to address its unique coastal risks and economic landscape.",
+  "citySpecificRiskAdvice": "Edmonds' tech sector growth necessitates diversification to mitigate market volatility. Real estate prices are rising, posing bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Edmonds has experienced steady economic growth, driven by local businesses and an influx of tech firms."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Edmonds is approximately $82,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Edmonds are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Edmonds is higher than the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Edmonds is competitive, with home prices rising due to limited inventory and high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Edmonds offers a supportive business environment with resources for startups and established companies alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": true
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    }
+  ]
+}

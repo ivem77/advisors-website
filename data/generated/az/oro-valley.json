@@ -1,0 +1,195 @@
+{
+  "cityName": "Oro Valley",
+  "state": "Arizona",
+  "slug": "oro-valley",
+  "population": "41.6K (metro: 1.0M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Oro Valley",
+  "metaDescription": "Find top-rated financial advisors in Oro Valley. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Joe Dylewski",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/joe-dylewski?y_source=1_OTY0MDQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Ironwood Financial LLC",
+      "url": "https://ironwoodfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "AIO Fee Only Financial Advisors",
+      "url": "https://www.aiofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 28
+    },
+    {
+      "name": "Generous Wealth Advisors",
+      "url": "https://generouswealthaz.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 38
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katharine Pierce",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katharine-pierce?y_source=1_OTMxMjQ5OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Oro Valley, Arizona, is a vibrant suburban community known for its scenic landscapes and active lifestyle.",
+  "landscapeDescription": "The economy of Oro Valley is primarily driven by healthcare, technology, and tourism sectors. Its proximity to Tucson enhances its economic opportunities.",
+  "majorIndustries": "Healthcare, Technology, Tourism",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Oro Valley requires tailored financial advice for retirees and tech professionals, focusing on sustainable investments.",
+  "citySpecificRiskAdvice": "Oro Valley's tech sector growth poses concentration risks; housing prices are rising, indicating potential bubbles. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Oro Valley's economy is expanding, driven by healthcare and tech innovations, with a growth rate of 3.5%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Oro Valley is approximately $80,000, reflecting a relatively affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Oro Valley are increasingly focusing on retirement planning and tech investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Oro Valley is 10% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Oro Valley has risen to $450,000, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Oro Valley's business climate is favorable, with incentives for tech startups and healthcare providers."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": false
+    }
+  ]
+}

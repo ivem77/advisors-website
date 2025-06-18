@@ -1,0 +1,195 @@
+{
+  "cityName": "Moorhead",
+  "state": "Minnesota",
+  "slug": "moorhead",
+  "population": "39.4K (metro: 39398)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Moorhead",
+  "metaDescription": "Find top-rated financial advisors in Moorhead. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Jon Simmons",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jon-simmons?y_source=1_OTY3NTAxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lacey Romie",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lacey-romie?y_source=1_MjM3MzE3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "William Janson - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/bill.j.janson/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Legacy Wealth Management",
+      "url": "https://www.legacywealthfargo.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Prairiewood Wealth Management",
+      "url": "https://pw-wm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Moorhead, Minnesota, is a vibrant city known for its rich culture and strong community ties.",
+  "landscapeDescription": "Moorhead's economy is diverse, with significant contributions from education, healthcare, and retail sectors. The city benefits from its proximity to Fargo, ND, enhancing economic opportunities.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Moorhead requires tailored financial advice to navigate local economic conditions and housing market dynamics.",
+  "citySpecificRiskAdvice": "Moorhead's reliance on education and healthcare sectors poses risks; housing market volatility and flooding are concerns. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Moorhead's economy has shown steady growth, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Moorhead is approximately $55,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Moorhead increasingly focus on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Moorhead's cost of living is lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Moorhead is competitive, with rising home prices and demand for rentals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Moorhead's business climate is favorable, with support for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Minneapolis",
+      "state": "Minnesota",
+      "slug": "minneapolis",
+      "population": 400070,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": true
+    },
+    {
+      "name": "St. Paul",
+      "state": "Minnesota",
+      "slug": "st-paul",
+      "population": 294873,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": true
+    },
+    {
+      "name": "Rochester",
+      "state": "Minnesota",
+      "slug": "rochester",
+      "population": 110742,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    },
+    {
+      "name": "Bloomington",
+      "state": "Minnesota",
+      "slug": "bloomington",
+      "population": 86319,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    },
+    {
+      "name": "Duluth",
+      "state": "Minnesota",
+      "slug": "duluth",
+      "population": 86128,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    },
+    {
+      "name": "Brooklyn Park",
+      "state": "Minnesota",
+      "slug": "brooklyn-park",
+      "population": 78373,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    },
+    {
+      "name": "Plymouth",
+      "state": "Minnesota",
+      "slug": "plymouth",
+      "population": 73987,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    },
+    {
+      "name": "St. Cloud",
+      "state": "Minnesota",
+      "slug": "st-cloud",
+      "population": 66297,
+      "priority": 1,
+      "stateAbbreviation": "MN",
+      "index": false
+    }
+  ]
+}

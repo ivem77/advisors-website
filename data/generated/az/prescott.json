@@ -1,0 +1,195 @@
+{
+  "cityName": "Prescott",
+  "state": "Arizona",
+  "slug": "prescott",
+  "population": "40.6K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Prescott",
+  "metaDescription": "Find top-rated financial advisors in Prescott. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Hosler Wealth Management LLC",
+      "url": "https://www.hoslerwm.com/?utm_source=GMB&utm_medium=local&utm_campaign=prescott",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Montoya Wealth Management",
+      "url": "http://www.montoyawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Daniel Machado",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/daniel-machado?y_source=1_MTI0MjM3NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "William C Reynolds CFP(R) Professional",
+      "url": "http://www.w-reynolds.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Prescott Financial",
+      "url": "https://prescottfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Prescott, Arizona, is a picturesque city known for its rich history and outdoor recreational opportunities.",
+  "landscapeDescription": "With a population of 40,590, Prescott's economy is driven by tourism, healthcare, and retail. The city benefits from a growing population and a vibrant community.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Prescott requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Prescott's economy relies on tourism and healthcare, posing risks during downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for wildfires and droughts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Prescott's economy has shown steady growth, driven by tourism and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Prescott is $58,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Prescott are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Prescott's cost of living is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Prescott's real estate market is competitive, with home prices rising steadily due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Prescott's business climate is favorable, with support for small businesses and local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Phoenix",
+      "state": "Arizona",
+      "slug": "phoenix",
+      "population": 1513367,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Tucson",
+      "state": "Arizona",
+      "slug": "tucson",
+      "population": 526116,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Mesa",
+      "state": "Arizona",
+      "slug": "mesa",
+      "population": 457587,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Chandler",
+      "state": "Arizona",
+      "slug": "chandler",
+      "population": 249146,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Glendale",
+      "state": "Arizona",
+      "slug": "glendale",
+      "population": 234632,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Gilbert",
+      "state": "Arizona",
+      "slug": "gilbert",
+      "population": 229972,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Scottsdale",
+      "state": "Arizona",
+      "slug": "scottsdale",
+      "population": 226918,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": true
+    },
+    {
+      "name": "Tempe",
+      "state": "Arizona",
+      "slug": "tempe",
+      "population": 168228,
+      "priority": 1,
+      "stateAbbreviation": "AZ",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Hutchinson",
+  "state": "Kansas",
+  "slug": "hutchinson",
+  "population": "41.9K (metro: 418.9K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Hutchinson",
+  "metaDescription": "Find top-rated financial advisors in Hutchinson. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: William D Thacker, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/william-thacker?y_source=1_Mjc4MDU0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Melanie J Collins",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/melanie-j-collins?y_source=1_OTY1MTM0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "North Fork Financial, LLC",
+      "url": "http://northforkfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Allen B Beck",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/allen-beck?y_source=1_MTMzMzYxODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Solid Financial Solutions Inc",
+      "url": "https://www.solidfsi.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Hutchinson, Kansas, is a vibrant community known for its rich history and diverse economy.",
+  "landscapeDescription": "Hutchinson's economy is primarily driven by agriculture, manufacturing, and healthcare. The city is strategically located, enhancing its logistical advantages.",
+  "majorIndustries": "Agriculture, Manufacturing, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Hutchinson requires tailored financial strategies due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Hutchinson's reliance on agriculture and manufacturing poses economic risks; housing market stability is crucial amid tornado threats. Diversify investments to mitigate local downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hutchinson's economy has shown steady growth, with a focus on manufacturing and agriculture driving local job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hutchinson is approximately $50,000, reflecting the economic diversity of its residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hutchinson are increasingly specializing in agricultural finance and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hutchinson's cost of living remains below the national average, making it an attractive location for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Hutchinson is stable, with moderate price growth and a balanced supply of homes."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hutchinson's business climate is favorable, with supportive local policies encouraging entrepreneurship and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Wichita",
+      "state": "Kansas",
+      "slug": "wichita",
+      "population": 386552,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": true
+    },
+    {
+      "name": "Overland Park",
+      "state": "Kansas",
+      "slug": "overland-park",
+      "population": 181260,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Kansas City",
+      "state": "Kansas",
+      "slug": "kansas-city",
+      "population": 148483,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Olathe",
+      "state": "Kansas",
+      "slug": "olathe",
+      "population": 131885,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Topeka",
+      "state": "Kansas",
+      "slug": "topeka",
+      "population": 127679,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Lawrence",
+      "state": "Kansas",
+      "slug": "lawrence",
+      "population": 90811,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Shawnee",
+      "state": "Kansas",
+      "slug": "shawnee",
+      "population": 64323,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    },
+    {
+      "name": "Manhattan",
+      "state": "Kansas",
+      "slug": "manhattan",
+      "population": 56143,
+      "priority": 1,
+      "stateAbbreviation": "KS",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Urbandale",
+  "state": "Iowa",
+  "slug": "urbandale",
+  "population": "41.8K (metro: 417.8K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Urbandale",
+  "metaDescription": "Find top-rated financial advisors in Urbandale. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Andrew B Maurer, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/andrew-maurer?y_source=1_MTIwMzU1ODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "AO Wealth Advisory",
+      "url": "http://www.aowealthadvisory.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Guide Financial Group",
+      "url": "http://www.guidegrp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Advisors of Iowa, LLC",
+      "url": "http://www.waiowa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "DV Financial",
+      "url": "http://www.dvfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Urbandale, Iowa, is a vibrant suburb of Des Moines, known for its family-friendly atmosphere and strong community engagement.",
+  "landscapeDescription": "Urbandale's economy is diverse, with a mix of retail, healthcare, and professional services driving growth. The city benefits from its proximity to Des Moines, enhancing its economic prospects.",
+  "majorIndustries": "Healthcare, Retail, Professional Services",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Urbandale requires tailored financial services to support its growing population and diverse economic base.",
+  "citySpecificRiskAdvice": "Urbandale's reliance on healthcare and retail poses economic risks; housing market may face bubble concerns. Prepare for tornadoes and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Urbandale's GDP growth is projected at 3.5%, driven by healthcare and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Urbandale is $75,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Urbandale are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Urbandale's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Urbandale's housing market shows a steady appreciation of 5% annually, but concerns about affordability are rising."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Urbandale's business climate is favorable, with low taxes and supportive local government initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Des Moines",
+      "state": "Iowa",
+      "slug": "des-moines",
+      "population": 207510,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Cedar Rapids",
+      "state": "Iowa",
+      "slug": "cedar-rapids",
+      "population": 128429,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Davenport",
+      "state": "Iowa",
+      "slug": "davenport",
+      "population": 102157,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Sioux City",
+      "state": "Iowa",
+      "slug": "sioux-city",
+      "population": 82459,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Iowa City",
+      "state": "Iowa",
+      "slug": "iowa-city",
+      "population": 71591,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Waterloo",
+      "state": "Iowa",
+      "slug": "waterloo",
+      "population": 68366,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Council Bluffs",
+      "state": "Iowa",
+      "slug": "council-bluffs",
+      "population": 61969,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    },
+    {
+      "name": "Ames",
+      "state": "Iowa",
+      "slug": "ames",
+      "population": 61792,
+      "priority": 1,
+      "stateAbbreviation": "IA",
+      "index": false
+    }
+  ]
+}

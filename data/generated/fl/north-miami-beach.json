@@ -1,0 +1,195 @@
+{
+  "cityName": "North Miami Beach",
+  "state": "Florida",
+  "slug": "north-miami-beach",
+  "population": "43.3K (metro: 6.1M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in North Miami Beach",
+  "metaDescription": "Find top-rated financial advisors in North Miami Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Coral Wealth Management",
+      "url": "https://www.coralwm.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Ksenia Lutfullina - Financial Advisor - Northwestern Mutual",
+      "url": "https://www.northwesternmutual.com/financial/advisor/ksenia-lutfullina/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Miami Financial Advisors",
+      "url": "https://mannawealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 51
+    }
+  ],
+  "heroDescription": "North Miami Beach is a vibrant coastal city known for its diverse culture and beautiful beaches.",
+  "landscapeDescription": "The city has a growing economy driven by tourism, retail, and healthcare. Its strategic location enhances trade and business opportunities.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "North Miami Beach requires tailored financial advice due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "North Miami Beach's tourism reliance poses economic risks; real estate is volatile due to hurricanes and flooding. Diversify investments to mitigate these risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Miami Beach's economy is expanding, with a focus on tourism and retail sectors driving growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in North Miami Beach is approximately $50,000, reflecting diverse economic backgrounds."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in North Miami Beach are increasingly specializing in real estate and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in North Miami Beach is moderate, influenced by housing and local amenities."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market is competitive, with prices fluctuating due to demand and environmental factors."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Miami Beach offers a favorable business climate, attracting new startups and established companies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

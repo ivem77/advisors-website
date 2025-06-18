@@ -1,0 +1,195 @@
+{
+  "cityName": "Goose Creek",
+  "state": "South Carolina",
+  "slug": "goose-creek",
+  "population": "39.8K (metro: 800K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Goose Creek",
+  "metaDescription": "Find top-rated financial advisors in Goose Creek. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Scipio Financial - Financial Advisor: Terry Scipio",
+      "url": "https://www.scipiofinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 89
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Thomas E Furse, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/thomas-furse?y_source=1_OTY0MjEwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sarah M Banks, WMCP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sarah-banks?y_source=1_OTY2NDM5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Master Tax Advisors, LLC",
+      "url": "https://www.mastertaxadvisorssc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 84
+    },
+    {
+      "name": "Runey & Associates Wealth Management",
+      "url": "https://raawealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    }
+  ],
+  "heroDescription": "Goose Creek, SC, is a growing suburban city near Charleston, known for its family-friendly environment and vibrant community.",
+  "landscapeDescription": "With a population of 39,823, Goose Creek is part of the Charleston metropolitan area, benefiting from its proximity to a major urban center. The local economy is diverse, with growth in manufacturing, retail, and healthcare sectors.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Goose Creek requires tailored financial planning for families and young professionals, focusing on education and housing.",
+  "citySpecificRiskAdvice": "Goose Creek's economy relies on manufacturing and retail, posing risks if these sectors falter. Real estate is booming, raising bubble concerns. Prepare for hurricane threats and diversify investments...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Goose Creek's economy has seen a 3.5% growth rate, driven by local manufacturing and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Goose Creek is $65,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Goose Creek increasingly focus on family planning and retirement strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Goose Creek's cost of living is 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Goose Creek have increased by 10% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Goose Creek's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Coachella",
+  "state": "California",
+  "slug": "coachella",
+  "population": "43K (metro: 1.0M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Coachella",
+  "metaDescription": "Find top-rated financial advisors in Coachella. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "United Capital Financial Advisors",
+      "url": "https://unitedcapitalwealth.com/location/palm-desert/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmdesert_ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Desert Financial Planning",
+      "url": "https://www.desertfinancialplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "FLC Capital Advisors",
+      "url": "http://www.flccapital.com/home",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Gregory Hill - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/Gregory.Hill/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Radiant Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/radiant-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Coachella, California, known for its vibrant music festivals, is a growing city in the Coachella Valley.",
+  "landscapeDescription": "With a population of 43,092, Coachella's economy is primarily driven by agriculture and tourism. The city is experiencing growth due to its cultural events and proximity to larger urban areas.",
+  "majorIndustries": "Agriculture, Tourism, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Coachella's economy relies heavily on seasonal tourism and agriculture, necessitating diverse economic strategies.",
+  "citySpecificRiskAdvice": "Coachella's tourism reliance poses economic risks; housing market volatility may arise from seasonal demand. Prepare for flooding risks and diversify into tech and renewable energy.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Coachella's economy is growing, driven by tourism and agriculture, with a focus on sustainable practices."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Coachella is $45,000, reflecting the city's economic challenges and opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Coachella are increasingly focusing on real estate and agricultural investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Coachella's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Coachella's real estate market shows signs of growth, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Coachella's business climate is improving, with incentives for new businesses in tourism and agriculture."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

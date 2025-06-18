@@ -1,0 +1,195 @@
+{
+  "cityName": "Cleveland",
+  "state": "Tennessee",
+  "slug": "cleveland",
+  "population": "42.8K (metro: 427.7K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Cleveland",
+  "metaDescription": "Find top-rated financial advisors in Cleveland. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Robinson",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-robinson?y_source=1_MTEzNTA5NzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shannon B Ritzhaupt",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shannon-ritzhaupt?y_source=1_MTY2NjA3NTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kelly L Browand, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kelly-browand?y_source=1_OTY3NzMxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Simpson Financial Coaching",
+      "url": "http://www.facebook.com/simpsoncoach",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "L P L Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJufC626suXogRDYJOYHi5g1k",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Cleveland, Tennessee, is a growing city known for its vibrant community and economic potential.",
+  "landscapeDescription": "Cleveland's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city is experiencing steady population growth and investment.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Cleveland requires strategies for sustainable growth, focusing on job creation and housing stability.",
+  "citySpecificRiskAdvice": "Cleveland's manufacturing focus poses economic risks; housing market shows volatility. Prepare for flooding and tornadoes while diversifying industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cleveland's GDP growth rate has been steady at 3.2%, driven by local manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Cleveland is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cleveland are increasingly specializing in retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cleveland's cost of living is 10% lower than the national average, making it an attractive location for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Cleveland's real estate market has seen a 5% increase in home values, indicating rising demand and potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cleveland's business climate is improving, with new incentives attracting small and medium enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    }
+  ]
+}

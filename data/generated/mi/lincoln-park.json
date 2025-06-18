@@ -1,0 +1,195 @@
+{
+  "cityName": "Lincoln Park",
+  "state": "Michigan",
+  "slug": "lincoln-park",
+  "population": "37.3K (metro: 4.3M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Lincoln Park",
+  "metaDescription": "Find top-rated financial advisors in Lincoln Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Shawn Bumgardner - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/shawn.d.bumgardner/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "O'Neil Financial",
+      "url": "http://www.oneilfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cousino Wealth Advisors",
+      "url": "https://www.cousinowealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "TL Financial Group",
+      "url": "http://www.tlfgroup.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Clare M McMillan, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/clare-mcmillan?y_source=1_MTIwMzU4MzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Lincoln Park, Michigan, is a vibrant city with a rich history and diverse community.",
+  "landscapeDescription": "Lincoln Park's economy is primarily driven by manufacturing, retail, and healthcare sectors. The city benefits from its proximity to Detroit, enhancing trade and employment opportunities.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Lincoln Park requires tailored economic strategies to address its unique demographic and industrial landscape.",
+  "citySpecificRiskAdvice": "Lincoln Park's manufacturing focus poses risks from economic downturns. Housing market volatility and flooding risks necessitate diversification into tech and services.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lincoln Park has seen steady economic growth, driven by local manufacturing and service industries."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lincoln Park is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lincoln Park are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lincoln Park's cost of living is competitive, making it an attractive option for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lincoln Park shows stable prices, but potential bubble risks exist due to rising demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lincoln Park's business climate is improving, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Detroit",
+      "state": "Michigan",
+      "slug": "detroit",
+      "population": 688701,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": true
+    },
+    {
+      "name": "Grand Rapids",
+      "state": "Michigan",
+      "slug": "grand-rapids",
+      "population": 192294,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Warren",
+      "state": "Michigan",
+      "slug": "warren",
+      "population": 134873,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Sterling Heights",
+      "state": "Michigan",
+      "slug": "sterling-heights",
+      "population": 131224,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Ann Arbor",
+      "state": "Michigan",
+      "slug": "ann-arbor",
+      "population": 117025,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Lansing",
+      "state": "Michigan",
+      "slug": "lansing",
+      "population": 113972,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Flint",
+      "state": "Michigan",
+      "slug": "flint",
+      "population": 99763,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    },
+    {
+      "name": "Dearborn",
+      "state": "Michigan",
+      "slug": "dearborn",
+      "population": 95884,
+      "priority": 1,
+      "stateAbbreviation": "MI",
+      "index": false
+    }
+  ]
+}

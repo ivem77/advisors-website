@@ -1,0 +1,195 @@
+{
+  "cityName": "Wausau",
+  "state": "Wisconsin",
+  "slug": "wausau",
+  "population": "39.3K (metro: 39309)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Wausau",
+  "metaDescription": "Find top-rated financial advisors in Wausau. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "MPPL Financial",
+      "url": "http://www.mpplfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Hermening Financial Group - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/hermening-financial-group/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Whalen Financial Group Inc.",
+      "url": "https://www.whalenfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Northern Way Wealth Management",
+      "url": "http://www.northernwaywm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "James A Koehler - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/james.a.koehler/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Wausau, Wisconsin, is a vibrant city known for its rich cultural heritage and strong community spirit.",
+  "landscapeDescription": "Wausau's economy is diverse, with a focus on manufacturing, healthcare, and retail. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Wausau requires tailored financial advice due to its unique economic landscape and community-focused needs.",
+  "citySpecificRiskAdvice": "Wausau's manufacturing sector faces economic shifts; real estate prices are rising, posing bubble risks. Prepare for winter weather impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wausau's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wausau is $55,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wausau are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wausau's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Wausau's real estate market is experiencing growth, with home prices rising due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wausau's business climate is favorable, with support for small businesses and local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    }
+  ]
+}

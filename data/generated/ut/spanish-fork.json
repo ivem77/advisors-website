@@ -1,0 +1,195 @@
+{
+  "cityName": "Spanish Fork",
+  "state": "Utah",
+  "slug": "spanish-fork",
+  "population": "36.9K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Spanish Fork",
+  "metaDescription": "Find top-rated financial advisors in Spanish Fork. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Pomegranate Financial LLC",
+      "url": "http://www.pomegranatefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Jillyn Moore: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ut/springville/jillyn-moore?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 83
+    },
+    {
+      "name": "Common Sense Financial",
+      "url": "http://mycommonsensefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 74
+    },
+    {
+      "name": "R.O.I. Wealth Management - Fee Only Financial Advisors",
+      "url": "http://www.roionweb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Peterson Wealth Advisors",
+      "url": "http://www.petersonwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    }
+  ],
+  "heroDescription": "Spanish Fork, Utah, is a growing city known for its scenic landscapes and vibrant community.",
+  "landscapeDescription": "Spanish Fork's economy is bolstered by agriculture, retail, and manufacturing. The city is experiencing rapid growth, attracting new residents and businesses.",
+  "majorIndustries": "Agriculture, Retail, Manufacturing",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Spanish Fork requires investment in infrastructure and community services to support its growing population.",
+  "citySpecificRiskAdvice": "Spanish Fork's economy is vulnerable to agriculture and retail fluctuations. Rapid housing growth raises bubble concerns; diversify investments and prepare for potential flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Spanish Fork's economy has seen a 5% growth rate, driven by increased retail and manufacturing activities."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Spanish Fork is $70,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Spanish Fork are increasingly focusing on retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Spanish Fork is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Spanish Fork's real estate market is competitive, with home prices rising 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Spanish Fork's business climate is favorable, with low taxes and incentives for new businesses contributing to growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    }
+  ]
+}

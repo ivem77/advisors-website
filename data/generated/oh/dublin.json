@@ -1,0 +1,195 @@
+{
+  "cityName": "Dublin",
+  "state": "Ohio",
+  "slug": "dublin",
+  "population": "43.6K (metro: 1.3M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Dublin",
+  "metaDescription": "Find top-rated financial advisors in Dublin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Keeler & Nadler Family Wealth",
+      "url": "https://www.knwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Columbus Wealth Management",
+      "url": "https://www.cbuswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Dugan Brown Federal Retirement Experts",
+      "url": "https://www.duganbrown.com/?utm_campaign=gmb-listing&utm_medium=organic&utm_source=google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    },
+    {
+      "name": "Taylor F. and Brooke Walls - Primerica Financial Services",
+      "url": "http://www.primerica.com/taylorfwalls",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Emerald Financial Services",
+      "url": "http://emeraldfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Dublin, Ohio, is a vibrant suburban city known for its excellent schools and strong community.",
+  "landscapeDescription": "Dublin's economy is characterized by a mix of technology, healthcare, and education sectors. The city is home to numerous corporate headquarters and a growing population.",
+  "majorIndustries": "Technology, Healthcare, Education",
+  "medianIncome": "$100,000",
+  "uniqueNeeds": "Dublin requires investment in tech diversification and sustainable housing solutions to manage growth.",
+  "citySpecificRiskAdvice": "Dublin's tech focus necessitates diversification to mitigate economic risks. Rapid housing appreciation poses bubble risks, while flooding remains a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dublin's economy has seen a steady growth rate of 3.5% annually, driven by tech and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dublin is approximately $100,000, reflecting a prosperous community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dublin are increasingly specializing in tech and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Dublin is about 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Dublin is competitive, with home prices rising by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dublin's business climate is favorable, with low taxes and a supportive local government for startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    }
+  ]
+}

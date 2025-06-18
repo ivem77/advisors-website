@@ -1,0 +1,195 @@
+{
+  "cityName": "Smyrna",
+  "state": "Tennessee",
+  "slug": "smyrna",
+  "population": "43K (metro: 1.9M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Smyrna",
+  "metaDescription": "Find top-rated financial advisors in Smyrna. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Josh Dyer, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/josh-dyer?y_source=1_OTM0MTYzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Daniel G Jones, CFP®|ChFC®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/daniel-jones?y_source=1_OTY4NjU3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Wealth Legacy Planners",
+      "url": "http://www.wlplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Klasen, ABFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-klasen?y_source=1_MTYwMDk5MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Financial Wellness Solutions, LLC",
+      "url": "http://financialwellnesssolutions.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Smyrna, Tennessee, is a vibrant community with a growing economy and diverse industries.",
+  "landscapeDescription": "With a population of 43,060, Smyrna is part of the Nashville metropolitan area, benefiting from its proximity to a major urban center. The local economy is bolstered by manufacturing, retail, and healthcare sectors.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Smyrna requires tailored financial advice due to its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Smyrna's manufacturing focus poses economic risks; housing market growth may lead to bubbles. Prepare for tornadoes and flooding; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Smyrna's economy has seen a 4% growth rate, driven by manufacturing and logistics expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Smyrna is approximately $65,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Smyrna are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Smyrna's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Smyrna is competitive, with home prices rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Smyrna's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    }
+  ]
+}

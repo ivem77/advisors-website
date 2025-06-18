@@ -1,0 +1,195 @@
+{
+  "cityName": "Atlantic City",
+  "state": "New Jersey",
+  "slug": "atlantic-city",
+  "population": "39.6K (metro: 395.5K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Atlantic City",
+  "metaDescription": "Find top-rated financial advisors in Atlantic City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJlWTl3UHuwIkRBqb9cvRrWyw",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "SHORE WEALTH MANAGEMENT LLC",
+      "url": "http://shorewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jim Caulfield, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-caulfield?y_source=1_OTcxODU5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/nj/atlantic-city",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Ocean City Financial Group",
+      "url": "http://www.oceancityfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Atlantic City, NJ, is a vibrant coastal city known for its entertainment, gaming, and tourism industries.",
+  "landscapeDescription": "The economy of Atlantic City is primarily driven by tourism and gaming, with recent efforts to diversify into retail and hospitality. The city is experiencing a gradual recovery post-pandemic, focusing on sustainable growth.",
+  "majorIndustries": "Tourism, Gaming, Hospitality",
+  "medianIncome": "$47,000",
+  "uniqueNeeds": "Atlantic City requires a focus on sustainable tourism and diversification beyond gaming to ensure long-term economic stability.",
+  "citySpecificRiskAdvice": "Atlantic City's heavy reliance on tourism and gaming poses risks; diversify into tech and retail. Real estate is volatile; monitor for bubble risks. Prepare for hurricanes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Atlantic City's economy is rebounding with a projected growth rate of 3.5% driven by tourism recovery."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Atlantic City is $47,000, reflecting economic challenges and opportunities for growth."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Atlantic City are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Atlantic City is approximately 10% lower than the national average, making it affordable for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Atlantic City's real estate market shows signs of recovery, with home values increasing by 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Atlantic City is fostering a more business-friendly environment, attracting new investments in hospitality and retail."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Newark",
+      "state": "New Jersey",
+      "slug": "newark",
+      "population": 278427,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": true
+    },
+    {
+      "name": "Jersey City",
+      "state": "New Jersey",
+      "slug": "jersey-city",
+      "population": 257342,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": true
+    },
+    {
+      "name": "Paterson",
+      "state": "New Jersey",
+      "slug": "paterson",
+      "population": 145948,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    },
+    {
+      "name": "Elizabeth",
+      "state": "New Jersey",
+      "slug": "elizabeth",
+      "population": 127558,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    },
+    {
+      "name": "Clifton",
+      "state": "New Jersey",
+      "slug": "clifton",
+      "population": 85390,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    },
+    {
+      "name": "Trenton",
+      "state": "New Jersey",
+      "slug": "trenton",
+      "population": 84349,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    },
+    {
+      "name": "Camden",
+      "state": "New Jersey",
+      "slug": "camden",
+      "population": 76903,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    },
+    {
+      "name": "Passaic",
+      "state": "New Jersey",
+      "slug": "passaic",
+      "population": 70868,
+      "priority": 1,
+      "stateAbbreviation": "NJ",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "DeKalb",
+  "state": "Illinois",
+  "slug": "dekalb",
+  "population": "43.8K (metro: 43849)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in DeKalb",
+  "metaDescription": "Find top-rated financial advisors in DeKalb. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Brittany L Starkey, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brittany-l-starkey?y_source=1_MTQ1MTUyMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Gavin Wilson - COUNTRY Financial Agent",
+      "url": "https://agents.countryfinancial.com/usa/il/dekalb/gavin-wilson",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Brendon Gallagher - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/brendon.k.gallagher/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Heather J Hilleshiem, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/heather-hilleshiem?y_source=1_MTM5MjcxMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ryan D Genz, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ryan-genz?y_source=1_OTYzOTgyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "DeKalb, Illinois is a vibrant city known for its rich history and strong community ties.",
+  "landscapeDescription": "DeKalb's economy is bolstered by education, manufacturing, and agriculture. The city is home to Northern Illinois University, which significantly influences local employment.",
+  "majorIndustries": "Education, Manufacturing, Agriculture",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "DeKalb requires a focus on educational resources and infrastructure improvements to support its growing population.",
+  "citySpecificRiskAdvice": "DeKalb's reliance on education and manufacturing poses risks; housing market fluctuations and potential flooding should be monitored. Diversify investments to mitigate economic downturns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), DeKalb's economy has shown steady growth, driven by educational services and local manufacturing."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in DeKalb is approximately $60,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in DeKalb are increasingly focusing on retirement planning and education funding."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), DeKalb's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), DeKalb's real estate market is stable, with moderate home price appreciation and a balanced inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), DeKalb's business climate is supportive, with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": true
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    }
+  ]
+}

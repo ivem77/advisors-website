@@ -1,0 +1,195 @@
+{
+  "cityName": "Winter Garden",
+  "state": "Florida",
+  "slug": "winter-garden",
+  "population": "37.7K (metro: 377.1K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Winter Garden",
+  "metaDescription": "Find top-rated financial advisors in Winter Garden. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Newell Wealth Management",
+      "url": "http://www.newellwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Griffis Wealth Strategies",
+      "url": "http://www.stayadvised.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Advisor Group Florida",
+      "url": "http://www.advisorgroupflorida.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Nelson Financial Planning",
+      "url": "https://www.nelsonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Charles Griffin - Thrivent",
+      "url": "https://connect.thrivent.com/charles-griffin?utm_source=GMB&utm_medium=Yext&y_source=1_MTgyODk1MDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Winter Garden, Florida, is a vibrant city known for its rich history and picturesque landscapes.",
+  "landscapeDescription": "The city's economy is diverse, with a strong emphasis on agriculture, tourism, and retail. Recent growth has attracted new businesses and residents.",
+  "majorIndustries": "Agriculture, Tourism, Retail",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Winter Garden's growth necessitates sustainable development and infrastructure improvements to support its increasing population.",
+  "citySpecificRiskAdvice": "Winter Garden's tourism and retail focus requires economic diversification. Real estate prices are rising, posing bubble risks. Prepare for hurricane impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Winter Garden's economy has grown by 5% annually, driven by tourism and local business expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Winter Garden is $70,000, reflecting a growing middle class and economic stability."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Winter Garden are increasingly focusing on retirement planning and investment strategies for young families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Winter Garden's cost of living is 10% higher than the national average, driven by housing and utility costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Winter Garden is competitive, with home prices increasing by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Winter Garden's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

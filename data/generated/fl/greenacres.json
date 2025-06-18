@@ -1,0 +1,195 @@
+{
+  "cityName": "Greenacres",
+  "state": "Florida",
+  "slug": "greenacres",
+  "population": "38.7K (metro: 6.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Greenacres",
+  "metaDescription": "Find top-rated financial advisors in Greenacres. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Family Retirement Services, LLC",
+      "url": "http://www.frsinvestmentadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Madison Planning Group",
+      "url": "http://www.madisonplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Shannon C Kane, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/shannon-kane?y_source=1_MTMwMTczNjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Compact Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJcfqBpQQn2YgR0APp3GnVOuc",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Guided Financial Advisors",
+      "url": "http://www.guidedfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 34
+    }
+  ],
+  "heroDescription": "Greenacres, Florida, is a vibrant city known for its diverse community and growing economy.",
+  "landscapeDescription": "With a population of 38,696, Greenacres is part of the dynamic South Florida economy, characterized by tourism, retail, and healthcare sectors. The area benefits from its proximity to larger metropolitan hubs.",
+  "majorIndustries": "Tourism, Retail, Healthcare",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Greenacres requires tailored financial services to address its diverse population and growing economic sectors.",
+  "citySpecificRiskAdvice": "Greenacres faces risks from tourism dependency and real estate fluctuations. Hurricane threats necessitate insurance and disaster planning, while economic diversification is crucial for stability.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Greenacres has seen steady economic growth, driven by retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Greenacres is $52,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Greenacres are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Greenacres is moderate, with housing being the largest expense."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Greenacres is competitive, with rising home prices reflecting demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Greenacres offers a favorable business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

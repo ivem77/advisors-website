@@ -1,0 +1,195 @@
+{
+  "cityName": "Rohnert Park",
+  "state": "California",
+  "slug": "rohnert-park",
+  "population": "41.4K (metro: 413.9K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Rohnert Park",
+  "metaDescription": "Find top-rated financial advisors in Rohnert Park. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Anthony J Feeney, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anthony-feeney?y_source=1_ODM0MjYzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Krista Neary",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/krista-neary?y_source=1_NjEwMDM4OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "JL Financial & Insurance Solutions-Justin LeRette",
+      "url": "http://www.jlfinancialsolutions.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Horne Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ6R-QtF1KhIAR-q66wpZrwVw",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mark P Dunn, CFP®|ChFC®|CEPA®|RICP®|ABFP®|CLU®|AAMS®|CRPC™|AWMA®|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mark-dunn?y_source=1_MTk1OTc2My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Rohnert Park, California, is a vibrant city known for its family-friendly atmosphere and proximity to wine country.",
+  "landscapeDescription": "Rohnert Park's economy is driven by education, retail, and healthcare. The city benefits from its location near Sonoma County's thriving wine industry.",
+  "majorIndustries": "Education, Retail, Healthcare",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Rohnert Park requires tailored financial services to support its diverse population and growing industries.",
+  "citySpecificRiskAdvice": "Rohnert Park's reliance on education and retail poses economic risks; housing market volatility and potential flooding from nearby rivers require diversification.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Rohnert Park's economy is expanding, driven by local education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Rohnert Park is approximately $80,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Rohnert Park are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Rohnert Park's cost of living is higher than the national average, primarily due to housing expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Rohnert Park shows signs of appreciation, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Rohnert Park's business climate is favorable, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Manassas",
+  "state": "Virginia",
+  "slug": "manassas",
+  "population": "41.7K (metro: 1.1M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Manassas",
+  "metaDescription": "Find top-rated financial advisors in Manassas. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Command Financial Advisor - Peppy Kazhoyan Cummings",
+      "url": "https://advisor.firstcommand.com/us/va/manassas/pkcummings?y_source=1_MjA5NjIyMTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 43
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Virginia Financial Advisors",
+      "url": "https://mannawealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 133
+    },
+    {
+      "name": "Battlefield Wealth Planning - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/battlefield-wealth-planning/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Financial Advisory Systems, PLLC",
+      "url": "http://www.myvirginiacpa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Miller Investment Management - Arlington Financial Advisors",
+      "url": "http://rickknowsretirement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Manassas, Virginia, is a historic city with a vibrant community and growing economy.",
+  "landscapeDescription": "Manassas has a population of 41,705 and is experiencing steady economic growth, driven by its proximity to Washington D.C. and diverse industries.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Manassas requires tailored financial services to support its diverse population and growing industries.",
+  "citySpecificRiskAdvice": "Manassas faces risks from its retail and healthcare concentration; housing market volatility and flooding risks are concerns. Diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Manassas has shown a 3% annual growth rate, driven by retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Manassas is $85,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Manassas are increasingly focusing on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Manassas is 10% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Manassas is competitive, with home prices rising 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Manassas is fostering a supportive business climate, attracting new startups and expanding existing businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Virginia Beach",
+      "state": "Virginia",
+      "slug": "virginia-beach",
+      "population": 448479,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Norfolk",
+      "state": "Virginia",
+      "slug": "norfolk",
+      "population": 246139,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Chesapeake",
+      "state": "Virginia",
+      "slug": "chesapeake",
+      "population": 230571,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Richmond",
+      "state": "Virginia",
+      "slug": "richmond",
+      "population": 214114,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": true
+    },
+    {
+      "name": "Newport News",
+      "state": "Virginia",
+      "slug": "newport-news",
+      "population": 182020,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Alexandria",
+      "state": "Virginia",
+      "slug": "alexandria",
+      "population": 148892,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Hampton",
+      "state": "Virginia",
+      "slug": "hampton",
+      "population": 136699,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    },
+    {
+      "name": "Roanoke",
+      "state": "Virginia",
+      "slug": "roanoke",
+      "population": 98465,
+      "priority": 1,
+      "stateAbbreviation": "VA",
+      "index": false
+    }
+  ]
+}

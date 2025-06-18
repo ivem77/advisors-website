@@ -1,0 +1,195 @@
+{
+  "cityName": "Westfield",
+  "state": "Massachusetts",
+  "slug": "westfield",
+  "population": "41.3K (metro: 413K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Westfield",
+  "metaDescription": "Find top-rated financial advisors in Westfield. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Rich Capannola Financial Planner",
+      "url": "http://www.capannola.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bob Oliver",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bob-oliver?y_source=1_Mjc4MDU1Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "The Davis Financial Group",
+      "url": "https://www.davisfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Brian Costello - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/brian.f.costello/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Baystate Financial",
+      "url": "http://www.baystatefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Westfield, Massachusetts, is a vibrant city known for its rich history and community spirit.",
+  "landscapeDescription": "With a population of 41,301, Westfield boasts a diverse economy driven by manufacturing, retail, and healthcare sectors. The city serves as a regional hub for commerce and services.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Westfield requires tailored financial services to support its diverse economic base and growing population.",
+  "citySpecificRiskAdvice": "Westfield's reliance on manufacturing poses economic risks; housing market may face bubble concerns. Prepare for flooding and winter storms; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Westfield's economy is expanding, driven by a resurgence in manufacturing and local retail growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Westfield is approximately $70,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Westfield are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Westfield's cost of living is competitive, with housing costs slightly below the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Westfield's real estate market is experiencing steady growth, with potential concerns over affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Westfield offers a supportive business climate with incentives for local startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": true
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    }
+  ]
+}

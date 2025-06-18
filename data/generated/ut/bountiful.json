@@ -1,0 +1,195 @@
+{
+  "cityName": "Bountiful",
+  "state": "Utah",
+  "slug": "bountiful",
+  "population": "43K (metro: 1.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Bountiful",
+  "metaDescription": "Find top-rated financial advisors in Bountiful. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Strategic Planning Group",
+      "url": "http://www.spgutah.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 207
+    },
+    {
+      "name": "Alliance Wealth Advisors",
+      "url": "http://www.awaplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Access Financial Partners/LPL Financial",
+      "url": "https://www.afpartners.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "TrueNorth Wealth - Financial Advisors",
+      "url": "https://www.truenorthwealth.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Your Financial Resource, Inc. - Sid R. Alvey | Financial Advisor |",
+      "url": "http://www.yourfinancialresource.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Bountiful, Utah, is a vibrant suburban community located just north of Salt Lake City, known for its scenic views and family-friendly atmosphere.",
+  "landscapeDescription": "Bountiful's economy is primarily driven by retail, healthcare, and education sectors. The city benefits from its proximity to Salt Lake City, enhancing its economic opportunities.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Bountiful's growth requires sustainable development to accommodate its increasing population while maintaining community character.",
+  "citySpecificRiskAdvice": "Bountiful's retail focus poses risks from e-commerce trends. Real estate prices are rising, indicating potential bubble risks. Prepare for natural disasters like flooding and diversify economically.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bountiful's economy is expanding, with a growth rate of 3.5% driven by local businesses and increased consumer spending."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bountiful is $85,000, reflecting a stable and affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bountiful are increasingly focusing on retirement planning and investment strategies for local families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bountiful's cost of living is 10% higher than the national average, driven by housing and healthcare expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bountiful's real estate market is competitive, with home prices increasing by 8% year-over-year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bountiful's business climate is favorable, with supportive local policies encouraging small business growth and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    }
+  ]
+}

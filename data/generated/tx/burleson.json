@@ -1,0 +1,195 @@
+{
+  "cityName": "Burleson",
+  "state": "Texas",
+  "slug": "burleson",
+  "population": "1.3M (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Burleson",
+  "metaDescription": "Find top-rated financial advisors in Burleson. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Sharpe Wealth Management LLC",
+      "url": "http://www.sharpewm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Woodard Wealth Management",
+      "url": "http://www.woodardwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Serenity - Ian Powell",
+      "url": "http://www.financialserenity.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Go Biz Financial",
+      "url": "https://gbzfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Axis Financial",
+      "url": "http://www.axisfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 150
+    }
+  ],
+  "heroDescription": "Burleson, Texas, a vibrant city in Johnson County, blends suburban charm with economic growth.",
+  "landscapeDescription": "With a population of 40,714, Burleson is part of the dynamic Fort Worth-Arlington metro area. The city benefits from proximity to major economic hubs while fostering local businesses.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "Burleson requires tailored financial advice due to its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Burleson's retail and healthcare sectors face competition risks. Real estate prices are rising, indicating potential bubble concerns. Monitor for tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Burleson has seen a steady economic growth rate of 3.5%, driven by local retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Burleson is approximately $78,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Burleson increasingly specialize in retirement planning and investment strategies for young families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Burleson's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Burleson have increased by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Burleson offers a supportive business climate with low taxes and incentives for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Apex",
+  "state": "North Carolina",
+  "slug": "apex",
+  "population": "42.2K (metro: 1.4M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Apex",
+  "metaDescription": "Find top-rated financial advisors in Apex. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "BSG Advisers",
+      "url": "http://www.bsgadvisers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 16
+    },
+    {
+      "name": "Blue Water Capital Management, LLC",
+      "url": "http://www.bluewaterportfolios.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chuck Houston, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chuck-houston?y_source=1_OTY4NjA2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Bonnie Fischer, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/bonnie-fischer?y_source=1_OTYzODcyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jonathan R Bandy, CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jonathan-bandy?y_source=1_MTQ4MTk1MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Apex, North Carolina, is a thriving suburban community known for its family-friendly atmosphere and vibrant local economy.",
+  "landscapeDescription": "Apex boasts a diverse economy with strong growth in technology, healthcare, and retail sectors. The town's proximity to the Research Triangle enhances its economic potential.",
+  "majorIndustries": "Technology, Healthcare, Retail",
+  "medianIncome": "$85,000",
+  "uniqueNeeds": "Apex requires tailored financial strategies focusing on tech growth and housing market stability.",
+  "citySpecificRiskAdvice": "Apex's tech sector growth demands diversification to mitigate economic risks. Real estate prices may face bubble risks; monitor housing trends. Prepare for potential flooding and severe weather.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Apex has seen a 5% annual economic growth rate, driven by tech and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Apex is approximately $85,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Apex increasingly specialize in tech investments and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Apex is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Apex is competitive, with home prices rising by 8% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Apex's business climate is favorable, supported by local incentives and a growing workforce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    }
+  ]
+}

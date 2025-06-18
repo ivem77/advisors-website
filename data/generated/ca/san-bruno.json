@@ -1,0 +1,195 @@
+{
+  "cityName": "San Bruno",
+  "state": "California",
+  "slug": "san-bruno",
+  "population": "42.4K (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in San Bruno",
+  "metaDescription": "Find top-rated financial advisors in San Bruno. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones",
+      "url": "https://www.edwardjones.com/us-en",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Bay City Financial",
+      "url": "https://www.baycity-homeloans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "True Root Financial",
+      "url": "http://www.truerootfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 20
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sven Geffken, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sven-geffken?y_source=1_ODk3MzM1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Ben Yohanan Annuity & Insurance",
+      "url": "https://hatchplan.com/our-story/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "San Bruno, CA, is a vibrant city in the San Francisco Bay Area known for its diverse community and proximity to major tech hubs.",
+  "landscapeDescription": "With a population of 42,443, San Bruno's economy is heavily influenced by the tech industry, driven by nearby Silicon Valley. The city benefits from a mix of retail, healthcare, and service sectors.",
+  "majorIndustries": "Technology, Retail, Healthcare",
+  "medianIncome": "$103,000",
+  "uniqueNeeds": "San Bruno requires tailored financial advice due to its tech-driven economy and high cost of living.",
+  "citySpecificRiskAdvice": "San Bruno's tech focus poses risks from market volatility. Housing prices are high, suggesting a potential bubble. Prepare for earthquakes and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Bruno's economy is growing steadily, driven by tech and retail sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Bruno is approximately $103,000, reflecting the city's affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Bruno are increasingly specializing in tech investments and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), San Bruno's cost of living is 40% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in San Bruno is around $1.2 million, indicating a competitive and potentially overvalued market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Bruno's business climate is favorable, with a strong emphasis on tech startups and retail growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

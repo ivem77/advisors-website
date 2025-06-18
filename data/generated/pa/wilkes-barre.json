@@ -1,0 +1,195 @@
+{
+  "cityName": "Wilkes-Barre",
+  "state": "Pennsylvania",
+  "slug": "wilkes-barre",
+  "population": "41.1K (metro: 411K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Wilkes-Barre",
+  "metaDescription": "Find top-rated financial advisors in Wilkes-Barre. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Chancellor Financial Group",
+      "url": "http://chancellorfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/wilkes-barre-branch?y_source=1_MjM2MjAyMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/pa/wilkes-barre",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Marne Wealth Management",
+      "url": "https://www.marnewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "R J Financial Services",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fnAgXMQxYkRUd5fH4DD0Ik",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Wilkes-Barre, PA, is a historic city known for its rich coal mining heritage and vibrant community.",
+  "landscapeDescription": "The economy is transitioning from traditional industries to healthcare and education. Wilkes-Barre serves as a regional hub for commerce and services.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Wilkes-Barre requires tailored financial advice due to its unique economic transition and demographic shifts.",
+  "citySpecificRiskAdvice": "Wilkes-Barre's reliance on healthcare poses risks; diversify investments. Real estate may face volatility due to economic shifts and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Wilkes-Barre's economy is growing, driven by healthcare and education sectors, with a focus on job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Wilkes-Barre is $45,000, reflecting a diverse economic base and community needs."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Wilkes-Barre are increasingly specializing in retirement planning and healthcare financing."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Wilkes-Barre's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Wilkes-Barre shows signs of stabilization, but potential bubble risks remain due to economic shifts."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Wilkes-Barre is fostering a supportive business environment, particularly for startups in healthcare and education."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    }
+  ]
+}

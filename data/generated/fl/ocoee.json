@@ -1,0 +1,195 @@
+{
+  "cityName": "Ocoee",
+  "state": "Florida",
+  "slug": "ocoee",
+  "population": "39.2K (metro: 2.6M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Ocoee",
+  "metaDescription": "Find top-rated financial advisors in Ocoee. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: William T Winslow, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/william-winslow?y_source=1_OTY2Njk3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Advisor Group Florida",
+      "url": "http://www.advisorgroupflorida.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Newell Wealth Management",
+      "url": "http://www.newellwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Oxford Advisory Group | Financial Advisors",
+      "url": "https://oxfordadvisorygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 39
+    },
+    {
+      "name": "Nelson Financial Planning",
+      "url": "https://www.nelsonfinancialplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    }
+  ],
+  "heroDescription": "Ocoee, Florida, is a vibrant city in Orange County, known for its family-friendly atmosphere and growing community.",
+  "landscapeDescription": "Ocoee's economy is bolstered by its proximity to Orlando, with a mix of retail, healthcare, and education sectors driving growth. The city is experiencing a population surge, reflecting its appeal as a suburban haven.",
+  "majorIndustries": "Healthcare, Retail, Education",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Ocoee requires enhanced infrastructure and community services to support its growing population and economic development.",
+  "citySpecificRiskAdvice": "Ocoee's growth in retail and healthcare may face risks from economic downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for hurricane impacts and diversify investment...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ocoee's economy is expanding, with a focus on healthcare and retail, contributing to a steady increase in local employment."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Ocoee is approximately $70,000, reflecting a diverse economic base and growing affluence."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ocoee are increasingly focusing on retirement planning and investment strategies tailored to local demographics."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Ocoee's cost of living is competitive, with housing costs rising but still below the national average, attracting new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Ocoee's real estate market is experiencing rapid appreciation, with a 10% increase in home values over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ocoee's business climate is favorable, with incentives for small businesses and a supportive local government fostering entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

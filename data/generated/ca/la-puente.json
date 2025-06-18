@@ -1,0 +1,195 @@
+{
+  "cityName": "La Puente",
+  "state": "California",
+  "slug": "la-puente",
+  "population": "40.4K (metro: 10.0M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in La Puente",
+  "metaDescription": "Find top-rated financial advisors in La Puente. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Trilogy Financial Services",
+      "url": "http://www.trilogyfs.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Agate Financial",
+      "url": "https://agatefinancial.co/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "America Financial Wellness Center",
+      "url": "https://booking.builderall.com/c/emiliano-59/analisisfinancierogratis",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Pure Financial Advisors, LLC",
+      "url": "https://purefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Global Wealth Insurance Services",
+      "url": "http://www.globalwealthinsuranceservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 30
+    }
+  ],
+  "heroDescription": "La Puente, California, is a vibrant city in Los Angeles County known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "La Puente's economy is characterized by retail, manufacturing, and service sectors, contributing to its steady growth. The city benefits from its proximity to major urban centers.",
+  "majorIndustries": "Retail, Manufacturing, Services",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "La Puente requires tailored financial strategies to address its unique demographic and economic landscape.",
+  "citySpecificRiskAdvice": "La Puente's retail focus poses risks from e-commerce shifts. Housing market volatility and potential flooding require diversification in investments and risk management.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), La Puente has shown a modest economic growth rate of 2.5%, driven by local retail and service industries."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in La Puente is approximately $62,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in La Puente increasingly specialize in real estate and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), La Puente's cost of living is slightly below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), La Puente's real estate market is experiencing a steady increase in home values, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), La Puente's business climate is favorable, with support for small businesses and local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

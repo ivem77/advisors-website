@@ -1,0 +1,195 @@
+{
+  "cityName": "Hilton Head Island",
+  "state": "South Carolina",
+  "slug": "hilton-head-island",
+  "population": "39.4K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Hilton Head Island",
+  "metaDescription": "Find top-rated financial advisors in Hilton Head Island. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CrossRoads Financial Group LLC",
+      "url": "http://www.crossroadsfinancial.group/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/hilton-head-island-branch?y_source=1_MjQ1MjIwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Principal Financial Group",
+      "url": "https://www.wealthgatefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "John Rush - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/john.b.rush/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Hilton Head Capital Partners",
+      "url": "https://www.hiltonheadcapitalpartners.com/contact.html",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Hilton Head Island, a premier resort destination, offers stunning beaches and a vibrant community.",
+  "landscapeDescription": "The economy is driven by tourism, real estate, and hospitality, with a growing emphasis on sustainability. The island's population of 39,412 enjoys a high quality of life.",
+  "majorIndustries": "Tourism, Real Estate, Hospitality",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Hilton Head requires tailored financial advice for seasonal income fluctuations and real estate investments.",
+  "citySpecificRiskAdvice": "Hilton Head's tourism reliance poses economic risks; real estate market volatility and hurricane threats necessitate diversification and risk management strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hilton Head's economy is recovering post-pandemic, with tourism rebounding and new businesses emerging."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hilton Head is $75,000, reflecting a mix of affluent retirees and seasonal workers."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hilton Head increasingly focus on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Hilton Head is higher than the national average, driven by housing and leisure expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hilton Head's real estate market is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hilton Head's business climate is favorable for hospitality and service industries, with incentives for sustainable practices."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    }
+  ]
+}

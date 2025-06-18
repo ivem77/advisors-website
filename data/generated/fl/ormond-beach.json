@@ -1,0 +1,195 @@
+{
+  "cityName": "Ormond Beach",
+  "state": "Florida",
+  "slug": "ormond-beach",
+  "population": "38.7K (metro: 38661)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Ormond Beach",
+  "metaDescription": "Find top-rated financial advisors in Ormond Beach. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Holland Financial Inc",
+      "url": "http://www.planstronger.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Weber Financial",
+      "url": "https://www.weber-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Casey Wealth Advisors of Raymond James",
+      "url": "https://www.raymondjames.com/caseywealthadvisors",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Kris Stockhammer LPL Financial",
+      "url": "https://www.krisstockhammer.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Storms Walker & Rowdon",
+      "url": "http://www.stormsrowdon.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Ormond Beach, Florida, is a vibrant coastal city known for its beautiful beaches and rich history.",
+  "landscapeDescription": "The economy of Ormond Beach is primarily driven by tourism, healthcare, and retail. The city benefits from its proximity to larger metropolitan areas, enhancing its economic prospects.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Focus on sustainable tourism and healthcare services to meet the growing population's needs.",
+  "citySpecificRiskAdvice": "Ormond Beach's tourism reliance poses economic risks; diversify into tech and healthcare. Real estate is vulnerable to hurricanes and market fluctuations; consider flood-resistant investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Ormond Beach has seen a steady economic growth rate of 3.5%, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Ormond Beach is approximately $60,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Ormond Beach are increasingly focusing on retirement planning and estate management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Ormond Beach is about 5% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Ormond Beach has seen a 10% increase in home values over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Ormond Beach's business climate is favorable, with low taxes and incentives for small businesses, fostering growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Lancaster",
+  "state": "Ohio",
+  "slug": "lancaster",
+  "population": "39.3K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Lancaster",
+  "metaDescription": "Find top-rated financial advisors in Lancaster. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Royal Oak Financial Group",
+      "url": "https://www.royaloakfinancialgroup.com/location/lancaster/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 86
+    },
+    {
+      "name": "Superior Retirement Solutions",
+      "url": "https://www.srswm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 59
+    },
+    {
+      "name": "JC Wealth Management Group LLC",
+      "url": "https://www.ameripriseadvisors.com/team/bespoke-wealth-advisory-group/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jennifer Deck, CFP®|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jennifer-deck?y_source=1_MTIwMzU2MTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Adam W Custer",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/adam-custer?y_source=1_OTY5MjA3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Lancaster, Ohio, is a vibrant city with a rich history and a growing economy.",
+  "landscapeDescription": "Lancaster's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Lancaster requires tailored financial advice due to its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Lancaster's manufacturing focus poses risks if diversification isn't pursued. Housing market stability is crucial; watch for potential flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lancaster's GDP growth has been steady, driven by local manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lancaster is $54,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lancaster are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lancaster's cost of living is below the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Lancaster is stable, with moderate growth in home prices and rental rates."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lancaster's business climate is favorable, with supportive local policies for small businesses and entrepreneurs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    }
+  ]
+}

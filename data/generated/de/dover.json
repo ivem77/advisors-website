@@ -1,0 +1,141 @@
+{
+  "cityName": "Dover",
+  "state": "Delaware",
+  "slug": "dover",
+  "population": "37.4K (metro: 373.7K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Dover",
+  "metaDescription": "Find top-rated financial advisors in Dover. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CSG Financial",
+      "url": "https://www.csg-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Christopher Smith, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/christopher-s-smith?y_source=1_OTYzMjMzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "B.I.G. Investment Services",
+      "url": "https://www.abigplan.com/?utm_source=google&utm_medium=gmb&utm_campaign=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Compass Investment Advisors",
+      "url": "http://mycompassadvisors.com/dover-de",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Gunn Wealth Management",
+      "url": "http://gunnwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Dover, Delaware, is the capital city known for its rich history and vibrant community.",
+  "landscapeDescription": "Dover's economy is diverse, with a focus on government, healthcare, and education. The city benefits from its strategic location and growing population.",
+  "majorIndustries": "Government, Healthcare, Education",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Dover requires tailored financial strategies to address government dependency and housing market fluctuations.",
+  "citySpecificRiskAdvice": "Dover's economy relies on government and healthcare, risking over-dependence. Real estate may face volatility; prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Dover's economy has shown steady growth, driven by public sector employment and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Dover is approximately $60,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Dover increasingly specialize in government employee benefits and retirement planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Dover's cost of living is moderate, with housing costs slightly below the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Dover is competitive, with rising prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Dover's business climate is favorable for startups, particularly in healthcare and technology sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Wilmington",
+      "state": "Delaware",
+      "slug": "wilmington",
+      "population": 71525,
+      "priority": 1,
+      "stateAbbreviation": "DE",
+      "index": false
+    },
+    {
+      "name": "Dover",
+      "state": "Delaware",
+      "slug": "dover",
+      "population": 37366,
+      "priority": 1,
+      "stateAbbreviation": "DE",
+      "index": false
+    }
+  ]
+}

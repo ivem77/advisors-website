@@ -1,0 +1,195 @@
+{
+  "cityName": "Florence",
+  "state": "South Carolina",
+  "slug": "florence",
+  "population": "37.8K (metro: 377.9K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Florence",
+  "metaDescription": "Find top-rated financial advisors in Florence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Armstrong Wealth Management Group",
+      "url": "https://www.armstrongwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "The Master's Choice Inc",
+      "url": "http://themasterschoice.org/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 22
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Janelle Walters, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/janelle-walters?y_source=1_MjE2NjgzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Janney Montgomery Scott LLC",
+      "url": "https://www.janney.com/?utm_medium=yext&utm_source=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Seastrunk Financial Management",
+      "url": "https://www.seastrunkfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Florence, SC, is a growing city known for its rich history and vibrant community.",
+  "landscapeDescription": "Florence's economy is diverse, with significant contributions from healthcare, manufacturing, and retail. The city is strategically located along major highways, enhancing its logistical advantages.",
+  "majorIndustries": "Healthcare, Manufacturing, Retail",
+  "medianIncome": "$48,000",
+  "uniqueNeeds": "Florence requires tailored financial services to address its unique economic landscape and demographic shifts.",
+  "citySpecificRiskAdvice": "Florence's reliance on healthcare and retail poses economic risks; housing market volatility and flooding concerns necessitate diversification and prudent investment strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Florence's economy has shown steady growth, driven by healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Florence is $48,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Florence are increasingly focusing on retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Florence's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Florence is experiencing moderate growth, but affordability remains a concern."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Florence's business climate is favorable for small businesses, with supportive local policies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    }
+  ]
+}

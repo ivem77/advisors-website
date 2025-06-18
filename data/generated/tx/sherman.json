@@ -1,0 +1,195 @@
+{
+  "cityName": "Sherman",
+  "state": "Texas",
+  "slug": "sherman",
+  "population": "39.3K (metro: 39296)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Sherman",
+  "metaDescription": "Find top-rated financial advisors in Sherman. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: John C Mabary, CFP®|AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-mabary?y_source=1_OTYzOTIzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Asa L Jessee Jr, ChFC®|CEPA®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/asa-jessee?y_source=1_OTYyNjUxLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "ISSA FINANCIALS",
+      "url": "https://www.issafinancials.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 74
+    },
+    {
+      "name": "LPL Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJG_PBNC6ITIYRzzSjwSYNQPM",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Stogsdill Capital",
+      "url": "http://www.stogsdillcapital.com//",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Sherman, Texas, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Sherman has a diverse economy with a focus on manufacturing, healthcare, and retail. Its strategic location near Dallas-Fort Worth enhances its economic potential.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$52,000",
+  "uniqueNeeds": "Sherman requires tailored financial advice to navigate its unique economic landscape and growth opportunities.",
+  "citySpecificRiskAdvice": "Sherman's economy relies on manufacturing, posing risks from market fluctuations. Real estate growth may face bubble risks; diversify investments. Tornadoes and flooding are concerns.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sherman has experienced a steady economic growth rate of 3.5%, driven by local manufacturing and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sherman is $52,000, with a growing middle-class population contributing to local spending."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sherman are increasingly focusing on retirement planning and investment diversification strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Sherman's cost of living is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Sherman have risen by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sherman offers a favorable business climate with low taxes and incentives for small businesses, fostering entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "30+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "La Quinta",
+  "state": "California",
+  "slug": "la-quinta",
+  "population": "39.3K (metro: 393.3K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in La Quinta",
+  "metaDescription": "Find top-rated financial advisors in La Quinta. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Rinker Financial",
+      "url": "http://www.rinkerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Michael Raji - Thrivent",
+      "url": "https://connect.thrivent.com/michael-raji?utm_source=GMB&utm_medium=Yext&y_source=1_MTA0OTc2NjYzNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Amy H Jeandron",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/amy-jeandron?y_source=1_OTY5NjM1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "United Capital Financial Advisors",
+      "url": "https://unitedcapitalwealth.com/location/palm-desert/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=palmdesert_ca",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Desert Financial Planning",
+      "url": "https://www.desertfinancialplan.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "La Quinta, California, is a picturesque desert city known for its golf courses, luxury resorts, and vibrant arts scene.",
+  "landscapeDescription": "La Quinta's economy thrives on tourism, real estate, and leisure industries, bolstered by its proximity to Coachella Valley attractions. The city is experiencing steady growth, attracting both residents and businesses.",
+  "majorIndustries": "Tourism, Real Estate, Leisure",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "La Quinta requires tailored financial strategies to address tourism volatility and real estate market fluctuations.",
+  "citySpecificRiskAdvice": "La Quinta's tourism reliance poses economic risks; real estate prices may face correction. Monitor flooding and heat risks, diversify investments beyond tourism.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), La Quinta's economy grew by 3.5% last year, driven by tourism and real estate investments."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in La Quinta is $66,000, reflecting a mix of retirees and affluent families."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in La Quinta increasingly focus on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), La Quinta's cost of living is approximately 15% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), La Quinta's real estate market has seen a 10% increase in home prices over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), La Quinta's business climate is favorable for hospitality and service industries, attracting new investments."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

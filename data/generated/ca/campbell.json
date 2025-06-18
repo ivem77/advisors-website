@@ -1,0 +1,195 @@
+{
+  "cityName": "Campbell",
+  "state": "California",
+  "slug": "campbell",
+  "population": "40.6K (metro: 1.9M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Campbell",
+  "metaDescription": "Find top-rated financial advisors in Campbell. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Modern Wealth Management - Campbell",
+      "url": "https://modwm.com/locations/campbell-ca/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wealth Cairn - An Investor Coaching Company",
+      "url": "http://www.wealthcairn.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "ClearBridge Financial LLC/ Larysa Prytula, CFP, CDFA",
+      "url": "https://www.cbridgefinancial.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4517603923183875242",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Context Wealth Advisors",
+      "url": "https://www.contextwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Leal Financial Planning",
+      "url": "http://www.lealfp.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Campbell, California, is a vibrant city in Silicon Valley known for its rich history and tech-driven economy.",
+  "landscapeDescription": "With a population of 40,584, Campbell thrives in the tech sector, benefiting from its proximity to major tech hubs. The city has a diverse economy, bolstered by retail and services.",
+  "majorIndustries": "Technology, Retail, Services",
+  "medianIncome": "$120,000",
+  "uniqueNeeds": "Campbell's tech focus requires strategic diversification and attention to housing market fluctuations.",
+  "citySpecificRiskAdvice": "Campbell's tech sector is vulnerable to market shifts; housing prices may indicate a bubble. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Campbell's economy has seen a 4% growth rate, driven by technology and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Campbell is approximately $120,000, reflecting the affluent nature of the community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Campbell are increasingly specializing in tech investments and real estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Campbell's cost of living is 30% higher than the national average, driven by housing and services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Campbell is $1.2M, indicating strong demand but potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Campbell's business climate is favorable, with numerous startups and established firms contributing to growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

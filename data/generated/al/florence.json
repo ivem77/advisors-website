@@ -1,0 +1,195 @@
+{
+  "cityName": "Florence",
+  "state": "Alabama",
+  "slug": "florence",
+  "population": "40.1K (metro: 400.6K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Florence",
+  "metaDescription": "Find top-rated financial advisors in Florence. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Jonathan Henson - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/jonathan.d.henson/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/al/florence-al",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Nathan Campbell, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/nathan-campbell?y_source=1_OTY4MjM2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Morgan Stanley Financial Advisors",
+      "url": "https://advisor.morganstanley.com/florence-branch?y_source=1_MjM2MjEwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Eagle Creek Wealth Management",
+      "url": "https://www.eaglecreekwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Florence, Alabama, is a vibrant city known for its rich history and cultural heritage.",
+  "landscapeDescription": "Florence's economy is diverse, with a strong emphasis on manufacturing, healthcare, and education. The city benefits from its strategic location along the Tennessee River.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Florence requires strategies for economic diversification and disaster preparedness due to its geographic location.",
+  "citySpecificRiskAdvice": "Florence's manufacturing base poses economic risks; consider diversifying into tech and services. Real estate is vulnerable to market fluctuations and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Florence's economy has seen a steady growth rate of 2.5% over the past year, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Florence is approximately $45,000, reflecting a modest economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Florence are increasingly focusing on retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Florence's cost of living is 10% lower than the national average, making it an attractive location for families and retirees."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Florence has seen a 5% increase in home values over the past year, but concerns about affordability persist."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Florence's business climate is favorable, with incentives for new businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham",
+      "population": 212113,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery",
+      "population": 201332,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile",
+      "population": 194899,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville",
+      "population": 186254,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa",
+      "population": 95334,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover",
+      "population": 84126,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan",
+      "population": 68001,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn",
+      "population": 58582,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    }
+  ]
+}

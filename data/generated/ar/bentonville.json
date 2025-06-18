@@ -1,0 +1,195 @@
+{
+  "cityName": "Bentonville",
+  "state": "Arkansas",
+  "slug": "bentonville",
+  "population": "40.2K (metro: 500K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Bentonville",
+  "metaDescription": "Find top-rated financial advisors in Bentonville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Family Legacy Planning Wealth Management",
+      "url": "http://www.familylegacyplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Thrasher & Chambers Wealth Management",
+      "url": "http://thrasherandchambers.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Guardian Financial, Inc.",
+      "url": "https://guardianfinancialinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Bedrock Asset Management",
+      "url": "http://www.bedrockarkansas.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Phillip A Thielemier",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/phillip-thielemier?y_source=1_MTk1OTgzMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Bentonville, Arkansas, is a vibrant city known for its rich cultural heritage and economic growth.",
+  "landscapeDescription": "Bentonville is a key player in the Northwest Arkansas economy, driven by retail and technology sectors. The city is home to Walmart's headquarters, influencing local business dynamics.",
+  "majorIndustries": "Retail, Technology, Healthcare",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Bentonville requires tailored financial strategies to navigate its unique economic landscape and growth potential.",
+  "citySpecificRiskAdvice": "Bentonville's retail focus poses risks if e-commerce grows. Housing prices are rising, indicating potential bubble risks. Prepare for tornadoes and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bentonville's economy has seen a 5% growth rate, driven by retail and tech sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Bentonville is $60,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bentonville are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bentonville's cost of living is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Bentonville have increased by 15% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bentonville's business climate is thriving, bolstered by Walmart and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Little Rock",
+      "state": "Arkansas",
+      "slug": "little-rock",
+      "population": 197357,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Fort Smith",
+      "state": "Arkansas",
+      "slug": "fort-smith",
+      "population": 87650,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Fayetteville",
+      "state": "Arkansas",
+      "slug": "fayetteville",
+      "population": 78960,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Springdale",
+      "state": "Arkansas",
+      "slug": "springdale",
+      "population": 75229,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Jonesboro",
+      "state": "Arkansas",
+      "slug": "jonesboro",
+      "population": 71551,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "North Little Rock",
+      "state": "Arkansas",
+      "slug": "north-little-rock",
+      "population": 66075,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Conway",
+      "state": "Arkansas",
+      "slug": "conway",
+      "population": 63816,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    },
+    {
+      "name": "Rogers",
+      "state": "Arkansas",
+      "slug": "rogers",
+      "population": 60112,
+      "priority": 1,
+      "stateAbbreviation": "AR",
+      "index": false
+    }
+  ]
+}

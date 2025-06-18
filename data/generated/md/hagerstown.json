@@ -1,0 +1,186 @@
+{
+  "cityName": "Hagerstown",
+  "state": "Maryland",
+  "slug": "hagerstown",
+  "population": "40.6K (metro: 40612)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Hagerstown",
+  "metaDescription": "Find top-rated financial advisors in Hagerstown. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wealth Enhancement Group",
+      "url": "https://www.wealthenhancement.com/s/locations/location/a4a4M000000R0cYQAS/hagerstown-md?utm_source=gbp&utm_medium=organic&utm_campaign=local-seo&utm_id=local-seo&utm_content=hagerstown&utm_term=hagerstown",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/locations/hagerstown-md-leitersburg-pike/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lisa M Taylor, ChFC®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/l-taylor?y_source=1_MTEwOTg4MTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katie Schwartz, CFP®|ChFC®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katie-schwartz?y_source=1_OTY0ODUwLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Comprehensive Financial Planning Group, LLC",
+      "url": "http://www.fpgroupllc.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Hagerstown, Maryland, is a growing city with a rich history and vibrant community.",
+  "landscapeDescription": "Hagerstown's economy is diverse, with strengths in manufacturing, healthcare, and retail. The city serves as a regional hub for commerce and logistics.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Hagerstown requires focused investment in infrastructure and workforce development to support its growing economy.",
+  "citySpecificRiskAdvice": "Hagerstown's manufacturing sector faces risks from economic downturns; real estate prices may rise due to demand. Flooding risks exist; diversify investments to mitigate impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hagerstown's economy has seen a 3% growth rate, driven by local manufacturing and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Hagerstown is $55,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hagerstown are increasingly specializing in retirement planning and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hagerstown's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hagerstown's real estate market has seen a 5% increase in home values over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hagerstown's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Baltimore",
+      "state": "Maryland",
+      "slug": "baltimore",
+      "population": 622104,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": true
+    },
+    {
+      "name": "Frederick",
+      "state": "Maryland",
+      "slug": "frederick",
+      "population": 66893,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Gaithersburg",
+      "state": "Maryland",
+      "slug": "gaithersburg",
+      "population": 65690,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Rockville",
+      "state": "Maryland",
+      "slug": "rockville",
+      "population": 64072,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Bowie",
+      "state": "Maryland",
+      "slug": "bowie",
+      "population": 56759,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Hagerstown",
+      "state": "Maryland",
+      "slug": "hagerstown",
+      "population": 40612,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    },
+    {
+      "name": "Annapolis",
+      "state": "Maryland",
+      "slug": "annapolis",
+      "population": 38722,
+      "priority": 1,
+      "stateAbbreviation": "MD",
+      "index": false
+    }
+  ]
+}

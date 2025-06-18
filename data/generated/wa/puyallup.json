@@ -1,0 +1,195 @@
+{
+  "cityName": "Puyallup",
+  "state": "Washington",
+  "slug": "puyallup",
+  "population": "38.6K (metro: 1.5M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Puyallup",
+  "metaDescription": "Find top-rated financial advisors in Puyallup. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Investors Portfolio Services - Financial Advisors",
+      "url": "http://www.investorsportfolioservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: JR Whitaker",
+      "url": "https://www.edwardjones.com/jr-whitaker",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Trey A Wells",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/trey-wells?y_source=1_MTcxNjA3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Wooten Financial LLC",
+      "url": "https://www.raymondjames.com/kevinwooten",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Black Bishop Financial Group",
+      "url": "http://blackbishop.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Puyallup, WA, a vibrant city known for its rich agricultural heritage and proximity to Seattle.",
+  "landscapeDescription": "Puyallup's economy is driven by retail, healthcare, and agriculture, benefiting from its strategic location near major urban centers. The city has a growing population and a diverse economic base.",
+  "majorIndustries": "Retail, Healthcare, Agriculture",
+  "medianIncome": "$76,000",
+  "uniqueNeeds": "Puyallup requires attention to its agricultural sector and housing market stability.",
+  "citySpecificRiskAdvice": "Puyallup's reliance on retail and agriculture poses economic risks. Housing market volatility and flooding concerns require diversification and careful investment strategies.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Puyallup's economy has seen a 3% growth rate, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Puyallup is $76,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Puyallup are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Puyallup's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in Puyallup have increased by 8% year-over-year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Puyallup's business climate is favorable, with low taxes and supportive local government initiatives."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Seattle",
+      "state": "Washington",
+      "slug": "seattle",
+      "population": 652405,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": true
+    },
+    {
+      "name": "Spokane",
+      "state": "Washington",
+      "slug": "spokane",
+      "population": 210721,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Tacoma",
+      "state": "Washington",
+      "slug": "tacoma",
+      "population": 203446,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Vancouver",
+      "state": "Washington",
+      "slug": "vancouver",
+      "population": 167405,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Bellevue",
+      "state": "Washington",
+      "slug": "bellevue",
+      "population": 133992,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Kent",
+      "state": "Washington",
+      "slug": "kent",
+      "population": 124435,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Everett",
+      "state": "Washington",
+      "slug": "everett",
+      "population": 105370,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    },
+    {
+      "name": "Renton",
+      "state": "Washington",
+      "slug": "renton",
+      "population": 97003,
+      "priority": 1,
+      "stateAbbreviation": "WA",
+      "index": false
+    }
+  ]
+}

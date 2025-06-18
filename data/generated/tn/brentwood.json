@@ -1,0 +1,195 @@
+{
+  "cityName": "Brentwood",
+  "state": "Tennessee",
+  "slug": "brentwood",
+  "population": "40K (metro: 1.9M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Brentwood",
+  "metaDescription": "Find top-rated financial advisors in Brentwood. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Cadence Wealth Advisors",
+      "url": "https://www.cadencewa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mike Weed, CFP®|ChFC®|CPWA®|CEPA®|AAMS®|CRPC™|SE-AWMA®|CRPS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-weed?y_source=1_MzExOTEyNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Seven Springs Wealth Group, LLC",
+      "url": "https://sevenspringswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edelman Financial Engines",
+      "url": "https://www.edelmanfinancialengines.com/location.TN.Brentwood/?utm_medium=organic&utm_source=google&utm_campaign=gmb-listing&utm_content=yext",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Thoroughbred Financial Services",
+      "url": "http://www.thoroughbredfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Brentwood, Tennessee, is a suburban city known for its affluent neighborhoods and strong community focus.",
+  "landscapeDescription": "Brentwood boasts a robust economy with a mix of retail, healthcare, and professional services. Its proximity to Nashville enhances its economic opportunities.",
+  "majorIndustries": "Healthcare, Retail, Professional Services",
+  "medianIncome": "$115,000",
+  "uniqueNeeds": "Brentwood requires tailored financial advice due to its high-income demographics and unique real estate market.",
+  "citySpecificRiskAdvice": "Brentwood's reliance on healthcare and retail sectors poses diversification risks. Rapid housing price increases may indicate a bubble. Monitor flood risks and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Brentwood's economy has seen steady growth, driven by a surge in healthcare and retail sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Brentwood's median income is approximately $115,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Brentwood are increasingly focusing on high-net-worth individuals and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Brentwood's cost of living is higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Brentwood's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Brentwood offers a favorable business climate with low taxes and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Memphis",
+      "state": "Tennessee",
+      "slug": "memphis",
+      "population": 653450,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Nashville-Davidson",
+      "state": "Tennessee",
+      "slug": "nashville-davidson",
+      "population": 634464,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": true
+    },
+    {
+      "name": "Knoxville",
+      "state": "Tennessee",
+      "slug": "knoxville",
+      "population": 183270,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Chattanooga",
+      "state": "Tennessee",
+      "slug": "chattanooga",
+      "population": 173366,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Clarksville",
+      "state": "Tennessee",
+      "slug": "clarksville",
+      "population": 142357,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Murfreesboro",
+      "state": "Tennessee",
+      "slug": "murfreesboro",
+      "population": 117044,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Franklin",
+      "state": "Tennessee",
+      "slug": "franklin",
+      "population": 68886,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    },
+    {
+      "name": "Jackson",
+      "state": "Tennessee",
+      "slug": "jackson",
+      "population": 67685,
+      "priority": 1,
+      "stateAbbreviation": "TN",
+      "index": false
+    }
+  ]
+}

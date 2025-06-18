@@ -1,0 +1,195 @@
+{
+  "cityName": "Urbana",
+  "state": "Illinois",
+  "slug": "urbana",
+  "population": "41.8K (metro: 217.5K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Urbana",
+  "metaDescription": "Find top-rated financial advisors in Urbana. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Ruedi Wealth Management, Inc.",
+      "url": "http://ruediwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 23
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Neil P Richardson, CFP®|ChFC®|CLU®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/neil-richardson?y_source=1_OTY2OTkyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Holder Wealth Management, Inc.",
+      "url": "http://www.holderwealthmgt.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Bluestem Financial Advisors, LLC",
+      "url": "http://www.bluestemfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Tenet Wealth Partners",
+      "url": "http://www.tenetwealthpartners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Urbana, Illinois, is a vibrant city known for its educational institutions and diverse economy.",
+  "landscapeDescription": "Home to the University of Illinois, Urbana boasts a robust economy driven by education, technology, and healthcare sectors. The city has a population of 41,752, contributing to its dynamic workforce.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Urbana's economy relies heavily on education and tech, necessitating support for innovation and workforce development.",
+  "citySpecificRiskAdvice": "Urbana's tech sector growth needs diversification to mitigate risks. Real estate prices may rise due to demand, creating bubble concerns. Monitor flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Urbana's economy has shown steady growth, primarily driven by educational services and technology innovations."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Urbana is approximately $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Urbana increasingly specialize in education and tech sector investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Urbana is relatively low compared to national averages, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Urbana's real estate market is competitive, with rising prices driven by demand from students and professionals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Urbana's business climate is favorable, with supportive policies for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": true
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    }
+  ]
+}

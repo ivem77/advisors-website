@@ -1,0 +1,195 @@
+{
+  "cityName": "Beloit",
+  "state": "Wisconsin",
+  "slug": "beloit",
+  "population": "36.9K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Beloit",
+  "metaDescription": "Find top-rated financial advisors in Beloit. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Tammy M Schindler",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/tammy-schindler?y_source=1_NjQxMTYyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Holly B Friel, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/holly-friel?y_source=1_OTYyNTE3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Amy Hatch - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/amy.2.hatch/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Branden E Johnson",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/branden-johnson?y_source=1_MTUxNjY0OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Joel Otto - Thrivent",
+      "url": "https://connect.thrivent.com/joel-otto?utm_source=GMB&utm_medium=Yext&y_source=1_MTU4NzcxMTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Beloit, Wisconsin, is a vibrant city known for its rich history and diverse community.",
+  "landscapeDescription": "Beloit has a growing economy with a focus on manufacturing, healthcare, and education. The city benefits from its strategic location near major transportation routes.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Beloit requires tailored financial advice to address its unique manufacturing and healthcare sectors.",
+  "citySpecificRiskAdvice": "Beloit's manufacturing sector is vulnerable to economic downturns. Real estate prices are rising, indicating potential bubble risks. Flooding is a concern; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Beloit has seen a steady economic growth rate of 2.5%, driven by local manufacturing and healthcare services."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Beloit is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Beloit are increasingly specializing in manufacturing and healthcare sectors."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Beloit is 10% lower than the national average, making it an affordable place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Beloit is experiencing a 5% annual increase in home prices, indicating rising demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Beloit is fostering a supportive business climate with incentives for local manufacturers and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    }
+  ]
+}

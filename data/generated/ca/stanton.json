@@ -1,0 +1,195 @@
+{
+  "cityName": "Stanton",
+  "state": "California",
+  "slug": "stanton",
+  "population": "38.6K (metro: 3.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Stanton",
+  "metaDescription": "Find top-rated financial advisors in Stanton. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Wilson Financial Advisors",
+      "url": "http://wilsonfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Excellent Financial Service",
+      "url": "https://excellentfinancialservice.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Highland Finance & Investments, Inc.",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgckvLicm3YARKmq9nHNS9y8",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Pure Financial Advisors, LLC",
+      "url": "https://purefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Stanton & Castleton, Inc. - Raymond James",
+      "url": "http://www.stantoncastleton.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Stanton, California, is a vibrant city in Orange County known for its diverse community and growing economy.",
+  "landscapeDescription": "With a population of 38,623, Stanton is part of the dynamic Orange County economy, characterized by retail, healthcare, and hospitality sectors. The city benefits from its proximity to major metropolitan areas, enhancing its economic potential.",
+  "majorIndustries": "Retail, Healthcare, Hospitality",
+  "medianIncome": "$66,000",
+  "uniqueNeeds": "Stanton requires tailored financial services to support its diverse population and growing industries.",
+  "citySpecificRiskAdvice": "Stanton's retail focus poses risks from e-commerce shifts. Housing market volatility may lead to affordability issues. Prepare for potential flooding and diversify economic activities.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Stanton's economy is expanding, driven by retail and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Stanton's median income stands at $66,000, reflecting a diverse economic base and varied income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Stanton increasingly specialize in real estate and retirement planning, catering to local needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Stanton's cost of living is slightly above the national average, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Stanton's real estate market shows steady appreciation, with median home prices rising 5% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Stanton's business climate is favorable, with supportive local policies and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

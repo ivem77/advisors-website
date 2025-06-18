@@ -1,0 +1,195 @@
+{
+  "cityName": "Westerville",
+  "state": "Ohio",
+  "slug": "westerville",
+  "population": "37.5K (metro: 2.1M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Westerville",
+  "metaDescription": "Find top-rated financial advisors in Westerville. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Harding Financial Group",
+      "url": "https://www.hardingfinancialgroup.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 24
+    },
+    {
+      "name": "Swisher Financial Concepts Inc",
+      "url": "http://www.swisherfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "RWM Wealth Advisors",
+      "url": "http://www.rwmwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Jericho Financial",
+      "url": "http://planjericho.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Patrick J McHale, CFP®|CIMA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/patrick-mchale?y_source=1_MTQ1MTUxODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Westerville, Ohio, is a vibrant community known for its rich history and strong local economy.",
+  "landscapeDescription": "Westerville's economy is diverse, with a focus on healthcare, education, and retail. The city benefits from its proximity to Columbus, enhancing its growth potential.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$78,000",
+  "uniqueNeeds": "Westerville requires tailored financial services to support its growing population and diverse industries.",
+  "citySpecificRiskAdvice": "Westerville's healthcare and education sectors face competition risks. Real estate prices are rising, indicating potential bubble concerns. Prepare for flooding risks and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Westerville's economy has grown steadily, driven by healthcare and education sectors, with a GDP growth rate of 3.5%."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Westerville is approximately $78,000, reflecting a stable and affluent community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Westerville increasingly specialize in retirement planning and wealth management, catering to a growing retiree population."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Westerville's cost of living is slightly above the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Westerville's real estate market is competitive, with home prices increasing by 7% year-over-year, raising affordability concerns."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Westerville's business climate is favorable, with supportive local policies and a growing number of startups and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    }
+  ]
+}

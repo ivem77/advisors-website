@@ -1,0 +1,195 @@
+{
+  "cityName": "Jefferson City",
+  "state": "Missouri",
+  "slug": "jefferson-city",
+  "population": "43.3K (metro: 433.3K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Jefferson City",
+  "metaDescription": "Find top-rated financial advisors in Jefferson City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Corey J Luetkemeyer, AAMS™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/corey-luetkemeyer?y_source=1_NjQyMDk3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: John D Koester, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-koester?y_source=1_Mjg2NzU1Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Reinkemeyer and Renkemeyer Associates LLC",
+      "url": "http://www.rrinvest.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Finteris Wealth Management",
+      "url": "http://www.finteriswealthmanagement.com/?utm_campaign=Local_Listings&utm_source=Google&group=FiNet&loc=BRKG00042739099821901",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jeff Boessen, CFP, SVP, Financial Advisor, LPL",
+      "url": "https://www.centralinvestment.net/jboessen/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Jefferson City, the capital of Missouri, blends rich history with a growing economy.",
+  "landscapeDescription": "The city serves as a governmental hub, contributing to its stable economy. Key sectors include healthcare, education, and manufacturing.",
+  "majorIndustries": "Government, Healthcare, Education",
+  "medianIncome": "$53,000",
+  "uniqueNeeds": "Focus on enhancing local infrastructure and diversifying the economy to attract new industries.",
+  "citySpecificRiskAdvice": "Jefferson City's reliance on government jobs poses economic risks. Housing market stability is crucial; watch for flooding and tornado risks. Diversify into tech and healthcare.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Jefferson City has seen a steady economic growth rate of 2.5%, driven by public sector employment and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Jefferson City is $53,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Jefferson City are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Jefferson City's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Jefferson City is stable, with average home prices around $200,000, showing modest appreciation."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Jefferson City offers a favorable business climate, with incentives for startups and small businesses in healthcare and tech."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.2,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city",
+      "population": 467007,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": true
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis",
+      "population": 318416,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": true
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield",
+      "population": 164122,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence",
+      "population": 117240,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia",
+      "population": 115276,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit",
+      "population": 93184,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon",
+      "population": 82809,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph",
+      "population": 77147,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    }
+  ]
+}

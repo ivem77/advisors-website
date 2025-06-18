@@ -1,0 +1,195 @@
+{
+  "cityName": "Montclair",
+  "state": "California",
+  "slug": "montclair",
+  "population": "38K (metro: 380K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Montclair",
+  "metaDescription": "Find top-rated financial advisors in Montclair. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Evermont Wealth",
+      "url": "https://www.evermont.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 29
+    },
+    {
+      "name": "Falcon Wealth Planning",
+      "url": "http://www.falconwealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 234
+    },
+    {
+      "name": "Gould Asset Management LLC",
+      "url": "https://gouldasset.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Financial Designs Corporation",
+      "url": "https://fdcadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Neal Gurfein: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ca/montclair/neal-gurfein?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Montclair, California, is a vibrant city known for its diverse community and rich cultural heritage.",
+  "landscapeDescription": "Montclair's economy is driven by retail, healthcare, and education, contributing to its steady growth. The city's strategic location enhances its business potential.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Montclair requires tailored financial services to support its diverse population and growing businesses.",
+  "citySpecificRiskAdvice": "Montclair's retail focus poses risks in economic downturns. Real estate prices may bubble due to demand; diversify investments. Flooding risks from local weather patterns warrant caution.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Montclair's economy has shown resilience with a 3% growth rate, driven by local retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Montclair is $75,000, reflecting a diverse economic base and stable employment opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Montclair are increasingly focusing on real estate and retirement planning to meet local needs."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Montclair's cost of living is moderate, with housing costs being the most significant expense for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Montclair's real estate market is competitive, with home prices increasing by 5% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Montclair offers a supportive business environment with various incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

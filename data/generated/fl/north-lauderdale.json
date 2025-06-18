@@ -1,0 +1,195 @@
+{
+  "cityName": "North Lauderdale",
+  "state": "Florida",
+  "slug": "north-lauderdale",
+  "population": "42.8K (metro: 1.9M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in North Lauderdale",
+  "metaDescription": "Find top-rated financial advisors in North Lauderdale. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RS Financial Services",
+      "url": "https://www.rsinsuranceusa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Chris Price Financial Planner",
+      "url": "https://chrispricefinancialplanner.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 33
+    },
+    {
+      "name": "Creative Financial Network, Inc.",
+      "url": "http://www.cfnsfl.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Northwestern Mutual",
+      "url": "http://southfloridagroup.nm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: James Senior, CFP®|ChFC®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/james-senior?y_source=1_OTYyOTE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "North Lauderdale, Florida, is a vibrant city known for its diverse community and strategic location in Broward County.",
+  "landscapeDescription": "The city has a growing economy supported by retail, healthcare, and professional services. Its proximity to Fort Lauderdale enhances business opportunities.",
+  "majorIndustries": "Retail, Healthcare, Professional Services",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "North Lauderdale requires tailored financial strategies due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "North Lauderdale's economy needs diversification beyond retail and healthcare. Housing market risks from rising prices and hurricanes necessitate strategic investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), North Lauderdale's economy is expanding, driven by retail and healthcare sectors, with a focus on sustainable growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in North Lauderdale is $54,000, reflecting a diverse economic base and varying income levels."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in North Lauderdale are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), North Lauderdale's cost of living is moderate, with housing and transportation being the largest expenses for residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in North Lauderdale shows a steady increase in home prices, indicating strong demand and potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), North Lauderdale offers a favorable business climate with incentives for small businesses and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Roy",
+  "state": "Utah",
+  "slug": "roy",
+  "population": "37.7K (metro: 1.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Roy",
+  "metaDescription": "Find top-rated financial advisors in Roy. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Davis Financial LLC",
+      "url": "http://www.davisfinancialllc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 13
+    },
+    {
+      "name": "Jon Gates, CFP®, CRPC®, Intermountain Financial Partners",
+      "url": "https://www.jongatesadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 41
+    },
+    {
+      "name": "R.O.I. Wealth Management - Fee Only Financial Advisors",
+      "url": "http://www.roionweb.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 32
+    },
+    {
+      "name": "Peterson Wealth Services Inc",
+      "url": "http://petersonws.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "The Karras Company",
+      "url": "https://www.raymondjames.com/thekarrascompanyinc",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Roy, Utah, is a vibrant community known for its family-friendly atmosphere and proximity to outdoor recreation.",
+  "landscapeDescription": "Roy's economy is diverse, with a mix of retail, healthcare, and manufacturing sectors driving growth. The city benefits from its location near Ogden and Salt Lake City.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$72,000",
+  "uniqueNeeds": "Roy residents seek affordable housing, quality education, and access to recreational activities.",
+  "citySpecificRiskAdvice": "Roy's economy relies on retail and healthcare; diversification is essential. Housing prices are rising, posing bubble risks. Be aware of flooding and winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Roy's economy has shown steady growth, driven by local retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Roy is approximately $72,000, reflecting a stable middle-class community."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Roy are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Roy's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Roy's real estate market is competitive, with home prices rising due to demand and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Roy's business climate is favorable, with supportive local policies encouraging small business growth."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Salt Lake City",
+      "state": "Utah",
+      "slug": "salt-lake-city",
+      "population": 191180,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Valley City",
+      "state": "Utah",
+      "slug": "west-valley-city",
+      "population": 133579,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Provo",
+      "state": "Utah",
+      "slug": "provo",
+      "population": 116288,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "West Jordan",
+      "state": "Utah",
+      "slug": "west-jordan",
+      "population": 110077,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Orem",
+      "state": "Utah",
+      "slug": "orem",
+      "population": 91648,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Sandy",
+      "state": "Utah",
+      "slug": "sandy",
+      "population": 90231,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "Ogden",
+      "state": "Utah",
+      "slug": "ogden",
+      "population": 84249,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    },
+    {
+      "name": "St. George",
+      "state": "Utah",
+      "slug": "st-george",
+      "population": 76817,
+      "priority": 1,
+      "stateAbbreviation": "UT",
+      "index": false
+    }
+  ]
+}

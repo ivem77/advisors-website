@@ -1,0 +1,186 @@
+{
+  "cityName": "Clovis",
+  "state": "New Mexico",
+  "slug": "clovis",
+  "population": "39.5K (metro: 39508)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Clovis",
+  "metaDescription": "Find top-rated financial advisors in Clovis. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: Alan L Kinlund",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/alan-kinlund?y_source=1_MTEzMzU4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 7
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jeremiah D Johnson, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeremiah-johnson?y_source=1_MjQyMjEzMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 8
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Marissa K Lucas, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/marissa-lucas?y_source=1_OTcyODUzOTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Southwest Financial of Clovis",
+      "url": "https://southwestloans.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 26
+    },
+    {
+      "name": "Western Management LLLP",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d-8xdvdAocRbfEpJD6BsTI",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Clovis, New Mexico, a vibrant city known for its rich agricultural heritage and growing economy.",
+  "landscapeDescription": "Clovis has a diverse economy with a strong emphasis on agriculture, healthcare, and education. The city is experiencing steady growth, attracting new businesses and residents.",
+  "majorIndustries": "Agriculture, Healthcare, Education",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Clovis requires tailored economic strategies to support its agricultural base and attract diverse industries.",
+  "citySpecificRiskAdvice": "Clovis's reliance on agriculture poses risks from climate variability. Housing market growth may lead to affordability issues. Diversify into tech and services to mitigate economic risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Clovis's economy has seen a 3% growth rate, driven by agriculture and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Clovis is approximately $50,000, reflecting the city's economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Clovis are increasingly focusing on agricultural investments and small business support."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Clovis has a lower cost of living compared to national averages, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Clovis's real estate market is stable, with home prices increasing modestly, avoiding significant bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Clovis offers a supportive business environment with incentives for startups and established firms alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "30+",
+  "nearbyLocations": [
+    {
+      "name": "Albuquerque",
+      "state": "New Mexico",
+      "slug": "albuquerque",
+      "population": 556495,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": true
+    },
+    {
+      "name": "Las Cruces",
+      "state": "New Mexico",
+      "slug": "las-cruces",
+      "population": 101324,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    },
+    {
+      "name": "Rio Rancho",
+      "state": "New Mexico",
+      "slug": "rio-rancho",
+      "population": 91956,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    },
+    {
+      "name": "Santa Fe",
+      "state": "New Mexico",
+      "slug": "santa-fe",
+      "population": 69976,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    },
+    {
+      "name": "Roswell",
+      "state": "New Mexico",
+      "slug": "roswell",
+      "population": 48611,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    },
+    {
+      "name": "Farmington",
+      "state": "New Mexico",
+      "slug": "farmington",
+      "population": 45426,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    },
+    {
+      "name": "Clovis",
+      "state": "New Mexico",
+      "slug": "clovis",
+      "population": 39508,
+      "priority": 1,
+      "stateAbbreviation": "NM",
+      "index": false
+    }
+  ]
+}

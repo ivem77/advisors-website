@@ -1,0 +1,195 @@
+{
+  "cityName": "Haltom City",
+  "state": "Texas",
+  "slug": "haltom-city",
+  "population": "1.3M (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Haltom City",
+  "metaDescription": "Find top-rated financial advisors in Haltom City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "1st Prosperity Financial Services",
+      "url": "https://www.1stprosperityfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 19
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Stacey Holifield, AAMS®|CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/stacey-holifield?y_source=1_OTY1NDM4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Carson Wealth",
+      "url": "https://www.carsonwealth.com/locations/bedford-tx-cheek-sparger-rd/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: John W Chapman, CFP®|CPWA®|CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-chapman?y_source=1_NjQyMTUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Gary E Short, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/gary-short?y_source=1_OTY1MDc0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Haltom City, Texas, is a vibrant suburb of Fort Worth, known for its community spirit and diverse economy.",
+  "landscapeDescription": "Haltom City boasts a population of 43,580 and is part of the dynamic Fort Worth metropolitan area. The local economy is supported by retail, healthcare, and manufacturing sectors.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$60,000",
+  "uniqueNeeds": "Haltom City requires tailored financial services to address its diverse economic base and community needs.",
+  "citySpecificRiskAdvice": "Haltom City's retail focus poses risks from e-commerce shifts. Real estate prices may face volatility; consider diversification. Monitor tornado and flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Haltom City's economy is growing steadily, driven by retail and healthcare expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Haltom City is approximately $60,000, reflecting a diverse economic landscape."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Haltom City are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Haltom City is competitive, with housing costs being slightly below the national average."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Haltom City shows moderate appreciation, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Haltom City has a favorable business climate, attracting small businesses and startups due to low taxes and supportive local policies."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    }
+  ]
+}

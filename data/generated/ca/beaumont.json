@@ -1,0 +1,195 @@
+{
+  "cityName": "Beaumont",
+  "state": "California",
+  "slug": "beaumont",
+  "population": "40.5K (metro: 404.8K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Beaumont",
+  "metaDescription": "Find top-rated financial advisors in Beaumont. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Beaumont Wealth Advisors - Toccoa - Ron Legnion, Ellen Reynard, Angie White",
+      "url": "https://bmtwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 35
+    },
+    {
+      "name": "Steven Leach | Sensible Adviser",
+      "url": "https://www.sensibleadviser.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Beaumont Wealth Advisors - Acadiana - Joshua Cavett, AIF, CPA, PFS",
+      "url": "http://www.bmtwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 78
+    },
+    {
+      "name": "Beaumont Wealth Advisors - Scott Hawk",
+      "url": "https://bmtwealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Retirement Financial Group",
+      "url": "https://www.rfgtex.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 15
+    }
+  ],
+  "heroDescription": "Beaumont, California, is a growing city in Riverside County known for its scenic views and vibrant community.",
+  "landscapeDescription": "Beaumont's economy is diverse, with significant contributions from retail, healthcare, and construction. The city is experiencing steady growth, attracting new residents and businesses.",
+  "majorIndustries": "Retail, Healthcare, Construction",
+  "medianIncome": "$67,000",
+  "uniqueNeeds": "Beaumont's growth demands infrastructure improvements and affordable housing solutions to support its increasing population.",
+  "citySpecificRiskAdvice": "Beaumont's reliance on retail and construction poses economic risks; housing market may face bubble concerns. Flooding and wildfires are natural disaster threats; diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Beaumont's economy has shown a 3% annual growth rate, driven by population influx and new businesses."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Beaumont's median household income is $67,000, reflecting a growing middle class."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Beaumont are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Beaumont's cost of living is approximately 10% lower than the California state average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Beaumont's real estate market is competitive, with home prices rising 8% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Beaumont's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

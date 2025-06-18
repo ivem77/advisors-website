@@ -1,0 +1,195 @@
+{
+  "cityName": "Cape Girardeau",
+  "state": "Missouri",
+  "slug": "cape-girardeau",
+  "population": "38.8K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Cape Girardeau",
+  "metaDescription": "Find top-rated financial advisors in Cape Girardeau. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Thompson Schoch Financial Advisors",
+      "url": "https://www.tsfadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Terry G Godwin",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/terry-godwin?y_source=1_OTY1MzEzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Debbie Etherton, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/debbie-etherton?y_source=1_OTY3MTU2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Ward, CEPA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-ward?y_source=1_MTc4NDg1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Stan Irwin, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/stan-irwin?y_source=1_OTY5OTc3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Cape Girardeau, Missouri, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "The city has a diverse economic base with strengths in healthcare, education, and retail. Its strategic location along the Mississippi River enhances trade opportunities.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Cape Girardeau requires tailored financial advice due to its unique economic landscape and demographic profile.",
+  "citySpecificRiskAdvice": "Cape Girardeau's economy, reliant on healthcare and education, faces risks from market fluctuations. Real estate prices may rise, creating bubble risks. Flooding is a concern; diversify investments to...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Cape Girardeau's economy has shown steady growth, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Cape Girardeau is approximately $50,000, reflecting the local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Cape Girardeau are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Cape Girardeau's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Cape Girardeau is experiencing moderate growth, with rising home prices and demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Cape Girardeau's business climate is favorable, with supportive local policies for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Kansas City",
+      "state": "Missouri",
+      "slug": "kansas-city",
+      "population": 467007,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": true
+    },
+    {
+      "name": "St. Louis",
+      "state": "Missouri",
+      "slug": "st-louis",
+      "population": 318416,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": true
+    },
+    {
+      "name": "Springfield",
+      "state": "Missouri",
+      "slug": "springfield",
+      "population": 164122,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Independence",
+      "state": "Missouri",
+      "slug": "independence",
+      "population": 117240,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Columbia",
+      "state": "Missouri",
+      "slug": "columbia",
+      "population": 115276,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "Lee's Summit",
+      "state": "Missouri",
+      "slug": "lee-s-summit",
+      "population": 93184,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "O'Fallon",
+      "state": "Missouri",
+      "slug": "o-fallon",
+      "population": 82809,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    },
+    {
+      "name": "St. Joseph",
+      "state": "Missouri",
+      "slug": "st-joseph",
+      "population": 77147,
+      "priority": 1,
+      "stateAbbreviation": "MO",
+      "index": false
+    }
+  ]
+}

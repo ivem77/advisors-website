@@ -1,0 +1,195 @@
+{
+  "cityName": "Bartlett",
+  "state": "Illinois",
+  "slug": "bartlett",
+  "population": "41.7K (metro: 9.5M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Bartlett",
+  "metaDescription": "Find top-rated financial advisors in Bartlett. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Edward Jones - Financial Advisor: John E Rossini",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/john-rossini?y_source=1_MTgyNTQ5NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Midwest Wealth Management",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q6YkgHD4gRo8pn88UG4Xk",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Fanter Financial Agency",
+      "url": "http://fanterfinancial.mobi/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Joe Merchut - COUNTRY Financial Representative",
+      "url": "https://advisors.countryfinancial.com/usa/il/bartlett/joe-merchut",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Millington Financial Advisors",
+      "url": "http://www.millingtonfa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Bartlett, Illinois, is a vibrant suburb known for its family-friendly environment and strong community spirit.",
+  "landscapeDescription": "With a population of 41,679, Bartlett boasts a diverse economy supported by retail, healthcare, and manufacturing. Its proximity to Chicago enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$92,000",
+  "uniqueNeeds": "Bartlett requires tailored financial services to support its growing suburban population and diverse economic base.",
+  "citySpecificRiskAdvice": "Bartlett's retail and healthcare sectors face competition risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and severe weather events.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bartlett's economy has shown steady growth, with a focus on retail and healthcare services contributing significantly to local GDP."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Bartlett is $92,000, reflecting a relatively affluent community with a diverse demographic profile."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bartlett are increasingly specializing in retirement planning and estate management, catering to the aging population."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bartlett's cost of living is slightly above the national average, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Bartlett is competitive, with home prices appreciating rapidly, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bartlett's business climate is favorable, with supportive local policies encouraging small business growth and innovation."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Chicago",
+      "state": "Illinois",
+      "slug": "chicago",
+      "population": 2718782,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": true
+    },
+    {
+      "name": "Aurora",
+      "state": "Illinois",
+      "slug": "aurora",
+      "population": 199963,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Rockford",
+      "state": "Illinois",
+      "slug": "rockford",
+      "population": 150251,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Joliet",
+      "state": "Illinois",
+      "slug": "joliet",
+      "population": 147806,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Naperville",
+      "state": "Illinois",
+      "slug": "naperville",
+      "population": 144864,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Illinois",
+      "slug": "springfield",
+      "population": 117006,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Peoria",
+      "state": "Illinois",
+      "slug": "peoria",
+      "population": 116513,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    },
+    {
+      "name": "Elgin",
+      "state": "Illinois",
+      "slug": "elgin",
+      "population": 110145,
+      "priority": 1,
+      "stateAbbreviation": "IL",
+      "index": false
+    }
+  ]
+}

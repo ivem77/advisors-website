@@ -1,0 +1,195 @@
+{
+  "cityName": "Keizer",
+  "state": "Oregon",
+  "slug": "keizer",
+  "population": "37K (metro: 170K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Keizer",
+  "metaDescription": "Find top-rated financial advisors in Keizer. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Thrivent Financial - Parallel 45 Associates",
+      "url": "https://connect.thrivent.com/parallel-45-associates",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Darin M Duke",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/darin-duke?y_source=1_NjQxNTY1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Park Front Wealth - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/park-front-wealth/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Nathan Dunn - Thrivent",
+      "url": "https://connect.thrivent.com/nathan-dunn?utm_source=GMB&utm_medium=Yext&y_source=1_MjgzNjU4MDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Keudell/Morrison Wealth Management",
+      "url": "http://www.keudellmorrisonwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Keizer, Oregon, a vibrant city in the Willamette Valley, offers a blend of suburban charm and access to urban amenities.",
+  "landscapeDescription": "Keizer's economy is bolstered by retail, healthcare, and education sectors. The city is part of the larger Salem metropolitan area, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Keizer's community values affordable housing and local employment opportunities.",
+  "citySpecificRiskAdvice": "Keizer's reliance on retail may pose risks if e-commerce grows. Housing prices are rising, indicating potential bubble risks. Prepare for flooding and economic shifts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Keizer's economy has shown steady growth, driven by local retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Keizer is $65,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Keizer are increasingly focusing on retirement planning and local investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Keizer's cost of living is approximately 10% lower than the national average, making it attractive for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Keizer's housing market is competitive, with home values increasing by 8% over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Keizer offers a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Portland",
+      "state": "Oregon",
+      "slug": "portland",
+      "population": 609456,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": true
+    },
+    {
+      "name": "Salem",
+      "state": "Oregon",
+      "slug": "salem",
+      "population": 160614,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Eugene",
+      "state": "Oregon",
+      "slug": "eugene",
+      "population": 159190,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Gresham",
+      "state": "Oregon",
+      "slug": "gresham",
+      "population": 109397,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Hillsboro",
+      "state": "Oregon",
+      "slug": "hillsboro",
+      "population": 97368,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Beaverton",
+      "state": "Oregon",
+      "slug": "beaverton",
+      "population": 93542,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Bend",
+      "state": "Oregon",
+      "slug": "bend",
+      "population": 81236,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    },
+    {
+      "name": "Medford",
+      "state": "Oregon",
+      "slug": "medford",
+      "population": 77677,
+      "priority": 1,
+      "stateAbbreviation": "OR",
+      "index": false
+    }
+  ]
+}

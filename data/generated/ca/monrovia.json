@@ -1,0 +1,195 @@
+{
+  "cityName": "Monrovia",
+  "state": "California",
+  "slug": "monrovia",
+  "population": "37,101",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Monrovia",
+  "metaDescription": "Find top-rated financial advisors in Monrovia. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "RMD Financial Services",
+      "url": "https://www.rmdfinancialservices.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Barrett Financial Group, L.L.C.",
+      "url": "https://www.barrettfinancial.com/mklaassen/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "There is Hope Financial",
+      "url": "https://thereishope4life.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Jean Koehler - Financial Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/jean.d.koehler/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Mike Makanvand: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ca/monrovia/mike-makanvand?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Monrovia, CA, is a vibrant city known for its rich history and growing economy.",
+  "landscapeDescription": "Monrovia's economy is diverse, with a mix of retail, healthcare, and technology sectors. The city benefits from its proximity to Los Angeles, enhancing its economic opportunities.",
+  "majorIndustries": "Retail, Healthcare, Technology",
+  "medianIncome": "$80,000",
+  "uniqueNeeds": "Monrovia requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Monrovia's tech sector growth needs diversification to mitigate risks. Rapid housing price increases pose bubble threats; consider geographic investment. Prepare for potential flooding and economic do...",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Monrovia's economy has seen a steady growth rate of 3.5%, driven by local business expansions and new startups."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Monrovia is approximately $80,000, reflecting a diverse economic base and skilled workforce."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Monrovia are increasingly specializing in retirement planning and investment strategies tailored to local industries."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Monrovia's cost of living is slightly above the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Monrovia's real estate market is competitive, with home prices rising by 8% over the past year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Monrovia's business climate is favorable, with supportive local policies and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

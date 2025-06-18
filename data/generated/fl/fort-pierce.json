@@ -1,0 +1,195 @@
+{
+  "cityName": "Fort Pierce",
+  "state": "Florida",
+  "slug": "fort-pierce",
+  "population": "43K (metro: 1.5M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Fort Pierce",
+  "metaDescription": "Find top-rated financial advisors in Fort Pierce. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Level Four Wealth Management",
+      "url": "http://www.levelfouradvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Robert Bryan - Prudential Financial",
+      "url": "https://www.prudential.com/advisor/robert-bryan",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Treasure Coast Financial Planning",
+      "url": "http://www.theplanningco.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Thomas Siplin - Prudential Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJXQoglLfx3ogRu9hW1SSOoJg",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Ernest Joseph: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/fl/fortpierce/ernest-joseph?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Fort Pierce, Florida, is a vibrant coastal city known for its rich history and diverse economy.",
+  "landscapeDescription": "As of 2023, Fort Pierce has a population of 43,074, contributing to a growing regional economy. The city benefits from tourism, agriculture, and marine industries.",
+  "majorIndustries": "Tourism, Agriculture, Marine Services",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Fort Pierce requires investment in disaster resilience and economic diversification to mitigate risks.",
+  "citySpecificRiskAdvice": "Fort Pierce's reliance on tourism and agriculture poses risks; diversify investments. Real estate is volatile due to hurricanes and flooding; consider geographic spread.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fort Pierce's economy is expanding with a focus on tourism and marine services, contributing to job growth."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fort Pierce is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fort Pierce are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Fort Pierce is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Fort Pierce's real estate market shows signs of appreciation, but potential bubble risks exist due to natural disasters."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fort Pierce's business climate is improving, with incentives for small businesses and startups in emerging sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "cityName": "Hurst",
+  "state": "Texas",
+  "slug": "hurst",
+  "population": "1.3M (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Hurst",
+  "metaDescription": "Find top-rated financial advisors in Hurst. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Infinity Investment Strategies",
+      "url": "http://www.infinityinvestmentstrategies.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 14
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Steve Shirley, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/steve-shirley?y_source=1_MjY0NDI0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "LEO Wealth",
+      "url": "https://www.leowealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Armando Iglesias",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/armando-iglesias?y_source=1_MTM5NzQ0MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Scott Armey - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/fields-wealth-management/financial-advice-team/Scott.Armey/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Hurst, Texas, a vibrant city in the Dallas-Fort Worth metroplex, offers a blend of suburban charm and urban amenities.",
+  "landscapeDescription": "With a population of 38,448, Hurst is strategically located near major economic hubs. The city benefits from diverse industries, including retail and healthcare.",
+  "majorIndustries": "Retail, Healthcare, Hospitality",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "Hurst requires tailored financial strategies to address local economic dynamics and demographic trends.",
+  "citySpecificRiskAdvice": "Hurst's retail focus poses risks from e-commerce. Housing prices may bubble due to demand; diversify investments. Be wary of tornadoes and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hurst's economy is growing steadily, driven by retail and healthcare sectors, with a projected growth rate of 3% annually."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hurst is approximately $75,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hurst increasingly specialize in retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hurst's cost of living is about 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hurst's real estate market is competitive, with home prices rising by 5% over the past year, indicating potential bubble risks."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hurst's business climate is favorable, with low taxes and supportive local government initiatives for small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    }
+  ]
+}

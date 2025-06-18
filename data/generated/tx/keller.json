@@ -1,0 +1,195 @@
+{
+  "cityName": "Keller",
+  "state": "Texas",
+  "slug": "keller",
+  "population": "42.9K (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Keller",
+  "metaDescription": "Find top-rated financial advisors in Keller. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Keener Financial Planning",
+      "url": "https://keenerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Sean Raich, CFP®|ChFC®|CEPA®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/sean-raich?y_source=1_MTA1NTU4MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Granite Financial Group, Inc",
+      "url": "http://www.gfg.solutions/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Blake K Johnson, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/blake-johnson?y_source=1_OTI1NzM0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Will Killgo",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/will-killgo?y_source=1_OTY3MTY1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Keller, Texas, a vibrant suburban community, offers a blend of residential charm and economic opportunity.",
+  "landscapeDescription": "Keller's economy thrives on diverse sectors, including retail, healthcare, and education. Its proximity to major cities enhances its appeal for businesses and residents alike.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$95,000",
+  "uniqueNeeds": "Keller requires tailored financial strategies to address suburban growth and community development.",
+  "citySpecificRiskAdvice": "Keller's proximity to Dallas exposes it to tech and retail risks; housing market volatility and flooding are concerns. Diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Keller's economy has seen a steady growth rate of 3.5%, driven by local business expansion and job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Keller's median income stands at $95,000, reflecting a prosperous community with a high standard of living."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Keller are increasingly focusing on retirement planning and investment strategies tailored to suburban families."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Keller's cost of living is approximately 10% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Keller's real estate market is competitive, with home prices rising 8% year-over-year, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Keller's business climate is favorable, with low taxes and a supportive local government encouraging entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Houston",
+      "state": "Texas",
+      "slug": "houston",
+      "population": 2195914,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "San Antonio",
+      "state": "Texas",
+      "slug": "san-antonio",
+      "population": 1409019,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Dallas",
+      "state": "Texas",
+      "slug": "dallas",
+      "population": 1257676,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Austin",
+      "state": "Texas",
+      "slug": "austin",
+      "population": 885400,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Fort Worth",
+      "state": "Texas",
+      "slug": "fort-worth",
+      "population": 792727,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "El Paso",
+      "state": "Texas",
+      "slug": "el-paso",
+      "population": 674433,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Arlington",
+      "state": "Texas",
+      "slug": "arlington",
+      "population": 379577,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    },
+    {
+      "name": "Corpus Christi",
+      "state": "Texas",
+      "slug": "corpus-christi",
+      "population": 316381,
+      "priority": 1,
+      "stateAbbreviation": "TX",
+      "index": true
+    }
+  ]
+}

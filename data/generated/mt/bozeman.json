@@ -1,0 +1,159 @@
+{
+  "cityName": "Bozeman",
+  "state": "Montana",
+  "slug": "bozeman",
+  "population": "39.9K (metro: 39860)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Bozeman",
+  "metaDescription": "Find top-rated financial advisors in Bozeman. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Bozeman Financial Advisors",
+      "url": "https://bozemanfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Blackmore Financial Solutions",
+      "url": "https://www.blackmorefinancialsolutions.com/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "Core Wealth",
+      "url": "https://www.corewealth-ritter.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 17
+    },
+    {
+      "name": "Owen Legacy Group",
+      "url": "http://www.owenlegacygroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Katie E Pederson, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/katie-pederson?y_source=1_OTY5NTg5LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Bozeman, Montana, is a vibrant city known for its outdoor recreation and growing economy.",
+  "landscapeDescription": "Bozeman's economy is bolstered by tourism, technology, and education. The city is experiencing rapid growth, attracting new residents and businesses.",
+  "majorIndustries": "Tourism, Technology, Education",
+  "medianIncome": "$68,000",
+  "uniqueNeeds": "Bozeman requires tailored financial strategies to address its unique economic landscape and growth challenges.",
+  "citySpecificRiskAdvice": "Bozeman's tech growth necessitates diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Prepare for natural disasters like wildfires and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Bozeman's economy has grown by 5.2% over the past year, driven by tech and tourism sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Bozeman is $68,000, reflecting a growing affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Bozeman are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Bozeman's cost of living has increased by 3.5%, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Bozeman's housing market is competitive, with home prices rising 10% year-over-year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Bozeman is recognized for its supportive business climate, attracting startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Billings",
+      "state": "Montana",
+      "slug": "billings",
+      "population": 109059,
+      "priority": 1,
+      "stateAbbreviation": "MT",
+      "index": false
+    },
+    {
+      "name": "Missoula",
+      "state": "Montana",
+      "slug": "missoula",
+      "population": 69122,
+      "priority": 1,
+      "stateAbbreviation": "MT",
+      "index": false
+    },
+    {
+      "name": "Great Falls",
+      "state": "Montana",
+      "slug": "great-falls",
+      "population": 59351,
+      "priority": 1,
+      "stateAbbreviation": "MT",
+      "index": false
+    },
+    {
+      "name": "Bozeman",
+      "state": "Montana",
+      "slug": "bozeman",
+      "population": 39860,
+      "priority": 1,
+      "stateAbbreviation": "MT",
+      "index": false
+    }
+  ]
+}

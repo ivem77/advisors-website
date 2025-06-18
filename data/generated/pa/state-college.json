@@ -1,0 +1,195 @@
+{
+  "cityName": "State College",
+  "state": "Pennsylvania",
+  "slug": "state-college",
+  "population": "41.8K (metro: 41.8K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in State College",
+  "metaDescription": "Find top-rated financial advisors in State College. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Happy Valley Financial Services",
+      "url": "http://www.hvfs.info/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "J. Gordon Financial Services",
+      "url": "http://www.jgordonfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Mariner",
+      "url": "https://www.marinerwealthadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Abundance Wealth Counselors, LLC",
+      "url": "http://abundancellc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Jeff Burris",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/jeff-burris?y_source=1_OTYxNjUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "State College, PA, home to Penn State University, is a vibrant college town with a diverse economy.",
+  "landscapeDescription": "The economy of State College is heavily influenced by education and healthcare sectors, with significant contributions from retail and hospitality. The presence of Penn State University drives innovation and cultural activities.",
+  "majorIndustries": "Education, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "State College requires tailored financial advice for students and university staff, focusing on education funding and local investment opportunities.",
+  "citySpecificRiskAdvice": "State College's reliance on education poses risks; consider diversifying investments. Housing market trends show potential bubble risks. Weather-related flooding is a concern.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), State College's economy grew by 2.5% last year, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in State College is $54,000, reflecting a mix of student and professional incomes."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in State College are increasingly focusing on student loans and retirement planning for university staff."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in State College is 10% lower than the national average, making it affordable for students and families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home prices in State College have risen 5% year-over-year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), State College's business climate is favorable for startups, particularly in tech and service sectors."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Philadelphia",
+      "state": "Pennsylvania",
+      "slug": "philadelphia",
+      "population": 1553165,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Pittsburgh",
+      "state": "Pennsylvania",
+      "slug": "pittsburgh",
+      "population": 305841,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": true
+    },
+    {
+      "name": "Allentown",
+      "state": "Pennsylvania",
+      "slug": "allentown",
+      "population": 118577,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Erie",
+      "state": "Pennsylvania",
+      "slug": "erie",
+      "population": 100671,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Reading",
+      "state": "Pennsylvania",
+      "slug": "reading",
+      "population": 87893,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Scranton",
+      "state": "Pennsylvania",
+      "slug": "scranton",
+      "population": 75806,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Bethlehem",
+      "state": "Pennsylvania",
+      "slug": "bethlehem",
+      "population": 75018,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    },
+    {
+      "name": "Lancaster",
+      "state": "Pennsylvania",
+      "slug": "lancaster",
+      "population": 59325,
+      "priority": 1,
+      "stateAbbreviation": "PA",
+      "index": false
+    }
+  ]
+}

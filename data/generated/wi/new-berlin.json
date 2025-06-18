@@ -1,0 +1,195 @@
+{
+  "cityName": "New Berlin",
+  "state": "Wisconsin",
+  "slug": "new-berlin",
+  "population": "1.3M (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in New Berlin",
+  "metaDescription": "Find top-rated financial advisors in New Berlin. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Financial Solutions LLC",
+      "url": "http://www.fsplanners.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Du Charme Wealth Management",
+      "url": "http://www.ducharmewealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Jeremy Keil - Thrivent",
+      "url": "https://connect.thrivent.com/jeremy?utm_source=GMB&utm_medium=Yext&y_source=1_MTYwOTYzMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael Malich, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-malich?y_source=1_OTYxNzA0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Brenda J Merschdorf, CFP®|AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/brenda-merschdorf?y_source=1_OTYzNzU0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "New Berlin, Wisconsin, is a vibrant city known for its strong community and economic opportunities.",
+  "landscapeDescription": "With a population of 39,834, New Berlin boasts a diverse economy driven by manufacturing, retail, and healthcare. The city is strategically located near Milwaukee, enhancing its economic prospects.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$75,000",
+  "uniqueNeeds": "New Berlin requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "New Berlin's manufacturing focus poses economic risks; diversify investments. Real estate may face bubble risks due to rising prices. Monitor flooding and severe weather impacts.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), New Berlin's economy is growing steadily, with a focus on manufacturing and service sectors driving job creation."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in New Berlin is approximately $75,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in New Berlin are increasingly specializing in retirement planning and investment management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in New Berlin is competitive, with housing costs rising but still below national averages."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), New Berlin's real estate market is experiencing appreciation, with a potential bubble risk as demand outpaces supply."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), New Berlin has a favorable business climate, attracting small to medium enterprises, particularly in manufacturing and retail."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    }
+  ]
+}

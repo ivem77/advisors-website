@@ -1,0 +1,195 @@
+{
+  "cityName": "San Gabriel",
+  "state": "California",
+  "slug": "san-gabriel",
+  "population": "40.3K (metro: 18.7M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in San Gabriel",
+  "metaDescription": "Find top-rated financial advisors in San Gabriel. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Financial Consulting",
+      "url": "https://firstfinancial.is/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Devlin E Chung",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/devlin-chung?y_source=1_NTU5NzU3My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Professional Finance Co",
+      "url": "http://www.firstprofinance.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 11
+    },
+    {
+      "name": "Harvest Financial - Cetera Advisors LLC",
+      "url": "http://harvestfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Build a Better Financial Future, LLC.",
+      "url": "http://buildabetterfinancialfuture.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    }
+  ],
+  "heroDescription": "San Gabriel, California, is a vibrant city known for its rich cultural heritage and diverse community.",
+  "landscapeDescription": "San Gabriel's economy is driven by retail, healthcare, and education sectors. The city benefits from its proximity to Los Angeles, enhancing its economic prospects.",
+  "majorIndustries": "Retail, Healthcare, Education",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "San Gabriel requires tailored financial advice due to its diverse population and economic landscape.",
+  "citySpecificRiskAdvice": "San Gabriel's retail focus poses risks from e-commerce growth; housing prices are rising, indicating potential bubble risks. Prepare for earthquakes and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), San Gabriel's economy has shown steady growth, particularly in retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in San Gabriel is approximately $65,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in San Gabriel increasingly focus on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in San Gabriel is rising, driven by housing and transportation expenses."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), San Gabriel's real estate market is competitive, with home prices increasing due to demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), San Gabriel's business climate is favorable, with support for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.3,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

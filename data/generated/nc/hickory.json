@@ -1,0 +1,195 @@
+{
+  "cityName": "Hickory",
+  "state": "North Carolina",
+  "slug": "hickory",
+  "population": "40361",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Hickory",
+  "metaDescription": "Find top-rated financial advisors in Hickory. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Thayer Financial",
+      "url": "https://www.thayerfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 27
+    },
+    {
+      "name": "Mumy Financial Advisors, LLC",
+      "url": "http://www.mumyfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Deal Financial Group",
+      "url": "http://dealfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Chris Johnson",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/chris-johnson2?y_source=1_OTYxOTQ4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Beth L Deal - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/beth.l.deal/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    }
+  ],
+  "heroDescription": "Hickory, NC, is a vibrant city known for its rich history in furniture manufacturing and a growing tech sector.",
+  "landscapeDescription": "With a population of 40,361, Hickory serves as a regional hub for commerce and industry. The economy is diversifying, moving beyond traditional manufacturing.",
+  "majorIndustries": "Furniture, Manufacturing, Technology",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Hickory requires tailored financial advice to navigate its evolving economy and housing market.",
+  "citySpecificRiskAdvice": "Hickory's reliance on manufacturing poses risks; diversify investments to mitigate economic downturns. Monitor housing prices for bubble risks and prepare for flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Hickory's economy is projected to grow by 3% annually, driven by tech and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Hickory is $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Hickory increasingly focus on retirement planning and investment diversification."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Hickory's cost of living is 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Hickory's housing market is experiencing a steady increase in prices, raising concerns about affordability."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Hickory's business climate is favorable, with incentives for tech startups and manufacturing firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Charlotte",
+      "state": "North Carolina",
+      "slug": "charlotte",
+      "population": 792862,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Raleigh",
+      "state": "North Carolina",
+      "slug": "raleigh",
+      "population": 431746,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Greensboro",
+      "state": "North Carolina",
+      "slug": "greensboro",
+      "population": 279639,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Durham",
+      "state": "North Carolina",
+      "slug": "durham",
+      "population": 245475,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Winston-Salem",
+      "state": "North Carolina",
+      "slug": "winston-salem",
+      "population": 236441,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": true
+    },
+    {
+      "name": "Fayetteville",
+      "state": "North Carolina",
+      "slug": "fayetteville",
+      "population": 204408,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    },
+    {
+      "name": "Cary",
+      "state": "North Carolina",
+      "slug": "cary",
+      "population": 151088,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    },
+    {
+      "name": "Wilmington",
+      "state": "North Carolina",
+      "slug": "wilmington",
+      "population": 112067,
+      "priority": 1,
+      "stateAbbreviation": "NC",
+      "index": false
+    }
+  ]
+}

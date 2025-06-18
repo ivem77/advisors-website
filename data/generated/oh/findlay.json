@@ -1,0 +1,195 @@
+{
+  "cityName": "Findlay",
+  "state": "Ohio",
+  "slug": "findlay",
+  "population": "41.5K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Findlay",
+  "metaDescription": "Find top-rated financial advisors in Findlay. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Copeland Financial",
+      "url": "http://www.copelandfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Resolute Wealth Advisor",
+      "url": "http://www.resoluteadvisor.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Michael J Martin, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/michael-martin?y_source=1_OTY2NDc3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Dylan M Pritchett, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/dylan-pritchett?y_source=1_Mjk1MjY4NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Golden Reserve",
+      "url": "https://goldenreserve.com/locations/findlay-oh/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Findlay, Ohio, is a vibrant city known for its strong community and diverse economic base.",
+  "landscapeDescription": "Findlay's economy is supported by manufacturing, healthcare, and retail sectors. The city is strategically located, enhancing its logistical advantages.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$54,000",
+  "uniqueNeeds": "Findlay requires tailored financial advice due to its unique economic landscape and community-focused needs.",
+  "citySpecificRiskAdvice": "Findlay's manufacturing focus poses economic risks; diversify investments. Housing market shows signs of appreciation; monitor for bubbles. Tornado risks are present.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Findlay's economy has shown steady growth, driven by manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Findlay is $54,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Findlay are increasingly focusing on retirement planning and investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Findlay's cost of living is lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Findlay is experiencing moderate growth, with home prices rising steadily."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Findlay offers a favorable business climate, with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    }
+  ]
+}

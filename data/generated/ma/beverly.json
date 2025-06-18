@@ -1,0 +1,195 @@
+{
+  "cityName": "Beverly",
+  "state": "Massachusetts",
+  "slug": "beverly",
+  "population": "40.7K (metro: 406.6K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Beverly",
+  "metaDescription": "Find top-rated financial advisors in Beverly. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/ma/beverly-ma",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Cornerstone Wealth Consulting Services, LLC",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJT0NLoS1JywgReOEaKwnzviQ",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Littlefield Wealth Services",
+      "url": "https://www.raymondjames.com/LittlefieldWealthManagement",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Walter W Hartford, CEPA®|CFA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/walter-hartford?y_source=1_MTIwMzU4MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    },
+    {
+      "name": "R.W. Rogé & Company",
+      "url": "https://www.rwroge.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 6
+    }
+  ],
+  "heroDescription": "Beverly, Massachusetts, is a vibrant coastal city known for its rich history and thriving community.",
+  "landscapeDescription": "Beverly's economy is diverse, with strengths in healthcare, education, and retail. The city benefits from its proximity to Boston, enhancing its economic prospects.",
+  "majorIndustries": "Healthcare, Education, Retail",
+  "medianIncome": "$83,000",
+  "uniqueNeeds": "Beverly requires tailored investment strategies to address its unique economic landscape and community needs.",
+  "citySpecificRiskAdvice": "Beverly's healthcare sector is strong but may face regulatory risks. Real estate prices are rising, indicating potential bubble risks. Prepare for flooding and winter storms.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Beverly's economy is projected to grow by 3% annually, driven by healthcare and education sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Beverly's median household income is $83,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Beverly increasingly specialize in retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Beverly's cost of living is 15% higher than the national average, driven by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the median home price in Beverly has increased by 8% over the past year, indicating a competitive market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Beverly's business climate is favorable, with a supportive local government and active chamber of commerce."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": true
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    }
+  ]
+}

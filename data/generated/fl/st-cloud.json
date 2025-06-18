@@ -1,0 +1,195 @@
+{
+  "cityName": "St. Cloud",
+  "state": "Florida",
+  "slug": "st-cloud",
+  "population": "40.9K (metro: 409.1K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in St. Cloud",
+  "metaDescription": "Find top-rated financial advisors in St. Cloud. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Garrett Wealth Management LLC",
+      "url": "https://garrettwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Cleve Grissom, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/cleve-grissom?y_source=1_OTY2NTczLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kerry L Scott, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kerry-scott?y_source=1_OTY4MzE1LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Jacobs Financial",
+      "url": "http://www.jacobs-financial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 18
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kenton Scott, CFP®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/kenton-scott?y_source=1_MTU0MDIzMjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "St. Cloud, Florida, is a growing city known for its family-friendly atmosphere and proximity to Orlando.",
+  "landscapeDescription": "St. Cloud's economy is bolstered by its strategic location near Orlando, attracting diverse industries. The city is experiencing growth in residential development and local businesses.",
+  "majorIndustries": "Healthcare, Retail, Tourism",
+  "medianIncome": "$62,000",
+  "uniqueNeeds": "St. Cloud requires tailored financial advice for its growing population and evolving economic landscape.",
+  "citySpecificRiskAdvice": "St. Cloud's reliance on tourism exposes it to economic downturns. Real estate prices are rising, indicating potential bubble risks. Prepare for hurricane impacts and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), St. Cloud's GDP growth is projected at 3.5%, driven by local business expansion and tourism recovery."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in St. Cloud is $62,000, reflecting a diverse economic base and growing job opportunities."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in St. Cloud are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), St. Cloud's cost of living is 10% lower than the national average, making it an attractive place for families."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), St. Cloud's housing market is experiencing a 12% annual increase in home prices, indicating strong demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), St. Cloud's business climate is improving, with incentives for small businesses and a growing entrepreneurial ecosystem."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

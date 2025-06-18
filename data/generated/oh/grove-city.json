@@ -1,0 +1,195 @@
+{
+  "cityName": "Grove City",
+  "state": "Ohio",
+  "slug": "grove-city",
+  "population": "1.3M (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Grove City",
+  "metaDescription": "Find top-rated financial advisors in Grove City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Colburn Wealth Management",
+      "url": "http://www.colburnwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Deanna Sieren Cardenas, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/deanna-sierencardenas?y_source=1_NjQxNDYzLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Holmes Management LLC",
+      "url": "http://www.holmesmanagement.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "rebel Financial",
+      "url": "https://rebelfinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 91
+    },
+    {
+      "name": "Libertas Wealth Management Group",
+      "url": "https://www.libertaswealth.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 64
+    }
+  ],
+  "heroDescription": "Grove City, Ohio, is a vibrant suburban community known for its family-friendly atmosphere and growing economy.",
+  "landscapeDescription": "With a population of 37,490, Grove City is part of the Columbus metropolitan area, which boasts a diverse economy. The city has seen steady growth, driven by its proximity to Columbus and a mix of industries.",
+  "majorIndustries": "Retail, Healthcare, Manufacturing",
+  "medianIncome": "$64,000",
+  "uniqueNeeds": "Grove City requires tailored financial advice due to its suburban growth and evolving economic landscape.",
+  "citySpecificRiskAdvice": "Grove City's retail and healthcare sectors face competition risks. Housing market growth may indicate bubble risks. Prepare for flooding and diversify investments.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Grove City has experienced a 3% annual economic growth rate, driven by retail and healthcare expansions."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Grove City is $64,000, reflecting a stable middle-class demographic."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Grove City are increasingly focusing on retirement planning and real estate investment strategies."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Grove City is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), home values in Grove City have risen by 8% over the past year, indicating a competitive real estate market."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Grove City benefits from a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.9,
+  "advisorsEstimate": "30+",
+  "nearbyLocations": [
+    {
+      "name": "Columbus",
+      "state": "Ohio",
+      "slug": "columbus",
+      "population": 822553,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cleveland",
+      "state": "Ohio",
+      "slug": "cleveland",
+      "population": 390113,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Cincinnati",
+      "state": "Ohio",
+      "slug": "cincinnati",
+      "population": 297517,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Toledo",
+      "state": "Ohio",
+      "slug": "toledo",
+      "population": 282313,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": true
+    },
+    {
+      "name": "Akron",
+      "state": "Ohio",
+      "slug": "akron",
+      "population": 198100,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Dayton",
+      "state": "Ohio",
+      "slug": "dayton",
+      "population": 143355,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Parma",
+      "state": "Ohio",
+      "slug": "parma",
+      "population": 80429,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    },
+    {
+      "name": "Canton",
+      "state": "Ohio",
+      "slug": "canton",
+      "population": 72535,
+      "priority": 1,
+      "stateAbbreviation": "OH",
+      "index": false
+    }
+  ]
+}

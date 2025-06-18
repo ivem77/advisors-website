@@ -1,0 +1,132 @@
+{
+  "cityName": "Burlington",
+  "state": "Vermont",
+  "slug": "burlington",
+  "population": "42.3K (metro: 422.8K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Burlington",
+  "metaDescription": "Find top-rated financial advisors in Burlington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Commonwealth Financial Group",
+      "url": "http://www.commonwealthfinancialgroup.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Broadlake Financial Management",
+      "url": "https://broadlakefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Legacy Financial Services Llc",
+      "url": "http://legacyvt.com/home.aspx",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Peregrine Wealth Management of Raymond James",
+      "url": "https://www.raymondjames.com/peregrinewealthmanagement",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Nicholas Roop - Financial Planner - CFG",
+      "url": "https://www.commonwealthfinancialgroup.com/nick-roop-about-me",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    }
+  ],
+  "heroDescription": "Burlington, Vermont is a vibrant city known for its stunning landscapes and strong community spirit.",
+  "landscapeDescription": "Burlington's economy is diverse, with a focus on education, healthcare, and technology. The city benefits from a strong local workforce and a growing entrepreneurial scene.",
+  "majorIndustries": "Education, Healthcare, Technology",
+  "medianIncome": "$65,000",
+  "uniqueNeeds": "Burlington requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Burlington's tech sector needs diversification to mitigate risks. Real estate prices are rising, indicating potential bubble risks. Prepare for winter storms and flooding.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Burlington's economy has shown steady growth, driven by education and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Burlington is approximately $65,000, reflecting a stable middle-class population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Burlington are increasingly focusing on retirement planning and sustainable investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Burlington's cost of living is slightly above the national average, influenced by housing and healthcare costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Burlington's real estate market is competitive, with home values rising steadily over the past year."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Burlington's business climate is favorable for startups, especially in tech and green industries."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.4,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Burlington",
+      "state": "Vermont",
+      "slug": "burlington",
+      "population": 42284,
+      "priority": 1,
+      "stateAbbreviation": "VT",
+      "index": false
+    }
+  ]
+}

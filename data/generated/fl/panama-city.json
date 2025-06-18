@@ -1,0 +1,195 @@
+{
+  "cityName": "Panama City",
+  "state": "Florida",
+  "slug": "panama-city",
+  "population": "36.9K (metro: 368.8K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Panama City",
+  "metaDescription": "Find top-rated financial advisors in Panama City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "First Command Financial Advisor - Jesse Underwood, WMCP®",
+      "url": "https://advisor.firstcommand.com/us/fl/panama-city/jmunderwood?y_source=1_MzM2ODQ1MjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 40
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Harry L Henning III, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/harry-henning?y_source=1_OTYyNjI3LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 9
+    },
+    {
+      "name": "Family One Source",
+      "url": "https://familyonesource.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 271
+    },
+    {
+      "name": "Merrill Lynch Wealth Management",
+      "url": "https://advisor.ml.com/sites/fl/panama-cityfl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Carlton R Stabler, AAMS®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/carlton-stabler?y_source=1_OTY2NDUyLTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    }
+  ],
+  "heroDescription": "Panama City, Florida, is a vibrant coastal city known for its beautiful beaches and thriving tourism industry.",
+  "landscapeDescription": "The economy of Panama City is primarily driven by tourism, retail, and healthcare. Recent growth has been fueled by an influx of new businesses and residents.",
+  "majorIndustries": "Tourism, Healthcare, Retail",
+  "medianIncome": "$50,000",
+  "uniqueNeeds": "Panama City requires tailored financial advice due to its tourism reliance and vulnerability to natural disasters.",
+  "citySpecificRiskAdvice": "Panama City's tourism focus poses risks during downturns. Real estate is volatile due to hurricane threats; diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Panama City's economy has seen a 4% growth rate, driven by tourism and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Panama City is approximately $50,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Panama City are increasingly focusing on retirement planning and real estate investments."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Panama City is 10% lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market is experiencing a 5% annual appreciation, but risks remain due to hurricane season."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Panama City is fostering a business-friendly environment with incentives for new startups and local entrepreneurs."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}

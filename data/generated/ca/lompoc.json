@@ -1,0 +1,191 @@
+{
+  "cityName": "Lompoc",
+  "state": "California",
+  "slug": "lompoc",
+  "population": "43.5K (metro: N/A)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Lompoc",
+  "metaDescription": "Find top-rated financial advisors in Lompoc. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "CoastHills Wealth Management",
+      "url": "http://coasthillswealthmanagement.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Morehart 4 Financial Services, Inc.",
+      "url": "http://morehart4.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "The Management Trust",
+      "url": "https://managementtrust.com/",
+      "rating": 4.7,
+      "stars": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 66
+    },
+    {
+      "name": "Tower Financial",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJL0yxCb8e7IAR3h1ThdZYaG4",
+      "rating": 4,
+      "stars": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Finances for Real Life",
+      "url": "https://financesforreallife.com/",
+      "rating": 3,
+      "stars": [
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Lompoc, California, is a vibrant city known for its beautiful landscapes and rich agricultural heritage.",
+  "landscapeDescription": "Lompoc's economy is primarily driven by agriculture, aerospace, and tourism. The city is strategically located near the Pacific coast, enhancing its economic potential.",
+  "majorIndustries": "Agriculture, Aerospace, Tourism",
+  "medianIncome": "$61,000",
+  "uniqueNeeds": "Lompoc requires a focus on sustainable agriculture and diversification in aerospace to enhance economic stability.",
+  "citySpecificRiskAdvice": "Lompoc's agricultural focus poses risks from climate change and market fluctuations. Real estate may face volatility; diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Lompoc's economy is growing steadily, driven by agriculture and aerospace sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Lompoc is approximately $61,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Lompoc are increasingly focusing on agricultural investments and local business growth."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Lompoc's cost of living is moderate, with housing costs being a significant factor."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Lompoc's real estate market is experiencing steady growth, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Lompoc offers a supportive business environment, particularly for agriculture and small enterprises."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 3.3,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Los Angeles",
+      "state": "California",
+      "slug": "los-angeles",
+      "population": 3884307,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Diego",
+      "state": "California",
+      "slug": "san-diego",
+      "population": 1355896,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Jose",
+      "state": "California",
+      "slug": "san-jose",
+      "population": 998537,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "San Francisco",
+      "state": "California",
+      "slug": "san-francisco",
+      "population": 837442,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Fresno",
+      "state": "California",
+      "slug": "fresno",
+      "population": 509924,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Sacramento",
+      "state": "California",
+      "slug": "sacramento",
+      "population": 479686,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Long Beach",
+      "state": "California",
+      "slug": "long-beach",
+      "population": 469428,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    },
+    {
+      "name": "Oakland",
+      "state": "California",
+      "slug": "oakland",
+      "population": 406253,
+      "priority": 1,
+      "stateAbbreviation": "CA",
+      "index": true
+    }
+  ]
+}

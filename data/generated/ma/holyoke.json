@@ -1,0 +1,195 @@
+{
+  "cityName": "Holyoke",
+  "state": "Massachusetts",
+  "slug": "holyoke",
+  "population": "40.2K (metro: 40249)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Holyoke",
+  "metaDescription": "Find top-rated financial advisors in Holyoke. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Baystate Financial",
+      "url": "http://www.baystatefinancial.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Parkview Financial",
+      "url": "http://parkviewfin.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Tyrbrook Financial",
+      "url": "https://www.tyrbrook.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Summit House Wealth Partners - Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/team/summit-house-wealth-partners/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mike Markiewicz",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mike-markiewicz?y_source=1_MzM0OTYzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Holyoke, Massachusetts, is a historic city known for its rich cultural heritage and diverse community.",
+  "landscapeDescription": "Holyoke's economy is primarily driven by manufacturing, healthcare, and education. The city is experiencing gradual growth, supported by local initiatives and investments.",
+  "majorIndustries": "Manufacturing, Healthcare, Education",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Holyoke requires focused economic diversification and infrastructure improvements to enhance growth and resilience.",
+  "citySpecificRiskAdvice": "Holyoke's manufacturing sector poses risks; diversify into tech and services. Housing market shows signs of instability; monitor for bubbles. Flooding risks necessitate infrastructure upgrades.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Holyoke's GDP growth is steady, driven by local manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Holyoke's median household income is approximately $55,000, reflecting economic challenges."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Holyoke are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Holyoke's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Holyoke's real estate market is competitive, with rising home prices and demand for rentals."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Holyoke's business climate is improving, with new initiatives supporting local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Boston",
+      "state": "Massachusetts",
+      "slug": "boston",
+      "population": 645966,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": true
+    },
+    {
+      "name": "Worcester",
+      "state": "Massachusetts",
+      "slug": "worcester",
+      "population": 182544,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Springfield",
+      "state": "Massachusetts",
+      "slug": "springfield",
+      "population": 153703,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Lowell",
+      "state": "Massachusetts",
+      "slug": "lowell",
+      "population": 108861,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Cambridge",
+      "state": "Massachusetts",
+      "slug": "cambridge",
+      "population": 107289,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "New Bedford",
+      "state": "Massachusetts",
+      "slug": "new-bedford",
+      "population": 95078,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Brockton",
+      "state": "Massachusetts",
+      "slug": "brockton",
+      "population": 94089,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    },
+    {
+      "name": "Quincy",
+      "state": "Massachusetts",
+      "slug": "quincy",
+      "population": 93494,
+      "priority": 1,
+      "stateAbbreviation": "MA",
+      "index": false
+    }
+  ]
+}

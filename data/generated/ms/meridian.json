@@ -1,0 +1,177 @@
+{
+  "cityName": "Meridian",
+  "state": "Mississippi",
+  "slug": "meridian",
+  "population": "40.9K (metro: 409.2K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Meridian",
+  "metaDescription": "Find top-rated financial advisors in Meridian. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "WBR Investment Services LLC",
+      "url": "http://www.wbrinv.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Lisa Mabry-Culbreth",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/lisa-mabry-culbreth?y_source=1_OTY2MDA4LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Mary J Malone",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/mary-malone?y_source=1_OTYzNDA2LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Rob Autry",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/rob-autry?y_source=1_MzA3MzQ2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Raymond James Financial Services",
+      "url": "https://www.yourcnb.com/Wealth_Management",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Meridian, Mississippi, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "Meridian's economy is primarily driven by healthcare, manufacturing, and retail. The city serves as a regional hub, benefiting from its strategic location.",
+  "majorIndustries": "Healthcare, Manufacturing, Retail",
+  "medianIncome": "$42,000",
+  "uniqueNeeds": "Meridian requires enhanced economic diversification and infrastructure improvements to support growth.",
+  "citySpecificRiskAdvice": "Meridian's reliance on healthcare and manufacturing poses risks; housing market fluctuations and flooding are concerns. Diversify investments to mitigate economic shocks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Meridian's GDP growth is steady, driven by healthcare and manufacturing sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Meridian is $42,000, reflecting local economic conditions."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Meridian are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Meridian's cost of living is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Meridian's real estate market shows stable prices, but potential for growth exists in suburban areas."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Meridian's business climate is improving, with new incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.5,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Jackson",
+      "state": "Mississippi",
+      "slug": "jackson",
+      "population": 172638,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    },
+    {
+      "name": "Gulfport",
+      "state": "Mississippi",
+      "slug": "gulfport",
+      "population": 71012,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    },
+    {
+      "name": "Southaven",
+      "state": "Mississippi",
+      "slug": "southaven",
+      "population": 50997,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    },
+    {
+      "name": "Hattiesburg",
+      "state": "Mississippi",
+      "slug": "hattiesburg",
+      "population": 47556,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    },
+    {
+      "name": "Biloxi",
+      "state": "Mississippi",
+      "slug": "biloxi",
+      "population": 44820,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    },
+    {
+      "name": "Meridian",
+      "state": "Mississippi",
+      "slug": "meridian",
+      "population": 40921,
+      "priority": 1,
+      "stateAbbreviation": "MS",
+      "index": false
+    }
+  ]
+}

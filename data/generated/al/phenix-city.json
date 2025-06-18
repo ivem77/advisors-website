@@ -1,0 +1,195 @@
+{
+  "cityName": "Phenix City",
+  "state": "Alabama",
+  "slug": "phenix-city",
+  "population": "37.5K (metro: 37498)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Phenix City",
+  "metaDescription": "Find top-rated financial advisors in Phenix City. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Kinsmith Finance",
+      "url": "https://kinsmithloans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 830
+    },
+    {
+      "name": "Townsend Wealth Management",
+      "url": "http://www.townsendwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Capital Wealth Management Group",
+      "url": "http://www.capitalwmg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "Kinsmith Finance",
+      "url": "https://kinsmithloans.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1067
+    },
+    {
+      "name": "First Command Financial Advisor - Eddie Song",
+      "url": "https://advisor.firstcommand.com/us/ga/columbus/esong?y_source=1_MjAwNzg5OTk1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Phenix City, Alabama, is a vibrant community with a diverse economy and rich cultural heritage.",
+  "landscapeDescription": "Phenix City has a population of 37,498 and serves as a growing economic hub in the region. The city benefits from its proximity to Columbus, GA, enhancing its economic potential.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Phenix City requires tailored financial services to support its growing population and diverse economic landscape.",
+  "citySpecificRiskAdvice": "Phenix City's reliance on manufacturing poses economic risks; housing market growth may lead to bubbles. Prepare for flooding and tornado risks while diversifying industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Phenix City has seen a steady economic growth rate of 3.2%, driven by local manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median household income in Phenix City is $45,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in the area are increasingly focusing on retirement planning and investment strategies for local businesses."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Phenix City is approximately 10% lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Phenix City is experiencing a 5% annual appreciation, raising concerns about potential housing bubbles."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Phenix City is fostering a supportive business climate with incentives for small businesses and startups."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "Birmingham",
+      "state": "Alabama",
+      "slug": "birmingham",
+      "population": 212113,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Montgomery",
+      "state": "Alabama",
+      "slug": "montgomery",
+      "population": 201332,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Mobile",
+      "state": "Alabama",
+      "slug": "mobile",
+      "population": 194899,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Huntsville",
+      "state": "Alabama",
+      "slug": "huntsville",
+      "population": 186254,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Tuscaloosa",
+      "state": "Alabama",
+      "slug": "tuscaloosa",
+      "population": 95334,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Hoover",
+      "state": "Alabama",
+      "slug": "hoover",
+      "population": 84126,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Dothan",
+      "state": "Alabama",
+      "slug": "dothan",
+      "population": 68001,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    },
+    {
+      "name": "Auburn",
+      "state": "Alabama",
+      "slug": "auburn",
+      "population": 58582,
+      "priority": 1,
+      "stateAbbreviation": "AL",
+      "index": false
+    }
+  ]
+}

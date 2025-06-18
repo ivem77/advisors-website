@@ -1,0 +1,195 @@
+{
+  "cityName": "Sumter",
+  "state": "South Carolina",
+  "slug": "sumter",
+  "population": "41.2K (metro: 411.9K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Sumter",
+  "metaDescription": "Find top-rated financial advisors in Sumter. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Daniel Wealth Management",
+      "url": "https://www.danielwealthmanagement.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Axis Wealth Planning, LLC",
+      "url": "http://www.axiswealthplanning.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "First Command Financial Advisor - Mike Samsel",
+      "url": "https://advisor.firstcommand.com/us/sc/sumter/mlsamsel?y_source=1_MjA5NjIyMjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 12
+    },
+    {
+      "name": "Dillard Financial Solutions",
+      "url": "https://dillardfinancialsolutionsinc.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Catherine K Watkins, CFP®|WMCP®|AAMS®|CRPC™|CKA®",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/catherine-watkins?y_source=1_OTY5NzM0LTcxNS1sb2NhdGlvbi53ZWJzaXRl",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Sumter, SC, is a vibrant city known for its rich history and diverse economy.",
+  "landscapeDescription": "With a population of 41,190, Sumter serves as a regional hub for commerce and healthcare. The economy is bolstered by manufacturing, retail, and agriculture.",
+  "majorIndustries": "Manufacturing, Retail, Healthcare",
+  "medianIncome": "$45,000",
+  "uniqueNeeds": "Sumter requires tailored financial strategies to address its unique economic landscape and demographic needs.",
+  "citySpecificRiskAdvice": "Sumter's economy, reliant on manufacturing, faces risks from market fluctuations. Real estate may see volatility; consider diversifying investments and preparing for flooding risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Sumter's economy has shown steady growth, driven by local manufacturing and service sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Sumter is $45,000, reflecting the economic challenges faced by many residents."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Sumter are increasingly focusing on retirement planning and local investment opportunities."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), the cost of living in Sumter is lower than the national average, making it attractive for new residents."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Sumter is experiencing moderate growth, with rising home prices and demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Sumter's business climate is favorable, with incentives for small businesses and local entrepreneurship."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "50+",
+  "nearbyLocations": [
+    {
+      "name": "Columbia",
+      "state": "South Carolina",
+      "slug": "columbia",
+      "population": 133358,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Charleston",
+      "state": "South Carolina",
+      "slug": "charleston",
+      "population": 127999,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "North Charleston",
+      "state": "South Carolina",
+      "slug": "north-charleston",
+      "population": 104054,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Mount Pleasant",
+      "state": "South Carolina",
+      "slug": "mount-pleasant",
+      "population": 74885,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Rock Hill",
+      "state": "South Carolina",
+      "slug": "rock-hill",
+      "population": 69103,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Greenville",
+      "state": "South Carolina",
+      "slug": "greenville",
+      "population": 61397,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Summerville",
+      "state": "South Carolina",
+      "slug": "summerville",
+      "population": 46074,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    },
+    {
+      "name": "Sumter",
+      "state": "South Carolina",
+      "slug": "sumter",
+      "population": 41190,
+      "priority": 1,
+      "stateAbbreviation": "SC",
+      "index": false
+    }
+  ]
+}

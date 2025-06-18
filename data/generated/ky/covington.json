@@ -1,0 +1,168 @@
+{
+  "cityName": "Covington",
+  "state": "Kentucky",
+  "slug": "covington",
+  "population": "40.9K (metro: 2.2M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Covington",
+  "metaDescription": "Find top-rated financial advisors in Covington. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Legacy Financial",
+      "url": "http://www.legacyfinancialadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Journey Advisory Group, LLC",
+      "url": "http://www.journeyadvisory.group/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "FFR Wealth Team",
+      "url": "http://www.ffrwealthteam.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "MCF Advisors",
+      "url": "http://www.mcfadvisors.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Principled Wealth Advisors",
+      "url": "http://www.principledwealth.net/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    }
+  ],
+  "heroDescription": "Covington, KY, a vibrant city across the river from Cincinnati, blends rich history with modern development.",
+  "landscapeDescription": "Covington's economy is diversified, with a mix of manufacturing, healthcare, and retail sectors. The city benefits from its proximity to Cincinnati, enhancing its economic landscape.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$55,000",
+  "uniqueNeeds": "Covington requires tailored financial advice due to its unique economic landscape and demographic trends.",
+  "citySpecificRiskAdvice": "Covington's reliance on manufacturing poses economic risks; real estate may face volatility. Flooding is a concern—diversify investments to mitigate risks.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Covington's economy has shown steady growth, driven by local manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Covington is $55,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Covington are increasingly focusing on retirement planning and wealth management."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Covington's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Covington's real estate market has seen moderate growth, but affordability remains a concern for many residents."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Covington's business climate is favorable, with incentives for startups and established businesses alike."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.7,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Louisville/Jefferson County",
+      "state": "Kentucky",
+      "slug": "louisville-jefferson-county",
+      "population": 609893,
+      "priority": 1,
+      "stateAbbreviation": "KY",
+      "index": true
+    },
+    {
+      "name": "Lexington-Fayette",
+      "state": "Kentucky",
+      "slug": "lexington-fayette",
+      "population": 308428,
+      "priority": 1,
+      "stateAbbreviation": "KY",
+      "index": true
+    },
+    {
+      "name": "Bowling Green",
+      "state": "Kentucky",
+      "slug": "bowling-green",
+      "population": 61488,
+      "priority": 1,
+      "stateAbbreviation": "KY",
+      "index": false
+    },
+    {
+      "name": "Owensboro",
+      "state": "Kentucky",
+      "slug": "owensboro",
+      "population": 58416,
+      "priority": 1,
+      "stateAbbreviation": "KY",
+      "index": false
+    },
+    {
+      "name": "Covington",
+      "state": "Kentucky",
+      "slug": "covington",
+      "population": 40956,
+      "priority": 1,
+      "stateAbbreviation": "KY",
+      "index": false
+    }
+  ]
+}

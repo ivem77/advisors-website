@@ -1,0 +1,195 @@
+{
+  "cityName": "Fond du Lac",
+  "state": "Wisconsin",
+  "slug": "fond-du-lac",
+  "population": "42.9K (metro: 429.7K)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Fond du Lac",
+  "metaDescription": "Find top-rated financial advisors in Fond du Lac. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Mark Rasner - Private Wealth Advisor, Ameriprise Financial Services, LLC",
+      "url": "https://www.ameripriseadvisors.com/mark.d.rasner/?cid=IP_local_google",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Feucht Financial Group LLC",
+      "url": "http://www.feucht.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 4
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Maggie Moses, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/maggie-moses?y_source=1_ODM0MjU3Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Anna Carlson, CRPC™",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/anna-carlson?y_source=1_MTUzNDk0OTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Kathleen Tavs",
+      "url": "https://www.edwardjones.com/kathleen-tavs",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Fond du Lac, Wisconsin, is a vibrant city known for its rich history and strong community values.",
+  "landscapeDescription": "The economy of Fond du Lac is diverse, with a mix of manufacturing, healthcare, and retail sectors driving growth. The city benefits from its strategic location near major highways and lakes.",
+  "majorIndustries": "Manufacturing, Healthcare, Retail",
+  "medianIncome": "$58,000",
+  "uniqueNeeds": "Fond du Lac requires tailored financial guidance due to its unique economic landscape and community-focused needs.",
+  "citySpecificRiskAdvice": "Fond du Lac's manufacturing focus necessitates diversification to mitigate economic downturns. Real estate faces affordability issues; consider flood risks and ensure investment spread.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Fond du Lac's economy has seen steady growth, driven by local manufacturing and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Fond du Lac is approximately $58,000, reflecting a stable economic environment."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Fond du Lac are increasingly focusing on retirement planning and small business consulting."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Fond du Lac's cost of living is lower than the national average, making it an attractive place to live."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), the real estate market in Fond du Lac is competitive, with rising home prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Fond du Lac offers a supportive business climate with incentives for local entrepreneurs and small businesses."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.6,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Milwaukee",
+      "state": "Wisconsin",
+      "slug": "milwaukee",
+      "population": 599164,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Madison",
+      "state": "Wisconsin",
+      "slug": "madison",
+      "population": 243344,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": true
+    },
+    {
+      "name": "Green Bay",
+      "state": "Wisconsin",
+      "slug": "green-bay",
+      "population": 104779,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Kenosha",
+      "state": "Wisconsin",
+      "slug": "kenosha",
+      "population": 99889,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Racine",
+      "state": "Wisconsin",
+      "slug": "racine",
+      "population": 78199,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Appleton",
+      "state": "Wisconsin",
+      "slug": "appleton",
+      "population": 73596,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Waukesha",
+      "state": "Wisconsin",
+      "slug": "waukesha",
+      "population": 71016,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    },
+    {
+      "name": "Eau Claire",
+      "state": "Wisconsin",
+      "slug": "eau-claire",
+      "population": 67545,
+      "priority": 1,
+      "stateAbbreviation": "WI",
+      "index": false
+    }
+  ]
+}

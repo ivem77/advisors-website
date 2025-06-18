@@ -1,0 +1,195 @@
+{
+  "cityName": "Freeport",
+  "state": "New York",
+  "slug": "freeport",
+  "population": "43K (metro: 7.8M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Freeport",
+  "metaDescription": "Find top-rated financial advisors in Freeport. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Maria Merino: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ny/freeport/maria-merino?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 3
+    },
+    {
+      "name": "Jenny Alexandra Escobar: Primerica - Financial Services",
+      "url": "https://reps.primerica.com/ny/syosset/jenny-alexandra-escobar?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 5
+    },
+    {
+      "name": "The Pinnacle Financial Group",
+      "url": "http://www.thepinnaclefg.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "Planning Financial Futures, Inc",
+      "url": "https://www.planningfinancialfutures.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 45
+    },
+    {
+      "name": "Edward Jones - Financial Advisor: Ed Fernandez",
+      "url": "https://www.edwardjones.com/us-en/financial-advisor/ed-fernandez?y_source=1_MTIzNzg5NDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 2
+    }
+  ],
+  "heroDescription": "Freeport, NY, is a vibrant coastal community known for its rich maritime history and diverse economy.",
+  "landscapeDescription": "With a population of 43,167, Freeport boasts a mix of retail, healthcare, and marine industries. The local economy is bolstered by its proximity to New York City and Long Island's affluent markets.",
+  "majorIndustries": "Retail, Healthcare, Marine Services",
+  "medianIncome": "$79,000",
+  "uniqueNeeds": "Freeport requires tailored financial services due to its unique coastal economy and diverse demographic.",
+  "citySpecificRiskAdvice": "Freeport's retail sector faces e-commerce risks, while housing prices may bubble due to demand. Prepare for hurricane impacts and diversify investments beyond local industries.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Freeport's economy has shown resilience, with a growth rate of 3.2% driven by retail and healthcare sectors."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), the median income in Freeport is approximately $79,000, reflecting a diverse economic base."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Freeport are increasingly specializing in retirement planning and real estate investment."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Freeport's cost of living is 15% higher than the national average, driven by housing and transportation costs."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Freeport's housing market is competitive, with home prices rising 8% year-over-year due to high demand."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Freeport's business climate is favorable, with incentives for small businesses and a supportive local government."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "40+",
+  "nearbyLocations": [
+    {
+      "name": "New York",
+      "state": "New York",
+      "slug": "new-york",
+      "population": 8405837,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": true
+    },
+    {
+      "name": "Buffalo",
+      "state": "New York",
+      "slug": "buffalo",
+      "population": 258959,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": true
+    },
+    {
+      "name": "Rochester",
+      "state": "New York",
+      "slug": "rochester",
+      "population": 210358,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    },
+    {
+      "name": "Yonkers",
+      "state": "New York",
+      "slug": "yonkers",
+      "population": 199766,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    },
+    {
+      "name": "Syracuse",
+      "state": "New York",
+      "slug": "syracuse",
+      "population": 144669,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    },
+    {
+      "name": "Albany",
+      "state": "New York",
+      "slug": "albany",
+      "population": 98424,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    },
+    {
+      "name": "New Rochelle",
+      "state": "New York",
+      "slug": "new-rochelle",
+      "population": 79446,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    },
+    {
+      "name": "Mount Vernon",
+      "state": "New York",
+      "slug": "mount-vernon",
+      "population": 68224,
+      "priority": 1,
+      "stateAbbreviation": "NY",
+      "index": false
+    }
+  ]
+}

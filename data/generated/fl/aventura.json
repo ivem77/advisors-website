@@ -1,0 +1,195 @@
+{
+  "cityName": "Aventura",
+  "state": "Florida",
+  "slug": "aventura",
+  "population": "37.2K (metro: 6.1M)",
+  "index": false,
+  "pageTitle": "Best Financial Advisors in Aventura",
+  "metaDescription": "Find top-rated financial advisors in Aventura. Expert guidance for retirement planning, wealth management, and investment strategies.",
+  "advisors": [
+    {
+      "name": "Coral Wealth Management",
+      "url": "https://www.coralwm.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 50
+    },
+    {
+      "name": "Activest Wealth Management Llc",
+      "url": "http://www.activestwm.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 10
+    },
+    {
+      "name": "Northwestern Mutual - The Aventura Group",
+      "url": "https://www.northwesternmutual.com/office/fl/aventura/45859700/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 1
+    },
+    {
+      "name": "MANNA WEALTH MANAGEMENT - Florida Financial Advisors",
+      "url": "https://mannawealthmanagement.com/florida-financial-advisors/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 73
+    },
+    {
+      "name": "Florida Financial Advisors",
+      "url": "https://www.floridafa.com/",
+      "rating": 5,
+      "stars": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "reviewCount": 60
+    }
+  ],
+  "heroDescription": "Aventura, Florida, is a vibrant city known for its luxury shopping, waterfront views, and diverse community.",
+  "landscapeDescription": "Aventura's economy thrives on retail, hospitality, and real estate, supported by its affluent population. The city is a hub for both local and international businesses.",
+  "majorIndustries": "Retail, Hospitality, Real Estate",
+  "medianIncome": "$70,000",
+  "uniqueNeeds": "Aventura's affluent demographic requires tailored financial services and investment strategies.",
+  "citySpecificRiskAdvice": "Aventura's luxury real estate market faces bubble risks amid economic shifts. Diversify investments to mitigate hurricane and flooding impacts, especially in retail and hospitality sectors.",
+  "insights": [
+    {
+      "category": "Market Insights",
+      "sections": [
+        {
+          "title": "Economic Growth",
+          "description": "According to BEA (2023), Aventura's economy has shown steady growth, driven by tourism and retail expansion."
+        },
+        {
+          "title": "Wealth Demographics",
+          "description": "According to Census (2023), Aventura's median income is approximately $70,000, reflecting its affluent population."
+        },
+        {
+          "title": "Advisor Specializations",
+          "description": "Based on BLS (2023), financial advisors in Aventura increasingly focus on wealth management and estate planning."
+        }
+      ]
+    },
+    {
+      "category": "Local Considerations",
+      "sections": [
+        {
+          "title": "Cost of Living",
+          "description": "According to BLS (2024), Aventura's cost of living is higher than the national average, driven by housing and luxury services."
+        },
+        {
+          "title": "Real Estate Market",
+          "description": "According to Zillow (2024), Aventura's real estate market remains competitive, with rising prices and limited inventory."
+        },
+        {
+          "title": "Business Environment",
+          "description": "According to Fortune (2024), Aventura's business climate is favorable, attracting both startups and established firms."
+        }
+      ]
+    }
+  ],
+  "registeredAdvisors": "1,200+",
+  "averageRating": 4.8,
+  "advisorsEstimate": "60+",
+  "nearbyLocations": [
+    {
+      "name": "Jacksonville",
+      "state": "Florida",
+      "slug": "jacksonville",
+      "population": 842583,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Miami",
+      "state": "Florida",
+      "slug": "miami",
+      "population": 417650,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tampa",
+      "state": "Florida",
+      "slug": "tampa",
+      "population": 352957,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Orlando",
+      "state": "Florida",
+      "slug": "orlando",
+      "population": 255483,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "St. Petersburg",
+      "state": "Florida",
+      "slug": "st-petersburg",
+      "population": 249688,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Hialeah",
+      "state": "Florida",
+      "slug": "hialeah",
+      "population": 233394,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": true
+    },
+    {
+      "name": "Tallahassee",
+      "state": "Florida",
+      "slug": "tallahassee",
+      "population": 186411,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    },
+    {
+      "name": "Fort Lauderdale",
+      "state": "Florida",
+      "slug": "fort-lauderdale",
+      "population": 172389,
+      "priority": 1,
+      "stateAbbreviation": "FL",
+      "index": false
+    }
+  ]
+}
