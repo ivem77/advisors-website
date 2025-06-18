@@ -125,8 +125,7 @@
       "slug": "charlotte",
       "population": 792862,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": true
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Raleigh",
@@ -134,8 +133,7 @@
       "slug": "raleigh",
       "population": 431746,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": true
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Greensboro",
@@ -143,8 +141,7 @@
       "slug": "greensboro",
       "population": 279639,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": true
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Durham",
@@ -152,8 +149,7 @@
       "slug": "durham",
       "population": 245475,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": true
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Winston-Salem",
@@ -161,8 +157,7 @@
       "slug": "winston-salem",
       "population": 236441,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": true
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Fayetteville",
@@ -170,8 +165,7 @@
       "slug": "fayetteville",
       "population": 204408,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": false
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Cary",
@@ -179,8 +173,7 @@
       "slug": "cary",
       "population": 151088,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": false
+      "stateAbbreviation": "NC"
     },
     {
       "name": "Wilmington",
@@ -188,8 +181,7 @@
       "slug": "wilmington",
       "population": 112067,
       "priority": 1,
-      "stateAbbreviation": "NC",
-      "index": false
+      "stateAbbreviation": "NC"
     }
   ]
 }

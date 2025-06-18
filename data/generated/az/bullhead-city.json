@@ -125,8 +125,7 @@
       "slug": "phoenix",
       "population": 1513367,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Tucson",
@@ -134,8 +133,7 @@
       "slug": "tucson",
       "population": 526116,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Mesa",
@@ -143,8 +141,7 @@
       "slug": "mesa",
       "population": 457587,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Chandler",
@@ -152,8 +149,7 @@
       "slug": "chandler",
       "population": 249146,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Glendale",
@@ -161,8 +157,7 @@
       "slug": "glendale",
       "population": 234632,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Gilbert",
@@ -170,8 +165,7 @@
       "slug": "gilbert",
       "population": 229972,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Scottsdale",
@@ -179,8 +173,7 @@
       "slug": "scottsdale",
       "population": 226918,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": true
+      "stateAbbreviation": "AZ"
     },
     {
       "name": "Tempe",
@@ -188,8 +181,7 @@
       "slug": "tempe",
       "population": 168228,
       "priority": 1,
-      "stateAbbreviation": "AZ",
-      "index": false
+      "stateAbbreviation": "AZ"
     }
   ]
 }

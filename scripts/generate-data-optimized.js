@@ -3,7 +3,16 @@ const { generateAllCityContent, validateDataStructure, RATE_LIMIT_DELAY } = requ
 
 function getNearbyLocations(state) {
   const locationList = fs.readJsonSync('./data/cities.json');
-  const stateCitiesByPopulationDesc = locationList.filter(location => location.state === state).sort((a, b) => b.population - a.population);
+  const stateCitiesByPopulationDesc = locationList
+    .filter(location => location.state === state)
+    .sort((a, b) => b.population - a.population)
+    .map(({ name, slug, state, stateAbbreviation, population }) => ({
+      name,
+      slug,
+      state,
+      stateAbbreviation,
+      population
+    }));
   return stateCitiesByPopulationDesc.slice(0, 8);
 }
 

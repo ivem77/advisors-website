@@ -125,8 +125,7 @@
       "slug": "burlington",
       "population": 42284,
       "priority": 1,
-      "stateAbbreviation": "VT",
-      "index": false
+      "stateAbbreviation": "VT"
     }
   ]
 }

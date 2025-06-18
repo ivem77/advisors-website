@@ -125,8 +125,7 @@
       "slug": "kansas-city",
       "population": 467007,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": true
+      "stateAbbreviation": "MO"
     },
     {
       "name": "St. Louis",
@@ -134,8 +133,7 @@
       "slug": "st-louis",
       "population": 318416,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": true
+      "stateAbbreviation": "MO"
     },
     {
       "name": "Springfield",
@@ -143,8 +141,7 @@
       "slug": "springfield",
       "population": 164122,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     },
     {
       "name": "Independence",
@@ -152,8 +149,7 @@
       "slug": "independence",
       "population": 117240,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     },
     {
       "name": "Columbia",
@@ -161,8 +157,7 @@
       "slug": "columbia",
       "population": 115276,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     },
     {
       "name": "Lee's Summit",
@@ -170,8 +165,7 @@
       "slug": "lee-s-summit",
       "population": 93184,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     },
     {
       "name": "O'Fallon",
@@ -179,8 +173,7 @@
       "slug": "o-fallon",
       "population": 82809,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     },
     {
       "name": "St. Joseph",
@@ -188,8 +181,7 @@
       "slug": "st-joseph",
       "population": 77147,
       "priority": 1,
-      "stateAbbreviation": "MO",
-      "index": false
+      "stateAbbreviation": "MO"
     }
   ]
 }

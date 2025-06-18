@@ -125,8 +125,7 @@
       "slug": "columbia",
       "population": 133358,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Charleston",
@@ -134,8 +133,7 @@
       "slug": "charleston",
       "population": 127999,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "North Charleston",
@@ -143,8 +141,7 @@
       "slug": "north-charleston",
       "population": 104054,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Mount Pleasant",
@@ -152,8 +149,7 @@
       "slug": "mount-pleasant",
       "population": 74885,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Rock Hill",
@@ -161,8 +157,7 @@
       "slug": "rock-hill",
       "population": 69103,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Greenville",
@@ -170,8 +165,7 @@
       "slug": "greenville",
       "population": 61397,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Summerville",
@@ -179,8 +173,7 @@
       "slug": "summerville",
       "population": 46074,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     },
     {
       "name": "Sumter",
@@ -188,8 +181,7 @@
       "slug": "sumter",
       "population": 41190,
       "priority": 1,
-      "stateAbbreviation": "SC",
-      "index": false
+      "stateAbbreviation": "SC"
     }
   ]
 }

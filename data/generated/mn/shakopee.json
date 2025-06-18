@@ -125,8 +125,7 @@
       "slug": "minneapolis",
       "population": 400070,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": true
+      "stateAbbreviation": "MN"
     },
     {
       "name": "St. Paul",
@@ -134,8 +133,7 @@
       "slug": "st-paul",
       "population": 294873,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": true
+      "stateAbbreviation": "MN"
     },
     {
       "name": "Rochester",
@@ -143,8 +141,7 @@
       "slug": "rochester",
       "population": 110742,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     },
     {
       "name": "Bloomington",
@@ -152,8 +149,7 @@
       "slug": "bloomington",
       "population": 86319,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     },
     {
       "name": "Duluth",
@@ -161,8 +157,7 @@
       "slug": "duluth",
       "population": 86128,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     },
     {
       "name": "Brooklyn Park",
@@ -170,8 +165,7 @@
       "slug": "brooklyn-park",
       "population": 78373,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     },
     {
       "name": "Plymouth",
@@ -179,8 +173,7 @@
       "slug": "plymouth",
       "population": 73987,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     },
     {
       "name": "St. Cloud",
@@ -188,8 +181,7 @@
       "slug": "st-cloud",
       "population": 66297,
       "priority": 1,
-      "stateAbbreviation": "MN",
-      "index": false
+      "stateAbbreviation": "MN"
     }
   ]
 }

@@ -125,8 +125,7 @@
       "slug": "atlanta",
       "population": 447841,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": true
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Columbus",
@@ -134,8 +133,7 @@
       "slug": "columbus",
       "population": 202824,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Augusta-Richmond County",
@@ -143,8 +141,7 @@
       "slug": "augusta-richmond-county",
       "population": 197350,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Savannah",
@@ -152,8 +149,7 @@
       "slug": "savannah",
       "population": 142772,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Athens-Clarke County",
@@ -161,8 +157,7 @@
       "slug": "athens-clarke-county",
       "population": 119980,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Sandy Springs",
@@ -170,8 +165,7 @@
       "slug": "sandy-springs",
       "population": 99770,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Roswell",
@@ -179,8 +173,7 @@
       "slug": "roswell",
       "population": 94034,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     },
     {
       "name": "Macon",
@@ -188,8 +181,7 @@
       "slug": "macon",
       "population": 89981,
       "priority": 1,
-      "stateAbbreviation": "GA",
-      "index": false
+      "stateAbbreviation": "GA"
     }
   ]
 }

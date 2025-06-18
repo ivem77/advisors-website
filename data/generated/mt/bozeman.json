@@ -125,8 +125,7 @@
       "slug": "billings",
       "population": 109059,
       "priority": 1,
-      "stateAbbreviation": "MT",
-      "index": false
+      "stateAbbreviation": "MT"
     },
     {
       "name": "Missoula",
@@ -134,8 +133,7 @@
       "slug": "missoula",
       "population": 69122,
       "priority": 1,
-      "stateAbbreviation": "MT",
-      "index": false
+      "stateAbbreviation": "MT"
     },
     {
       "name": "Great Falls",
@@ -143,8 +141,7 @@
       "slug": "great-falls",
       "population": 59351,
       "priority": 1,
-      "stateAbbreviation": "MT",
-      "index": false
+      "stateAbbreviation": "MT"
     },
     {
       "name": "Bozeman",
@@ -152,8 +149,7 @@
       "slug": "bozeman",
       "population": 39860,
       "priority": 1,
-      "stateAbbreviation": "MT",
-      "index": false
+      "stateAbbreviation": "MT"
     }
   ]
 }

@@ -125,8 +125,7 @@
       "slug": "albuquerque",
       "population": 556495,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": true
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Las Cruces",
@@ -134,8 +133,7 @@
       "slug": "las-cruces",
       "population": 101324,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Rio Rancho",
@@ -143,8 +141,7 @@
       "slug": "rio-rancho",
       "population": 91956,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Santa Fe",
@@ -152,8 +149,7 @@
       "slug": "santa-fe",
       "population": 69976,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Roswell",
@@ -161,8 +157,7 @@
       "slug": "roswell",
       "population": 48611,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Farmington",
@@ -170,8 +165,7 @@
       "slug": "farmington",
       "population": 45426,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     },
     {
       "name": "Clovis",
@@ -179,8 +173,7 @@
       "slug": "clovis",
       "population": 39508,
       "priority": 1,
-      "stateAbbreviation": "NM",
-      "index": false
+      "stateAbbreviation": "NM"
     }
   ]
 }

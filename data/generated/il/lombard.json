@@ -124,8 +124,7 @@
       "slug": "chicago",
       "population": 2718782,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": true
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Aurora",
@@ -133,8 +132,7 @@
       "slug": "aurora",
       "population": 199963,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Rockford",
@@ -142,8 +140,7 @@
       "slug": "rockford",
       "population": 150251,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Joliet",
@@ -151,8 +148,7 @@
       "slug": "joliet",
       "population": 147806,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Naperville",
@@ -160,8 +156,7 @@
       "slug": "naperville",
       "population": 144864,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Springfield",
@@ -169,8 +164,7 @@
       "slug": "springfield",
       "population": 117006,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Peoria",
@@ -178,8 +172,7 @@
       "slug": "peoria",
       "population": 116513,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     },
     {
       "name": "Elgin",
@@ -187,8 +180,7 @@
       "slug": "elgin",
       "population": 110145,
       "priority": 1,
-      "stateAbbreviation": "IL",
-      "index": false
+      "stateAbbreviation": "IL"
     }
   ],
   "index": false

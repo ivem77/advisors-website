@@ -124,8 +124,7 @@
       "slug": "houston",
       "population": 2195914,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "San Antonio",
@@ -133,8 +132,7 @@
       "slug": "san-antonio",
       "population": 1409019,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "Dallas",
@@ -142,8 +140,7 @@
       "slug": "dallas",
       "population": 1257676,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "Austin",
@@ -151,8 +148,7 @@
       "slug": "austin",
       "population": 885400,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "Fort Worth",
@@ -160,8 +156,7 @@
       "slug": "fort-worth",
       "population": 792727,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "El Paso",
@@ -169,8 +164,7 @@
       "slug": "el-paso",
       "population": 674433,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "Arlington",
@@ -178,8 +172,7 @@
       "slug": "arlington",
       "population": 379577,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     },
     {
       "name": "Corpus Christi",
@@ -187,8 +180,7 @@
       "slug": "corpus-christi",
       "population": 316381,
       "priority": 1,
-      "stateAbbreviation": "TX",
-      "index": true
+      "stateAbbreviation": "TX"
     }
   ],
   "index": false

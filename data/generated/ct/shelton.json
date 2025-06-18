@@ -125,8 +125,7 @@
       "slug": "bridgeport",
       "population": 147216,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "New Haven",
@@ -134,8 +133,7 @@
       "slug": "new-haven",
       "population": 130660,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "Stamford",
@@ -143,8 +141,7 @@
       "slug": "stamford",
       "population": 126456,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "Hartford",
@@ -152,8 +149,7 @@
       "slug": "hartford",
       "population": 125017,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "Waterbury",
@@ -161,8 +157,7 @@
       "slug": "waterbury",
       "population": 109676,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "Norwalk",
@@ -170,8 +165,7 @@
       "slug": "norwalk",
       "population": 87776,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "Danbury",
@@ -179,8 +173,7 @@
       "slug": "danbury",
       "population": 83684,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     },
     {
       "name": "New Britain",
@@ -188,8 +181,7 @@
       "slug": "new-britain",
       "population": 72939,
       "priority": 1,
-      "stateAbbreviation": "CT",
-      "index": false
+      "stateAbbreviation": "CT"
     }
   ]
 }

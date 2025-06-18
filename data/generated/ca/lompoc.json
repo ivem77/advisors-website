@@ -121,8 +121,7 @@
       "slug": "los-angeles",
       "population": 3884307,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "San Diego",
@@ -130,8 +129,7 @@
       "slug": "san-diego",
       "population": 1355896,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "San Jose",
@@ -139,8 +137,7 @@
       "slug": "san-jose",
       "population": 998537,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "San Francisco",
@@ -148,8 +145,7 @@
       "slug": "san-francisco",
       "population": 837442,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "Fresno",
@@ -157,8 +153,7 @@
       "slug": "fresno",
       "population": 509924,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "Sacramento",
@@ -166,8 +161,7 @@
       "slug": "sacramento",
       "population": 479686,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "Long Beach",
@@ -175,8 +169,7 @@
       "slug": "long-beach",
       "population": 469428,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     },
     {
       "name": "Oakland",
@@ -184,8 +177,7 @@
       "slug": "oakland",
       "population": 406253,
       "priority": 1,
-      "stateAbbreviation": "CA",
-      "index": true
+      "stateAbbreviation": "CA"
     }
   ]
 }

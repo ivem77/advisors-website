@@ -124,8 +124,7 @@
       "slug": "jacksonville",
       "population": 842583,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Miami",
@@ -133,8 +132,7 @@
       "slug": "miami",
       "population": 417650,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Tampa",
@@ -142,8 +140,7 @@
       "slug": "tampa",
       "population": 352957,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Orlando",
@@ -151,8 +148,7 @@
       "slug": "orlando",
       "population": 255483,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "St. Petersburg",
@@ -160,8 +156,7 @@
       "slug": "st-petersburg",
       "population": 249688,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Hialeah",
@@ -169,8 +164,7 @@
       "slug": "hialeah",
       "population": 233394,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": true
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Tallahassee",
@@ -178,8 +172,7 @@
       "slug": "tallahassee",
       "population": 186411,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": false
+      "stateAbbreviation": "FL"
     },
     {
       "name": "Fort Lauderdale",
@@ -187,8 +180,7 @@
       "slug": "fort-lauderdale",
       "population": 172389,
       "priority": 1,
-      "stateAbbreviation": "FL",
-      "index": false
+      "stateAbbreviation": "FL"
     }
   ],
   "index": false

@@ -125,8 +125,7 @@
       "slug": "columbus",
       "population": 822553,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": true
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Cleveland",
@@ -134,8 +133,7 @@
       "slug": "cleveland",
       "population": 390113,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": true
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Cincinnati",
@@ -143,8 +141,7 @@
       "slug": "cincinnati",
       "population": 297517,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": true
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Toledo",
@@ -152,8 +149,7 @@
       "slug": "toledo",
       "population": 282313,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": true
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Akron",
@@ -161,8 +157,7 @@
       "slug": "akron",
       "population": 198100,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": false
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Dayton",
@@ -170,8 +165,7 @@
       "slug": "dayton",
       "population": 143355,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": false
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Parma",
@@ -179,8 +173,7 @@
       "slug": "parma",
       "population": 80429,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": false
+      "stateAbbreviation": "OH"
     },
     {
       "name": "Canton",
@@ -188,8 +181,7 @@
       "slug": "canton",
       "population": 72535,
       "priority": 1,
-      "stateAbbreviation": "OH",
-      "index": false
+      "stateAbbreviation": "OH"
     }
   ]
 }

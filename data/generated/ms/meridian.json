@@ -125,8 +125,7 @@
       "slug": "jackson",
       "population": 172638,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     },
     {
       "name": "Gulfport",
@@ -134,8 +133,7 @@
       "slug": "gulfport",
       "population": 71012,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     },
     {
       "name": "Southaven",
@@ -143,8 +141,7 @@
       "slug": "southaven",
       "population": 50997,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     },
     {
       "name": "Hattiesburg",
@@ -152,8 +149,7 @@
       "slug": "hattiesburg",
       "population": 47556,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     },
     {
       "name": "Biloxi",
@@ -161,8 +157,7 @@
       "slug": "biloxi",
       "population": 44820,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     },
     {
       "name": "Meridian",
@@ -170,8 +165,7 @@
       "slug": "meridian",
       "population": 40921,
       "priority": 1,
-      "stateAbbreviation": "MS",
-      "index": false
+      "stateAbbreviation": "MS"
     }
   ]
 }

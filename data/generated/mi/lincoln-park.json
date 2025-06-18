@@ -125,8 +125,7 @@
       "slug": "detroit",
       "population": 688701,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": true
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Grand Rapids",
@@ -134,8 +133,7 @@
       "slug": "grand-rapids",
       "population": 192294,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Warren",
@@ -143,8 +141,7 @@
       "slug": "warren",
       "population": 134873,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Sterling Heights",
@@ -152,8 +149,7 @@
       "slug": "sterling-heights",
       "population": 131224,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Ann Arbor",
@@ -161,8 +157,7 @@
       "slug": "ann-arbor",
       "population": 117025,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Lansing",
@@ -170,8 +165,7 @@
       "slug": "lansing",
       "population": 113972,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Flint",
@@ -179,8 +173,7 @@
       "slug": "flint",
       "population": 99763,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     },
     {
       "name": "Dearborn",
@@ -188,8 +181,7 @@
       "slug": "dearborn",
       "population": 95884,
       "priority": 1,
-      "stateAbbreviation": "MI",
-      "index": false
+      "stateAbbreviation": "MI"
     }
   ]
 }

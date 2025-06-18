@@ -125,8 +125,7 @@
       "slug": "wilmington",
       "population": 71525,
       "priority": 1,
-      "stateAbbreviation": "DE",
-      "index": false
+      "stateAbbreviation": "DE"
     },
     {
       "name": "Dover",
@@ -134,8 +133,7 @@
       "slug": "dover",
       "population": 37366,
       "priority": 1,
-      "stateAbbreviation": "DE",
-      "index": false
+      "stateAbbreviation": "DE"
     }
   ]
 }

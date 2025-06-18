@@ -125,8 +125,7 @@
       "slug": "seattle",
       "population": 652405,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": true
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Spokane",
@@ -134,8 +133,7 @@
       "slug": "spokane",
       "population": 210721,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Tacoma",
@@ -143,8 +141,7 @@
       "slug": "tacoma",
       "population": 203446,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Vancouver",
@@ -152,8 +149,7 @@
       "slug": "vancouver",
       "population": 167405,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Bellevue",
@@ -161,8 +157,7 @@
       "slug": "bellevue",
       "population": 133992,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Kent",
@@ -170,8 +165,7 @@
       "slug": "kent",
       "population": 124435,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Everett",
@@ -179,8 +173,7 @@
       "slug": "everett",
       "population": 105370,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     },
     {
       "name": "Renton",
@@ -188,8 +181,7 @@
       "slug": "renton",
       "population": 97003,
       "priority": 1,
-      "stateAbbreviation": "WA",
-      "index": false
+      "stateAbbreviation": "WA"
     }
   ]
 }

@@ -125,8 +125,7 @@
       "slug": "wichita",
       "population": 386552,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": true
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Overland Park",
@@ -134,8 +133,7 @@
       "slug": "overland-park",
       "population": 181260,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Kansas City",
@@ -143,8 +141,7 @@
       "slug": "kansas-city",
       "population": 148483,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Olathe",
@@ -152,8 +149,7 @@
       "slug": "olathe",
       "population": 131885,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Topeka",
@@ -161,8 +157,7 @@
       "slug": "topeka",
       "population": 127679,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Lawrence",
@@ -170,8 +165,7 @@
       "slug": "lawrence",
       "population": 90811,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Shawnee",
@@ -179,8 +173,7 @@
       "slug": "shawnee",
       "population": 64323,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     },
     {
       "name": "Manhattan",
@@ -188,8 +181,7 @@
       "slug": "manhattan",
       "population": 56143,
       "priority": 1,
-      "stateAbbreviation": "KS",
-      "index": false
+      "stateAbbreviation": "KS"
     }
   ]
 }

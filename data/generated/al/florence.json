@@ -125,8 +125,7 @@
       "slug": "birmingham",
       "population": 212113,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Montgomery",
@@ -134,8 +133,7 @@
       "slug": "montgomery",
       "population": 201332,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Mobile",
@@ -143,8 +141,7 @@
       "slug": "mobile",
       "population": 194899,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Huntsville",
@@ -152,8 +149,7 @@
       "slug": "huntsville",
       "population": 186254,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Tuscaloosa",
@@ -161,8 +157,7 @@
       "slug": "tuscaloosa",
       "population": 95334,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Hoover",
@@ -170,8 +165,7 @@
       "slug": "hoover",
       "population": 84126,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Dothan",
@@ -179,8 +173,7 @@
       "slug": "dothan",
       "population": 68001,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     },
     {
       "name": "Auburn",
@@ -188,8 +181,7 @@
       "slug": "auburn",
       "population": 58582,
       "priority": 1,
-      "stateAbbreviation": "AL",
-      "index": false
+      "stateAbbreviation": "AL"
     }
   ]
 }

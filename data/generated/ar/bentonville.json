@@ -125,8 +125,7 @@
       "slug": "little-rock",
       "population": 197357,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Fort Smith",
@@ -134,8 +133,7 @@
       "slug": "fort-smith",
       "population": 87650,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Fayetteville",
@@ -143,8 +141,7 @@
       "slug": "fayetteville",
       "population": 78960,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Springdale",
@@ -152,8 +149,7 @@
       "slug": "springdale",
       "population": 75229,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Jonesboro",
@@ -161,8 +157,7 @@
       "slug": "jonesboro",
       "population": 71551,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "North Little Rock",
@@ -170,8 +165,7 @@
       "slug": "north-little-rock",
       "population": 66075,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Conway",
@@ -179,8 +173,7 @@
       "slug": "conway",
       "population": 63816,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     },
     {
       "name": "Rogers",
@@ -188,8 +181,7 @@
       "slug": "rogers",
       "population": 60112,
       "priority": 1,
-      "stateAbbreviation": "AR",
-      "index": false
+      "stateAbbreviation": "AR"
     }
   ]
 }

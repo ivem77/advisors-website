@@ -125,8 +125,7 @@
       "slug": "des-moines",
       "population": 207510,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Cedar Rapids",
@@ -134,8 +133,7 @@
       "slug": "cedar-rapids",
       "population": 128429,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Davenport",
@@ -143,8 +141,7 @@
       "slug": "davenport",
       "population": 102157,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Sioux City",
@@ -152,8 +149,7 @@
       "slug": "sioux-city",
       "population": 82459,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Iowa City",
@@ -161,8 +157,7 @@
       "slug": "iowa-city",
       "population": 71591,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Waterloo",
@@ -170,8 +165,7 @@
       "slug": "waterloo",
       "population": 68366,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Council Bluffs",
@@ -179,8 +173,7 @@
       "slug": "council-bluffs",
       "population": 61969,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     },
     {
       "name": "Ames",
@@ -188,8 +181,7 @@
       "slug": "ames",
       "population": 61792,
       "priority": 1,
-      "stateAbbreviation": "IA",
-      "index": false
+      "stateAbbreviation": "IA"
     }
   ]
 }

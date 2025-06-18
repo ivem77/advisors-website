@@ -125,8 +125,7 @@
       "slug": "milwaukee",
       "population": 599164,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": true
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Madison",
@@ -134,8 +133,7 @@
       "slug": "madison",
       "population": 243344,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": true
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Green Bay",
@@ -143,8 +141,7 @@
       "slug": "green-bay",
       "population": 104779,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Kenosha",
@@ -152,8 +149,7 @@
       "slug": "kenosha",
       "population": 99889,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Racine",
@@ -161,8 +157,7 @@
       "slug": "racine",
       "population": 78199,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Appleton",
@@ -170,8 +165,7 @@
       "slug": "appleton",
       "population": 73596,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Waukesha",
@@ -179,8 +173,7 @@
       "slug": "waukesha",
       "population": 71016,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     },
     {
       "name": "Eau Claire",
@@ -188,8 +181,7 @@
       "slug": "eau-claire",
       "population": 67545,
       "priority": 1,
-      "stateAbbreviation": "WI",
-      "index": false
+      "stateAbbreviation": "WI"
     }
   ]
 }

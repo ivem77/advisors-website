@@ -124,8 +124,7 @@
       "slug": "virginia-beach",
       "population": 448479,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": true
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Norfolk",
@@ -133,8 +132,7 @@
       "slug": "norfolk",
       "population": 246139,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": true
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Chesapeake",
@@ -142,8 +140,7 @@
       "slug": "chesapeake",
       "population": 230571,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": true
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Richmond",
@@ -151,8 +148,7 @@
       "slug": "richmond",
       "population": 214114,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": true
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Newport News",
@@ -160,8 +156,7 @@
       "slug": "newport-news",
       "population": 182020,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": false
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Alexandria",
@@ -169,8 +164,7 @@
       "slug": "alexandria",
       "population": 148892,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": false
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Hampton",
@@ -178,8 +172,7 @@
       "slug": "hampton",
       "population": 136699,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": false
+      "stateAbbreviation": "VA"
     },
     {
       "name": "Roanoke",
@@ -187,8 +180,7 @@
       "slug": "roanoke",
       "population": 98465,
       "priority": 1,
-      "stateAbbreviation": "VA",
-      "index": false
+      "stateAbbreviation": "VA"
     }
   ],
   "index": false

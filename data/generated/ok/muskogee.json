@@ -125,8 +125,7 @@
       "slug": "oklahoma-city",
       "population": 610613,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": true
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Tulsa",
@@ -134,8 +133,7 @@
       "slug": "tulsa",
       "population": 398121,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": true
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Norman",
@@ -143,8 +141,7 @@
       "slug": "norman",
       "population": 118197,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Broken Arrow",
@@ -152,8 +149,7 @@
       "slug": "broken-arrow",
       "population": 103500,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Lawton",
@@ -161,8 +157,7 @@
       "slug": "lawton",
       "population": 97151,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Edmond",
@@ -170,8 +165,7 @@
       "slug": "edmond",
       "population": 87004,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Moore",
@@ -179,8 +173,7 @@
       "slug": "moore",
       "population": 58414,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     },
     {
       "name": "Midwest City",
@@ -188,8 +181,7 @@
       "slug": "midwest-city",
       "population": 56756,
       "priority": 1,
-      "stateAbbreviation": "OK",
-      "index": false
+      "stateAbbreviation": "OK"
     }
   ]
 }

@@ -125,8 +125,7 @@
       "slug": "boston",
       "population": 645966,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": true
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Worcester",
@@ -134,8 +133,7 @@
       "slug": "worcester",
       "population": 182544,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Springfield",
@@ -143,8 +141,7 @@
       "slug": "springfield",
       "population": 153703,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Lowell",
@@ -152,8 +149,7 @@
       "slug": "lowell",
       "population": 108861,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Cambridge",
@@ -161,8 +157,7 @@
       "slug": "cambridge",
       "population": 107289,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "New Bedford",
@@ -170,8 +165,7 @@
       "slug": "new-bedford",
       "population": 95078,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Brockton",
@@ -179,8 +173,7 @@
       "slug": "brockton",
       "population": 94089,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     },
     {
       "name": "Quincy",
@@ -188,8 +181,7 @@
       "slug": "quincy",
       "population": 93494,
       "priority": 1,
-      "stateAbbreviation": "MA",
-      "index": false
+      "stateAbbreviation": "MA"
     }
   ]
 }

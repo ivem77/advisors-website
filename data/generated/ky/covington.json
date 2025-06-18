@@ -125,8 +125,7 @@
       "slug": "louisville-jefferson-county",
       "population": 609893,
       "priority": 1,
-      "stateAbbreviation": "KY",
-      "index": true
+      "stateAbbreviation": "KY"
     },
     {
       "name": "Lexington-Fayette",
@@ -134,8 +133,7 @@
       "slug": "lexington-fayette",
       "population": 308428,
       "priority": 1,
-      "stateAbbreviation": "KY",
-      "index": true
+      "stateAbbreviation": "KY"
     },
     {
       "name": "Bowling Green",
@@ -143,8 +141,7 @@
       "slug": "bowling-green",
       "population": 61488,
       "priority": 1,
-      "stateAbbreviation": "KY",
-      "index": false
+      "stateAbbreviation": "KY"
     },
     {
       "name": "Owensboro",
@@ -152,8 +149,7 @@
       "slug": "owensboro",
       "population": 58416,
       "priority": 1,
-      "stateAbbreviation": "KY",
-      "index": false
+      "stateAbbreviation": "KY"
     },
     {
       "name": "Covington",
@@ -161,8 +157,7 @@
       "slug": "covington",
       "population": 40956,
       "priority": 1,
-      "stateAbbreviation": "KY",
-      "index": false
+      "stateAbbreviation": "KY"
     }
   ]
 }

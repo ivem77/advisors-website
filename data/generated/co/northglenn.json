@@ -125,8 +125,7 @@
       "slug": "denver",
       "population": 649495,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": true
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Colorado Springs",
@@ -134,8 +133,7 @@
       "slug": "colorado-springs",
       "population": 439886,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": true
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Aurora",
@@ -143,8 +141,7 @@
       "slug": "aurora",
       "population": 345803,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": true
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Fort Collins",
@@ -152,8 +149,7 @@
       "slug": "fort-collins",
       "population": 152061,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": false
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Lakewood",
@@ -161,8 +157,7 @@
       "slug": "lakewood",
       "population": 147214,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": false
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Thornton",
@@ -170,8 +165,7 @@
       "slug": "thornton",
       "population": 127359,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": false
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Arvada",
@@ -179,8 +173,7 @@
       "slug": "arvada",
       "population": 111707,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": false
+      "stateAbbreviation": "CO"
     },
     {
       "name": "Westminster",
@@ -188,8 +181,7 @@
       "slug": "westminster",
       "population": 110945,
       "priority": 1,
-      "stateAbbreviation": "CO",
-      "index": false
+      "stateAbbreviation": "CO"
     }
   ]
 }

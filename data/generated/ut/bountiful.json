@@ -125,8 +125,7 @@
       "slug": "salt-lake-city",
       "population": 191180,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "West Valley City",
@@ -134,8 +133,7 @@
       "slug": "west-valley-city",
       "population": 133579,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "Provo",
@@ -143,8 +141,7 @@
       "slug": "provo",
       "population": 116288,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "West Jordan",
@@ -152,8 +149,7 @@
       "slug": "west-jordan",
       "population": 110077,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "Orem",
@@ -161,8 +157,7 @@
       "slug": "orem",
       "population": 91648,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "Sandy",
@@ -170,8 +165,7 @@
       "slug": "sandy",
       "population": 90231,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "Ogden",
@@ -179,8 +173,7 @@
       "slug": "ogden",
       "population": 84249,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     },
     {
       "name": "St. George",
@@ -188,8 +181,7 @@
       "slug": "st-george",
       "population": 76817,
       "priority": 1,
-      "stateAbbreviation": "UT",
-      "index": false
+      "stateAbbreviation": "UT"
     }
   ]
 }

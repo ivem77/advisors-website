@@ -125,8 +125,7 @@
       "slug": "memphis",
       "population": 653450,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": true
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Nashville-Davidson",
@@ -134,8 +133,7 @@
       "slug": "nashville-davidson",
       "population": 634464,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": true
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Knoxville",
@@ -143,8 +141,7 @@
       "slug": "knoxville",
       "population": 183270,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Chattanooga",
@@ -152,8 +149,7 @@
       "slug": "chattanooga",
       "population": 173366,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Clarksville",
@@ -161,8 +157,7 @@
       "slug": "clarksville",
       "population": 142357,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Murfreesboro",
@@ -170,8 +165,7 @@
       "slug": "murfreesboro",
       "population": 117044,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Franklin",
@@ -179,8 +173,7 @@
       "slug": "franklin",
       "population": 68886,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     },
     {
       "name": "Jackson",
@@ -188,8 +181,7 @@
       "slug": "jackson",
       "population": 67685,
       "priority": 1,
-      "stateAbbreviation": "TN",
-      "index": false
+      "stateAbbreviation": "TN"
     }
   ]
 }

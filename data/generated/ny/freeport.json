@@ -125,8 +125,7 @@
       "slug": "new-york",
       "population": 8405837,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": true
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Buffalo",
@@ -134,8 +133,7 @@
       "slug": "buffalo",
       "population": 258959,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": true
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Rochester",
@@ -143,8 +141,7 @@
       "slug": "rochester",
       "population": 210358,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Yonkers",
@@ -152,8 +149,7 @@
       "slug": "yonkers",
       "population": 199766,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Syracuse",
@@ -161,8 +157,7 @@
       "slug": "syracuse",
       "population": 144669,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Albany",
@@ -170,8 +165,7 @@
       "slug": "albany",
       "population": 98424,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     },
     {
       "name": "New Rochelle",
@@ -179,8 +173,7 @@
       "slug": "new-rochelle",
       "population": 79446,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     },
     {
       "name": "Mount Vernon",
@@ -188,8 +181,7 @@
       "slug": "mount-vernon",
       "population": 68224,
       "priority": 1,
-      "stateAbbreviation": "NY",
-      "index": false
+      "stateAbbreviation": "NY"
     }
   ]
 }

@@ -125,8 +125,7 @@
       "slug": "manchester",
       "population": 110378,
       "priority": 1,
-      "stateAbbreviation": "NH",
-      "index": false
+      "stateAbbreviation": "NH"
     },
     {
       "name": "Nashua",
@@ -134,8 +133,7 @@
       "slug": "nashua",
       "population": 87137,
       "priority": 1,
-      "stateAbbreviation": "NH",
-      "index": false
+      "stateAbbreviation": "NH"
     },
     {
       "name": "Concord",
@@ -143,8 +141,7 @@
       "slug": "concord",
       "population": 42419,
       "priority": 1,
-      "stateAbbreviation": "NH",
-      "index": false
+      "stateAbbreviation": "NH"
     }
   ]
 }

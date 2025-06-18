@@ -124,8 +124,7 @@
       "slug": "philadelphia",
       "population": 1553165,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": true
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Pittsburgh",
@@ -133,8 +132,7 @@
       "slug": "pittsburgh",
       "population": 305841,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": true
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Allentown",
@@ -142,8 +140,7 @@
       "slug": "allentown",
       "population": 118577,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Erie",
@@ -151,8 +148,7 @@
       "slug": "erie",
       "population": 100671,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Reading",
@@ -160,8 +156,7 @@
       "slug": "reading",
       "population": 87893,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Scranton",
@@ -169,8 +164,7 @@
       "slug": "scranton",
       "population": 75806,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Bethlehem",
@@ -178,8 +172,7 @@
       "slug": "bethlehem",
       "population": 75018,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     },
     {
       "name": "Lancaster",
@@ -187,8 +180,7 @@
       "slug": "lancaster",
       "population": 59325,
       "priority": 1,
-      "stateAbbreviation": "PA",
-      "index": false
+      "stateAbbreviation": "PA"
     }
   ],
   "index": false

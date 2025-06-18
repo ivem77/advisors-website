@@ -125,8 +125,7 @@
       "slug": "baltimore",
       "population": 622104,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": true
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Frederick",
@@ -134,8 +133,7 @@
       "slug": "frederick",
       "population": 66893,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Gaithersburg",
@@ -143,8 +141,7 @@
       "slug": "gaithersburg",
       "population": 65690,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Rockville",
@@ -152,8 +149,7 @@
       "slug": "rockville",
       "population": 64072,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Bowie",
@@ -161,8 +157,7 @@
       "slug": "bowie",
       "population": 56759,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Hagerstown",
@@ -170,8 +165,7 @@
       "slug": "hagerstown",
       "population": 40612,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     },
     {
       "name": "Annapolis",
@@ -179,8 +173,7 @@
       "slug": "annapolis",
       "population": 38722,
       "priority": 1,
-      "stateAbbreviation": "MD",
-      "index": false
+      "stateAbbreviation": "MD"
     }
   ]
 }

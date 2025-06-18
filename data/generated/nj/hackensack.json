@@ -124,8 +124,7 @@
       "slug": "newark",
       "population": 278427,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": true
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Jersey City",
@@ -133,8 +132,7 @@
       "slug": "jersey-city",
       "population": 257342,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": true
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Paterson",
@@ -142,8 +140,7 @@
       "slug": "paterson",
       "population": 145948,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Elizabeth",
@@ -151,8 +148,7 @@
       "slug": "elizabeth",
       "population": 127558,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Clifton",
@@ -160,8 +156,7 @@
       "slug": "clifton",
       "population": 85390,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Trenton",
@@ -169,8 +164,7 @@
       "slug": "trenton",
       "population": 84349,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Camden",
@@ -178,8 +172,7 @@
       "slug": "camden",
       "population": 76903,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     },
     {
       "name": "Passaic",
@@ -187,8 +180,7 @@
       "slug": "passaic",
       "population": 70868,
       "priority": 1,
-      "stateAbbreviation": "NJ",
-      "index": false
+      "stateAbbreviation": "NJ"
     }
   ],
   "index": false

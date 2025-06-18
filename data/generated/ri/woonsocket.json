@@ -125,8 +125,7 @@
       "slug": "providence",
       "population": 177994,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     },
     {
       "name": "Warwick",
@@ -134,8 +133,7 @@
       "slug": "warwick",
       "population": 81971,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     },
     {
       "name": "Cranston",
@@ -143,8 +141,7 @@
       "slug": "cranston",
       "population": 80566,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     },
     {
       "name": "Pawtucket",
@@ -152,8 +149,7 @@
       "slug": "pawtucket",
       "population": 71172,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     },
     {
       "name": "East Providence",
@@ -161,8 +157,7 @@
       "slug": "east-providence",
       "population": 47149,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     },
     {
       "name": "Woonsocket",
@@ -170,8 +165,7 @@
       "slug": "woonsocket",
       "population": 41026,
       "priority": 1,
-      "stateAbbreviation": "RI",
-      "index": false
+      "stateAbbreviation": "RI"
     }
   ]
 }
