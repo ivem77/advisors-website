@@ -906,7 +906,7 @@
     "population": 212113,
     "priority": 1,
     "stateAbbreviation": "AL",
-    "index": false
+    "index": true
   },
   {
     "name": "Spokane",
@@ -915,7 +915,7 @@
     "population": 210721,
     "priority": 1,
     "stateAbbreviation": "WA",
-    "index": false
+    "index": true
   },
   {
     "name": "Rochester",
@@ -924,7 +924,7 @@
     "population": 210358,
     "priority": 1,
     "stateAbbreviation": "NY",
-    "index": false
+    "index": true
   },
   {
     "name": "Des Moines",
@@ -933,7 +933,7 @@
     "population": 207510,
     "priority": 1,
     "stateAbbreviation": "IA",
-    "index": false
+    "index": true
   },
   {
     "name": "Modesto",
@@ -942,7 +942,7 @@
     "population": 204933,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Fayetteville",
@@ -951,7 +951,7 @@
     "population": 204408,
     "priority": 1,
     "stateAbbreviation": "NC",
-    "index": false
+    "index": true
   },
   {
     "name": "Tacoma",
@@ -960,7 +960,7 @@
     "population": 203446,
     "priority": 1,
     "stateAbbreviation": "WA",
-    "index": false
+    "index": true
   },
   {
     "name": "Oxnard",
@@ -969,7 +969,7 @@
     "population": 203007,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Fontana",
@@ -978,7 +978,7 @@
     "population": 203003,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Columbus",
@@ -987,7 +987,7 @@
     "population": 202824,
     "priority": 1,
     "stateAbbreviation": "GA",
-    "index": false
+    "index": true
   },
   {
     "name": "Montgomery",
@@ -996,7 +996,7 @@
     "population": 201332,
     "priority": 1,
     "stateAbbreviation": "AL",
-    "index": false
+    "index": true
   },
   {
     "name": "Moreno Valley",
@@ -1005,7 +1005,7 @@
     "population": 201175,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Shreveport",
@@ -1014,7 +1014,7 @@
     "population": 200327,
     "priority": 1,
     "stateAbbreviation": "LA",
-    "index": false
+    "index": true
   },
   {
     "name": "Aurora",
@@ -1023,7 +1023,7 @@
     "population": 199963,
     "priority": 1,
     "stateAbbreviation": "IL",
-    "index": false
+    "index": true
   },
   {
     "name": "Yonkers",
@@ -1032,7 +1032,7 @@
     "population": 199766,
     "priority": 1,
     "stateAbbreviation": "NY",
-    "index": false
+    "index": true
   },
   {
     "name": "Akron",
@@ -1041,7 +1041,7 @@
     "population": 198100,
     "priority": 1,
     "stateAbbreviation": "OH",
-    "index": false
+    "index": true
   },
   {
     "name": "Huntington Beach",
@@ -1050,7 +1050,7 @@
     "population": 197575,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Little Rock",
@@ -1059,7 +1059,7 @@
     "population": 197357,
     "priority": 1,
     "stateAbbreviation": "AR",
-    "index": false
+    "index": true
   },
   {
     "name": "Augusta-Richmond County",
@@ -1068,7 +1068,7 @@
     "population": 197350,
     "priority": 1,
     "stateAbbreviation": "GA",
-    "index": false
+    "index": true
   },
   {
     "name": "Amarillo",
@@ -1077,7 +1077,7 @@
     "population": 196429,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Glendale",
@@ -1086,7 +1086,7 @@
     "population": 196021,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Mobile",
@@ -1095,7 +1095,7 @@
     "population": 194899,
     "priority": 1,
     "stateAbbreviation": "AL",
-    "index": false
+    "index": true
   },
   {
     "name": "Grand Rapids",
@@ -1104,7 +1104,7 @@
     "population": 192294,
     "priority": 1,
     "stateAbbreviation": "MI",
-    "index": false
+    "index": true
   },
   {
     "name": "Salt Lake City",
@@ -1113,7 +1113,7 @@
     "population": 191180,
     "priority": 1,
     "stateAbbreviation": "UT",
-    "index": false
+    "index": true
   },
   {
     "name": "Tallahassee",
@@ -1122,7 +1122,7 @@
     "population": 186411,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Huntsville",
@@ -1131,7 +1131,7 @@
     "population": 186254,
     "priority": 1,
     "stateAbbreviation": "AL",
-    "index": false
+    "index": true
   },
   {
     "name": "Grand Prairie",
@@ -1140,7 +1140,7 @@
     "population": 183372,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Knoxville",
@@ -1149,7 +1149,7 @@
     "population": 183270,
     "priority": 1,
     "stateAbbreviation": "TN",
-    "index": false
+    "index": true
   },
   {
     "name": "Worcester",
@@ -1158,7 +1158,7 @@
     "population": 182544,
     "priority": 1,
     "stateAbbreviation": "MA",
-    "index": false
+    "index": true
   },
   {
     "name": "Newport News",
@@ -1167,7 +1167,7 @@
     "population": 182020,
     "priority": 1,
     "stateAbbreviation": "VA",
-    "index": false
+    "index": true
   },
   {
     "name": "Brownsville",
@@ -1176,7 +1176,7 @@
     "population": 181860,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Overland Park",
@@ -1185,7 +1185,7 @@
     "population": 181260,
     "priority": 1,
     "stateAbbreviation": "KS",
-    "index": false
+    "index": true
   },
   {
     "name": "Santa Clarita",
@@ -1194,7 +1194,7 @@
     "population": 179590,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Providence",
@@ -1203,7 +1203,7 @@
     "population": 177994,
     "priority": 1,
     "stateAbbreviation": "RI",
-    "index": false
+    "index": true
   },
   {
     "name": "Garden Grove",
@@ -1212,7 +1212,7 @@
     "population": 175140,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Chattanooga",
@@ -1221,7 +1221,7 @@
     "population": 173366,
     "priority": 1,
     "stateAbbreviation": "TN",
-    "index": false
+    "index": true
   },
   {
     "name": "Oceanside",
@@ -1230,7 +1230,7 @@
     "population": 172794,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Jackson",
@@ -1239,7 +1239,7 @@
     "population": 172638,
     "priority": 1,
     "stateAbbreviation": "MS",
-    "index": false
+    "index": true
   },
   {
     "name": "Fort Lauderdale",
@@ -1248,7 +1248,7 @@
     "population": 172389,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Santa Rosa",
@@ -1257,7 +1257,7 @@
     "population": 171990,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Rancho Cucamonga",
@@ -1266,7 +1266,7 @@
     "population": 171386,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Port St. Lucie",
@@ -1275,7 +1275,7 @@
     "population": 171016,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Tempe",
@@ -1284,7 +1284,7 @@
     "population": 168228,
     "priority": 1,
     "stateAbbreviation": "AZ",
-    "index": false
+    "index": true
   },
   {
     "name": "Ontario",
@@ -1293,7 +1293,7 @@
     "population": 167500,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Vancouver",
@@ -1302,7 +1302,7 @@
     "population": 167405,
     "priority": 1,
     "stateAbbreviation": "WA",
-    "index": false
+    "index": true
   },
   {
     "name": "Cape Coral",
@@ -1311,7 +1311,7 @@
     "population": 165831,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Sioux Falls",
@@ -1320,7 +1320,7 @@
     "population": 164676,
     "priority": 1,
     "stateAbbreviation": "SD",
-    "index": false
+    "index": true
   },
   {
     "name": "Springfield",
@@ -1329,7 +1329,7 @@
     "population": 164122,
     "priority": 1,
     "stateAbbreviation": "MO",
-    "index": false
+    "index": true
   },
   {
     "name": "Peoria",
@@ -1338,7 +1338,7 @@
     "population": 162592,
     "priority": 1,
     "stateAbbreviation": "AZ",
-    "index": false
+    "index": true
   },
   {
     "name": "Pembroke Pines",
@@ -1347,7 +1347,7 @@
     "population": 162329,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Elk Grove",
@@ -1356,7 +1356,7 @@
     "population": 161007,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Salem",
@@ -1365,7 +1365,7 @@
     "population": 160614,
     "priority": 1,
     "stateAbbreviation": "OR",
-    "index": false
+    "index": true
   },
   {
     "name": "Lancaster",
@@ -1374,7 +1374,7 @@
     "population": 159523,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Corona",
@@ -1383,7 +1383,7 @@
     "population": 159503,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Eugene",
@@ -1392,7 +1392,7 @@
     "population": 159190,
     "priority": 1,
     "stateAbbreviation": "OR",
-    "index": false
+    "index": true
   },
   {
     "name": "Palmdale",
@@ -1401,7 +1401,7 @@
     "population": 157161,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Salinas",
@@ -1410,7 +1410,7 @@
     "population": 155662,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Springfield",
@@ -1419,7 +1419,7 @@
     "population": 153703,
     "priority": 1,
     "stateAbbreviation": "MA",
-    "index": false
+    "index": true
   },
   {
     "name": "Pasadena",
@@ -1428,7 +1428,7 @@
     "population": 152735,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Fort Collins",
@@ -1437,7 +1437,7 @@
     "population": 152061,
     "priority": 1,
     "stateAbbreviation": "CO",
-    "index": false
+    "index": true
   },
   {
     "name": "Hayward",
@@ -1446,7 +1446,7 @@
     "population": 151574,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Pomona",
@@ -1455,7 +1455,7 @@
     "population": 151348,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Cary",
@@ -1464,7 +1464,7 @@
     "population": 151088,
     "priority": 1,
     "stateAbbreviation": "NC",
-    "index": false
+    "index": true
   },
   {
     "name": "Rockford",
@@ -1473,7 +1473,7 @@
     "population": 150251,
     "priority": 1,
     "stateAbbreviation": "IL",
-    "index": false
+    "index": true
   },
   {
     "name": "Alexandria",
@@ -1482,7 +1482,7 @@
     "population": 148892,
     "priority": 1,
     "stateAbbreviation": "VA",
-    "index": false
+    "index": true
   },
   {
     "name": "Escondido",
@@ -1491,7 +1491,7 @@
     "population": 148738,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "McKinney",
@@ -1500,7 +1500,7 @@
     "population": 148559,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Kansas City",
@@ -1509,7 +1509,7 @@
     "population": 148483,
     "priority": 1,
     "stateAbbreviation": "KS",
-    "index": false
+    "index": true
   },
   {
     "name": "Joliet",
@@ -1518,7 +1518,7 @@
     "population": 147806,
     "priority": 1,
     "stateAbbreviation": "IL",
-    "index": false
+    "index": true
   },
   {
     "name": "Sunnyvale",
@@ -1527,7 +1527,7 @@
     "population": 147559,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Torrance",
@@ -1536,7 +1536,7 @@
     "population": 147478,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Bridgeport",
@@ -1545,7 +1545,7 @@
     "population": 147216,
     "priority": 1,
     "stateAbbreviation": "CT",
-    "index": false
+    "index": true
   },
   {
     "name": "Lakewood",
@@ -1554,7 +1554,7 @@
     "population": 147214,
     "priority": 1,
     "stateAbbreviation": "CO",
-    "index": false
+    "index": true
   },
   {
     "name": "Hollywood",
@@ -1563,7 +1563,7 @@
     "population": 146526,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Paterson",
@@ -1572,7 +1572,7 @@
     "population": 145948,
     "priority": 1,
     "stateAbbreviation": "NJ",
-    "index": false
+    "index": true
   },
   {
     "name": "Naperville",
@@ -1581,7 +1581,7 @@
     "population": 144864,
     "priority": 1,
     "stateAbbreviation": "IL",
-    "index": false
+    "index": true
   },
   {
     "name": "Syracuse",
@@ -1590,7 +1590,7 @@
     "population": 144669,
     "priority": 1,
     "stateAbbreviation": "NY",
-    "index": false
+    "index": true
   },
   {
     "name": "Mesquite",
@@ -1599,7 +1599,7 @@
     "population": 143484,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Dayton",
@@ -1608,7 +1608,7 @@
     "population": 143355,
     "priority": 1,
     "stateAbbreviation": "OH",
-    "index": false
+    "index": true
   },
   {
     "name": "Savannah",
@@ -1617,7 +1617,7 @@
     "population": 142772,
     "priority": 1,
     "stateAbbreviation": "GA",
-    "index": false
+    "index": true
   },
   {
     "name": "Clarksville",
@@ -1626,7 +1626,7 @@
     "population": 142357,
     "priority": 1,
     "stateAbbreviation": "TN",
-    "index": false
+    "index": true
   },
   {
     "name": "Orange",
@@ -1635,7 +1635,7 @@
     "population": 139969,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Pasadena",
@@ -1644,7 +1644,7 @@
     "population": 139731,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Fullerton",
@@ -1653,7 +1653,7 @@
     "population": 138981,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Killeen",
@@ -1662,7 +1662,7 @@
     "population": 137147,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Frisco",
@@ -1671,7 +1671,7 @@
     "population": 136791,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Hampton",
@@ -1680,7 +1680,7 @@
     "population": 136699,
     "priority": 1,
     "stateAbbreviation": "VA",
-    "index": false
+    "index": true
   },
   {
     "name": "McAllen",
@@ -1689,7 +1689,7 @@
     "population": 136639,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Warren",
@@ -1698,7 +1698,7 @@
     "population": 134873,
     "priority": 1,
     "stateAbbreviation": "MI",
-    "index": false
+    "index": true
   },
   {
     "name": "Bellevue",
@@ -1707,7 +1707,7 @@
     "population": 133992,
     "priority": 1,
     "stateAbbreviation": "WA",
-    "index": false
+    "index": true
   },
   {
     "name": "West Valley City",
@@ -1716,7 +1716,7 @@
     "population": 133579,
     "priority": 1,
     "stateAbbreviation": "UT",
-    "index": false
+    "index": true
   },
   {
     "name": "Columbia",
@@ -1725,7 +1725,7 @@
     "population": 133358,
     "priority": 1,
     "stateAbbreviation": "SC",
-    "index": false
+    "index": true
   },
   {
     "name": "Olathe",
@@ -1734,7 +1734,7 @@
     "population": 131885,
     "priority": 1,
     "stateAbbreviation": "KS",
-    "index": false
+    "index": true
   },
   {
     "name": "Sterling Heights",
@@ -1743,7 +1743,7 @@
     "population": 131224,
     "priority": 1,
     "stateAbbreviation": "MI",
-    "index": false
+    "index": true
   },
   {
     "name": "New Haven",
@@ -1752,7 +1752,7 @@
     "population": 130660,
     "priority": 1,
     "stateAbbreviation": "CT",
-    "index": false
+    "index": true
   },
   {
     "name": "Miramar",
@@ -1761,7 +1761,7 @@
     "population": 130288,
     "priority": 1,
     "stateAbbreviation": "FL",
-    "index": false
+    "index": true
   },
   {
     "name": "Waco",
@@ -1770,7 +1770,7 @@
     "population": 129030,
     "priority": 1,
     "stateAbbreviation": "TX",
-    "index": false
+    "index": true
   },
   {
     "name": "Thousand Oaks",
@@ -1779,7 +1779,7 @@
     "population": 128731,
     "priority": 1,
     "stateAbbreviation": "CA",
-    "index": false
+    "index": true
   },
   {
     "name": "Cedar Rapids",
@@ -1788,7 +1788,7 @@
     "population": 128429,
     "priority": 1,
     "stateAbbreviation": "IA",
-    "index": false
+    "index": true
   },
   {
     "name": "Charleston",
@@ -1797,7 +1797,7 @@
     "population": 127999,
     "priority": 1,
     "stateAbbreviation": "SC",
-    "index": false
+    "index": true
   },
   {
     "name": "Visalia",
